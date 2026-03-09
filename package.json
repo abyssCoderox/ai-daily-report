@@ -1,0 +1,32 @@
+{
+  "name": "ai-daily-report",
+  "version": "1.0.0",
+  "description": "write by ai",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "docs:dev": "vitepress dev docs",
+    "docs:build": "vitepress build docs",
+    "docs:preview": "vitepress preview docs"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/abyssCoderox/ai-daily-report.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/abyssCoderox/ai-daily-report/issues"
+  },
+  "homepage": "https://github.com/abyssCoderox/ai-daily-report#readme",
+  "dependencies": {
+    "vitepress": "^1.6.4",
+    "vue": "^3.5.29"
+  },
+  "devDependencies": {
+    "@types/node": "^25.3.5",
+    "typescript": "^5.9.3"
+  }
+}
