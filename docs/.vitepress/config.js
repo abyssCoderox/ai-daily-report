@@ -7,6 +7,7 @@ export default defineConfig({
     nav: [
       { text: '首页', link: '/' },
       { text: '文章', link: '/posts/' },
+      { text: 'Claude 报告', link: '/claude/report' },
       { text: '关于', link: '/about' }
     ],
 
@@ -16,6 +17,14 @@ export default defineConfig({
           text: '文章列表',
           items: [
             { text: '开始使用', link: '/posts/getting-started' }
+          ]
+        }
+      ],
+      '/claude/': [
+        {
+          text: 'Claude 报告',
+          items: [
+            { text: '述职报告', link: '/claude/report' }
           ]
         }
       ]
