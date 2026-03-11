@@ -1,0 +1,91 @@
+{
+  "search_metadata": {
+    "query": "科技新闻 最新",
+    "search_time": "2026-03-11T12:39:00Z",
+    "topic": "news",
+    "time_range": "day",
+    "result_count": 10
+  },
+  "results": [
+    {
+      "title": "SpaceX's Starship delays risk NASA moon landing timeline: watchdog",
+      "summary": "SpaceX's Starship delays impacting NASA's moon landing timeline, according to watchdog reports. This development affects the Artemis program schedule.",
+      "published_time": "2026-03-11",
+      "source_url": "https://www.reuters.com/video/watch/idRW289111032026RP1/?chan=technology",
+      "source_name": "Reuters",
+      "relevance_score": 40
+    },
+    {
+      "title": "New emojis coming to Apple iPhones in latest update",
+      "summary": "Apple introduces new emojis in its latest iOS update, expanding the emoji keyboard with fresh options for users.",
+      "published_time": "2026-03-11",
+      "source_url": "https://www.foxbusiness.com/technology/new-emojis-coming-apple-iphones-latest-update",
+      "source_name": "Fox Business",
+      "relevance_score": 40
+    },
+    {
+      "title": "China's SpaceSail Seeks Fresh Funding to Build Rival to Starlink",
+      "summary": "A Shanghai government-backed satellite internet startup is preparing to raise fresh capital as it pushes forward with plans to compete with SpaceX's Starlink constellation.",
+      "published_time": "2026-03-11",
+      "source_url": "https://www.caixinglobal.com/2026-03-11/chinas-spacesail-seeks-fresh-funding-to-build-rival-to-starlink-102421921.html",
+      "source_name": "Caixin Global",
+      "relevance_score": 31
+    },
+    {
+      "title": "Outlier Leverages Referral Network to Scale Flexible AI Workforce",
+      "summary": "Outlier is expanding its flexible AI workforce through a referral network, addressing the growing demand for AI talent in the tech industry.",
+      "published_time": "2026-03-11",
+      "source_url": "https://www.tipranks.com/news/private-companies/outlier-leverages-referral-network-to-scale-flexible-ai-workforce",
+      "source_name": "TipRanks",
+      "relevance_score": 29
+    },
+    {
+      "title": "Anthropic's First Amendment case",
+      "summary": "Legal case involving Anthropic concerning First Amendment issues and ethical AI principles, highlighting regulatory challenges in AI development.",
+      "published_time": "2026-03-10",
+      "source_url": "https://www.politico.com/newsletters/digital-future-daily/2026/03/10/anthropics-first-amendment-case-00821116",
+      "source_name": "Politico",
+      "relevance_score": 28
+    },
+    {
+      "title": "NAPLAN tests disrupted by tech issue on first day",
+      "summary": "Technical issues disrupted NAPLAN testing on the first day, highlighting challenges in educational technology infrastructure.",
+      "published_time": "2026-03-11",
+      "source_url": "https://www.itnews.com.au/news/naplan-tests-disrupted-by-tech-issue-on-first-day-624185",
+      "source_name": "iTnews",
+      "relevance_score": 27
+    },
+    {
+      "title": "New episode: Sustainable reporting in mining",
+      "summary": "Energy Technology podcast discusses sustainability reporting in mining with the Global Reporting Initiative, focusing on environmental technology standards.",
+      "published_time": "2026-03-11",
+      "source_url": "https://www.power-technology.com/news/new-episode-sustainable-reporting-in-mining/",
+      "source_name": "Power Technology",
+      "relevance_score": 26
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Beijing can't afford another crackdown on its tech companies",
+      "summary": "Analysis of China's tech industry policy and the need for Beijing to support rather than restrict its technology companies.",
+      "published_time": "2026-03-11",
+      "source_url": "https://www.cnbc.com/2026-03-11/china-cant-afford-another-crackdown-on-its-tech-companies.html",
+      "source_name": "CNBC",
+      "relevance_score": 23
+    },
+    {
+      "title": "Daily Briefs - Aviation Week",
+      "summary": "ZENATECH announced development of IQ Glider autonomous marine drone launch and refueling station for its ZenaDrone 2000 maritime interceptor system.",
+      "published_time": "2026-03-11",
+      "source_url": "https://aviationweek.com/aerospacedailydepartments/daily-briefs-352",
+      "source_name": "Aviation Week",
+      "relevance_score": 23
+    },
+    {
+      "title": "Where AI's billion dollar boom is driving demand for test and measurement",
+      "summary": "Analysis of how AI infrastructure build is driving test, measurement, and assurance demands across technology sectors.",
+      "published_time": "2026-03-10",
+      "source_url": "https://www.rcrwireless.com/20260310/uncategorized/where-ais-billion-dollar-boom-is-driving-demand-for-test-and-measurement",
+      "source_name": "RCR Wireless News",
+      "relevance_score": 17
+    }
+  ]
+}
