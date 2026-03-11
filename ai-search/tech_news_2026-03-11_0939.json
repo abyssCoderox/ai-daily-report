@@ -1,0 +1,12 @@
+{
+  "metadata": {
+    "search_time": "2026-03-11T09:39:00Z",
+    "search_period": "past_1_hour",
+    "total_results": 0,
+    "status": "completed"
+  },
+  "news_items": [],
+  "summary": {
+    "message": "Unable to retrieve real-time technology news due to API limitations. The search tools available require specific API keys or configurations that are not currently accessible. For production use, consider setting up: 1) TAVILY_API_KEY for enhanced search capabilities, 2) PERPLEXITY_API_KEY for the built-in web_search tool, or 3) Direct RSS feeds from technology news sources."
+  }
+}
