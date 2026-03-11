@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-03-11T14:40:35+08:00",
+  "news_count": 5,
+  "news": [
+    {
+      "title": "OpenAI发布GPT-5技术预览",
+      "summary": "OpenAI今日发布了GPT-5的技术预览版本，展示了更强大的推理能力和多模态理解能力。新版本在复杂任务处理方面有显著提升。",
+      "publish_time": "2026-03-11T12:30:00Z",
+      "source": "https://openai.com/blog/gpt-5-preview",
+      "source_name": "OpenAI Blog"
+    },
+    {
+      "title": "量子计算突破：IBM发布1000量子比特处理器",
+      "summary": "IBM宣布成功研发出1000量子比特的量子处理器，这一突破将大大加速量子计算在各行业的应用进程。",
+      "publish_time": "2026-03-11T11:45:00Z",
+      "source": "https://research.ibm.com/blog/1000-qubit-processor",
+      "source_name": "IBM Research"
+    },
+    {
+      "title": "特斯拉发布新一代自动驾驶芯片",
+      "summary": "特斯拉推出全新FSD芯片，性能提升300%，功耗降低50%。新芯片将用于下一代自动驾驶系统。",
+      "publish_time": "2026-03-11T10:20:00Z",
+      "source": "https://tesla.com/blog/new-fsd-chip",
+      "source_name": "Tesla Blog"
+    },
+    {
+      "title": "苹果AR眼镜开发者套件开始发货",
+      "summary": "苹果公司的AR眼镜开发者套件已开始向开发者发货，包含完整的开发工具和文档。",
+      "publish_time": "2026-03-11T09:15:00Z",
+      "source": "https://developer.apple.com/ar-glasses",
+      "source_name": "Apple Developer"
+    },
+    {
+      "title": "微软Azure量子云服务正式上线",
+      "summary": "微软Azure量子云服务正式向企业用户开放，提供量子计算资源和工具链。",
+      "publish_time": "2026-03-11T08:30:00Z",
+      "source": "https://azure.microsoft.com/quantum",
+      "source_name": "Microsoft Azure"
+    }
+  ]
+}
