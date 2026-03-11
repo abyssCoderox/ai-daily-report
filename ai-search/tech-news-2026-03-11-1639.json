@@ -1,0 +1,80 @@
+{
+  "search_metadata": {
+    "query": "科技新闻 最新",
+    "search_time": "2026-03-11T16:39:00Z",
+    "total_results": 10,
+    "topic": "news"
+  },
+  "results": [
+    {
+      "title": "Dario's Big Test, a New iPhone and MacBook and More | Technology for March 8 - WSJ",
+      "summary": "Plus: Apple's new iPhone and MacBook, a suicide linked to Google's Gemini, Claude's Firefox hack, the navigational tech aiming to replace GPS, and more. A weekly digest of tech columns, big stories and personal tech advice, plus a news ticker and a touch of dark humor.",
+      "url": "https://www.wsj.com/tech/darios-big-test-2adc5166?gaa_at=eafs&gaa_n=AWEtsqdghuwxEQ5PbiI2sps8Rjre1wPHuzwI3oGz5EPTV4IV3lj7snGJZCVB&gaa_ts=69ab5fce&gaa_sig=tVcnCMG46GtsSUYpnmz9XptnkSPL1F6XIR_dSq926lBqzW0hwrnx8dzhr3AINwrGHkM7JMKWMj8uZc9s0Vi2mQ%3D%3D",
+      "relevance_score": 65,
+      "source": "Wall Street Journal"
+    },
+    {
+      "title": "China vows to achieve greater sci-tech self-reliance and strength",
+      "summary": "China has committed to advancing its self-reliance in science and technology, as outlined in its latest government work report, emphasizing the importance of key core technologies.",
+      "url": "https://news.cgtn.com/news/2026-03-05/China-vows-to-achieve-greater-sci-tech-self-reliance-and-strength-1LgoBEzdkkg/p.html",
+      "relevance_score": 34,
+      "source": "CGTN"
+    },
+    {
+      "title": "What China's latest economic plans say about its tech ambitions and rivalry with the US",
+      "summary": "Two major economic plans unveiled at the annual meeting of China's legislature outline top priorities that have different ramifications for the global economy.",
+      "url": "https://apnews.com/article/china-five-year-plan-technology-economy-7face4580fcfba44410ff2134a09d6bb",
+      "relevance_score": 28,
+      "source": "Associated Press"
+    },
+    {
+      "title": "NAPLAN tests disrupted by tech issue on first day",
+      "summary": "Recent tech disruptions in Australia, including issues during NAPLAN tests, highlight the ongoing challenges in tech infrastructure and security.",
+      "url": "https://www.itnews.com.au/news/naplan-tests-disrupted-by-tech-issue-on-first-day-624185?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "relevance_score": 10,
+      "source": "iTnews"
+    },
+    {
+      "title": "US suspects China in breach of FBI surveillance network",
+      "summary": "US authorities suspect Chinese involvement in a breach of FBI surveillance network infrastructure.",
+      "url": "https://www.itnews.com.au/news/us-suspects-china-in-breach-of-fbi-surveillance-network-624132",
+      "relevance_score": 7,
+      "source": "iTnews"
+    },
+    {
+      "title": "What China's latest economic plans say about its tech ambitions",
+      "summary": "Government-backed push into electric vehicles and other technologies outlined in China's latest economic plans.",
+      "url": "https://www.latimes.com/business/story/2026-03-09/what-chinas-latest-economic-plans-say-about-its-tech-ambitions",
+      "relevance_score": 5,
+      "source": "Los Angeles Times"
+    },
+    {
+      "title": "China to accelerate push for tech self-reliance in new five-year plan: minister",
+      "summary": "China will accelerate efforts to achieve self-reliance in science and technology and transform the country into a scientific and technological powerhouse.",
+      "url": "https://www.chinadaily.com.cn/a/202603/05/WS69a92c5ea310d6866eb3beb6.html",
+      "relevance_score": 4,
+      "source": "China Daily"
+    },
+    {
+      "title": "MIT's Alterego Isn't Exactly Mind-Reading - CNET",
+      "summary": "Coverage of MIT's Alterego technology and its capabilities.",
+      "url": "https://www.cnet.com/videos/mits-alterego-isnt-exactly-mind-reading/",
+      "relevance_score": 3,
+      "source": "CNET"
+    },
+    {
+      "title": "In Pictures: Securing AI agents and NHIs - Saviynt Sydney roundtable",
+      "summary": "Discussion on securing AI agents and NHIs at Saviynt Sydney roundtable.",
+      "url": "https://www.itnews.com.au/gallery/in-pictures-securing-ai-agents-and-nhis---saviynt-sydney-roundtable-624138",
+      "relevance_score": 2,
+      "source": "iTnews"
+    },
+    {
+      "title": "Government Tech Hiring Is Surging—From a New Federal 'Tech Force' to NASA's Artemis Push",
+      "summary": "The federal government is looking to rebuild some of its technology expertise through a new hiring push led by the Office of Personnel Management.",
+      "url": "https://news.clearancejobs.com/2026/03/09/government-tech-hiring-is-surging-from-a-new-federal-tech-force-to-nasas-artemis-push/",
+      "relevance_score": 2,
+      "source": "Clearance Jobs"
+    }
+  ]
+}
