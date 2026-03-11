@@ -1,80 +1,98 @@
 {
-  "report_metadata": {
-    "generated_at": "2026-03-11T02:20:00Z",
-    "source": "The Verge",
-    "time_range": "past_24_hours",
-    "total_articles": 10
-  },
-  "articles": [
+  "date": "2026-03-11",
+  "search_query": "科技新闻 人工智能 新技术",
+  "time_range": "过去24小时",
+  "total_results": 10,
+  "news_items": [
     {
-      "title": "Ben McKenzie has a new crypto documentary",
-      "summary": "Actor Ben McKenzie releases a new cryptocurrency documentary, following his previous work on crypto-related content.",
-      "publish_time": "2026-03-10T00:00:00Z",
-      "source_url": "https://www.theverge.com",
-      "category": "crypto"
+      "title": "Yann LeCun's New AI Startup Raises $1 Billion in Seed Funding",
+      "summary": "Yann LeCun, a pioneer in artificial intelligence, has raised $1.03 billion for a nascent startup that promises to revolutionize the AI landscape. The funding round values the company at $3.5 billion, marking one of the largest seed funding rounds in AI history.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-03-10/yann-lecun-s-new-ai-startup-raises-1-billion-in-seed-funding",
+      "source_name": "Bloomberg.com",
+      "relevance_score": 47
     },
     {
-      "title": "How Jeffrey Epstein tried to pressure Bill Gates",
-      "summary": "Forbes reports on Epstein's attempt to leverage personal connections to influence Bill Gates for tax management purposes.",
-      "publish_time": "2026-03-10T00:00:00Z",
-      "source_url": "https://www.theverge.com",
-      "category": "business"
+      "title": "Legalweek 2026 Day 2: Activating Data Breach Strategies, Gauging Reactions to AI Adoption",
+      "summary": "Experts discussed how to activate data breach strategies and gauge reactions to AI adoption at Legalweek 2026, highlighting AI's efficiency gains in legal work and the need for comprehensive data protection measures.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://www.law.com/legaltechnews/2026/03/10/legalweek-2026-day-2-activating-data-breach-strategies-gauging-reactions-to-ai-adoption/",
+      "source_name": "Law.com",
+      "relevance_score": 38
     },
     {
-      "title": "Amazon expands access to its Health AI agent",
-      "summary": "Amazon announces broader availability of its HIPAA-compliant Health AI tool for answering medical questions and connecting users to healthcare professionals.",
-      "publish_time": "2026-03-10T00:00:00Z",
-      "source_url": "https://www.theverge.com",
-      "category": "ai_healthcare"
+      "title": "Consumer AI market still dominated by ChatGPT",
+      "summary": "Tech investment firm Andreesen Horowitz has published new data exploring the market dynamics of consumer AI use, showing that ChatGPT continues to maintain its dominant position in the consumer AI market.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://www.telecoms.com/ai/consumer-ai-market-still-dominated-by-chatgpt",
+      "source_name": "Telecoms",
+      "relevance_score": 35
     },
     {
-      "title": "Amazon adds guardrails around AI coding after AWS outages",
-      "summary": "Amazon implements stricter oversight for AI-assisted coding changes following service outages, requiring senior engineer approval for modifications.",
-      "publish_time": "2026-03-10T00:00:00Z",
-      "source_url": "https://www.theverge.com",
-      "category": "ai_engineering"
+      "title": "Eurobites: Ericsson-led group gets industrial with 6G",
+      "summary": "Ericsson and partners have begun work on VICTOR6G, a three-year project focused on developing real-time virtualization technology for industrial 6G applications, marking a significant step forward in next-generation wireless technology.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://www.lightreading.com/6g/eurobites-ericsson-led-group-gets-industrial-with-6g",
+      "source_name": "Light Reading",
+      "relevance_score": 35
     },
     {
-      "title": "Google and Tesla collaborate on power grid efficiency",
-      "summary": "Tech giants join Utilize initiative to improve power grid efficiency through battery storage and virtual power plant strategies.",
-      "publish_time": "2026-03-10T00:00:00Z",
-      "source_url": "https://www.theverge.com",
-      "category": "energy_tech"
+      "title": "Amazon Wins Court Order Blocking Perplexity AI Shopping Bots",
+      "summary": "Perplexity AI Inc. must stop using its Comet web browser agent to make purchases on behalf of shoppers from Amazon.com Inc.'s online marketplace, highlighting how courts are being asked to establish boundaries for AI agents.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://www.businessoffashion.com/news/technology/amazon-wins-court-order-blocking-perplexity-ai-shopping-bots/",
+      "source_name": "The Business of Fashion",
+      "relevance_score": 33
     },
     {
-      "title": "Thinking Machines Lab partners with Nvidia",
-      "summary": "AI startup founded by ex-OpenAI executive Mira Murati announces strategic partnership with Nvidia for AI model training infrastructure.",
-      "publish_time": "2026-03-10T00:00:00Z",
-      "source_url": "https://www.theverge.com",
-      "category": "ai_partnership"
+      "title": "5 takeaways from Nvidia CEO Jensen Huang's rare insider blog post on AI",
+      "summary": "Nvidia CEO Jensen Huang wrote in a blog post that decisions about how fast to build AI, who gets access and how to govern it will determine the technology's legacy, emphasizing that AI is fundamentally different from traditional software.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://www.axios.com/2026/03/10/jensen-huang-ais-biggest-buildout-is-still-ahead",
+      "source_name": "Axios",
+      "relevance_score": 28
     },
     {
-      "title": "Apple Vision Pro to support cloud gaming",
-      "summary": "Nvidia announces CloudXR 6.0 support for visionOS 26.4, enabling cloud gaming on Apple Vision Pro with GeForce NOW Playtest.",
-      "publish_time": "2026-03-09T00:00:00Z",
-      "source_url": "https://www.theverge.com",
-      "category": "gaming_tech"
+      "title": "Where AI's billion dollar boom is driving demand for test and measurement",
+      "summary": "The staggering momentum of AI infrastructure build is driving test, measurement, and assurance demands across three key areas: semiconductor testing, network infrastructure validation, and AI model performance verification.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://www.rcrwireless.com/20260310/uncategorized/where-ais-billion-dollar-boom-is-driving-demand-for-test-and-measurement",
+      "source_name": "RCR Wireless News",
+      "relevance_score": 28
     },
     {
-      "title": "DJI teases first 360-degree drone",
-      "summary": "DJI announces Avata 360, their first 8K 360-degree drone, scheduled for launch on March 26th as a follow-up to the 2024 Avata 2.",
-      "publish_time": "2026-03-10T00:00:00Z",
-      "source_url": "https://www.theverge.com",
-      "category": "drones"
+      "title": "How AI Might Impact the Gov Tech Biz Market in 2026",
+      "summary": "AI is already changing how gov tech businesses operate and may alter our understanding of what kinds of business are included in the government technology sector, with significant implications for market structure and competition.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://www.govtech.com/biz/how-ai-might-impact-the-gov-tech-biz-market-in-2026",
+      "source_name": "GovTech",
+      "relevance_score": 27
     },
     {
-      "title": "Niantic finds customer for Pokémon Go world map",
-      "summary": "Pokémon Go developer Niantic secures a business customer for their comprehensive world mapping technology.",
-      "publish_time": "2026-03-10T00:00:00Z",
-      "source_url": "https://www.theverge.com",
-      "category": "gaming_mapping"
+      "title": "Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security",
+      "summary": "Kai emerged from stealth mode with $125 million in funding for an AI-powered platform that aims to bridge IT and OT cybersecurity, providing comprehensive security solutions for industrial environments.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/",
+      "source_name": "SecurityWeek",
+      "relevance_score": 26
     },
     {
-      "title": "Furby: The AI story behind the 1990s toy phenomenon",
-      "summary": "Tech history exploration of how Furby represented early AI and human-gadget interaction philosophy in toy form.",
-      "publish_time": "2026-03-09T00:00:00Z",
-      "source_url": "https://www.theverge.com",
-      "category": "tech_history"
+      "title": "The New AI Billionaires On The World's Billionaires List 2026",
+      "summary": "The 2026 World's Billionaires List features numerous new AI billionaires, reflecting the massive wealth creation in the artificial intelligence sector and the growing economic impact of AI technologies.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://www.forbes.com/video/2c1bd66c-b91b-4ec9-a827-fcf0b23b399f/the-new-ai-billionaires-on-the-worlds-billionaires-list-2026/",
+      "source_name": "Forbes",
+      "relevance_score": 25
     }
-  ]
+  ],
+  "metadata": {
+    "search_engine": "Tavily",
+    "search_parameters": {
+      "query": "科技新闻 人工智能 新技术",
+      "time_range": "day",
+      "topic": "news",
+      "result_count": 10
+    },
+    "generated_at": "2026-03-11T03:39:00Z"
+  }
 }
