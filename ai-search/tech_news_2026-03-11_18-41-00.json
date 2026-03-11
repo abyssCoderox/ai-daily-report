@@ -1,0 +1,78 @@
+{
+  "search_time": "2026-03-11T10:41:00.206Z",
+  "search_query": "科技新闻",
+  "time_range": "过去24小时",
+  "total_results": 10,
+  "news": [
+    {
+      "title": "SpaceX's Starship delays risk NASA moon landing timeline: watchdog - Reuters",
+      "summary": "",
+      "url": "https://www.reuters.com/video/watch/idRW289111032026RP1/?chan=technology",
+      "relevance_score": 30,
+      "publish_time": "2026-03-11T10:41:00.206Z"
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
+      "summary": "Tech, Media & Telecom Roundup: Market Talk - WSJ. KBW Nasdaq Bank Index 154.43 0.94%. S&P GSCI Index Spot 675.50 -4.92%. https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-422f9683. Tech, Media & Telecom Roundup: Market Talk. 0736 ET – Shares of semiconductor companies in E...",
+      "url": "https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-422f9683?gaa_at=eafs&gaa_n=AWEtsqezBFwqdt6MMrNbI4XEJaP_ukU3PBxWDN1z1fht5IoS7axJEhkTuEUj&gaa_ts=69b050ad&gaa_sig=e7lPwc9y4LKO0ND2et-TfOUSZOBU2b7gaVmjYSn4eEv7rI4TpbmYVoHnKnjU6mV7MnBKvWFPNd2Xv_XWxMmTWQ%3D%3D",
+      "relevance_score": 28,
+      "publish_time": "2026-03-11T10:41:00.206Z"
+    },
+    {
+      "title": "Tech Weekly: Meta lets in rivals, age-checking tech matures - Reuters",
+      "summary": "",
+      "url": "https://www.reuters.com/video/watch/idRW238409032026RP1/",
+      "relevance_score": 27,
+      "publish_time": "2026-03-11T10:41:00.206Z"
+    },
+    {
+      "title": "Consumer AI market still dominated by ChatGPT - Telecoms",
+      "summary": "# Consumer AI market still dominated by ChatGPT. Tech investment firm Andreesen Horowitz has published new data exploring the market dynamics of consumer AI use. The first tables below include other AI-based apps, which are more prominent on mobile than on desktop. . They’re quite rightly concerned ...",
+      "url": "https://www.telecoms.com/ai/consumer-ai-market-still-dominated-by-chatgpt",
+      "relevance_score": 26,
+      "publish_time": "2026-03-11T10:41:00.206Z"
+    },
+    {
+      "title": "NAPLAN tests disrupted by tech issue on first day - iTnews",
+      "summary": "",
+      "url": "https://www.itnews.com.au/news/naplan-tests-disrupted-by-tech-issue-on-first-day-624185?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "relevance_score": 23,
+      "publish_time": "2026-03-11T10:41:00.206Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Beijing can't afford another crackdown on its tech companies - CNBC",
+      "summary": "CNBC’s The China Connection newsletter: Beijing can’t afford another crackdown on its tech companies. # CNBC’s The China Connection newsletter: Beijing can’t afford another crackdown on its tech companies. * That requires a departure from China’s state-dominated mindset, while providing assurances t...",
+      "url": "https://www.cnbc.com/2026/03/11/china-cant-afford-another-crackdown-on-its-tech-companies.html",
+      "relevance_score": 18,
+      "publish_time": "2026-03-11T10:41:00.206Z"
+    },
+    {
+      "title": "Anthropic’s First Amendment case - Politico",
+      "summary": "",
+      "url": "https://www.politico.com/newsletters/digital-future-daily/2026/03/10/anthropics-first-amendment-case-00821116",
+      "relevance_score": 18,
+      "publish_time": "2026-03-11T10:41:00.206Z"
+    },
+    {
+      "title": "New episode: Sustainable reporting in mining - Mining Technology",
+      "summary": "# New episode: Sustainable reporting in mining. This episode of the Energy Technology podcast discusses sustainability reporting in mining with the Global Reporting Initiative. The question sits at the centre of the Global Reporting Initiative’s (GRI) first sector standard dedicated to mining. In th...",
+      "url": "https://www.mining-technology.com/news/new-episode-sustainable-reporting-in-mining/",
+      "relevance_score": 17,
+      "publish_time": "2026-03-11T10:41:00.206Z"
+    },
+    {
+      "title": "New episode: Sustainable reporting in mining - Power Technology",
+      "summary": "# New episode: Sustainable reporting in mining. This episode of the Energy Technology podcast discusses sustainability reporting in mining with the Global Reporting Initiative. The question sits at the centre of the Global Reporting Initiative’s (GRI) first sector standard dedicated to mining. In th...",
+      "url": "https://www.power-technology.com/news/new-episode-sustainable-reporting-in-mining/",
+      "relevance_score": 17,
+      "publish_time": "2026-03-11T10:41:00.206Z"
+    },
+    {
+      "title": "Where AI’s billion dollar boom is driving demand for test and measurement - RCR Wireless News",
+      "summary": "YOU ARE AT:Test & MeasurementWhere AI’s billion dollar boom is driving demand for test and measurement. # Where AI’s billion dollar boom is driving demand for test and measurement. ## The staggering momentum of AI infrastructure build is driving test, measurement, and assurance demands across three ...",
+      "url": "https://www.rcrwireless.com/20260310/uncategorized/where-ais-billion-dollar-boom-is-driving-demand-for-test-and-measurement",
+      "relevance_score": 17,
+      "publish_time": "2026-03-11T10:41:00.206Z"
+    }
+  ]
+}

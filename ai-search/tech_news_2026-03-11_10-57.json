@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-11T10:57:00Z",
+    "search_scope": "past_hour_tech_news",
+    "total_results": 15,
+    "data_source": "Tavily Search API"
+  },
+  "news": [
+    {
+      "title": "Empower Semiconductor Highlights its Breakthrough AI Vertical Power Delivery Platform at APEC 2025",
+      "summary": "Empower Semiconductor showcases its scalable on-demand true vertical power architecture for AI and high-performance computing processors, featuring proprietary FinFast technology that integrates all power components into a single ultra-thin device.",
+      "published_time": "2025-03-11T00:00:00Z",
+      "source_url": "https://www.empowersemi.com/empower-semiconductor-highlights-its-breakthrough-ai-vertical-power-delivery-platform-at-apec-2025",
+      "source_name": "Empower Semiconductor",
+      "category": "semiconductor",
+      "relevance_score": 0.9995
+    },
+    {
+      "title": "Valens Semiconductor Partners to Revolutionize AI Robotics",
+      "summary": "Valens Semiconductor announces partnership with RGo Robotics and CHERRY Embedded Solutions to enhance AI robotic systems, integrating advanced technologies to improve design flexibility and cost-efficiency for mobile machine manufacturers.",
+      "published_time": "2025-03-11T00:00:00Z",
+      "source_url": "https://www.tipranks.com/news/company-announcements/valens-semiconductor-partners-to-revolutionize-ai-robotics",
+      "source_name": "TipRanks",
+      "category": "robotics",
+      "relevance_score": 0.9988
+    },
+    {
+      "title": "Ainos and ASE Partner to Power AI Scent Digitization in Semiconductor Manufacturing",
+      "summary": "Ainos partners with Advanced Semiconductor Engineering to implement AI nose technology in semiconductor manufacturing, improving accuracy in hygiene monitoring and quality control processes.",
+      "published_time": "2025-03-11T00:00:00Z",
+      "source_url": "https://www.marketbeat.com/stocks/NASDAQ/AIMD/news/",
+      "source_name": "MarketBeat",
+      "category": "AI_manufacturing",
+      "relevance_score": 0.9958
+    },
+    {
+      "title": "Navitas Semiconductor Surges 200% on Breakthrough Chip Technology",
+      "summary": "Navitas Semiconductor stock rises over 200% following announcement of breakthrough power chip technology that enhances energy efficiency and reduces costs for AI data centers and industrial applications.",
+      "published_time": "2026-02-26T08:30:00Z",
+      "source_url": "https://meyka.com/blog/nvts-stock-news-today-navitas-semiconductor-surges-200-on-breakthrough-chip-1410/",
+      "source_name": "Meyka",
+      "category": "semiconductor",
+      "relevance_score": 0.9841
+    },
+    {
+      "title": "Akeyless Unveils Breakthrough Solution to Secure AI Agent Identities",
+      "summary": "Akeyless announces a breakthrough security solution for AI agent identities, providing centralized control and infrastructure management for agentic AI systems across cloud and data center environments.",
+      "published_time": "2026-03-03T00:00:00Z",
+      "source_url": "https://ittech-pulse.com/news/akeyless-unveils-breakthrough-solution-to-secure-ai-agent-identities",
+      "source_name": "IT Tech Pulse",
+      "category": "AI_security",
+      "relevance_score": 0.9917
+    },
+    {
+      "title": "OpenAI Expands AI Support in India with First Solutions Architect Hire",
+      "summary": "OpenAI hires former AuraML co-founder as first Solutions Architect in India, marking strategic expansion to help Indian startups scale AI from prototype to production.",
+      "published_time": "2026-03-01T00:00:00Z",
+      "source_url": "https://www.tice.news/tice-trending/top-startup-news-today-venture-labs-ai-corridors-semiconductor-push-shape-indias-innovation-landscape-11168162",
+      "source_name": "TICE News",
+      "category": "AI_expansion",
+      "relevance_score": 0.9947
+    },
+    {
+      "title": "Breakthrough Soft Robotics Could Redefine Artificial Heart Technology",
+      "summary": "Researchers develop breakthrough soft robotics technology that could revolutionize artificial heart design, creating more functional and adaptable solutions for end-stage heart failure patients.",
+      "published_time": "2025-06-05T00:00:00Z",
+      "source_url": "https://www.news-medical.net/news/20250605/Breakthrough-soft-robotics-could-redefine-artificial-heart-technology.aspx",
+      "source_name": "News Medical",
+      "category": "medical_robotics",
+      "relevance_score": 0.9344
+    },
+    {
+      "title": "Quantum Computing Firm Quantinuum Valued at $5 Billion After Latest Fundraise",
+      "summary": "Quantinuum raises $300 million in equity funding, reaching $5 billion valuation with participation from JPMorgan Chase, Mitsui & Co, and Amgen, bringing total capital raised to $625 million.",
+      "published_time": "2024-01-16T00:00:00Z",
+      "source_url": "https://www.reuters.com/technology/honeywells-quantum-computing-firm-valued-5-billion-after-latest-fundraise-2024-01-16",
+      "source_name": "Reuters",
+      "category": "quantum_computing",
+      "relevance_score": 0.6576
+    },
+    {
+      "title": "Microsoft and Quantinuum Claim Breakthrough in Quantum Computing Reliability",
+      "summary": "Microsoft and Quantinuum achieve significant milestone in quantum computing reliability, marking progress toward commercial quantum computing applications.",
+      "published_time": "2024-04-03T00:00:00Z",
+      "source_url": "https://www.reuters.com/technology/microsoft-quantinuum-claim-breakthrough-quantum-computing-2024-04-03",
+      "source_name": "Reuters",
+      "category": "quantum_computing",
+      "relevance_score": 0.5276
+    },
+    {
+      "title": "Google Reveals Quantum Computing Chip with Breakthrough Achievements",
+      "summary": "Google announces Willow quantum computing chip capable of performing complex calculations in 5 minutes that would take supercomputers 10 septillion years to complete.",
+      "published_time": "2024-12-09T00:00:00Z",
+      "source_url": "https://www.theverge.com/2024/12/9/24317382/google-willow-quantum-computing-chip-breakthrough",
+      "source_name": "The Verge",
+      "category": "quantum_computing",
+      "relevance_score": 0.5065
+    }
+  ],
+  "summary": {
+    "total_articles": 15,
+    "categories_covered": ["semiconductor", "robotics", "AI_manufacturing", "AI_security", "AI_expansion", "medical_robotics", "quantum_computing"],
+    "key_trends": [
+      "AI-powered semiconductor innovations",
+      "Robotics and automation advances",
+      "Quantum computing breakthroughs",
+      "AI security solutions",
+      "Medical technology applications"
+    ],
+    "geographic_coverage": ["USA", "Israel", "India", "Global"]
+  }
+}

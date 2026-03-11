@@ -1,0 +1,78 @@
+{
+  "search_time": "2026-03-11T10:40:18.201Z",
+  "search_query": "科技新闻",
+  "time_range": "过去24小时",
+  "total_results": 10,
+  "news": [
+    {
+      "title": "SpaceX's Starship delays risk NASA moon landing timeline: watchdog - Reuters",
+      "summary": "",
+      "url": "",
+      "relevance_score": 30,
+      "publish_time": "2026-03-11T10:40:18.207Z"
+    },
+    {
+      "title": "Tech, Media & Telecom Roundup: Market Talk - WSJ",
+      "summary": "Tech, Media & Telecom Roundup: Market Talk - WSJ. KBW Nasdaq Bank Index 154.43 0.94%. S&P GSCI Index Spot 675.50 -4.92%. https://www.wsj.com/finance/investing/tech-media-telecom-roundup-market-talk-422f9683. Tech, Media & Telecom Roundup: Market Talk. 0736 ET – Shares of semiconductor companies in E...",
+      "url": "",
+      "relevance_score": 28,
+      "publish_time": "2026-03-11T10:40:18.207Z"
+    },
+    {
+      "title": "Tech Weekly: Meta lets in rivals, age-checking tech matures - Reuters",
+      "summary": "",
+      "url": "",
+      "relevance_score": 27,
+      "publish_time": "2026-03-11T10:40:18.207Z"
+    },
+    {
+      "title": "Consumer AI market still dominated by ChatGPT - Telecoms",
+      "summary": "# Consumer AI market still dominated by ChatGPT. Tech investment firm Andreesen Horowitz has published new data exploring the market dynamics of consumer AI use. The first tables below include other AI-based apps, which are more prominent on mobile than on desktop. . They’re quite rightly concerned ...",
+      "url": "",
+      "relevance_score": 26,
+      "publish_time": "2026-03-11T10:40:18.207Z"
+    },
+    {
+      "title": "NAPLAN tests disrupted by tech issue on first day - iTnews",
+      "summary": "",
+      "url": "",
+      "relevance_score": 23,
+      "publish_time": "2026-03-11T10:40:18.207Z"
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Beijing can't afford another crackdown on its tech companies - CNBC",
+      "summary": "CNBC’s The China Connection newsletter: Beijing can’t afford another crackdown on its tech companies. # CNBC’s The China Connection newsletter: Beijing can’t afford another crackdown on its tech companies. * That requires a departure from China’s state-dominated mindset, while providing assurances t...",
+      "url": "",
+      "relevance_score": 18,
+      "publish_time": "2026-03-11T10:40:18.207Z"
+    },
+    {
+      "title": "Anthropic’s First Amendment case - Politico",
+      "summary": "",
+      "url": "",
+      "relevance_score": 18,
+      "publish_time": "2026-03-11T10:40:18.207Z"
+    },
+    {
+      "title": "New episode: Sustainable reporting in mining - Mining Technology",
+      "summary": "# New episode: Sustainable reporting in mining. This episode of the Energy Technology podcast discusses sustainability reporting in mining with the Global Reporting Initiative. The question sits at the centre of the Global Reporting Initiative’s (GRI) first sector standard dedicated to mining. In th...",
+      "url": "",
+      "relevance_score": 17,
+      "publish_time": "2026-03-11T10:40:18.207Z"
+    },
+    {
+      "title": "New episode: Sustainable reporting in mining - Power Technology",
+      "summary": "# New episode: Sustainable reporting in mining. This episode of the Energy Technology podcast discusses sustainability reporting in mining with the Global Reporting Initiative. The question sits at the centre of the Global Reporting Initiative’s (GRI) first sector standard dedicated to mining. In th...",
+      "url": "",
+      "relevance_score": 17,
+      "publish_time": "2026-03-11T10:40:18.207Z"
+    },
+    {
+      "title": "Where AI’s billion dollar boom is driving demand for test and measurement - RCR Wireless News",
+      "summary": "YOU ARE AT:Test & MeasurementWhere AI’s billion dollar boom is driving demand for test and measurement. # Where AI’s billion dollar boom is driving demand for test and measurement. ## The staggering momentum of AI infrastructure build is driving test, measurement, and assurance demands across three ...",
+      "url": "",
+      "relevance_score": 17,
+      "publish_time": "2026-03-11T10:40:18.207Z"
+    }
+  ]
+}
