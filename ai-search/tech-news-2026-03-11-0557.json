@@ -1,0 +1,25 @@
+{
+  "metadata": {
+    "search_timestamp": "2026-03-11T05:57:00Z",
+    "search_period": "past_hour",
+    "total_results": 0,
+    "status": "partial_data",
+    "note": "Real-time search tools currently unavailable. This is a template structure showing the expected format for tech news aggregation."
+  },
+  "search_criteria": {
+    "query": "latest technology news past hour",
+    "time_range": "1 hour",
+    "category": "technology"
+  },
+  "results": [],
+  "template_structure": {
+    "news_item_format": {
+      "title": "News headline",
+      "summary": "Brief description of the news",
+      "publish_time": "ISO 8601 timestamp",
+      "source_url": "https://example.com/article",
+      "source_name": "News outlet name",
+      "importance": "High/Medium/Low - why this matters"
+    }
+  }
+}
