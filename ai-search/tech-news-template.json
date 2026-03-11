@@ -1,0 +1,16 @@
+{
+  "timestamp": "2026-03-11T11:39:00Z",
+  "search_period": "past_1_hour",
+  "category": "technology",
+  "results": [
+    {
+      "title": "新闻标题",
+      "summary": "新闻摘要",
+      "publish_time": "2026-03-11T11:30:00Z",
+      "source_url": "https://example.com/article",
+      "source_name": "媒体名称"
+    }
+  ],
+  "total_results": 0,
+  "search_status": "pending"
+}

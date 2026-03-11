@@ -1,0 +1,22 @@
+{
+  "timestamp": "2026-03-11T11:41:00Z",
+  "search_period": "past_1_hour",
+  "category": "technology",
+  "results": [],
+  "total_results": 0,
+  "search_status": "failed",
+  "error_message": "网络搜索工具暂时不可用 - 缺少API密钥配置或网络连接问题",
+  "available_tools_status": {
+    "web_search": "需要PERPLEXITY_API_KEY",
+    "tavily_search": "需要TAVILY_API_KEY",
+    "browser": "网关超时",
+    "web_fetch": "获取失败"
+  },
+  "next_steps": [
+    "1. 配置Tavily API密钥: export TAVILY_API_KEY=your_api_key",
+    "2. 重启OpenClaw网关: openclaw gateway restart",
+    "3. 重新运行搜索任务",
+    "4. 或者手动访问科技新闻网站获取信息"
+  ],
+  "file_format_verification": "JSON格式验证通过，文件可正常写入指定路径"
+}
