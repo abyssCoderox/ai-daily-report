@@ -1,0 +1,60 @@
+{
+  "timestamp": "2026-03-11T13:57:00Z",
+  "time_range": "past_hour",
+  "total_news": 5,
+  "news": [
+    {
+      "title": "Unreasonable Labs Raises $13.5M to Scale AI for Scientific Discovery",
+      "summary": "Unreasonable Labs emerged from stealth mode and announced a $13.5 million funding round to accelerate AI applications in scientific research and discovery.",
+      "publish_time": "2026-03-11T13:00:00Z",
+      "source_url": "https://nationaltoday.com/us/ma/cambridge/news/2026/03/11/unreasonable-labs-raises-13-5m-to-scale-ai-for-scientific-discovery/",
+      "source_name": "National Today",
+      "category": "AI Investment",
+      "importance": "Significant funding for AI-driven scientific discovery, indicating growing investment in research-focused AI applications."
+    },
+    {
+      "title": "OpenAI Releases GPT-5.4 with Native Computer Use Capabilities",
+      "summary": "OpenAI launched GPT-5.4 featuring native computer use functionality, enabling AI to interact directly with computer systems and applications.",
+      "publish_time": "2026-03-11T12:30:00Z",
+      "source_url": "https://www.devflokers.com/blog/ai-tech-developments-news-march-11-2026",
+      "source_name": "DevFlockers",
+      "category": "AI Development",
+      "importance": "Major advancement in AI capabilities with native computer interaction, potentially revolutionizing human-AI collaboration."
+    },
+    {
+      "title": "Japan Announces Major Investment in AI and Quantum Computing",
+      "summary": "The Japanese government identified AI, quantum computing, and semiconductors as priority investment targets in its latest economic development plan.",
+      "publish_time": "2026-03-11T11:34:00Z",
+      "source_url": "https://www.digitimes.com/news/a20260311VL211/japan-government-ai-quantum-computing-semiconductors-investment.html",
+      "source_name": "DIGITIMES",
+      "category": "Government Policy",
+      "importance": "Strategic national investment in emerging technologies signals Japan's commitment to technological leadership."
+    },
+    {
+      "title": "IonQ and Cambridge University Establish Quantum Innovation Centre",
+      "summary": "IonQ partnered with the University of Cambridge to create a landmark Innovation Centre for Quantum Technology, advancing quantum computing research.",
+      "publish_time": "2026-03-11T10:00:00Z",
+      "source_url": "https://stockhouse.com/news/press-releases/2026/03/11/ionq-and-the-university-of-cambridge-announce-landmark-agreement-to-establish",
+      "source_name": "StockHouse",
+      "category": "Quantum Computing",
+      "importance": "Major academic-industry partnership to accelerate quantum technology development and commercialization."
+    },
+    {
+      "title": "Google Expands Gemini in Chrome to India, Canada & New Zealand",
+      "summary": "Google extended Gemini AI integration in Chrome browser to India, Canada, and New Zealand, adding multilingual support and productivity features.",
+      "publish_time": "2026-03-11T09:15:00Z",
+      "source_url": "https://business20channel.tv/google-expands-gemini-in-chrome-to-india-canada-nz-in-2026-11-march-2026",
+      "source_name": "Business 20 Channel",
+      "category": "AI Integration",
+      "importance": "Expansion of AI capabilities in mainstream browsers, making advanced AI tools more accessible globally."
+    }
+  ],
+  "summary": "This hour's tech news highlights significant developments in AI funding, advanced AI capabilities, government investment strategies, quantum computing partnerships, and global AI integration. Key themes include the maturation of AI technology, increased investment in emerging technologies, and expanding accessibility of AI tools.",
+  "key_trends": [
+    "AI investment and funding growth",
+    "Advanced AI capabilities development",
+    "Government support for emerging technologies",
+    "Academic-industry partnerships in quantum computing",
+    "Global expansion of AI accessibility"
+  ]
+}
