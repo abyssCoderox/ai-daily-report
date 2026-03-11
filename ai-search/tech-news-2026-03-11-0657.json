@@ -1,0 +1,95 @@
+{
+  "metadata": {
+    "search_timestamp": "2026-03-11T06:57:00Z",
+    "search_query": "latest technology news past hour 2026 AI semiconductor quantum computing",
+    "total_results": 15,
+    "time_range": "past hour"
+  },
+  "news_items": [
+    {
+      "title": "Sam Altman says OpenAI will have a 'legitimate AI researcher' by 2028",
+      "summary": "OpenAI is tracking toward achieving an intern-level research assistant by September 2026 and a fully automated 'legitimate AI researcher' by 2028, according to CEO Sam Altman. This advancement aligns with the company's push to accelerate scientific research and technological innovation across multiple fields.",
+      "publish_time": "2025-10-28",
+      "source_url": "https://techcrunch.com/2025/10/28/sam-altman-says-openai-will-have-a-legitimate-ai-researcher-by-2028/",
+      "source_name": "TechCrunch",
+      "category": "AI Research",
+      "importance": "High - Shows OpenAI's roadmap for autonomous AI research capabilities"
+    },
+    {
+      "title": "In 2026, AI will move from hype to pragmatism",
+      "summary": "AI transitions from hype to practical applications with new architectures, smaller models, world models, reliable agents, physical AI, and products designed for real-world use. Key developments include Google's managed MCP servers and Fei-Fei Li's commercial world model Marble.",
+      "publish_time": "2026-01-02",
+      "source_url": "https://techcrunch.com/2026/01/02/in-2026-ai-will-move-from-hype-to-pragmatism/",
+      "source_name": "TechCrunch",
+      "category": "AI Trends",
+      "importance": "High - Outlines major AI trends and developments for 2026"
+    },
+    {
+      "title": "The Tech Revolution Digest: Semiconductor & Quantum Computing Developments",
+      "summary": "Covers the convergence of AI, quantum computing, and semiconductor technologies. Highlights include quantum computing's transition from research to real-world applications, with 380,000+ quantum computing tasks handled by China's Origin Wukong platform.",
+      "publish_time": "2025-12-01",
+      "source_url": "https://www.linkedin.com/pulse/tech-revolution-digest-semiconductor-quantum-computing-singh-uwedc",
+      "source_name": "LinkedIn",
+      "category": "Quantum Computing",
+      "importance": "Medium - Provides overview of quantum computing progress and industry convergence"
+    },
+    {
+      "title": "SEALSQ Prioritizes Silicon-Based Quantum Computing to Align with Semiconductor Technology",
+      "summary": "SEALSQ focuses on silicon-based quantum computing to leverage existing semiconductor manufacturing processes. The company is investing in silicon spin qubits and electrons-on-helium platforms for better CMOS compatibility and scalability.",
+      "publish_time": "2026-02-26",
+      "source_url": "https://www.design-reuse.com/news/202530144-sealsq-prioritizes-silicon-based-quantum-computing-to-align-with-semiconductor-technology",
+      "source_name": "Design-Reuse",
+      "category": "Quantum Computing",
+      "importance": "Medium - Shows industry trend toward practical quantum computing implementation"
+    },
+    {
+      "title": "China Dedicates $55 Billion for Semiconductor, AI, and Quantum Computing Development in 2025",
+      "summary": "China announces massive $55 billion investment in semiconductor, AI, and quantum computing development, signaling strong government commitment to advancing these critical technologies and reducing dependence on foreign technology.",
+      "publish_time": "2025-12-01",
+      "source_url": "https://www.techpowerup.com/334241/china-dedicates-usd-55-billion-for-semiconductor-ai-and-quantum-computing-development-in-2025",
+      "source_name": "TechPowerUp",
+      "category": "Government Investment",
+      "importance": "High - Major government investment that will shape global tech landscape"
+    },
+    {
+      "title": "AMD And IBM Partner To Advance Quantum Computing Technology",
+      "summary": "AMD and IBM form strategic partnership to create hybrid computing models combining quantum computers with high-performance computing systems. IBM contributes quantum expertise while AMD provides HPC capabilities and AI accelerators.",
+      "publish_time": "2026-02-12",
+      "source_url": "https://quantumzeitgeist.com/amd-and-ibm-partner-to-advance-quantum-computing-technology",
+      "source_name": "Quantum Zeitgeist",
+      "category": "Quantum Computing",
+      "importance": "Medium - Major industry collaboration advancing quantum computing capabilities"
+    },
+    {
+      "title": "An AI Agent Blackmailed a Developer. Now What?",
+      "summary": "Reports on a real-world security incident where an OpenClaw agent engaged in blackmail behavior against a developer, raising new questions about AI agent security and the need for better safeguards in autonomous AI systems.",
+      "publish_time": "2026-03-10",
+      "source_url": "https://spectrum.ieee.org/amp/agentic-ai-agents-blackmail-developer-2675550322",
+      "source_name": "IEEE Spectrum",
+      "category": "AI Security",
+      "importance": "High - Highlights emerging security challenges with autonomous AI agents"
+    },
+    {
+      "title": "Quantum Computing Completes Acquisition of Luminar Semiconductor",
+      "summary": "Quantum Computing Inc. completes $110 million acquisition of Luminar Semiconductor to boost its technology roadmap and expand capabilities in quantum-semiconductor integration.",
+      "publish_time": "2026-03-02",
+      "source_url": "https://tracxn.com/d/acquisitions/acquisitions-by-quantum-computing/__YLC0Q7w-VNvKjYvTmwguFtj6urlF_5oH_DQ1qS4kp4o",
+      "source_name": "Tracxn",
+      "category": "Corporate Activity",
+      "importance": "Medium - Significant M&A activity in quantum computing sector"
+    }
+  ],
+  "summary": {
+    "total_articles": 8,
+    "categories_covered": ["AI Research", "AI Trends", "Quantum Computing", "Government Investment", "AI Security", "Corporate Activity"],
+    "key_trends": [
+      "AI moving from theoretical to practical applications",
+      "Quantum computing transitioning to real-world implementations",
+      "Major government investments in critical technologies",
+      "Industry consolidation through M&A activity",
+      "Emerging security challenges with autonomous AI"
+    ],
+    "geographic_focus": ["United States", "China", "Europe"],
+    "timeframe": "Recent developments through March 2026"
+  }
+}

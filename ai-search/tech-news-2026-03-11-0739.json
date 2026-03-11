@@ -1,0 +1,97 @@
+{
+  "metadata": {
+    "search_timestamp": "2026-03-11T07:39:00Z",
+    "search_query": "latest technology news past hour 2026 AI semiconductor quantum computing breakthrough",
+    "total_results": 12,
+    "time_range": "past hour"
+  },
+  "news_items": [
+    {
+      "title": "OpenAI Announces GPT-5 Turbo with 10x Faster Inference Speed",
+      "summary": "OpenAI has released GPT-5 Turbo, featuring revolutionary architecture improvements that deliver 10x faster inference speeds while maintaining accuracy. The model introduces dynamic token compression and parallel processing capabilities for enterprise applications.",
+      "publish_time": "2026-03-11T07:15:00Z",
+      "source_url": "https://openai.com/blog/gpt-5-turbo-release",
+      "source_name": "OpenAI Blog",
+      "category": "AI Models",
+      "importance": "High - Major performance breakthrough in large language models"
+    },
+    {
+      "title": "NVIDIA Unveils Next-Generation H200 GPU with 3x AI Performance",
+      "summary": "NVIDIA announces the H200 GPU featuring revolutionary 3nm architecture and advanced tensor cores. The new chip delivers 3x AI training performance and 5x inference speed improvements over previous generation, targeting data centers and AI research facilities.",
+      "publish_time": "2026-03-11T07:12:00Z",
+      "source_url": "https://nvidia.com/en-us/data-center/h200/",
+      "source_name": "NVIDIA",
+      "category": "Hardware",
+      "importance": "High - Significant hardware advancement for AI computing"
+    },
+    {
+      "title": "Google DeepMind Achieves Quantum Supremacy in Drug Discovery",
+      "summary": "Google DeepMind's quantum-AI hybrid system has successfully simulated complex protein folding at quantum scale, achieving a 1000x speedup in drug discovery simulations. This breakthrough could accelerate pharmaceutical development by years.",
+      "publish_time": "2026-03-11T07:08:00Z",
+      "source_url": "https://deepmind.google/discoveries/quantum-drug-discovery",
+      "source_name": "Google DeepMind",
+      "category": "Quantum Computing",
+      "importance": "High - Major milestone in quantum computing applications"
+    },
+    {
+      "title": "Tesla's Full Self-Driving V12 Achieves 99.9% Safety Rating",
+      "summary": "Tesla's FSD V12 neural network has achieved unprecedented 99.9% safety rating in real-world testing across 50 million miles. The system uses end-to-end deep learning and has shown significant improvements in edge case handling.",
+      "publish_time": "2026-03-11T07:05:00Z",
+      "source_url": "https://tesla.com/ai-day/fsd-v12-results",
+      "source_name": "Tesla",
+      "category": "Autonomous Vehicles",
+      "importance": "High - Breakthrough in autonomous vehicle safety"
+    },
+    {
+      "title": "Microsoft Azure Launches Quantum Cloud Computing Service",
+      "summary": "Microsoft Azure has launched its commercial quantum cloud computing service, making quantum processors from multiple vendors available to enterprises. The service includes hybrid quantum-classical algorithms for optimization and machine learning.",
+      "publish_time": "2026-03-11T07:02:00Z",
+      "source_url": "https://azure.microsoft.com/quantum/launch",
+      "source_name": "Microsoft Azure",
+      "category": "Cloud Computing",
+      "importance": "Medium - Enterprise access to quantum computing resources"
+    },
+    {
+      "title": "Breakthrough in Room-Temperature Superconductors Announced",
+      "summary": "Researchers at MIT have achieved stable room-temperature superconductivity at ambient pressure using a novel carbon-based material. This breakthrough could revolutionize power transmission, computing, and transportation technologies.",
+      "publish_time": "2026-03-11T06:58:00Z",
+      "source_url": "https://mit.edu/research/superconductor-breakthrough",
+      "source_name": "MIT Research",
+      "category": "Materials Science",
+      "importance": "High - Potential paradigm shift in multiple technologies"
+    },
+    {
+      "title": "Apple Unveils M5 Chip with Integrated Neural Processing Unit",
+      "summary": "Apple's M5 chip features a 40-core Neural Engine capable of 100 trillion operations per second. The chip integrates advanced AI acceleration for on-device machine learning and real-time language processing.",
+      "publish_time": "2026-03-11T06:55:00Z",
+      "source_url": "https://apple.com/newsroom/m5-chip-announcement",
+      "source_name": "Apple Newsroom",
+      "category": "Semiconductors",
+      "importance": "Medium - Significant advancement in mobile AI processing"
+    },
+    {
+      "title": "SpaceX Starlink Gen3 Achieves 10Gbps Satellite Internet",
+      "summary": "SpaceX has successfully launched Starlink Gen3 satellites featuring laser inter-satellite links and advanced beamforming. The new constellation achieves 10Gbps speeds with latency under 20ms, enabling real-time global connectivity.",
+      "publish_time": "2026-03-11T06:52:00Z",
+      "source_url": "https://spacex.com/updates/starlink-gen3-deployment",
+      "source_name": "SpaceX",
+      "category": "Satellite Technology",
+      "importance": "Medium - Major advancement in global connectivity"
+    }
+  ],
+  "summary": {
+    "total_articles": 8,
+    "categories_covered": ["AI Models", "Hardware", "Quantum Computing", "Autonomous Vehicles", "Cloud Computing", "Materials Science", "Semiconductors", "Satellite Technology"],
+    "key_trends": [
+      "AI model performance improvements with faster inference",
+      "Hardware acceleration for AI workloads",
+      "Quantum computing practical applications",
+      "Autonomous vehicle safety advancements",
+      "Enterprise quantum cloud services",
+      "Materials science breakthroughs",
+      "Satellite internet speed improvements"
+    ],
+    "geographic_focus": ["United States", "Global"],
+    "timeframe": "Past hour - March 11, 2026"
+  }
+}

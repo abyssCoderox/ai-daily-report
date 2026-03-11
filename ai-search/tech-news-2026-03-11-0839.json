@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-03-11T08:39:00Z",
+  "search_query": "latest technology news",
+  "time_range": "past 24 hours",
+  "total_results": 10,
+  "articles": [
+    {
+      "title": "H2 2025 Mobility Tech VC Trends - PitchBook",
+      "summary": "Analysis of mobility technology venture capital trends in the second half of 2025, highlighting investment patterns and market dynamics in the mobility sector.",
+      "publication_time": "2026-03-11T08:39:00Z",
+      "source_url": "https://pitchbook.com/news/reports/h2-2025-mobility-tech-vc-trends",
+      "relevance_score": 46
+    },
+    {
+      "title": "The new iPad Air M4 is Apple's best overall tablet - Engadget",
+      "summary": "Apple has unveiled the new iPad Air M4, which is considered the company's best overall tablet. This marks the third iPad Air iteration in less than two years, featuring the M4 chip while maintaining the same display as previous models.",
+      "publication_time": "2026-03-11T08:39:00Z",
+      "source_url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111539860.html",
+      "relevance_score": 16
+    },
+    {
+      "title": "ARBOR Technology Accelerates Industrial Transformation with Reliable Edge AI at Japan IT Week 2026 - The Manila Times",
+      "summary": "ARBOR Technology showcased its latest breakthroughs in mobile computing and edge automation at Japan IT Week 2026, emphasizing reliable edge AI as the core of next-generation manufacturing under the theme 'Reliable Edge AI: The Core of Next-Gen Manufacturing'.",
+      "publication_time": "2026-03-11T08:39:00Z",
+      "source_url": "https://www.manilatimes.net/2026/03/11/tmt-newswire/pr-newswire/arbor-technology-accelerates-industrial-transformation-with-reliable-edge-ai-at-japan-it-week-2026/2297578",
+      "relevance_score": 14
+    },
+    {
+      "title": "Apple's new emoji has a controversial past but fans love it anyway - Creative Bloq",
+      "summary": "Apple has launched a collection of new emojis with the iOS 26.4 update, including some with controversial backgrounds that remain popular among fans despite the controversy.",
+      "publication_time": "2026-03-11T08:39:00Z",
+      "source_url": "https://www.creativebloq.com/design/apples-new-emoji-has-a-controversial-past-but-fans-love-it-anyway",
+      "relevance_score": 11
+    },
+    {
+      "title": "Anthropic's First Amendment case - Politico",
+      "summary": "Anthropic's First Amendment case highlights ongoing debates about ethical AI principles and the regulation of technology, examining the intersection of AI development and constitutional rights.",
+      "publication_time": "2026-03-11T08:39:00Z",
+      "source_url": "https://www.politico.com/newsletters/digital-future-daily/2026/03/10/anthropics-first-amendment-case-00821116",
+      "relevance_score": 9
+    },
+    {
+      "title": "OpenAI Rolls Out Codex Security Vulnerability Scanner - SecurityWeek",
+      "summary": "OpenAI has launched a new AI-powered software vulnerability scanner called Codex Security (formerly Aardvark) that claims to identify complex security issues and has found hundreds of critical vulnerabilities in tested software.",
+      "publication_time": "2026-03-11T08:39:00Z",
+      "source_url": "https://www.securityweek.com/openai-rolls-out-codex-security-vulnerability-scanner/",
+      "relevance_score": 6
+    },
+    {
+      "title": "Jazz Emerges From Stealth With $61M in Funding for AI-Powered DLP - SecurityWeek",
+      "summary": "Data loss prevention startup Jazz has emerged from stealth mode with $61 million in combined seed and Series A funding, bringing AI to DLP to provide visibility into intent, context, and risk.",
+      "publication_time": "2026-03-11T08:39:00Z",
+      "source_url": "https://www.securityweek.com/jazz-emerges-from-stealth-with-61m-in-funding-for-ai-powered-dlp/",
+      "relevance_score": 5
+    },
+    {
+      "title": "Kai Emerges From Stealth With $125M in Funding for AI Platform Bridging IT and OT Security - SecurityWeek",
+      "summary": "Kai has emerged from stealth mode with $125 million in funding for an AI-powered platform that aims to bridge IT and OT cybersecurity, providing comprehensive security capabilities across operational technology environments.",
+      "publication_time": "2026-03-11T08:39:00Z",
+      "source_url": "https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/",
+      "relevance_score": 5
+    },
+    {
+      "title": "ICS Patch Tuesday: Vulnerabilities Fixed by Siemens, Schneider, Moxa, Mitsubishi Electric - SecurityWeek",
+      "summary": "Industrial giants Siemens, Schneider Electric, Mitsubishi Electric, and Moxa have published new ICS Patch Tuesday advisories, addressing multiple vulnerabilities in industrial control systems.",
+      "publication_time": "2026-03-11T08:39:00Z",
+      "source_url": "https://www.securityweek.com/ics-patch-tuesday-vulnerabilities-fixed-by-siemens-schneider-moxa-mitsubishi-electric/",
+      "relevance_score": 5
+    },
+    {
+      "title": "Niklas Andréen appointed as Chief Commercial Officer at Sabre Corporation - Hospitality Net",
+      "summary": "Sabre Corporation has appointed Niklas Andréen as Chief Commercial Officer (CCO), Airline Tech, a role intended to accelerate execution following the company's strategic initiatives in airline technology.",
+      "publication_time": "2026-03-11T08:39:00Z",
+      "source_url": "https://www.hospitalitynet.org/appointment/79031809/niklas-andreen",
+      "relevance_score": 4
+    }
+  ]
+}

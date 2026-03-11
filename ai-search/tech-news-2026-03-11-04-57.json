@@ -1,0 +1,88 @@
+{
+  "timestamp": "2026-03-11T04:57:00Z",
+  "search_query": "latest technology news",
+  "time_range": "past 24 hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "The Morning After: The new iPad Air M4 is Apple's best overall tablet",
+      "summary": "Apple has released the new iPad Air M4, which is considered the company's best overall tablet. It's been less than two years since the company released the M2-powered iPad Air and we're already on our third iPad Air iteration, one with the M4 inside.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111539860.html",
+      "relevance_score": 51,
+      "publication_time": "2026-03-11T04:57:00Z"
+    },
+    {
+      "title": "Qualcomm introduces Arduino Ventuno Q single-board computer",
+      "summary": "Qualcomm has introduced a new single-board computer, Arduino Ventuno Q, focusing on AI and robotics applications.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111539860.html",
+      "relevance_score": 51,
+      "publication_time": "2026-03-11T04:57:00Z"
+    },
+    {
+      "title": "Dell revamps XPS 14 laptop with enhanced power",
+      "summary": "Dell has revamped its XPS 14 laptop, which is now more powerful than ever with the latest hardware upgrades.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/general/the-morning-after-engadget-newsletter-111539860.html",
+      "relevance_score": 51,
+      "publication_time": "2026-03-11T04:57:00Z"
+    },
+    {
+      "title": "H2 2025 Mobility Tech VC Trends report highlights significant investments",
+      "summary": "The H2 2025 Mobility Tech VC Trends report highlights significant investments in mobility technology across various sectors.",
+      "source": "PitchBook",
+      "url": "https://pitchbook.com/news/reports/h2-2025-mobility-tech-vc-trends",
+      "relevance_score": 41,
+      "publication_time": "2026-03-11T04:57:00Z"
+    },
+    {
+      "title": "Meta lets in rivals, age-checking tech matures",
+      "summary": "Meta has implemented changes allowing competitors access while advancing age-checking technology maturity.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/video/watch/idRW238409032026RP1/",
+      "relevance_score": 39,
+      "publication_time": "2026-03-11T04:57:00Z"
+    },
+    {
+      "title": "Escape raises $18 million to automate pentesting with AI agents",
+      "summary": "Offensive cybersecurity startup Escape has raised $18 million in Series A funding to automate penetration testing using AI agents, bringing total funding to over $23 million.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/escape-raises-18-million-to-automate-pentesting/",
+      "relevance_score": 36,
+      "publication_time": "2026-03-11T04:57:00Z"
+    },
+    {
+      "title": "Smartmatic seeks dismissal of money laundering indictment",
+      "summary": "Smartmatic is seeking to dismiss a money laundering indictment, attributing the case to President Trump's campaign of retribution following his 2020 election loss.",
+      "source": "AP News",
+      "url": "https://apnews.com/article/miami-smartmatic-trump-money-laundering-elections-2997ffb68b341dd3890f4f3b29fbbcce",
+      "relevance_score": 34,
+      "publication_time": "2026-03-11T04:57:00Z"
+    },
+    {
+      "title": "NAPLAN tests disrupted by tech issue on first day",
+      "summary": "NAPLAN tests experienced technical disruptions on the first day, highlighting ongoing challenges in educational technology implementation.",
+      "source": "iTnews",
+      "url": "https://www.itnews.com.au/news/naplan-tests-disrupted-by-tech-issue-on-first-day-624185",
+      "relevance_score": 33,
+      "publication_time": "2026-03-11T04:57:00Z"
+    },
+    {
+      "title": "Apple's new emoji has controversial past but fans love it anyway",
+      "summary": "Apple has launched new emojis with the iOS 26.4 update, including some with controversial histories that fans still embrace.",
+      "source": "Creative Bloq",
+      "url": "https://www.creativebloq.com/design/apples-new-emoji-has-a-controversial-past-but-fans-love-it-anyway",
+      "relevance_score": 33,
+      "publication_time": "2026-03-11T04:57:00Z"
+    },
+    {
+      "title": "Kai emerges from stealth with $125M funding for AI platform",
+      "summary": "Kai emerged from stealth mode with $125 million in funding for an AI-powered platform that bridges IT and OT cybersecurity.",
+      "source": "SecurityWeek",
+      "url": "https://www.securityweek.com/kai-emerges-from-stealth-with-125m-in-funding-for-ai-platform-bridging-it-and-ot-security/",
+      "relevance_score": 29,
+      "publication_time": "2026-03-11T04:57:00Z"
+    }
+  ]
+}
