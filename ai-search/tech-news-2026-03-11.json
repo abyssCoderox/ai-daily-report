@@ -1,0 +1,80 @@
+{
+  "report_metadata": {
+    "generated_at": "2026-03-11T02:20:00Z",
+    "source": "The Verge",
+    "time_range": "past_24_hours",
+    "total_articles": 10
+  },
+  "articles": [
+    {
+      "title": "Ben McKenzie has a new crypto documentary",
+      "summary": "Actor Ben McKenzie releases a new cryptocurrency documentary, following his previous work on crypto-related content.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://www.theverge.com",
+      "category": "crypto"
+    },
+    {
+      "title": "How Jeffrey Epstein tried to pressure Bill Gates",
+      "summary": "Forbes reports on Epstein's attempt to leverage personal connections to influence Bill Gates for tax management purposes.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://www.theverge.com",
+      "category": "business"
+    },
+    {
+      "title": "Amazon expands access to its Health AI agent",
+      "summary": "Amazon announces broader availability of its HIPAA-compliant Health AI tool for answering medical questions and connecting users to healthcare professionals.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://www.theverge.com",
+      "category": "ai_healthcare"
+    },
+    {
+      "title": "Amazon adds guardrails around AI coding after AWS outages",
+      "summary": "Amazon implements stricter oversight for AI-assisted coding changes following service outages, requiring senior engineer approval for modifications.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://www.theverge.com",
+      "category": "ai_engineering"
+    },
+    {
+      "title": "Google and Tesla collaborate on power grid efficiency",
+      "summary": "Tech giants join Utilize initiative to improve power grid efficiency through battery storage and virtual power plant strategies.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://www.theverge.com",
+      "category": "energy_tech"
+    },
+    {
+      "title": "Thinking Machines Lab partners with Nvidia",
+      "summary": "AI startup founded by ex-OpenAI executive Mira Murati announces strategic partnership with Nvidia for AI model training infrastructure.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://www.theverge.com",
+      "category": "ai_partnership"
+    },
+    {
+      "title": "Apple Vision Pro to support cloud gaming",
+      "summary": "Nvidia announces CloudXR 6.0 support for visionOS 26.4, enabling cloud gaming on Apple Vision Pro with GeForce NOW Playtest.",
+      "publish_time": "2026-03-09T00:00:00Z",
+      "source_url": "https://www.theverge.com",
+      "category": "gaming_tech"
+    },
+    {
+      "title": "DJI teases first 360-degree drone",
+      "summary": "DJI announces Avata 360, their first 8K 360-degree drone, scheduled for launch on March 26th as a follow-up to the 2024 Avata 2.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://www.theverge.com",
+      "category": "drones"
+    },
+    {
+      "title": "Niantic finds customer for Pokémon Go world map",
+      "summary": "Pokémon Go developer Niantic secures a business customer for their comprehensive world mapping technology.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://www.theverge.com",
+      "category": "gaming_mapping"
+    },
+    {
+      "title": "Furby: The AI story behind the 1990s toy phenomenon",
+      "summary": "Tech history exploration of how Furby represented early AI and human-gadget interaction philosophy in toy form.",
+      "publish_time": "2026-03-09T00:00:00Z",
+      "source_url": "https://www.theverge.com",
+      "category": "tech_history"
+    }
+  ]
+}
