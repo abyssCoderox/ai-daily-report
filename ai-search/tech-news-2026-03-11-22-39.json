@@ -1,0 +1,80 @@
+{
+  "search_metadata": {
+    "query": "latest technology news",
+    "time_range": "past hour",
+    "search_time": "2026-03-11T22:39:00Z",
+    "total_results": 10
+  },
+  "news_items": [
+    {
+      "title": "Google completes $32 billion Wiz acquisition to boost cloud security",
+      "summary": "Google has finalized its $32 billion acquisition of cloud security firm Wiz, integrating its AI-powered cybersecurity platform with Google Cloud's Threat Intelligence and Security Operations to enhance threat detection and response.",
+      "publish_time": "2026-03-11T22:39:00Z",
+      "source_url": "https://www.securityweek.com/wiz-joins-google-cloud-as-landmark-acquisition-closes/",
+      "relevance_score": 0.37
+    },
+    {
+      "title": "SpaceX's Starship delays risk NASA moon landing timeline",
+      "summary": "SpaceX's Starship delays have raised concerns about NASA's moon landing timeline, according to watchdog reports.",
+      "publish_time": "2026-03-11T22:39:00Z",
+      "source_url": "https://www.reuters.com/video/watch/idRW289111032026RP1/?chan=technology",
+      "relevance_score": 0.43
+    },
+    {
+      "title": "MSI upgrades 32-inch 4K OLED monitor with Samsung's Tandem OLED technology",
+      "summary": "MSI has updated its 32-inch 4K OLED monitor with Samsung's latest Tandem OLED panel technology, offering improved display quality and VESA DisplayHDR True Black 500 certification.",
+      "publish_time": "2026-03-11T22:39:00Z",
+      "source_url": "https://www.pcgamer.com/hardware/gaming-monitors/one-of-my-favourite-4k-oled-monitors-just-got-updated-with-samsungs-latest-tandem-oled-panel-tech/",
+      "relevance_score": 0.35
+    },
+    {
+      "title": "Meta acquires AI agent social network Moltbook",
+      "summary": "Meta has acquired AI agent social network Moltbook and is advancing its age-checking technology amid growing online safety regulations.",
+      "publish_time": "2026-03-11T22:39:00Z",
+      "source_url": "https://www.itnews.com.au/news/naplan-tests-disrupted-by-tech-issue-on-first-day-624185",
+      "relevance_score": 0.33
+    },
+    {
+      "title": "Intel announces new Core Ultra processors starting at $199",
+      "summary": "Intel announces $299 Core Ultra 7 270K Plus and $199 Core Ultra 5 250K Plus CPUs with enhanced performance capabilities.",
+      "publish_time": "2026-03-11T22:39:00Z",
+      "source_url": "https://videocardz.com/newz/intel-announces-299-core-ultra-7-270k-and-199-core-ultra-5-250k-cpus",
+      "relevance_score": 0.33
+    },
+    {
+      "title": "Scanner raises $22 million for AI-powered threat hunting",
+      "summary": "San Francisco-based Scanner helps organizations build cloud-native security data lakes with AI agents for interactive investigations and autonomous response.",
+      "publish_time": "2026-03-11T22:39:00Z",
+      "source_url": "https://www.securityweek.com/scanner-raises-22-million-for-ai-powered-threat-hunting/",
+      "relevance_score": 0.33
+    },
+    {
+      "title": "Arko launches redesigned loyalty app with enhanced features",
+      "summary": "Convenience-store chain Arko introduces a new interface for rewards, fuel discounts, offers and games, built to scale across its multi-brand footprint.",
+      "publish_time": "2026-03-11T22:39:00Z",
+      "source_url": "https://www.cspdailynews.com/technologyservices/arko-launches-its-redesigned-loyalty-app",
+      "relevance_score": 0.40
+    },
+    {
+      "title": "ARBOR Technology showcases edge AI at Japan IT Week 2026",
+      "summary": "ARBOR Technology presents its latest breakthroughs in mobile computing and edge automation under the theme 'Reliable Edge AI: The Core of Next-Gen Manufacturing'.",
+      "publish_time": "2026-03-11T22:39:00Z",
+      "source_url": "https://www.manilatimes.net/2026/03/11/tmt-newswire/pr-newswire/arbor-technology-accelerates-industrial-transformation-with-reliable-edge-ai-at-japan-it-week-2026/2297578",
+      "relevance_score": 0.35
+    },
+    {
+      "title": "NAPLAN tests disrupted by tech issues on first day",
+      "summary": "Technical issues disrupted NAPLAN testing on the first day, highlighting ongoing challenges in educational technology infrastructure.",
+      "publish_time": "2026-03-11T22:39:00Z",
+      "source_url": "https://www.itnews.com.au/news/naplan-tests-disrupted-by-tech-issue-on-first-day-624185",
+      "relevance_score": 0.33
+    },
+    {
+      "title": "Amazon Go's rise and fall shaping future of convenience retail",
+      "summary": "With Amazon Go stores closing, urban convenience store formats and automation are expected to shape the future of retail innovation.",
+      "publish_time": "2026-03-11T22:39:00Z",
+      "source_url": "https://www.cspdailynews.com/technologyservices/amazon-gos-rise-fall-whats-next-convenience-retail",
+      "relevance_score": 0.31
+    }
+  ]
+}
