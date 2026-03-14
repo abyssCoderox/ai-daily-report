@@ -1,0 +1,68 @@
+{
+  "timestamp": "2026-03-14T07:57:00Z",
+  "news_items": [
+    {
+      "title": "TechNews 科技新報| 市場和業內人士關心的趨勢、內幕與新聞",
+      "summary": "报道空腹胰岛素水平与更年期症状关联性，以及台湾企业应用AI代理节省工时创造效益，同时关注伊朗F-14战机被摧毁事件。",
+      "publish_time": "2026-03-14 08:30",
+      "source_url": "https://technews.tw/",
+      "category": "生物科技/医疗科技/军事科技"
+    },
+    {
+      "title": "新浪人工智能热点小时报丨2026年03月14日09时",
+      "summary": "银行与互联网大厂争夺AI人才，Claude Opus 4.6与Sonnet 4.6上线百万上下文窗口，国家互联网应急中心发布OpenClaw风险提示。",
+      "publish_time": "2026-03-14 09:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c00190375qq.html?from=tech",
+      "category": "AI人才/AI模型/网络安全"
+    },
+    {
+      "title": "新浪人工智能热点小时报丨2026年03月14日08时",
+      "summary": "微软人工智能CEO预测大部分白领工作将在12-18个月内被AI自动化，谷歌将AI购物功能嵌入搜索与Gemini，AI与机器人岗位需求暴增。",
+      "publish_time": "2026-03-14 08:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c00190373hi.html?from=tech",
+      "category": "AI自动化/AI购物/就业市场"
+    },
+    {
+      "title": "科技新观察丨从两会科技热词看“十五五”创新潮——2026年全国两会 ...",
+      "summary": "人工智能、量子科技、脑机接口等成为两会科技热词，政府工作报告提出深化拓展“人工智能+”，强化企业科技创新主体地位。",
+      "publish_time": "2026-03-14 09:33",
+      "source_url": "https://www.stdaily.com/web/gdxw/2026-03/14/content_485528.html",
+      "category": "两会政策/科技创新"
+    },
+    {
+      "title": "2026年03月14日AI 科技日报(GPT-5.4逆向NES游戏代码 - 稀土掘金",
+      "summary": "GPT-5.4可逆向工程NES游戏ROM代码，PixVerse V5.6进入视频生成排行榜前15，InternVL-U开源4B参数多模态模型。",
+      "publish_time": "2026-03-14 08:00",
+      "source_url": "https://juejin.cn/post/7616558711958880297",
+      "category": "AI模型/代码分析/视频生成"
+    },
+    {
+      "title": "听见全球用户的声音周云杰2026首场直播：用AI科技回应每一份期待",
+      "summary": "海尔发布AI科技全场景方案，冰箱、洗衣机、空调等设备具备AI视觉识别能力，实现智慧生活场景升级。",
+      "publish_time": "2026-03-14 12:58",
+      "source_url": "http://www.news.cn/tech/20260314/bfce22863561446cb31b201addb4dead/c.html",
+      "category": "智能家居/AI应用"
+    },
+    {
+      "title": "【周刊提前读】专栏：我们是否正面临一场AI危机？ - 财新数据",
+      "summary": "探讨AI冲击就业问题，提出需要通过创造性实验改善安全网，鼓励企业创造更多就业机会并提供再培训。",
+      "publish_time": "2026-03-14 09:33",
+      "source_url": "https://database.caixin.com/2026-03-14/102422817.html",
+      "category": "AI就业/社会影响"
+    },
+    {
+      "title": "“无AI，不厂家”：人工智能重构家电业，竞争核心变了 - 21经济网",
+      "summary": "AI驱动家电行业转型，从单品智能走向空间智能，竞争核心转向跨设备、跨服务、跨场景的生态构建能力。",
+      "publish_time": "2026-03-14 09:05",
+      "source_url": "https://www.21jingji.com/article/20260314/herald/16a996ae1fcb0e98c670022e072b9dd5.html",
+      "category": "家电行业/AI转型"
+    },
+    {
+      "title": "Tinder計劃推新功能利用AI協助用戶配對| 科技| 中央社CNA",
+      "summary": "Tinder测试名为"化学反应"的新功能，利用AI协助用户配对，通过学习用户资料推荐更相关的连接。",
+      "publish_time": "2026-03-13 21:34",
+      "source_url": "https://www.cna.com.tw/news/ait/202603130333.aspx",
+      "category": "社交应用/AI匹配"
+    }
+  ]
+}

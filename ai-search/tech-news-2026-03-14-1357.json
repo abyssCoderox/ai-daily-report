@@ -1,0 +1,104 @@
+{
+  "timestamp": "2026-03-14T13:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "Meta to Axe End-to-End Encryption for Instagram Messaging",
+      "summary": "Meta plans to remove end-to-end encrypted messaging from Instagram DMs, citing low user adoption rates as the primary reason for this controversial decision.",
+      "publish_time": "1 hour ago",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/meta-to-axe-end-to-end-encryption-for-instagram-messaging",
+      "category": "Social Media & Privacy"
+    },
+    {
+      "title": "iPhone Fold Rumors Heat Up with iPad-Style Interface Details",
+      "summary": "New reports suggest Apple's foldable iPhone will feature a wider, iPad-style interface but will only support Touch ID due to design constraints with Face ID sensors.",
+      "publish_time": "1 hour ago",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/iphone-fold-rumors-are-heating-up-but-im-not-buying-one-heres-why",
+      "category": "Mobile Technology"
+    },
+    {
+      "title": "AMD Pushes New Category of PCs: The Agent Computer",
+      "summary": "AMD is pioneering a new class of AI-optimized PCs designed for local AI model execution, positioning to compete with Nvidia's DGX Spark in the professional computing market.",
+      "publish_time": "15 hours ago",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/amd-pushes-a-new-category-of-pcs-the-agent-computer",
+      "category": "Computing Hardware"
+    },
+    {
+      "title": "Adobe Settles Hidden Fees Lawsuit with $75M Free Service Promise",
+      "summary": "Adobe agrees to provide $75 million worth of free services to settle a 2024 lawsuit over surprise fee tactics that affected numerous customers.",
+      "publish_time": "17 hours ago",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/adobe-settles-lawsuit-over-hidden-fees-promises-free-service-to-affected",
+      "category": "Software & Business"
+    },
+    {
+      "title": "Amazon Hikes Prime Video Ultra Price, Removes 4K from Lower Tier",
+      "summary": "Amazon increases ad-free Prime Video Ultra price by $2/month while stripping 4K video support from the ad-supported plan, affecting streaming quality options.",
+      "publish_time": "18 hours ago",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/amazon-hikes-price-of-ad-free-prime-video-drops-big-perk-from-lower-tier",
+      "category": "Streaming Services"
+    },
+    {
+      "title": "Google Maps Gets Major AI Upgrade with 'Ask Maps' Feature",
+      "summary": "Google integrates Gemini AI into Maps, enabling conversational queries and 3D Immersive Navigation to show buildings and landmarks in enhanced detail.",
+      "publish_time": "21 hours ago",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/google-maps-gets-major-gemini-ai-upgrade-heres-how-ask-maps-will-work",
+      "category": "AI & Navigation"
+    },
+    {
+      "title": "FBI Seeks Victims Info After Steam Game Malware Distribution",
+      "summary": "The FBI publishes a rare alert seeking victim information related to hackers exploiting Valve's Steam platform to distribute malware through indie games.",
+      "publish_time": "22 hours ago",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/did-a-steam-game-give-your-pc-malware-the-fbi-wants-to-know",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "US Government Revokes Controversial AI Hardware Export Rule",
+      "summary": "The US government revokes a controversial AI hardware export regulation that would have mandated investments from foreign companies, providing relief for AMD and Nvidia.",
+      "publish_time": "Recent",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/us-govt-revokes-controversial-ai-hardware-export-rule-that-would-mandate-investments-from-foreign-companies-new-export-rules-are-still-in-the-works-though",
+      "category": "AI Policy & Regulation"
+    },
+    {
+      "title": "Chip Material Prices Double Amid Middle East Conflict",
+      "summary": "Prices for key chipmaking metals have doubled as Middle East conflict compounds existing supply constraints, with gallium prices climbing sharply.",
+      "publish_time": "Recent",
+      "source": "Tom's Hardware",
+      "url": "https://www.tomshardware.com/tech-industry/chip-material-prices-double-as-middle-east-conflict-compounds-chinas-gallium-export-ban",
+      "category": "Semiconductor Industry"
+    },
+    {
+      "title": "OpenAI's ChatGPT Gets Sora Video Generation Features",
+      "summary": "OpenAI plans to integrate Sora's advanced video generation capabilities into ChatGPT, expanding the AI assistant's multimedia creation abilities.",
+      "publish_time": "Recent",
+      "source": "Tech Times",
+      "url": "https://www.techtimes.com/articles/315168/20260313/openais-chatgpt-reportedly-getting-soras-video-generation-features.htm",
+      "category": "AI & Machine Learning"
+    }
+  ],
+  "categories_covered": [
+    "AI & Machine Learning",
+    "Social Media & Privacy",
+    "Mobile Technology",
+    "Computing Hardware",
+    "Software & Business",
+    "Streaming Services",
+    "AI & Navigation",
+    "Cybersecurity",
+    "AI Policy & Regulation",
+    "Semiconductor Industry"
+  ],
+  "sources": [
+    "PCMag",
+    "Tom's Hardware",
+    "Tech Times"
+  ]
+}
