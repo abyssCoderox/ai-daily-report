@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-03-15T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "消息称小米 Xiaomi Tag 追踪器将推出国行版本，欧洲单个售 17.99 欧元",
+      "summary": "小米计划在国内市场推出Xiaomi Tag追踪器，该产品在欧洲售价17.99欧元，预计将为用户提供更便捷的物品追踪服务。",
+      "publish_time": "2026-02-13T00:00:00Z",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "category": "consumer_electronics"
+    },
+    {
+      "title": "消息称因内存等物料涨价，主流TOP5手机厂商中仅一家上调2026年新机出货量",
+      "summary": "受内存等关键物料价格上涨影响，主流TOP5手机厂商中仅有少数厂商上调了2026年新品出货量预期，反映出供应链成本压力。",
+      "publish_time": "2026-02-11T00:00:00Z",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "category": "mobile_industry"
+    },
+    {
+      "title": "中兴考拉二合一智能台灯首销：智能节律照明、RG0豁免级光照，699元赠公仔",
+      "summary": "中兴推出考拉二合一智能台灯，具备智能节律照明功能和RG0豁免级光照标准，首发价699元并附赠公仔。",
+      "publish_time": "2026-02-10T00:00:00Z",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "category": "smart_home"
+    },
+    {
+      "title": "全球首款5吨级eVTOL"峰飞航空V5000天际龙"正式亮相，成功在苏州昆山基地完成转换飞行",
+      "summary": "峰飞航空推出全球首款5吨级eVTOL飞行器V5000天际龙，已在苏州昆山基地成功完成转换飞行测试，标志着电动垂直起降飞行器技术的重要突破。",
+      "publish_time": "2026-02-10T00:00:00Z",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "category": "aerospace"
+    },
+    {
+      "title": "魅族2026魅友新春会明天举行：将推出魅族22系列神秘产品、PANDAER新春新品",
+      "summary": "魅族将在2026魅友新春会上发布魅族22系列神秘产品和PANDAER新春新品，预计将带来新的技术创新。",
+      "publish_time": "2026-01-09T00:00:00Z",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "category": "mobile_industry"
+    },
+    {
+      "title": "Canonical上线Ubuntu专业技能认证平台，首项考察科目"使用Linux终端"考试费100美元",
+      "summary": "Canonical推出Ubuntu专业技能认证平台，首个考试科目为"使用Linux终端"，考试费用100美元，旨在提升Linux技能认证。",
+      "publish_time": "2025-10-26T00:00:00Z",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "category": "software_development"
+    },
+    {
+      "title": "微软中国区Microsoft 365个人/家庭版销售方将于9月1日起更换为"百视通"，订阅权益/价格保持不变",
+      "summary": "微软中国区Microsoft 365个人和家庭版的销售方将从9月1日起更换为百视通，但订阅权益和价格将保持不变。",
+      "publish_time": "2025-08-24T00:00:00Z",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "category": "software"
+    },
+    {
+      "title": "小牛电动 × 高德地图联合推出行业首个纯数据驱动动态安全预警系统",
+      "summary": "小牛电动与高德地图合作推出行业内首个纯数据驱动的动态安全预警系统，提升电动出行安全。",
+      "publish_time": "2025-04-02T00:00:00Z",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "category": "smart_transportation"
+    },
+    {
+      "title": "因削减40%预算，钱德拉X射线天文台面临终止风险：已发射25年",
+      "summary": "由于预算削减40%，已运行25年的钱德拉X射线天文台面临终止风险，这将影响天文观测研究。",
+      "publish_time": "2024-12-23T00:00:00Z",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "category": "space_exploration"
+    },
+    {
+      "title": "英伟达黄仁勋回应AI芯片定价问题，强调中国市场重要性",
+      "summary": "英伟达CEO黄仁勋就AI芯片定价问题作出回应，并强调中国市场对公司发展的重要性。",
+      "publish_time": "2024-07-26T00:00:00Z",
+      "source": "IT之家",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "category": "ai_hardware"
+    }
+  ],
+  "categories_summary": {
+    "consumer_electronics": 1,
+    "mobile_industry": 3,
+    "smart_home": 1,
+    "aerospace": 1,
+    "software_development": 1,
+    "software": 1,
+    "smart_transportation": 1,
+    "space_exploration": 1,
+    "ai_hardware": 1
+  }
+}
