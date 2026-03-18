@@ -1,0 +1,42 @@
+{
+  "timestamp": "2026-03-18T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 5,
+  "results": [
+    {
+      "title": "科技新闻_百度百科",
+      "snippet": "科技新闻是对科学技术领域新近发生事实的报道，涵盖消息、通讯、评论等体裁，具有新闻性、科学性和通俗性特征。2024年国内十大科技新闻涵盖嫦娥六号月背采样、鸿蒙操作系统发布、江门中微子实验等事件。",
+      "url": "https://baike.baidu.com/item/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB/9053924",
+      "site_name": "baike.baidu.com",
+      "score": 0.891
+    },
+    {
+      "title": "科技新闻 - MBA智库百科",
+      "snippet": "科技新闻一般是指广大受众关心的科学技术的最新成就、研究动态，科技界的重大活动，做出重大贡献的科技界人物的介绍，有关科技发展的新政策的执行，自然界的新发现和趣闻等等。",
+      "url": "https://wiki.mbalib.com/wiki/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "wiki.mbalib.com",
+      "score": 0.845
+    },
+    {
+      "title": "科技新闻_科技新闻最新动态_IT之家",
+      "snippet": "包含多条科技新闻：抖音App运营方更名抖音科技公司；openKylin RISC-V商业生态突破；中国台湾力森诺科将出售硬盘盘片厂；央视新闻2023年度十大弹幕热词等。",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "www.ithome.com",
+      "score": 0.777
+    },
+    {
+      "title": "科技新闻所有文章-最新科技新闻相关文章汇总-HelloWorld开发者社区",
+      "snippet": "Google搜索大调整：搜索结果如有精准答案，不再显示网页结果；JVM调优总结等技术相关内容。",
+      "url": "https://helloworld.net/tag/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB.html",
+      "site_name": "helloworld.net",
+      "score": 0.672
+    },
+    {
+      "title": "科技新闻 – 量子位",
+      "snippet": "包含最新科技资讯：DeepSeek新论文剧透V4新框架；何恺明团队新作GeoPT；百度Robotaxi萝卜快跑分拆回应；千问AI春节DAU创历史新高；阶跃星辰跻身AI新六小虎第一梯队。",
+      "url": "https://www.qbitai.com/tag/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "www.qbitai.com",
+      "score": 0.649
+    }
+  ]
+}
