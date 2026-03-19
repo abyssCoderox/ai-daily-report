@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "retrieval_time": "2026-03-19T19:57:00Z",
+    "time_range": "past_6_hours",
+    "total_articles": 12,
+    "sources": ["PCMag", "TechXplore", "BBC", "Spain Technology News Network"]
+  },
+  "news": [
+    {
+      "title": "FBI Seizes Sites of Hacking Group Behind Data-Wiping Attack On Stryker",
+      "summary": "FBI has seized websites of the Handala hacking group responsible for a data-wiping attack on medical device company Stryker. The group had posted screenshots of Stryker's internal IT systems, but is already preparing to launch new sites.",
+      "publish_time": "2026-03-19T19:27:00Z",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/fbi-seizes-sites-of-hacking-group-behind-data-wiping-attack-on-stryker",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Starlink's Router Mini Faces a 150% Price Increase",
+      "summary": "SpaceX's Starlink Wi-Fi router Mini is experiencing a significant price hike from $40 to $100, representing a 150% increase. The price jump may be related to ongoing memory shortages in the tech industry.",
+      "publish_time": "2026-03-19T18:57:00Z",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/starlinks-router-mini-faces-a-150-price-increase",
+      "category": "consumer_tech"
+    },
+    {
+      "title": "No, the Aura Data Breach Did Not Expose Your SSN or Password. Here's What Happened",
+      "summary": "Aura data breach was claimed by hacking group ShinyHunters, but Aura confirms only marketing lists were compromised, not the main identity theft protection application or sensitive personal data like SSNs or passwords.",
+      "publish_time": "2026-03-19T18:57:00Z",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news/no-the-aura-data-breach-did-not-expose-your-ssn-password-heres-what-happened",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "Space-grade perovskite solar cells can survive extreme temperature fluctuations",
+      "summary": "Researchers have developed space-grade perovskite solar cells that can withstand extreme temperature variations, making them suitable for space applications and potentially revolutionizing solar technology in harsh environments.",
+      "publish_time": "2026-03-19T19:20:00Z",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-space-grade-perovskite-solar-cells.html",
+      "category": "energy_tech"
+    },
+    {
+      "title": "Smarter, faster, and more human: AI system helps robots outpace their human teachers",
+      "summary": "A new AI system enables robots to learn more efficiently and surpass human teaching capabilities, representing a significant advancement in robotics and machine learning integration.",
+      "publish_time": "2026-03-19T18:57:00Z",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-smarter-faster-human-ai-robots.html",
+      "category": "artificial_intelligence"
+    },
+    {
+      "title": "Humanoid robot learns impressive tennis skills from imperfect human motion",
+      "summary": "A humanoid robot has demonstrated remarkable ability to learn complex tennis movements by observing imperfect human demonstrations, showcasing advances in robotic motion learning and sports applications.",
+      "publish_time": "2026-03-19T16:57:00Z",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-humanoid-robot-tennis-skills-imperfect.html",
+      "category": "robotics"
+    },
+    {
+      "title": "Lead-free thin films turn everyday vibrations into electricity",
+      "summary": "Scientists have developed lead-free thin film technology that converts ambient vibrations into electrical energy, offering a safer alternative to traditional piezoelectric materials for energy harvesting applications.",
+      "publish_time": "2026-03-19T16:57:00Z",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-free-thin-everyday-vibrations-electricity.html",
+      "category": "energy_tech"
+    },
+    {
+      "title": "Swimming robot propelled by lab-grown muscle hits record speed",
+      "summary": "Researchers at NUS have developed a swimming robot powered by lab-grown muscle tissues that achieves record-breaking speeds through self-training mechanisms without external stimulation.",
+      "publish_time": "2026-03-19T16:57:00Z",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-robot-propelled-lab-grown-muscle.html",
+      "category": "robotics"
+    },
+    {
+      "title": "New X-ray vision for electronics lets scientists monitor working chips remotely",
+      "summary": "International researchers have developed a breakthrough non-contact method to observe internal operations of electronic chips while they're running, enabling remote monitoring without disassembly or shutdown.",
+      "publish_time": "2026-03-19T15:57:00Z",
+      "source": "TechXplore",
+      "url": "https://techxplore.com/news/2026-03-ray-vision-electronics-scientists-chips.html",
+      "category": "electronics"
+    },
+    {
+      "title": "Spain, France and Greece passport warning could see you turned away at airport",
+      "summary": "Travelers to Spain, France, and Greece may face airport rejections due to new passport regulations requiring additional documentation and validation procedures for entry.",
+      "publish_time": "2026-03-19T17:57:00Z",
+      "source": "Spain Technology News Network",
+      "url": "https://www.dailyrecord.co.uk/lifestyle/travel/spain-france-greece-passport-warning-36893461",
+      "category": "tech_policy"
+    },
+    {
+      "title": "Spanish researchers develop ultra-thin solar cells for any surface",
+      "summary": "Researchers in Spain have created ultra-thin, flexible solar cells that can be applied to virtually any surface, potentially revolutionizing solar energy deployment across various applications.",
+      "publish_time": "2026-03-19T12:57:00Z",
+      "source": "Spain Technology News Network",
+      "url": "https://www.pv-magazine.com/2026/03/19/spanish-researchers-develop-ultra-thin-solar-cells-for-any-surface/",
+      "category": "energy_tech"
+    },
+    {
+      "title": "Facebook offering TikTok and YouTube creators $3,000 to post content",
+      "summary": "Facebook is aggressively recruiting content creators from TikTok and YouTube by offering $3,000 payments to post content, intensifying the competition for social media influencers.",
+      "publish_time": "2026-03-19T15:57:00Z",
+      "source": "BBC",
+      "url": "https://www.bbc.co.uk/news/articles/c895wwp3kqlo",
+      "category": "social_media"
+    }
+  ]
+}
