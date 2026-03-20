@@ -1,0 +1,106 @@
+{
+  "metadata": {
+    "search_time": "2026-03-20T07:57:00Z",
+    "time_range": "past_6_hours",
+    "total_articles": 12,
+    "sources": ["technews.tw", "inews.hket.com", "coaio.com", "news.cnyes.com", "m.cnyes.com", "unifuncs.com", "k.sina.com.cn", "cj.sina.cn", "juejin.cn"]
+  },
+  "news": [
+    {
+      "title": "TechNews 科技新報：市場和業內人士關心的趨勢、內幕與新聞",
+      "summary": "海外ETF十大績效榜單揭曉！美日中龍頭緊抓AI成布局首選；日本首例儲能綠色專案債券！泓德北海道案場完成54億日圓融資；紀律執行掩護性買權！摩根首發台灣鑫收益主動式ETF自3/23開募；新光人壽布局五大通路高層人事！魏寶生以美學為橋樑深化保戶。",
+      "publish_time": "2026-03-19T18:30:00Z",
+      "url": "https://technews.tw/",
+      "source": "technews.tw",
+      "importance": "AI投資趨勢、綠色能源融資、金融產品創新、保險業高層人事調整，影響科技產業投資方向"
+    },
+    {
+      "title": "三星Galaxy Z TriFold停產不等於結束？傳二代與Slide機款研發中",
+      "summary": "三星首款三摺機Galaxy Z TriFold在推出近四個月後已在全球範圍停產，一度被部分市場人士認為「實用性不足」、「太貴」，以至於變成一款失敗產品；但據最新爆料顯示，TriFold並非止步於初代產品，而是持續推進後續機型研發，顯示三星仍積極布局多形態摺疊裝置市場。",
+      "publish_time": "2026-03-19T15:50:00Z",
+      "url": "https://technews.tw/2026/03/19/galaxy-z-trifold-2-slide/",
+      "source": "technews.tw",
+      "importance": "折疊手機技術持續發展，三星積極布局多形態裝置市場，影響未來智慧型手機發展趨勢"
+    },
+    {
+      "title": "比測試手機處理器花時間！AI晶片結構日益複雜，晶片測試需求夯",
+      "summary": "AI熱潮推動全球對高效能晶片需求激增，隨著晶片結構日益複雜，多位資深晶片高層透露，品質控制的重要性正與日俱增，而晶片測試供應鏈的公司也努力滿足這股需求潮。",
+      "publish_time": "2026-03-19T16:54:00Z",
+      "url": "https://technews.tw/2026/03/19/chip-testing-become-important/",
+      "source": "technews.tw",
+      "importance": "AI晶片複雜度提升，測試需求增加，影響半導體產業供應鏈和品質控制標準"
+    },
+    {
+      "title": "烏克蘭無人機軟體新創Swarmer美股上市表現驚人，股價兩天暴漲1,000%",
+      "summary": "AI無人機軟體公司Swarmer17日於那斯達克首次公開募股（IPO）表現驚人，兩天股價就飆升1,000%。這是近一年美股最強IPO，顯示投資者對防禦科技和低成本自動武器的興趣日益增加。",
+      "publish_time": "2026-03-19T16:40:00Z",
+      "url": "https://finance.technews.tw/2026/03/19/ai-drone-firm-swarmer-jumps-1000-in-two-days/",
+      "source": "technews.tw",
+      "importance": "無人機軟體公司IPO表現優異，反映投資者對AI防禦科技的高度興趣，影響軍工產業發展"
+    },
+    {
+      "title": "室溫超導33年僵局突破，Hg-1223材料超導臨界溫度提高至151K",
+      "summary": "在超導研究領域，沒有什麼比打破自1993年維持至今的高溫超導體紀錄更吸睛了。休士頓大學德州超導中心（TcSUH）、阿貢國家實驗室、Intellectual Ventures研究人員報告，成功將Hg-1223材料表現超導行為的溫度提高至151K，若成果當真，將成為大氣壓下目前已知溫度最高超導體，打破過去33年紀錄。",
+      "publish_time": "2026-03-19T16:40:00Z",
+      "url": "https://technews.tw/2026/03/19/hg1223-high-temperature-superconductor/",
+      "source": "technews.tw",
+      "importance": "超導材料研究重大突破，可能影響未來能源傳輸、磁浮技術等領域發展"
+    },
+    {
+      "title": "AI與Wi-Fi7時代來臨！RUCKUS無線基地台＋雲端平台打造企業智慧網路",
+      "summary": "騰訊去年經調整獲利增16.6%，今年AI投入至少倍增；CoreWeave遭唱衰與科技巨頭「曖昧」恐不長久；OpenAI攜手AWS推Frontier，微軟醞釀法律反擊。",
+      "publish_time": "2026-03-19T16:00:00Z",
+      "url": "https://technews.tw/2026/03/19/ai-wifi-iot-ruckus-network/",
+      "source": "technews.tw",
+      "importance": "企業智慧網路技術發展，騰訊AI投入增加，雲端服務市場競爭加劇"
+    },
+    {
+      "title": "加碼半導體布局，三星祭出733億美元資本支出搶佔AI版圖",
+      "summary": "三星電子宣布，人工智慧（AI）半導體領域投資超過110兆韓圜（約733億美元），以鞏固競爭激烈的市場領導地位。這項投資是公司史上最大年度支出，較去年90.4兆韓圜投資增加21.7%。",
+      "publish_time": "2026-03-19T18:20:00Z",
+      "url": "https://technews.tw/2026/03/19/samsung-to-spend-73-billion-on-chip-expansion-research-in-2026/",
+      "source": "technews.tw",
+      "importance": "三星巨額投資AI半導體，顯示半導體產業競爭加劇，影響全球晶片市場格局"
+    },
+    {
+      "title": "數發部打造海纜障礙通報機制，即時揭露國際與國內連線狀況",
+      "summary": "隨著台灣對國際網路連線高度依賴，海底電纜成為關鍵基礎設施之一。為提升整體通訊韌性並強化資訊透明度，數位發展部已建置「海纜障礙通報機制」，定期揭露國際與國內海纜運作狀況，讓外界能即時掌握海纜是否發生故障及修復進度。",
+      "publish_time": "2026-03-19T15:31:00Z",
+      "url": "https://technews.tw/2026/03/19/moda-submarine-cable/",
+      "source": "technews.tw",
+      "importance": "海纜通報機制建立，提升網路通訊韌性和透明度，影響國家資訊安全"
+    },
+    {
+      "title": "AI防護｜Fortinet推FortiOS8.0可即時區分未經批准AI工具",
+      "summary": "Fortinet推出FortiOS8.0，可即時區分未經批准AI工具，加強企業AI安全防護。",
+      "publish_time": "2026-03-18T16:12:00Z",
+      "url": "https://inews.hket.com/sran010/%E7%A7%91%E6%8A%80",
+      "source": "inews.hket.com",
+      "importance": "企業AI安全防護技術提升，FortiOS8.0新功能有助於管控未經批准的AI工具使用"
+    },
+    {
+      "title": "AI狂潮｜鴻海宣布與SAP策略合作冀加速亞太次世代企業級AI部署",
+      "summary": "鴻海宣布與SAP策略合作，加速亞太次世代企業級AI部署，提升企業數位轉型效率。",
+      "publish_time": "2026-03-18T12:19:00Z",
+      "url": "https://inews.hket.com/sran010/%E7%A7%91%E6%8A%80",
+      "source": "inews.hket.com",
+      "importance": "鴻海與SAP合作，推動亞太地區企業AI應用，影響企業數位轉型進程"
+    },
+    {
+      "title": "科技浪潮：AI和软件创新如何重塑2026年",
+      "summary": "2026年的科技领域正因突破性发展而充满活力，这些发展正在扩展软件工程、人工智能集成和数字基础设施的界限。Google在Chrome中推出Gemini，特别是其向印度扩展的举措，代表了使AI更易访问和包容的重大飞跃。",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "url": "https://coaio.com/zh/news/2026/03/breaking-tech-waves-how-ai-and-software-innovations-are-reshaping-2026/",
+      "source": "coaio.com",
+      "importance": "Google Gemini擴展至印度市場，AI技術普及化，影響全球AI生態系統發展"
+    },
+    {
+      "title": "2026年3月14日全天數字領域相關動態 - 鉅亨網",
+      "summary": "商業航天：長征八號甲運載火箭成功發射20組衛星；量子計算：「祖沖之三號」取得新突破；人工智慧：阿里巴巴「千問3.5」登頂開源大模型榜單；企業動態：百度健康內測醫生專業版「龍蝦」DoctorClaw，阿里上線手機版OpenClaw「龍蝦」，騰訊推出「龍蝦安全工具箱」。",
+      "publish_time": "2026-03-15T20:00:00Z",
+      "url": "https://news.cnyes.com/news/id/6385213",
+      "source": "news.cnyes.com",
+      "importance": "多項科技領域重要進展，包括航天、量子計算、AI大模型等，影響科技產業發展方向"
+    }
+  ]
+}
