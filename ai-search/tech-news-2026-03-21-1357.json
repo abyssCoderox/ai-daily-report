@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "generated_at": "2026-03-21T13:57:00Z",
+    "time_range": "past_6_hours",
+    "total_news_count": 15,
+    "sources": ["新浪科技", "网易科技", "VOA中文", "稀土掘金"]
+  },
+  "news": [
+    {
+      "title": "英伟达与亚马逊达成大规模AI芯片供应协议，2027年前潜在市场规模达1万亿美元",
+      "summary": "英伟达将在2027年前向亚马逊云服务供应超过100万块GPU及相关芯片，涉及Blackwell和Rubin等多代GPU架构，覆盖AWS全球云区域。",
+      "publish_time": "2026-03-21T08:00:00Z",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/stock/usstock/c/2026-03-21/doc-inhrsnkf7729507.shtml",
+      "importance": "high",
+      "category": "AI芯片"
+    },
+    {
+      "title": "美国商务部：在中国制裁下难以造出数量庞大的AI芯片，华为计划2026年将昇腾910C产量提升至60万颗",
+      "summary": "尽管美国出口管制，中国AI芯片产能仍在快速增长。华为计划2026年将旗舰AI芯片昇腾910C的产量提升到约60万颗，比现有产能翻倍。",
+      "publish_time": "2026-03-21T10:43:00Z",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/KOHVS9HD05566LXG.html",
+      "importance": "high",
+      "category": "AI芯片"
+    },
+    {
+      "title": "OpenAI完成1100亿美元私募融资，亚马逊、英伟达、软银三巨头投资",
+      "summary": "OpenAI完成高达1100亿美元的私募融资，亚马逊投资500亿美元，英伟达和软银各投资300亿美元，估值达到8400亿美元。",
+      "publish_time": "2026-03-21T06:34:00Z",
+      "source": "新浪财经",
+      "url": "https://cj.sina.cn/articles/view/7879848900/1d5acf3c401902ui10",
+      "importance": "high",
+      "category": "AI融资"
+    },
+    {
+      "title": "美国起诉三人涉嫌向中国走私尖端AI芯片设备，涉案金额数十亿美元",
+      "summary": "美国司法部起诉超微电脑高管等三人，指控他们通过复杂渠道非法向中国转运受出口管制限制的尖端AI设备，涉案金额高达数十亿美元。",
+      "publish_time": "2026-03-21T15:00:00Z",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/us-charges-three-in-alleged-scheme-to-smuggle-ai-chips-to-china-20260320/8128203.html",
+      "importance": "high",
+      "category": "AI芯片管制"
+    },
+    {
+      "title": "小米官宣自研Soc"年更"计划，拟联手谷歌Gemini打造国际版AI助手",
+      "summary": "小米总裁卢伟冰表示，公司计划每年对自研SOC芯片进行升级，并正筹备为海外市场推出独立AI助手，芯片迭代节奏将与苹果看齐。",
+      "publish_time": "2026-03-21T09:00:00Z",
+      "source": "新浪科技",
+      "url": "http://k.sina.com.cn/article_7879848900_1d5acf3c401902udss.html",
+      "importance": "medium",
+      "category": "消费电子"
+    },
+    {
+      "title": "阿里腾讯AI战略分岔：阿里全栈自研，腾讯生态渗透",
+      "summary": "阿里选择从芯片到模型再到应用的全栈自研之路，腾讯则坚持将AI渗透进既有生态，两条发展路线的背后是两种截然不同的增长逻辑。",
+      "publish_time": "2026-03-21T12:00:00Z",
+      "source": "网易科技",
+      "url": "https://www.163.com/dy/article/KOI561FG0519D4UH.html",
+      "importance": "high",
+      "category": "AI战略"
+    },
+    {
+      "title": "马斯克放言特斯拉或率先推出搭载通用人工智能的人形机器人",
+      "summary": "马斯克在社交媒体表示，特斯拉将成为研发通用人工智能（AGI）的核心企业之一，并可能率先推出具备人形或原子级精密形态的AGI产品。",
+      "publish_time": "2026-03-21T07:00:00Z",
+      "source": "新浪科技",
+      "url": "http://k.sina.com.cn/article_7879848900_1d5acf3c401902ucr4.html",
+      "importance": "medium",
+      "category": "人形机器人"
+    },
+    {
+      "title": "英特尔发布Core Series 2处理器，扩展边缘AI产品线",
+      "summary": "英特尔在Embedded World 2026会议上推出工业级处理器平台并扩展边缘AI产品组合，加强在边缘实时和AI工作负载方面的市场地位。",
+      "publish_time": "2026-03-21T11:00:00Z",
+      "source": "新浪科技",
+      "url": "http://k.sina.com.cn/article_7879848900_1d5acf3c401902udto.html",
+      "importance": "medium",
+      "category": "处理器"
+    },
+    {
+      "title": "港大经管学院公布人工智能大语言模型评测综合排行榜",
+      "summary": "港大经管学院评测14款中文及16款英文语境下的人工智能通用大语言模型，中文语境下文心一言4综合表现最佳，英文语境下GPT 4-turbo领先。",
+      "publish_time": "2026-03-21T10:00:00Z",
+      "source": "新浪科技",
+      "url": "http://k.sina.com.cn/article_7879848900_1d5acf3c401902uzx0.html",
+      "importance": "medium",
+      "category": "AI评测"
+    },
+    {
+      "title": "AI已影响93%工作岗位，技术冲击远超预期",
+      "summary": "咨询公司Cognizant最新分析显示，人工智能对劳动力市场的影响比预期更严重，93%的岗位已受到影响，其中69%显著受影响，30%面临生存威胁。",
+      "publish_time": "2026-03-21T14:00:00Z",
+      "source": "新浪科技",
+      "url": "http://k.sina.com.cn/article_7879848900_1d5acf3c401902uxn8.html",
+      "importance": "medium",
+      "category": "AI影响"
+    },
+    {
+      "title": "未来移动通信论坛：全球首次使用AI驱动的无线技术实时收发器系统进行6G户外演示",
+      "summary": "NTT DOCOMO成功进行全球首次使用人工智能驱动的无线技术实时收发器系统进行6G移动通信的户外演示，吞吐量提高了100%。",
+      "publish_time": "2026-03-21T16:00:00Z",
+      "source": "新浪科技",
+      "url": "http://k.sina.com.cn/article_7879848900_1d5acf3c401902uwlc.html",
+      "importance": "medium",
+      "category": "6G技术"
+    },
+    {
+      "title": "OpenAI发布GPT-5.4 mini/nano，推出更小更快的模型系列",
+      "summary": "OpenAI推出GPT-5.4系列轻量模型，面向高并发API与子代理工作负载，效果可用和成本可控同时成立，企业更容易将AI从试点推向规模化。",
+      "publish_time": "2026-03-21T12:00:00Z",
+      "source": "稀土掘金",
+      "url": "https://juejin.cn/post/7619219565654409279",
+      "importance": "high",
+      "category": "AI模型"
+    },
+    {
+      "title": "白宫发布国家AI框架，敦促国会制定统一法律政策",
+      "summary": "白宫公布AI国家立法框架，提出六项优先事项：保护儿童、维护社区安全、尊重知识产权、防止审查、推动创新、培养AI劳动力，呼吁制定统一联邦政策。",
+      "publish_time": "2026-03-21T17:00:00Z",
+      "source": "VOA中文",
+      "url": "https://www.voachinese.com/a/white-house-releases-national-ai-framework-urges-congress-to-initiate-uniform-legal-policy-20260320/8128269.html",
+      "importance": "medium",
+      "category": "AI政策"
+    },
+    {
+      "title": "黄仁勋谈太空数据中心：冷却难题待解，英伟达已布局卫星计算领域",
+      "summary": "英伟达CEO黄仁勋表示，尽管轨道计算具备长期发展潜力，但在太空构建AI数据中心的实际难度远超想象，其中散热系统的技术瓶颈尤为突出。",
+      "publish_time": "2026-03-21T13:00:00Z",
+      "source": "新浪科技",
+      "url": "http://k.sina.com.cn/article_7857201856_1d45362c001903g2zg.html",
+      "importance": "medium",
+      "category": "太空计算"
+    },
+    {
+      "title": "Anthropic发布Claude Opus 4.6，定位agentic coding等场景的旗舰升级",
+      "summary": "Anthropic将Opus 4.6定位为agentic coding、tool use、search等场景的旗舰升级，复杂任务一次成功率继续提升，企业模型选型会更看重稳定性。",
+      "publish_time": "2026-03-21T11:00:00Z",
+      "source": "稀土掘金",
+      "url": "https://juejin.cn/post/7619219565654409279",
+      "importance": "medium",
+      "category": "AI模型"
+    }
+  ],
+  "summary": {
+    "total_articles": 15,
+    "high_importance": 6,
+    "categories": {
+      "AI芯片": 3,
+      "AI模型": 2,
+      "AI战略": 1,
+      "AI融资": 1,
+      "AI芯片管制": 1,
+      "AI政策": 1,
+      "AI影响": 1,
+      "消费电子": 1,
+      "人形机器人": 1,
+      "处理器": 1,
+      "AI评测": 1,
+      "6G技术": 1,
+      "太空计算": 1
+    },
+    "key_trends": [
+      "中美AI芯片竞争加剧，中国本土产能快速扩张",
+      "大型科技公司AI融资活跃，OpenAI获千亿美元投资",
+      "AI监管政策趋严，美国推动统一立法框架",
+      "轻量化AI模型发展，成本与性能平衡成重点",
+      "AI对就业市场影响显著，93%岗位已受影响"
+    ]
+  }
+}
