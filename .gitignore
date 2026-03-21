@@ -39,3 +39,15 @@ debug.log
 .env.development.local
 .env.test.local
 .env.production.local
+
+# OpenClaw workspace files (exclude from project repo)
+.openclaw/
+AGENTS.md
+BOOTSTRAP.md
+HEARTBEAT.md
+IDENTITY.md
+SOUL.md
+TOOLS.md
+USER.md
+claude_agents.md
+temp/

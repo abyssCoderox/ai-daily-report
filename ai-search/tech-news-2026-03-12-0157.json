@@ -1,0 +1,56 @@
+{
+  "timestamp": "2026-03-12T01:57:00Z",
+  "period": "past_6_hours",
+  "news_count": 5,
+  "news_items": [
+    {
+      "title": "Ai2: Building physical AI with virtual simulation data",
+      "summary": "AI2 is developing physical AI systems using virtual simulation data to train robots for real-world environments, enabling more efficient and safer robotics development without extensive physical testing.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://www.artificialintelligence-news.com/news/ai2-building-physical-ai-with-virtual-simulation-data/",
+      "importance": "This development represents a significant advancement in robotics training, potentially reducing development costs and time while improving safety in dangerous environment applications."
+    },
+    {
+      "title": "New partnership to offer smart robots for dangerous environments",
+      "summary": "A new partnership has been formed to provide AI-powered smart robots designed specifically for work in hazardous environments, enhancing safety for human workers in high-risk industries.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://www.artificialintelligence-news.com/news/new-partnership-to-offer-ai-for-robotics-for-work-in-dangerous-environments/",
+      "importance": "This collaboration addresses critical safety needs in industries like mining, nuclear, and disaster response, potentially saving lives and reducing workplace accidents."
+    },
+    {
+      "title": "Manulife moves AI agents into core financial workflows",
+      "summary": "Manulife has integrated AI agents directly into its core financial operations, representing a significant shift toward autonomous financial decision-making and operational efficiency in the insurance sector.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://www.artificialintelligence-news.com/news/manulife-moves-ai-agents-into-core-financial-workflows/",
+      "importance": "This implementation demonstrates the growing adoption of AI agents in financial services, potentially transforming how insurance companies operate and serve customers."
+    },
+    {
+      "title": "How physical AI integration accelerates vehicle innovation",
+      "summary": "The integration of physical AI into vehicle development is accelerating innovation in the automotive industry, enabling faster development cycles and more sophisticated autonomous driving capabilities.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://www.artificialintelligence-news.com/news/how-physical-ai-integration-accelerates-vehicle-innovation/",
+      "importance": "This advancement is crucial for the future of autonomous vehicles, potentially reducing time-to-market and improving safety features in next-generation transportation."
+    },
+    {
+      "title": "Why AI and automated operations need horizontal telco clouds",
+      "summary": "Telecommunications companies are adopting horizontal cloud architectures to support AI and automated operations, enabling more scalable and flexible network management.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://www.telecomstechnews.com/news/why-ai-and-automated-operations-horizontal-telco-clouds/",
+      "importance": "This infrastructure shift is essential for supporting the growing demands of AI applications and 5G/6G networks, impacting the entire telecommunications ecosystem."
+    }
+  ],
+  "metadata": {
+    "search_criteria": "technology news past 6 hours",
+    "sources": [
+      "artificialintelligence-news.com",
+      "telecomstechnews.com"
+    ],
+    "categories": [
+      "AI",
+      "Robotics",
+      "Financial Technology",
+      "Automotive",
+      "Telecommunications"
+    ]
+  }
+}

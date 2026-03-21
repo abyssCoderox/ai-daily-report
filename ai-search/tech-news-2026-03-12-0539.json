@@ -1,0 +1,30 @@
+{
+  "timestamp": "2026-03-12T05:39:00Z",
+  "search_period": "past_hour",
+  "status": "error",
+  "message": "搜索工具配置问题 - 无法获取实时新闻数据",
+  "details": {
+    "issue": "Tavily搜索工具、Perplexity API和浏览器工具均遇到配置问题",
+    "affected_tools": ["tavily_search", "web_search", "browser"],
+    "specific_errors": {
+      "tavily_search": "脚本路径不存在或API密钥未配置",
+      "web_search": "缺少PERPLEXITY_API_KEY环境变量",
+      "browser": "浏览器服务超时或未正确启动"
+    },
+    "suggested_actions": [
+      "配置TAVILY_API_KEY环境变量: export TAVILY_API_KEY='your-api-key'",
+      "配置PERPLEXITY_API_KEY环境变量: export PERPLEXITY_API_KEY='your-api-key'",
+      "重启OpenClaw gateway服务: openclaw gateway restart",
+      "检查Tavily扩展安装: npm list openclaw-tavily"
+    ]
+  },
+  "news_results": [],
+  "total_results": 0,
+  "meta": {
+    "search_query": "科技新闻 AI 人工智能 最新进展",
+    "time_range": "day",
+    "expected_results": 10,
+    "actual_results": 0,
+    "file_path": "/root/daily/ai-daily-report/ai-search/tech-news-2026-03-12-0539.json"
+  }
+}

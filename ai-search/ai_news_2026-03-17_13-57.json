@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-03-17T13:57:00Z",
+  "news": [
+    {
+      "title": "人工智能加速融入千行百业",
+      "summary": "中国政府工作报告首次提出'打造智能经济新形态'，强调深化拓展'人工智能+'，推动重点行业领域人工智能商业化规模化应用。具身智能成为关键载体，从工业制造到医疗服务，AI正加速赋能实体经济转型升级。",
+      "publish_time": "2026-03-17",
+      "source_url": "https://news.cctv.cn/2026/03/17/ARTIow3gDf77A2yQowLYNXP8260317.shtml",
+      "source_name": "央视新闻"
+    },
+    {
+      "title": "阿里AI大整合：围绕Token构建新生态",
+      "summary": "阿里巴巴宣布成立Alibaba Token Hub，整合通义千问大模型、MaaS服务平台和BAI原平台，构建以Token为核心的AI新生态体系。这一战略旨在通过统一架构降低AI应用门槛，推动AI从模型时代向Token经济转型。",
+      "publish_time": "2026-03-17",
+      "source_url": "https://m.ofweek.com/ai/2026-03/ART-201712-8500-30683046.html",
+      "source_name": "OFweek人工智能网"
+    },
+    {
+      "title": "Meta与Nebius达成270亿美元云服务合作",
+      "summary": "Meta Platforms与荷兰数据中心公司Nebius签署价值最高达270亿美元的云服务资源租赁协议，这一巨额合作凸显了大型科技公司对AI算力基础设施的强劲需求，将显著推动欧洲AI算力市场的发展。",
+      "publish_time": "2026-03-17",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001903b4j2.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "马斯克：SpaceX未来AI成就将超越所有公司总和",
+      "summary": "埃隆·马斯克在社交媒体上表示，虽然目前认同谷歌DeepMind在AI竞赛中的领先地位，但预测在未来几年内，SpaceX在AI领域的成就将远远超过所有人工智能公司加起来的总和，突显其对航天与AI融合的战略信心。",
+      "publish_time": "2026-03-17",
+      "source_url": "https://k.sina.com.cn/article_5953189932_162d6782c06703xwqm.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "抢抓人工智能发展战略机遇期，携手构建网络空间命运共同体",
+      "summary": "世界互联网大会秘书长任贤良撰文指出，2026年人工智能正经历从数字感知向物理交互的范式跃迁。中国正从'应用领先'向'基础补齐'战略转型，通过深耕根技术攻坚、推动要素协同与生态培育，积极参与全球AI治理，弥合'数智鸿沟'。",
+      "publish_time": "2026-03-17",
+      "source_url": "http://cpc.people.com.cn/n1/2026/0317/c64387-40683270.html",
+      "source_name": "人民网"
+    }
+  ]
+}

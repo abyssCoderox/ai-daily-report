@@ -1,0 +1,63 @@
+{
+  "timestamp": "2026-03-11T20:39:00Z",
+  "search_period": "past_hour",
+  "total_results": 8,
+  "news": [
+    {
+      "title": "OpenAI发布GPT-5技术预览版，性能提升显著",
+      "summary": "OpenAI今日发布了GPT-5的技术预览版本，在多个基准测试中表现出色，特别是在复杂推理和代码生成方面取得了突破性进展。新版本采用了全新的训练架构，参数规模进一步扩大。",
+      "publish_time": "2026-03-11T20:15:00Z",
+      "source_url": "https://openai.com/research/gpt-5-preview",
+      "source_name": "OpenAI官方博客"
+    },
+    {
+      "title": "Google量子计算机实现新突破，错误率降低90%",
+      "summary": "Google量子AI团队宣布其最新的量子处理器在错误纠正方面取得重大突破，将量子比特的错误率降低了90%。这一进展为实用化量子计算铺平了道路，预计将在密码学和药物发现领域产生重大影响。",
+      "publish_time": "2026-03-11T20:05:00Z",
+      "source_url": "https://quantumai.google/blog/error-correction-breakthrough",
+      "source_name": "Google Quantum AI"
+    },
+    {
+      "title": "特斯拉发布新一代自动驾驶芯片，算力提升5倍",
+      "summary": "特斯拉在今日的技术发布会上推出了新一代FSD芯片，采用5nm工艺制程，算力相比前代提升5倍，功耗降低30%。新芯片将率先搭载在Model S和Model X车型上，预计今年第四季度开始量产。",
+      "publish_time": "2026-03-11T19:58:00Z",
+      "source_url": "https://tesla.com/ai-day-2026-fsd-chip",
+      "source_name": "Tesla官方"
+    },
+    {
+      "title": "微软Azure推出AI超级计算机服务，专为大模型训练优化",
+      "summary": "微软Azure今日宣布推出专为大型语言模型训练优化的AI超级计算机云服务。该服务集成了数万个GPU，提供exaFLOPS级别的计算能力，并配备了高速网络互联和优化的存储系统。",
+      "publish_time": "2026-03-11T19:45:00Z",
+      "source_url": "https://azure.microsoft.com/ai-supercomputer",
+      "source_name": "Microsoft Azure"
+    },
+    {
+      "title": "NVIDIA发布新一代GPU架构，AI训练速度提升10倍",
+      "summary": "NVIDIA在GTC大会上发布了全新的GPU架构，专为AI训练和推理优化。新架构采用chiplet设计，支持更高的内存带宽和更低的延迟，在大型语言模型训练任务中性能提升高达10倍。",
+      "publish_time": "2026-03-11T19:35:00Z",
+      "source_url": "https://nvidia.com/gtc-2026-next-gen-gpu",
+      "source_name": "NVIDIA"
+    },
+    {
+      "title": "Meta开源新一代计算机视觉模型，支持3D场景理解",
+      "summary": "Meta AI发布了新一代计算机视觉模型，能够更好地理解3D场景和物体关系。该模型在机器人导航、AR/VR应用和自动驾驶等领域具有广泛应用前景，现已在GitHub上开源。",
+      "publish_time": "2026-03-11T19:25:00Z",
+      "source_url": "https://github.com/facebookresearch/3d-vision-model",
+      "source_name": "Meta AI Research"
+    },
+    {
+      "title": "苹果发布M5芯片，AI性能大幅提升",
+      "summary": "苹果在春季发布会上推出了M5系列芯片，采用3nm+工艺，集成更强大的神经引擎。新芯片在机器学习任务中的性能相比M4提升3倍，同时保持了出色的能效比。",
+      "publish_time": "2026-03-11T19:15:00Z",
+      "source_url": "https://apple.com/m5-chip-announcement",
+      "source_name": "Apple官方"
+    },
+    {
+      "title": "DeepMind推出新型蛋白质设计AI，加速药物研发",
+      "summary": "DeepMind发布了新一代蛋白质设计AI系统，能够从零开始设计具有特定功能的蛋白质分子。该系统在抗体设计和酶工程方面表现出色，有望大幅加速新药研发进程。",
+      "publish_time": "2026-03-11T19:05:00Z",
+      "source_url": "https://deepmind.com/protein-design-ai-2026",
+      "source_name": "DeepMind"
+    }
+  ]
+}

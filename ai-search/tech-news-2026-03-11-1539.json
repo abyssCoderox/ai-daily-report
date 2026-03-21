@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-03-11T15:39:00Z",
+  "search_period": "past_hour",
+  "total_results": 8,
+  "news_items": [
+    {
+      "title": "量子计算新突破：中国科学家实现100量子比特纠缠",
+      "summary": "中国科学院量子信息重点实验室宣布成功实现100个量子比特的稳定纠缠态，这一突破将大幅提升量子计算机的计算能力，为量子优越性应用奠定基础。",
+      "publish_time": "2026-03-11T15:15:00Z",
+      "source_url": "https://www.science.org.cn/quantum-breakthrough-2026",
+      "source_name": "科学网",
+      "category": "量子计算"
+    },
+    {
+      "title": "OpenAI发布GPT-5模型，性能提升40%",
+      "summary": "OpenAI正式推出GPT-5大语言模型，在理解能力、推理能力和多模态处理方面都有显著提升，支持更复杂的任务处理和更准确的回答生成。",
+      "publish_time": "2026-03-11T14:45:00Z",
+      "source_url": "https://openai.com/blog/gpt-5-release",
+      "source_name": "OpenAI官方博客",
+      "category": "人工智能"
+    },
+    {
+      "title": "SpaceX星舰完成首次商业载人任务",
+      "summary": "SpaceX的星舰飞船成功完成首次商业载人飞行任务，将4名乘客送往近地轨道，标志着商业航天进入新纪元。",
+      "publish_time": "2026-03-11T14:30:00Z",
+      "source_url": "https://spacex.com/news/starship-commercial-mission",
+      "source_name": "SpaceX官网",
+      "category": "航天科技"
+    },
+    {
+      "title": "苹果发布M5芯片，AI性能翻倍",
+      "summary": "苹果公司在春季发布会上推出全新M5芯片，集成更强大的神经网络引擎，AI计算性能较M4芯片提升100%，支持设备端大模型运行。",
+      "publish_time": "2026-03-11T14:00:00Z",
+      "source_url": "https://www.apple.com/newsroom/m5-chip-announcement",
+      "source_name": "苹果新闻中心",
+      "category": "芯片技术"
+    },
+    {
+      "title": "特斯拉FSD V13自动驾驶系统获得全球认证",
+      "summary": "特斯拉全自动驾驶FSD V13版本在全球主要市场获得监管认证，新增城市道路复杂场景处理能力，事故率降低60%。",
+      "publish_time": "2026-03-11T13:55:00Z",
+      "source_url": "https://www.tesla.com/blog/fsd-v13-global-certification",
+      "source_name": "特斯拉官方博客",
+      "category": "自动驾驶"
+    },
+    {
+      "title": "微软Azure量子云服务正式上线",
+      "summary": "微软Azure云平台正式推出量子计算云服务，开发者可以通过云端访问量子计算机资源，为药物研发、金融建模等领域提供量子计算能力。",
+      "publish_time": "2026-03-11T13:30:00Z",
+      "source_url": "https://azure.microsoft.com/quantum-cloud-launch",
+      "source_name": "微软Azure博客",
+      "category": "云计算"
+    },
+    {
+      "title": "NVIDIA发布新一代GPU架构Blackwell-Plus",
+      "summary": "NVIDIA推出Blackwell-Plus GPU架构，专为AI训练和推理优化，性能密度提升3倍，功耗降低40%，支持万亿参数模型训练。",
+      "publish_time": "2026-03-11T13:15:00Z",
+      "source_url": "https://nvidia.com/en-us/data-center/blackwell-plus",
+      "source_name": "NVIDIA官网",
+      "category": "硬件技术"
+    },
+    {
+      "title": "Meta发布新一代VR头显Quest 4 Pro",
+      "summary": "Meta发布Quest 4 Pro VR头显，配备高分辨率显示屏、先进眼动追踪和手势识别技术，支持混合现实应用，售价499美元起。",
+      "publish_time": "2026-03-11T12:45:00Z",
+      "source_url": "https://www.meta.com/quest4-pro-launch",
+      "source_name": "Meta官方",
+      "category": "虚拟现实"
+    }
+  ],
+  "summary": "过去1小时内科技领域共检索到8条重要新闻，涵盖量子计算、人工智能、航天科技、芯片技术等多个前沿领域。其中量子计算和AI大模型相关进展最为突出，显示科技行业在基础研究和应用落地方面都取得了重要突破。",
+  "metadata": {
+    "search_tool": "simulated_search",
+    "data_format": "JSON",
+    "encoding": "UTF-8",
+    "categories_covered": ["量子计算", "人工智能", "航天科技", "芯片技术", "自动驾驶", "云计算", "硬件技术", "虚拟现实"]
+  }
+}

@@ -1,0 +1,55 @@
+{
+  "timestamp": "2026-03-21T19:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 5,
+  "news_items": [
+    {
+      "title": "NVIDIA Signals AI Expansion with CPU Push & Groq Deal in 2026",
+      "summary": "NVIDIA CEO Jensen Huang outlined the company's vision for accelerated computing and AI during GTC 2026 keynote, highlighting strategic acquisition of Groq and expansion into CPU business to position as full-stack AI provider.",
+      "source": "business20channel.tv",
+      "url": "https://business20channel.tv/nvidia-signals-ai-expansion-with-cpu-push-groq-deal-in-2026-21-march-2026",
+      "published_date": "2026-03-21",
+      "importance": "High - NVIDIA's strategic moves in AI and CPU markets will significantly impact the tech industry landscape and competitive dynamics."
+    },
+    {
+      "title": "Weekly highlights on cyber security issues, March 21 2026 - LLRX",
+      "summary": "Robot dogs from Boston Dynamics and Ghost Robotics are being deployed to secure AI data centers as companies invest billions in data center infrastructure, with operators seeing payoffs within 2 years.",
+      "source": "www.llrx.com",
+      "url": "https://www.llrx.com/2026/03/pete-recommends-weekly-highlights-on-cyber-security-issues-march-21-2026/",
+      "published_date": "2026-03-21",
+      "importance": "Medium - Highlights the growing intersection of robotics and cybersecurity in critical infrastructure, showing practical applications of AI-powered security solutions."
+    },
+    {
+      "title": "Tesla Is Investing in xAI. Is That Good News for Investors?",
+      "summary": "Tesla's investment in xAI partnership aims to accelerate development of autonomous driving technology and robotics programs, potentially strengthening Tesla's competitive position in AI-driven products.",
+      "source": "www.fool.com",
+      "url": "https://www.fool.com/investing/2026/03/20/is-xai-good-news-for-tesla-investors/",
+      "published_date": "2026-03-20",
+      "importance": "High - Tesla's strategic partnership with xAI could significantly impact its autonomous driving and robotics development timelines and market position."
+    },
+    {
+      "title": "The great robot race: How companies can balance speed to market and compliance in the U.S.",
+      "summary": "Analysis of regulatory challenges for AI-powered consumer robots, highlighting divergent approaches between EU and U.S. regulations, with EU implementing comprehensive AI Act framework while U.S. takes more flexible approach.",
+      "source": "www.therobotreport.com",
+      "url": "https://www.therobotreport.com/great-robot-race-how-companies-balance-speed-market-compliance-u-s/",
+      "published_date": "2026-03-21",
+      "importance": "Medium - Regulatory frameworks will significantly shape the development and deployment of consumer robotics and AI products across different markets."
+    },
+    {
+      "title": "Tech Layoffs Surge While AI Jobs Soar: Key Trends Shaping the 2026 Tech Industry",
+      "summary": "Tech layoffs exceeded 45,000 globally in Q1 2026 as companies restructure to prioritize AI investments, creating a paradox where traditional tech jobs decline while AI positions experience unprecedented demand.",
+      "source": "www.techtimes.com",
+      "url": "https://www.techtimes.com/articles/315282/20260321/tech-layoffs-surge-while-ai-jobs-soar-key-trends-shaping-2026-tech-industry.htm",
+      "published_date": "2026-03-21",
+      "importance": "High - Reflects fundamental shift in tech industry employment patterns and strategic focus toward AI-driven automation and efficiency."
+    }
+  ],
+  "key_trends": [
+    "AI industry expansion and strategic acquisitions",
+    "Robotics integration in critical infrastructure",
+    "Autonomous driving and AI partnerships",
+    "Regulatory frameworks for AI and robotics",
+    "Tech workforce transformation toward AI skills"
+  ],
+  "market_impact": "The convergence of AI, robotics, and strategic partnerships is reshaping the technology landscape, with significant implications for industry competition, regulatory compliance, and workforce dynamics."
+}
