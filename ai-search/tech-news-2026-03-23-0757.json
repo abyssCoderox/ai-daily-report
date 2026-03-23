@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-03-23T07:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 8,
+  "news_items": [
+    {
+      "title": "Regulators Worldwide Struggling With AI Oversight",
+      "url": "https://nationaltoday.com/us/va/university-of-virginia/news/2026/03/23/regulators-worldwide-struggling-with-ai-oversight/",
+      "snippet": "Experts speaking at the University of Virginia's Miller Center said regulators around the world are struggling to manage the rise of artificial intelligence (AI) technology. They noted that in the U.S., the Trump administration's efforts to promote innovation have led to the rollback of previous guardrails, creating major issues for oversight.",
+      "publish_time": "2026-03-23T00:00:00Z",
+      "source": "National Today",
+      "relevance_score": 0.86413884
+    },
+    {
+      "title": "AEM and ASE Enter Strategic Partnership to Accelerate AI and HPC Innovation",
+      "url": "https://www.tradingview.com/news/reuters.com,2026-03-23:newsml_ACN105757:0-aem-and-ase-enter-strategic-partnership-to-accelerate-ai-and-hpc-test-innovation/",
+      "snippet": "AEM Holdings Ltd. announced a strategic partnership with ASE Technology Holding Co., bringing together AEM's proprietary test technologies with ASE's manufacturing scale to deliver disruptive test solutions for AI and High-Performance Computing markets. The collaboration includes a S$12 million investment through private placement.",
+      "publish_time": "2026-03-23T00:00:00Z",
+      "source": "TradingView/ACN Newswire",
+      "relevance_score": 0.86080295
+    },
+    {
+      "title": "AIC Showcases AI Infrastructure Platforms for Next-Generation AI Data Centers at CloudFest 2026",
+      "url": "https://www.prnewswire.com/news-releases/aic-showcases-ai-infrastructure-platforms-for-next-generation-ai-data-centers-at-cloudfest-2026-302719724.html",
+      "snippet": "AIC Inc. will showcase its latest AI infrastructure platforms at CloudFest 2026 in Germany, featuring GPU computing servers and AI-optimized storage systems designed for AI training, inference, and data-intensive workloads. The solutions support modern AI data centers and high-performance computing environments.",
+      "publish_time": "2026-03-23T00:00:00Z",
+      "source": "PRNewswire",
+      "relevance_score": 0.8455478
+    },
+    {
+      "title": "Neil deGrasse Tyson warns super-intelligent AI is a threat to humanity, we must stop it",
+      "url": "https://www.indiatoday.in/technology/news/story/neil-degrasse-tyson-warns-super-intelligent-ai-is-a-threat-to-humanity-we-must-stop-it-2885703-2026-03-23",
+      "snippet": "American astrophysicist Neil deGrasse Tyson believes that superintelligent AI may be doom for humanity. He warns about AI reaching a state where machines can surpass human intelligence, similar to depictions in films like The Matrix and Terminator. Concerns also raised about AI use in weapons.",
+      "publish_time": "2026-03-23T09:45:00Z",
+      "source": "India Today",
+      "relevance_score": 0.8364614
+    },
+    {
+      "title": "Lawmakers push to regulate AI in political ads and companionship services",
+      "url": "https://www.njspotlightnews.org/2026/03/lawmakers-push-to-regulate-ai/",
+      "snippet": "New Jersey Assembly is taking steps to regulate artificial intelligence in political ads, business dealings and companionship services. Bills target deceptive use of AI in photo advertising of properties and expand child endangerment laws to include AI-generated sexual content, with penalties up to 18 months in prison.",
+      "publish_time": "2026-03-23T00:00:00Z",
+      "source": "NJ Spotlight News",
+      "relevance_score": 0.75852895
+    },
+    {
+      "title": "China Seeking AI to Counter U.S. Military Strengths",
+      "url": "https://www.nationaldefensemagazine.org/articles/2026/3/23/algorithmic-warfare-china-seeking-ai-to-counter-us-military-strengths",
+      "snippet": "The Chinese military is looking to acquire artificial intelligence systems that can counteract perceived U.S. warfighting advantages, according to a new report on algorithmic warfare strategies.",
+      "publish_time": "2026-03-23T00:00:00Z",
+      "source": "National Defense Magazine",
+      "relevance_score": 0.75355774
+    },
+    {
+      "title": "Softbank announces US plant for AI data centers",
+      "url": "https://www.taipeitimes.com/News/biz/archives/2026/03/23/2003854281",
+      "snippet": "Japan's Softbank Group Corp plans to build a huge new gas-fired power plant in Ohio to provide energy for artificial intelligence (AI) data centers. This is part of a broader US$550 billion Japanese investment in the US that Tokyo agreed to in exchange for reduced trade tariffs.",
+      "publish_time": "2026-03-23T00:00:00Z",
+      "source": "Taipei Times",
+      "relevance_score": 0.73755574
+    },
+    {
+      "title": "Gartner Survey Reveals Acquiring and Developing AI and Digital Talent is CFOs' Top Near-Term Challenge",
+      "url": "https://www.gartner.com/en/newsroom/press-releases/2026-03-23-gartner-survey-reveals-acquiring-and-developing-ai-and-digital-talent-is-cfos-top-near-term-challenge",
+      "snippet": "Gartner survey reveals that acquiring and developing skilled digital and AI talent is the top near-term challenge for CFOs. The survey was conducted amid global disruptions including events in the Middle East, highlighting the need for finance leaders to handle volatility and shocks.",
+      "publish_time": "2026-03-23T00:00:00Z",
+      "source": "Gartner",
+      "relevance_score": 0.69968605
+    }
+  ]
+}
