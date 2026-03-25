@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-03-25T07:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 8,
+  "news_items": [
+    {
+      "title": "OKI Launches EMS for AI Server Equipment Featuring Proprietary High Heat Dissipation Technology",
+      "summary": "OKI launched comprehensive Electronics Manufacturing Services (EMS) for AI server equipment, featuring proprietary high heat dissipation technology. The services cover design, production, component procurement, mounting, assembly, testing, and reworking of large-size multi-layer PCBs for AI semiconductors with over 10,000 pins. Targeting AI server manufacturers, OKI aims for ¥1 billion in sales for FY2026.",
+      "publication_time": "2026-03-24T12:55:00Z",
+      "source_url": "https://www.businesswire.com/news/home/20260324820804/en/OKI-Launches-EMS-for-AI-Server-Equipment-Featuring-Proprietary-High-Heat-Dissipation-Technology",
+      "source_name": "Business Wire",
+      "relevance_score": 0.817
+    },
+    {
+      "title": "Tesla, SpaceX Terafab Plan Seen as Key to Easing AI Bottleneck",
+      "summary": "Tesla and SpaceX's reported $25 billion plan to build two advanced semiconductor fabrication plants in Austin, Texas marks a significant step toward addressing AI chip supply bottlenecks. The 'Terafab' initiative will produce inference chips for Tesla applications and specialized chips for orbital AI data centers, with 80% output dedicated to space-based satellites and 20% to ground-based applications.",
+      "publication_time": "2026-03-25T06:52:00Z",
+      "source_url": "https://www.proactiveinvestors.com.au/companies/news/1089431/tesla-spacex-terafab-plan-seen-as-key-to-easing-ai-bottleneck-1089431.html",
+      "source_name": "Proactive Investors Australia",
+      "relevance_score": 0.800
+    },
+    {
+      "title": "Arm Unveils New AI Chip, Expects Billions in Annual Revenue",
+      "summary": "Arm Holdings announced its first production silicon product, the AGI CPU, marking a historic shift from IP licensing to manufacturing physical chips. The new chip targets agentic AI workloads and is expected to generate billions in additional revenue. Meta Platforms is the lead partner, with additional customers including OpenAI, Cloudflare, SAP, and SK Telecom. TSMC will fabricate the chips using 3nm technology.",
+      "publication_time": "2026-03-25T07:33:00Z",
+      "source_url": "https://telecom.economictimes.indiatimes.com/news/devices/arms-game-changing-ai-chip-expected-to-generate-billions-in-revenue/129789758",
+      "source_name": "ETTelecom",
+      "relevance_score": 0.749
+    },
+    {
+      "title": "Arm Expands Compute Platform to Silicon Products in Historic Company First",
+      "summary": "Arm Holdings announced the expansion of its compute platform into production silicon products for the first time in company history, beginning with the Arm AGI CPU. The chip delivers more than 2x performance per rack versus x86 CPUs and enables up to $10B in CAPEX savings per GW of AI data center capacity. More than 50 leading companies across the tech ecosystem are supporting this expansion.",
+      "publication_time": "2026-03-24T09:55:00Z",
+      "source_url": "https://lasvegassun.com/news/2026/mar/24/arm-expands-compute-platform-to-silicon-products-i/",
+      "source_name": "Las Vegas Sun",
+      "relevance_score": 0.654
+    },
+    {
+      "title": "AI Gains Ground in Packaging Industry - Lower Costs and Greater Functionality Drive Adoption",
+      "summary": "A PMMI report shows increasing adoption of AI in packaging operations as costs decline and functionality expands. Companies are moving beyond pilot projects to broader implementation, with applications in knowledge transfer, machine vision, predictive maintenance, regulation compliance, and data transparency. The report identifies five steps for successful AI strategy implementation.",
+      "publication_time": "2026-03-24T09:21:00Z",
+      "source_url": "https://www.manufacturingtomorrow.com/news/2026/03/24/ai-gains-ground-in-packaging-industry-lower-costs-and-greater-functionality-are-helping-increase-adoption/27248/",
+      "source_name": "Manufacturing Tomorrow",
+      "relevance_score": 0.459
+    },
+    {
+      "title": "SK Hynix to Buy $8 Billion of Top-End ASML Chipmaking Gear",
+      "summary": "SK Hynix plans to spend 11.9 trillion won ($7.9 billion) on cutting-edge extreme ultraviolet lithography tools from ASML Holding NV, highlighting the race to secure advanced semiconductor manufacturing equipment. The deal, valid through 2027, underscores how chipmakers are preparing for AI-driven demand for next-generation memory chips.",
+      "publication_time": "2026-03-25T07:41:00Z",
+      "source_url": "https://finance.yahoo.com/sectors/technology/articles/sk-hynix-buy-8-billion-074136395.html",
+      "source_name": "Yahoo Finance/Bloomberg",
+      "relevance_score": 0.427
+    },
+    {
+      "title": "The AI Powerhouse Facing High-Stakes 2026 - TSMC's Challenges",
+      "summary": "TSMC remains the heart of the AI revolution with 86% stock growth over the past year, but faces challenges including geopolitical risks, energy supply concerns, and unprecedented demand that outpaces supply by nearly three-to-one. The company's 2nm nodes are reportedly sold out through 2026.",
+      "publication_time": "2026-03-25T00:00:00Z",
+      "source_url": "https://www.facebook.com/61578694656812/posts/tsmc-the-ai-powerhouse-facing-a-high-stakes-2026tsmc-is-currently-the-undisputed/122163927728956488/",
+      "source_name": "Econ Trade Hub (Facebook)",
+      "relevance_score": 0.719
+    },
+    {
+      "title": "Elon Musk's Terafab Fever Dream Exposes Reality of AI Chip Crunch",
+      "summary": "Coverage of Musk's ambitious semiconductor project that highlights the broader industry challenges in AI chip production and the massive scale of investment required to address global semiconductor shortages.",
+      "publication_time": "2026-03-25T02:00:00Z",
+      "source_url": "https://www.facebook.com/mercurynews/posts/the-project-as-outlined-would-be-a-massive-operation-to-build-cutting-edge-semic/1369709438524742/",
+      "source_name": "The Mercury News (Facebook)",
+      "relevance_score": 0.417
+    }
+  ],
+  "market_trends": [
+    "AI chip manufacturing capacity expansion",
+    "Semiconductor supply chain constraints",
+    "Agentic AI infrastructure development",
+    "Advanced packaging and heat dissipation technologies",
+    "Industry shift from IP licensing to silicon production"
+  ],
+  "key_companies_mentioned": [
+    "OKI",
+    "Tesla",
+    "SpaceX",
+    "Arm Holdings",
+    "Meta Platforms",
+    "OpenAI",
+    "TSMC",
+    "SK Hynix",
+    "ASML",
+    "Samsung",
+    "Micron"
+  ]
+}
