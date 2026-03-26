@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-03-26T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "人工智能最新动态 - IT之家",
+      "url": "https://www.ithome.com/tags/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD/",
+      "snippet": "苹果联合创始人沃兹尼亚克坦言自己很少使用 AI，因为其回答虽然条理清晰，却常常"完全不是我真正想知道的内容"。他认为 AI 生成的文本"太过枯燥、太过完美"，缺乏人类温度。这与库克、盖茨等科技大佬的乐观态度形成鲜明对比。西门子表示工业高标准下，AI 对软件业务冲击有限。卡普空表态：游戏内容不会使用 AI 生成的素材，但将用 AI 提升开发效率。AI 产品贸易规模在 2024 年还只有 3.43 万亿美元，而到 2025 年已增加至 4.18 万亿美元，增幅达 21.9%。",
+      "source": "IT之家",
+      "score": 0.79958355,
+      "publish_time": "2026-03-24"
+    },
+    {
+      "title": "人工智能 - 国际科技创新中心",
+      "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+      "snippet": "爱思唯尔推出AI工具，可扫描数百万篇付费阅读论文。近年来，用于科学文献搜索的人工智能（AI）工具大量涌现，为总结研究成果及提出假设提供了更高效的方法。爱思唯尔的母公司RELX集团的首席执行官Erik Engstrom表示，用户报告称该工具节省了大量时间，提高了工作效率。马年春节AI加码"跑生活"，写歌、做饭、陪玩……今年春节，AI成了家里最忙的"成员"。",
+      "source": "国际科技创新中心",
+      "score": 0.7596005,
+      "publish_time": "2026-02-26"
+    },
+    {
+      "title": "AI最新资讯_人工智能新闻头条 - AI NEWS - AIBase",
+      "url": "https://news.aibase.com/zh/news",
+      "snippet": "千问打车新玩法：各地文旅"整活儿"推荐，网友一试居然真能到。奔驰携手清华、智谱，大模型首进超豪华后排。WebinarTV 被曝秘密将 Zoom 录制件转化为 AI 播客。单季狂撒 40 亿！快手 Q4 财报亮眼：AIGC 营销素材消耗占大头，AI 彻底重塑商业链路。Claude Code Auto Mode 重磅上线！AI 终于"自己开车"了，彻底告别每一步手动确认。",
+      "source": "AIBase",
+      "score": 0.6824261,
+      "publish_time": "2026-03-26"
+    },
+    {
+      "title": "人工智能| 世界新聞網",
+      "url": "https://www.worldjournal.com/search/tagging/8877/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "snippet": "抵制AI配音…"哪吒"配音演員譴責侵權 二創博主下架道歉。隨著AI技術發展，AI配音的侵權現象屢屢引發關注，電影"哪吒"內，哪吒的配音演員呂艷婷發布聲明，對譴責AI配音侵權的行為，接著陸續有多位知名配音演員相繼發布聲明，並呼籲抵制AI仿聲。香港人才引進27萬、1/4來自海外 李家超：AI重塑各行業。",
+      "source": "世界新聞網",
+      "score": 0.6450534,
+      "publish_time": "2026-03-20"
+    },
+    {
+      "title": "每日AI资讯、热点、动态、融资、产品发布 - AI工具集",
+      "url": "https://ai-bot.cn/daily-ai-news/",
+      "snippet": "谷歌推出 Nano Banana 2 图像 AI 模型：支持 4K 分辨率输出。Skywork AI 正式发布多模态视频基础模型 SkyReels V4。千寻智能近日完成近20亿元人民币融资，资本方覆盖顶级、产业、国有及战投机构，阵容强大。OpenAI 发布 GPT-5.3-Codex-Spark：专为实时编程而生。Mistral AI 推出新一代语音转文本模型Voxtral Transcribe 2。",
+      "source": "AI工具集",
+      "score": 0.6337056,
+      "publish_time": "2026-03-26"
+    },
+    {
+      "title": "人工智能最新资讯_CNMO",
+      "url": "https://m.cnmo.com/ai/",
+      "snippet": "美团 LongCat 团队发布全模态一站式评测基准UNO-Bench。软银与 OpenAI 宣布成立合资公司，明年推出企业级 AI 解决方案。Mistral AI 推出企业级 AI 应用开发平台AI Studio。Skywork AI 的网页复刻（Web Clone）功能正式上线。Figure AI 发布最新人形机器人——Figure 03。Anthropic 发布 AI Agent 上下文工程指南。",
+      "source": "CNMO",
+      "score": 0.59061456,
+      "publish_time": "2026-03-26"
+    },
+    {
+      "title": "人工智能消息与行业资讯动态 - OFweek",
+      "url": "https://www.ofweek.com/ai/CATList-201700-8100-ai.html",
+      "snippet": "GTC 2026英伟达AI大会即将召开。OpenClaw引发热潮，多家科技巨头包含腾讯、华为、字节、阿里也布局推出相关产品。工信部发布关于防范AI代理安全风险的相关提示。",
+      "source": "OFweek",
+      "score": 0.54753727,
+      "publish_time": "2026-03-24"
+    },
+    {
+      "title": "快讯- 每天三分钟，读懂全球智能产业- 智东西",
+      "url": "https://m.zhidx.com/news",
+      "snippet": "涵盖阿里、荣耀、地平线、联想等科技公司的最新动态，聚焦人工智能、机器人、VR/AR等前沿技术领域。",
+      "source": "智东西",
+      "score": 0.43295085,
+      "publish_time": "2026-03-26"
+    },
+    {
+      "title": "每日AI早报，关心AI 每早来一次就够了｜AI产品榜aicpb.com",
+      "url": "https://www.aicpb.com/news",
+      "snippet": "每日AI产品动态和早报资讯汇总。",
+      "source": "AI产品榜",
+      "score": 0.3362662,
+      "publish_time": "2026-03-26"
+    },
+    {
+      "title": "人工智慧- BBC News 中文",
+      "url": "https://www.bbc.com/zhongwen/topics/cpydz218gddt/trad",
+      "snippet": "AI驾驶无人机：拆解未来战场的攻防新技术。Openclaw和AI代理热潮拆解：从"养龙虾"到"卸龙虾"。",
+      "source": "BBC News 中文",
+      "score": 0.3259822,
+      "publish_time": "2026-03-26"
+    }
+  ]
+}
