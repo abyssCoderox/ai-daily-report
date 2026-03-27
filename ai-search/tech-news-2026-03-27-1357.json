@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-03-27T13:57:00Z",
+  "search_period": "past_6_hours",
+  "total_articles": 10,
+  "articles": [
+    {
+      "title": "Faraday Future Delivers More Robots to PBB Auto",
+      "summary": "Faraday Future has completed delivery of additional EAI (Electrified Autonomous Intelligence) robots to PBB Auto Inc., showcasing its latest autonomous vehicle technology at the new facility.",
+      "publish_time": "2026-03-27T01:36:00Z",
+      "source_url": "https://nationaltoday.com/us/ca/los-angeles/news/2026/03/27/faraday-future-delivers-more-robots-to-pbb-auto/",
+      "source_name": "National Today",
+      "importance": "Highlights growing adoption of electric and autonomous vehicle technology by new automotive industry players",
+      "category": "autonomous_vehicles"
+    },
+    {
+      "title": "Pony.ai Plans 3,000 Robotaxis by Year-End",
+      "summary": "Chinese driverless technology firm Pony.ai reported 20% revenue growth to 629 million yuan in 2025, with robotaxi revenue surging 129%. The company plans to expand its robotaxi fleet to over 3,000 vehicles across 20+ cities globally by end of 2026.",
+      "publish_time": "2026-03-27T19:32:15Z",
+      "source_url": "https://english.news.cn/20260327/33e9eb33cc7f441380261966d6734a83/c.html",
+      "source_name": "Xinhua News",
+      "importance": "Demonstrates rapid scaling of autonomous driving technology and international expansion",
+      "category": "autonomous_vehicles"
+    },
+    {
+      "title": "NVIDIA GTC 2026 Robotics Trends",
+      "summary": "Three key trends emerged from GTC 2026: Physical AI advancement, next-generation compute platforms, and convergence of autonomous systems ecosystem across vehicles, robotics, drones, and smart infrastructure.",
+      "publish_time": "2026-03-27T12:00:00Z",
+      "source_url": "https://levelfivesupplies.com/3-key-robotics-trends-from-nvidia-gtc-2026-what-engineers-building-autonomous-systems-need-to-know/",
+      "source_name": "Level Five Supplies",
+      "importance": "Industry-wide technological convergence shaping future of autonomous systems",
+      "category": "robotics_ai"
+    },
+    {
+      "title": "Kraken Robotics Secures Global Defense Orders",
+      "summary": "Kraken Robotics secured defense contracts across five countries, expanding SeaPower batteries and advanced sonar systems for the Polish Navy, alongside new partnerships for long-endurance autonomous maritime capabilities.",
+      "publish_time": "2026-03-27T10:30:00Z",
+      "source_url": "https://www.unmannedsystemstechnology.com/2026/03/kraken-robotics-secures-global-defense-orders-expands-subsea-battery-production/",
+      "source_name": "Unmanned Systems Technology",
+      "importance": "Shows growing military adoption of autonomous marine systems and robotics",
+      "category": "defense_technology"
+    },
+    {
+      "title": "China Building Robot Training Farms",
+      "summary": "China is establishing state-funded facilities to produce training data for humanoid robots, with one site in Wuhan employing 70 graduates to teach 46 robots everyday tasks, generating 100 hours of usable data daily.",
+      "publish_time": "2026-03-27T08:15:00Z",
+      "source_url": "https://www.thehumansintheloop.ai/p/the-top-30-ai-stories-from-march",
+      "source_name": "The Humans in the Loop",
+      "importance": "Represents massive scale-up in embodied AI training infrastructure",
+      "category": "ai_training"
+    },
+    {
+      "title": "XPeng Drops 'Motors' From Name as It Expands Into Robotics",
+      "summary": "XPeng is rebranding from 'XPeng Motors' to 'XPeng Group' to reflect its expansion into robotics and AI chips, with plans for mass production of humanoid robots and targeting 1 million annual robot sales by 2030.",
+      "publish_time": "2026-03-27T09:45:00Z",
+      "source_url": "https://eletric-vehicles.com/xpeng/xpeng-drops-motors-from-chinese-name-as-it-expands-into-robotics-and-ai-chips/",
+      "source_name": "Electric Vehicles",
+      "importance": "Signals major automotive company's strategic pivot to broader AI and robotics",
+      "category": "corporate_strategy"
+    },
+    {
+      "title": "Kodiak AI Partners with NVIDIA for Autonomous Driving",
+      "summary": "Kodiak AI will utilize NVIDIA Drive Hyperion architecture with Drive AGX Thor computers based on Blackwell architecture to enhance real-time interpretation of driving conditions for safe autonomous trucking.",
+      "publish_time": "2026-03-27T07:20:00Z",
+      "source_url": "https://autotechinsight.spglobal.com/news/5287382/kodiak-ai-partners-with-nvidia-to-enhance-autonomous-driving-technology",
+      "source_name": "S&P Global AutoTechInsight",
+      "importance": "Advanced AI compute enabling next-generation autonomous trucking capabilities",
+      "category": "autonomous_vehicles"
+    },
+    {
+      "title": "Tesla's Two-Seat Cybercab Enters Production",
+      "summary": "Tesla has begun production of its controversial two-seat Cybercab design 18 months after unveiling, marking a significant milestone in Tesla's autonomous vehicle strategy.",
+      "publish_time": "2026-03-27T08:42:00Z",
+      "source_url": "https://www.techbuzz.ai/articles/tesla-s-two-seat-cybercab-enters-production-despite-critics",
+      "source_name": "Tech Buzz",
+      "importance": "Major milestone in Tesla's autonomous vehicle production and market strategy",
+      "category": "autonomous_vehicles"
+    },
+    {
+      "title": "Japan's New Five-Year Tech Plan Emphasizes Dual-Use Research",
+      "summary": "Japan's Seventh Science and Technology Basic Plan prioritizes military-civilian dual-use technologies, with focus on AI, quantum, semiconductors, space, and defense industry technologies, backed by 60 trillion yen government investment.",
+      "publish_time": "2026-03-27T06:00:00Z",
+      "source_url": "https://china.kyodonews.net/articles/-/8474",
+      "source_name": "Kyodo News",
+      "importance": "Strategic national technology policy shift toward defense and security applications",
+      "category": "tech_policy"
+    },
+    {
+      "title": "Physical AI Reshaping Future of Mobility",
+      "summary": "AI is fundamentally transforming autonomous cars, trucks, and drones, moving closer to commercial reality with advanced sensor fusion, edge computing, and integrated autonomous systems.",
+      "publish_time": "2026-03-27T05:30:00Z",
+      "source_url": "https://institute.bankofamerica.com/transformation/physical-ai-part-3.html",
+      "source_name": "Bank of America Institute",
+      "importance": "Comprehensive analysis of AI's transformative impact on transportation sector",
+      "category": "ai_transportation"
+    }
+  ],
+  "summary": "The past 6 hours have seen significant developments in autonomous vehicles, robotics, and AI infrastructure. Key trends include scaling of robotaxi operations, convergence of autonomous systems, military adoption of robotics, and major corporate pivots toward AI and robotics. Companies like Pony.ai, Faraday Future, and XPeng are expanding their autonomous capabilities, while countries like Japan are strategically investing in dual-use technologies.",
+  "key_trends": [
+    "Autonomous vehicle fleet expansion",
+    "Convergence of robotics and AI systems",
+    "Military adoption of autonomous technology",
+    "Corporate rebranding toward AI/robotics",
+    "Large-scale AI training infrastructure development"
+  ]
+}
