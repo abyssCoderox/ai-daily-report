@@ -1,0 +1,80 @@
+{
+  "search_metadata": {
+    "query": "科技新闻 最新 人工智能 AI 技术突破",
+    "search_time": "2026-03-12T01:39:00Z",
+    "time_range": "day",
+    "total_results": 10
+  },
+  "news_items": [
+    {
+      "title": "Sign up for the AI & Tech Brief newsletter from WP Intelligence - The Washington Post",
+      "summary": "AI & Tech Brief. Your essential guide to AI & Tech news, published by WP Intelligence, a division of The Post focused on actionable insights for business, policy and thought leaders that operates independently from the Washington Post newsroom.",
+      "publish_time": "2026-03-11",
+      "source_url": "https://www.washingtonpost.com/newsletters/ai-tech-brief/",
+      "relevance_score": 99
+    },
+    {
+      "title": "Introducing the new AI & Tech Brief, now published by WP Intelligence - The Washington Post",
+      "summary": "AI & Tech Brief from WP Intelligence. We're launching a new AI & Tech newsletter. We want to bring you the depth and breadth befitting of a revolutionary technology and cover AI as a story of economic transformation; regulation...",
+      "publish_time": "2026-03-11",
+      "source_url": "https://www.washingtonpost.com/wp-intelligence/ai-tech-brief/2026/03/11/introducing-new-ai-tech-brief-now-published-by-wp-intelligence/",
+      "relevance_score": 98
+    },
+    {
+      "title": "This AI startup wants to pay you $800 to bully AI chatbots for the day - Business Insider",
+      "summary": "A startup is offering $800 to candidates who want to 'bully AI' for a day. The 8-hour session is intended to promote the startup's AI memory tool, its CEO said. If an AI chatbot has ever tested your patience, this job will pay you $800...",
+      "publish_time": "2026-03-11",
+      "source_url": "https://www.businessinsider.com/startup-is-offering-800-to-bully-ai-2026-3",
+      "relevance_score": 15
+    },
+    {
+      "title": "SpaceX's Starship delays risk NASA moon landing timeline: watchdog - Reuters",
+      "summary": "AI rally sparks white-collar job loss fears, says investor. Tech Weekly: Meta lets in rivals, age-checking tech matures. Meta acquires AI agent social network Moltbook...",
+      "publish_time": "2026-03-11",
+      "source_url": "https://www.reuters.com/video/watch/idRW289111032026RP1/?chan=technology",
+      "relevance_score": 5
+    },
+    {
+      "title": "AI Still Needs Consultants—For Now - WSJ",
+      "summary": "AI Still Needs Consultants For Now, BlackRock Invests in Trade Workers and AI Startup Aaru Was Founded by Teenagers. Plus, BlackRock donates $100 million to train trade workers and a billion-dollar AI startup founded by teenagers...",
+      "publish_time": "2026-03-11",
+      "source_url": "https://www.wsj.com/tech/ai/ai-still-needs-consultantsfor-now-7642cbab?gaa_at=eafs&gaa_n=AWEtsqfVNNm5cvOPx-p0NJNVsgnh7-oFrkTFfxOOn1fKBoahkagcSPwgfKMv&gaa_ts=69b19195&gaa_sig=4P3ZxWPazM3FzLQ4mlfBijIsIAoWap9TJpwZvkXOCsTm7YvrALId-dtUCtfMi9FD2uGT0NYJpC6DJ5p9zfVGqA%3D%3D",
+      "relevance_score": 4
+    },
+    {
+      "title": "GSMA launches Open Telco AI initiative for telco-grade AI at MWC 2026 - RCR Wireless News",
+      "summary": "The problem – Current generic AI models lack the precision and reliability required for highly regulated telecom network operations. General-purpose AI models, however impressive they've become, aren't quite getting the job done when it comes to telecom network operations...",
+      "publish_time": "2026-03-11",
+      "source_url": "https://www.rcrwireless.com/20260311/ai/gsma-open-telco-ai",
+      "relevance_score": 4
+    },
+    {
+      "title": "Zendesk acquires Forethought, eyes self-improving AI agents - Constellation Research",
+      "summary": "Zendesk said it will acquire Forethought, a company that specializes in AI agents for customer experience automation. The move will enable Zendesk to expand its AI agent offerings within its Resolution Platform...",
+      "publish_time": "2026-03-11",
+      "source_url": "https://www.constellationr.com/insights/news/zendesk-acquires-forethought-eyes-self-improving-ai-agents",
+      "relevance_score": 4
+    },
+    {
+      "title": "India's Chief Economic Advisor Says Too Early to Gauge AI Impact - WSJ",
+      "summary": "V. Anantha Nageswaran, India's chief economic advisor, sees risks in India's labor market, including the potential for AI to slow...",
+      "publish_time": "2026-03-11",
+      "source_url": "https://www.wsj.com/tech/ai/indias-chief-economic-advisor-says-too-early-to-gauge-ai-impact-e2181076?gaa_at=eafs&gaa_n=AWEtsqcty5YwxYfFZ8260oL-nlzhDuLUiIC9wYSIeAWSIIiOSs3zv0I6PR90&gaa_ts=69b0f418&gaa_sig=fkvGm1b3ZQ-ECU0PPEfVOTBQkTf0T09b93Rx-PTIiujQ5W1elea0LDl9SyQ2RK2sv7NnzPjooh2R8CSQnlY_tg%3D%3D",
+      "relevance_score": 3
+    },
+    {
+      "title": "AI programs are struggling to retain users - Zamin.uz",
+      "summary": "Although artificial intelligence technologies are gaining popularity in the app market, they are losing to regular apps in retaining users long-term. According to a new report by RevenueCat, even though AI-powered apps generate good revenue in the initial stage, subscribers abandon them faster...",
+      "publish_time": "2026-03-11",
+      "source_url": "https://zamin.uz/en/technology/194024-ai-programs-are-struggling-to-retain-users.html",
+      "relevance_score": 2
+    },
+    {
+      "title": "Detecon delivers AI insights at Gulf thought leadership initiatives - Consultancy-me.com",
+      "summary": "Detecon, a leading global consulting firm, has in recent weeks delivered two thought leadership initiatives focused on the adoption of artificial intelligence (AI)...",
+      "publish_time": "2026-03-11",
+      "source_url": "https://www.consultancy-me.com/news/amp/12875/detecon-delivers-ai-insights-at-gulf-thought-leadership-initiatives",
+      "relevance_score": 2
+    }
+  ]
+}

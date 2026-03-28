@@ -1,0 +1,94 @@
+{
+  "search_metadata": {
+    "query": "科技新闻",
+    "search_time": "2026-03-11T14:39:00Z",
+    "total_results": 10,
+    "response_time": 1.18,
+    "request_id": "b8ba26da-44ec-4850-b3a0-a18150d6ab98"
+  },
+  "summary": {
+    "answer": "Recent developments in technology highlight significant advancements and challenges. SpaceX's Starship delays have raised concerns about NASA's moon landing timeline, according to Reuters. Meanwhile, China's SpaceSail is seeking fresh funding to compete with Starlink by deploying thousands of low-Earth-orbit satellites, as reported by Caixin Global. In Australia, NAPLAN tests faced disruptions due to a technical issue on the first day, according to iTnews. Additionally, AI continues to make strides in various fields, from healthcare research to communications, as seen in CNN's coverage of brain tissue removal for cancer and Alzheimer's research and the use of AI in art history."
+  },
+  "news_articles": [
+    {
+      "title": "SpaceX's Starship delays risk NASA moon landing timeline: watchdog - Reuters",
+      "summary": "Tech Weekly: Meta lets in rivals, age-checking tech matures. NASA shakes up moon program with new test mission. Meta acquires AI agent social network Moltbook.",
+      "publish_time": "2026-03-11T09:07:44Z",
+      "source_url": "https://www.reuters.com/video/watch/idRW289111032026RP1/?chan=technology",
+      "source_name": "Reuters",
+      "relevance_score": 0.29834872
+    },
+    {
+      "title": "Big threat for severe weather for central Illinois - CNN",
+      "summary": "A rare look inside one man's operation where surgeons removed living brain tissue for cutting-edge research into cancer and Alzheimer's disease. How AI is disrupting art history.",
+      "publish_time": "2026-03-10T19:31:00Z",
+      "source_url": "https://www.cnn.com/2026/03/10/weather/video/wxapp-severe-threat-for-central-illinois",
+      "source_name": "CNN",
+      "relevance_score": 0.269661
+    },
+    {
+      "title": "China's SpaceSail Seeks Fresh Funding to Build Rival to Starlink - Caixin Global",
+      "summary": "A Shanghai government-backed satellite internet startup is preparing to raise fresh capital as it pushes ahead with an ambitious plan to deploy thousands of low-Earth-orbit satellites.",
+      "publish_time": "2026-03-11T11:16:00Z",
+      "source_url": "https://www.caixinglobal.com/2026-03-11/chinas-spacesail-seeks-fresh-funding-to-build-rival-to-starlink-102421921.html",
+      "source_name": "Caixin Global",
+      "relevance_score": 0.2503126
+    },
+    {
+      "title": "NAPLAN tests disrupted by tech issue on first day - iTnews",
+      "summary": "NAPLAN tests faced disruptions due to a technical issue on the first day. This issue is being urgently investigated by the technology provider.",
+      "publish_time": "2026-03-11T00:45:00Z",
+      "source_url": "https://www.itnews.com.au/news/naplan-tests-disrupted-by-tech-issue-on-first-day-624185",
+      "source_name": "iTnews",
+      "relevance_score": 0.22898342
+    },
+    {
+      "title": "Daily Briefs - Aviation Week",
+      "summary": "ZENATECH announced development of IQ Glider autonomous marine drone launch and refueling station. HUBBLE NETWORK announced successful transmission of sensor data to LEO-based satellite.",
+      "publish_time": "2026-03-11T01:30:46Z",
+      "source_url": "https://aviationweek.com/aerospacedailydepartments/daily-briefs-352",
+      "source_name": "Aviation Week",
+      "relevance_score": 0.1952106
+    },
+    {
+      "title": "CNBC's The China Connection newsletter: Beijing can't afford another crackdown on its tech companies - CNBC",
+      "summary": "Beijing can't afford another crackdown on its tech companies. China's tech companies bear a growing national responsibility amid tariffs, war abroad and slowing growth at home.",
+      "publish_time": "2026-03-11T04:01:26Z",
+      "source_url": "https://www.cnbc.com/2026/03/11/china-cant-afford-another-crackdown-on-its-tech-companies.html",
+      "source_name": "CNBC",
+      "relevance_score": 0.17973235
+    },
+    {
+      "title": "Anthropic's First Amendment case - Politico",
+      "summary": "One of the major First Amendment issues at play in the litigation cuts to whether a technology company can express ethical AI principles through limits on the use of its technology.",
+      "publish_time": "2026-03-10T20:00:03Z",
+      "source_url": "https://www.politico.com/newsletters/digital-future-daily/2026/03/10/anthropics-first-amendment-case-00821116",
+      "source_name": "Politico",
+      "relevance_score": 0.17934397
+    },
+    {
+      "title": "New episode: Sustainable reporting in mining - Mining Technology",
+      "summary": "This episode of the Energy Technology podcast discusses sustainability reporting in mining with the Global Reporting Initiative.",
+      "publish_time": "2026-03-10T14:54:04Z",
+      "source_url": "https://www.mining-technology.com/news/new-episode-sustainable-reporting-in-mining/",
+      "source_name": "Mining Technology",
+      "relevance_score": 0.17422788
+    },
+    {
+      "title": "How LogicMonitor Is Building The Future Of Agentic AI And Autonomous IT - Forbes",
+      "summary": "LogicMonitor CEO Christina Crawford Kosmowski discusses the rapidly evolving landscape of digital resilience and how LogicMonitor is leveraging agentic AI to move toward a future of 'Autonomous IT'.",
+      "publish_time": "2026-03-10T21:29:00Z",
+      "source_url": "https://www.forbes.com/video/8dc65c05-147b-4696-bc13-ccdfdfaf0be7/how-logicmonitor-is-building-the-future-of-agentic-ai-and-autonomous-it/",
+      "source_name": "Forbes",
+      "relevance_score": 0.17384885
+    },
+    {
+      "title": "New episode: Sustainable reporting in mining - Power Technology",
+      "summary": "This episode of the Energy Technology podcast discusses sustainability reporting in mining with the Global Reporting Initiative.",
+      "publish_time": "2026-03-10T14:54:04Z",
+      "source_url": "https://www.power-technology.com/news/new-episode-sustainable-reporting-in-mining/",
+      "source_name": "Power Technology",
+      "relevance_score": 0.16881615
+    }
+  ]
+}

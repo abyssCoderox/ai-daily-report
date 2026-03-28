@@ -1,0 +1,93 @@
+{
+  "search_metadata": {
+    "query": "科技新闻 人工智能 AI 最新发展",
+    "search_time": "2026-03-11T13:39:00Z",
+    "total_results": 10,
+    "time_range": "past_24_hours"
+  },
+  "summary": {
+    "answer": "India's Chief Economic Advisor, V. Anantha Nageswaran, suggests it is too early to gauge the impact of AI on the country's labor market, despite potential risks such as job displacement. Meanwhile, Adobe has introduced an AI assistant in Photoshop to help users navigate and edit photos, reflecting a broader trend of AI integration in creative tools. A study from MIT indicates that the progress in AI model breakthroughs is primarily driven by access to massive computing power rather than proprietary techniques. Additionally, Meta has acquired Moltbook, a social network for AI agents, highlighting the growing interest in AI-driven social interactions."
+  },
+  "news_articles": [
+    {
+      "title": "India's Chief Economic Advisor Says Too Early to Gauge AI Impact - WSJ",
+      "summary": "India's chief economic advisor sees risks in India's labor market, including the potential for AI to slow hiring as jobs are displaced or roles change. That could be good news for India's markets and broader economy, but it is too early to gauge how AI will affect the country.",
+      "published_date": "2026-03-11T03:52:00Z",
+      "source_url": "https://www.wsj.com/tech/ai/indias-chief-economic-advisor-says-too-early-to-gauge-ai-impact-e2181076?gaa_at=eafs&gaa_n=AWEtsqcty5YwxYfFZ8260oL-nlzhDuLUiIC9wYSIeAWSIIiOSs3zv0I6PR90&gaa_ts=69b0f418&gaa_sig=fkvGm1b3ZQ-ECU0PPEfVOTBQkTf0T09b93Rx-PTIiujQ5W1elea0LDl9SyQ2RK2sv7NnzPjooh2R8CSQnlY_tg%3D%3D",
+      "source": "Wall Street Journal",
+      "relevance_score": 0.395
+    },
+    {
+      "title": "Photoshop's AI Assistant Can Edit Photos for You, if You Want That - CNET",
+      "summary": "The AI assistant can help you navigate Photoshop and make changes for you. Photoshop's AI assistant is publicly available in the web and mobile apps and is meant to be an editing partner.",
+      "published_date": "2026-03-10T14:31:46Z",
+      "source_url": "https://www.cnet.com/tech/services-and-software/photoshop-ai-assistant-edit-photos/",
+      "source": "CNET",
+      "relevance_score": 0.386
+    },
+    {
+      "title": "MIT study suggests computing power not secret sauce drives most AI model breakthroughs - Robotics & Automation News",
+      "summary": "A new study by researchers at the Massachusetts Institute of Technology suggests that the rapid improvement of large language models is driven primarily by access to massive computing power rather than secret proprietary techniques developed by individual AI companies.",
+      "published_date": "2026-03-10T17:46:29Z",
+      "source_url": "https://roboticsandautomationnews.com/2026/03/10/mit-study-suggests-computing-power-not-secret-sauce-drives-most-ai-model-breakthroughs/99457/",
+      "source": "Robotics & Automation News",
+      "relevance_score": 0.375
+    },
+    {
+      "title": "SpaceX's Starship delays risk NASA moon landing timeline: watchdog - Reuters",
+      "summary": "Video coverage including AI rally sparks white-collar job loss fears, and Meta acquires AI agent social network Moltbook.",
+      "published_date": "2026-03-11T09:07:44Z",
+      "source_url": "https://www.reuters.com/video/watch/idRW289111032026RP1/?chan=technology",
+      "source": "Reuters",
+      "relevance_score": 0.373
+    },
+    {
+      "title": "Meta to Acquire Moltbook, Viral Social Network for AI Agents - Bloomberg.com",
+      "summary": "Meta Platforms Inc. has agreed to acquire Moltbook, an experimental platform that has been described as Reddit but solely for AI bots where AI agents can interact with other AI agents.",
+      "published_date": "2026-03-10T14:50:27Z",
+      "source_url": "https://www.bloomberg.com/news/articles/2026-03-10/meta-to-acquire-moltbook-viral-social-network-for-ai-agents",
+      "source": "Bloomberg",
+      "relevance_score": 0.370
+    },
+    {
+      "title": "AI programs are struggling to retain users - Zamin.uz",
+      "summary": "Although AI technologies are gaining popularity, they are losing to regular apps in retaining users long-term. AI apps have 21.1% annual retention rate vs 30.7% for regular apps.",
+      "published_date": "2026-03-11T07:58:00Z",
+      "source_url": "https://zamin.uz/en/technology/194024-ai-programs-are-struggling-to-retain-users.html",
+      "source": "Zamin.uz",
+      "relevance_score": 0.359
+    },
+    {
+      "title": "Fulloop Highlights Institutional Shift Toward AI Infrastructure Investment - Business Insider",
+      "summary": "Fulloop shared new industry insights highlighting a growing institutional investment shift toward artificial intelligence infrastructure as global investment in AI accelerates.",
+      "published_date": "2026-03-11T02:22:10Z",
+      "source_url": "https://markets.businessinsider.com/news/stocks/fulloop-highlights-institutional-shift-toward-ai-infrastructure-investment-1035916673",
+      "source": "Business Insider",
+      "relevance_score": 0.357
+    },
+    {
+      "title": "Burger King AI listens to workers - Fox News",
+      "summary": "Burger King is expanding a new AI-powered assistant named Patty that listens to employee headset interactions and tracks how staff speak with customers to help managers coach teams.",
+      "published_date": "2026-03-10T16:19:22Z",
+      "source_url": "https://www.foxnews.com/tech/burger-king-ai-listens-workers",
+      "source": "Fox News",
+      "relevance_score": 0.357
+    },
+    {
+      "title": "Skylark Labs Unveils Self-Learning AI Road Infrastructure Intelligence Platform Following Multi-Million-Dollar Contract Win - PR Newswire",
+      "summary": "Skylark Labs unveiled its AI-driven, self-learning road infrastructure intelligence platform designed to modernize highway monitoring by bringing adaptive artificial intelligence to road survey operations.",
+      "published_date": "2026-03-10T21:36:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/skylark-labs-unveils-self-learning-ai-road-infrastructure-intelligence-platform-following-multi-million-dollar-contract-win-302710098.html",
+      "source": "PR Newswire",
+      "relevance_score": 0.356
+    },
+    {
+      "title": "Amazon Wins Court Order Blocking Perplexity AI Shopping Bots - The Business of Fashion",
+      "summary": "Amazon won a court order blocking Perplexity AI from using its Comet web browser agent to make purchases on behalf of shoppers from Amazon's online marketplace.",
+      "published_date": "2026-03-10T18:05:25Z",
+      "source_url": "https://www.businessoffashion.com/news/technology/amazon-wins-court-order-blocking-perplexity-ai-shopping-bots/",
+      "source": "Business of Fashion",
+      "relevance_score": 0.345
+    }
+  ]
+}

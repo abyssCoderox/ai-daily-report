@@ -1,0 +1,117 @@
+{
+  "timestamp": "2026-03-16T07:57:00Z",
+  "timeRange": "last_6_hours",
+  "totalArticles": 10,
+  "articles": [
+    {
+      "title": "The billionaires made a promise — now some want out",
+      "summary": "Several major tech billionaires who pledged billions for AI development are reportedly reconsidering their commitments amid changing market conditions and regulatory scrutiny.",
+      "publishedTime": "2026-03-15T05:57:00Z",
+      "url": "https://techcrunch.com/2026/03/15/the-billionaires-made-a-promise-now-some-want-out/",
+      "source": "TechCrunch",
+      "category": "Government & Policy",
+      "importance": "High - Impacts major AI funding initiatives and government relations"
+    },
+    {
+      "title": "Netflix's 'Frankenstein' wins three Oscars, 'KPop Demon Hunters' wins two",
+      "summary": "Netflix's AI-assisted film 'Frankenstein' won three Academy Awards, marking a significant milestone for AI-generated content in mainstream entertainment.",
+      "publishedTime": "2026-03-15T03:57:00Z",
+      "url": "https://techcrunch.com/2026/03/15/netflixs-frankenstein-wins-three-oscars-kpop-demon-hunters-wins-two/",
+      "source": "TechCrunch",
+      "category": "Entertainment",
+      "importance": "Medium - Represents mainstream acceptance of AI in creative industries"
+    },
+    {
+      "title": "Google, Accel India accelerator chooses 5 startups and none are 'AI wrappers'",
+      "summary": "Google and Accel's accelerator program selected 5 Indian startups focusing on genuine AI innovation rather than superficial AI integrations, from over 4,000 applications.",
+      "publishedTime": "2026-03-15T01:57:00Z",
+      "url": "https://techcrunch.com/2026/03/15/google-and-accel-cut-through-wrappers-in-4000-ai-startup-pitches-to-pick-five-tied-to-india/",
+      "source": "TechCrunch",
+      "category": "AI",
+      "importance": "Medium - Shows shift towards substantive AI development in emerging markets"
+    },
+    {
+      "title": "ByteDance reportedly pauses global launch of its Seedance 2.0 video generator",
+      "summary": "ByteDance has temporarily halted the international rollout of its advanced AI video generation platform amid concerns over content authenticity and regulatory compliance.",
+      "publishedTime": "2026-03-14T22:57:00Z",
+      "url": "https://techcrunch.com/2026/03/15/bytedance-reportedly-pauses-global-launch-of-its-seedance-2-0-video-generator/",
+      "source": "TechCrunch",
+      "category": "AI",
+      "importance": "High - Reflects growing regulatory scrutiny of AI content generation"
+    },
+    {
+      "title": "Lawyer behind AI psychosis cases warns of mass casualty risks",
+      "summary": "Legal expert who handled multiple AI-related mental health cases warns that current AI systems could pose significant public safety risks if not properly regulated.",
+      "publishedTime": "2026-03-14T19:57:00Z",
+      "url": "https://techcrunch.com/2026/03/15/lawyer-behind-ai-psychosis-cases-warns-of-mass-casualty-risks/",
+      "source": "TechCrunch",
+      "category": "AI",
+      "importance": "High - Raises serious concerns about AI safety and regulation"
+    },
+    {
+      "title": "Unacademy to be acquired by upGrad in share-swap deal as India's edtech sector consolidates",
+      "summary": "Major Indian edtech player Unacademy is being acquired by upGrad in an all-stock deal, signaling continued consolidation in the post-pandemic education technology market.",
+      "publishedTime": "2026-03-14T18:57:00Z",
+      "url": "https://techcrunch.com/2026/03/15/unacademy-to-be-acquired-by-upgrad-in-share-swap-deal-as-indias-edtech-sector-consolidates/",
+      "source": "TechCrunch",
+      "category": "Startups",
+      "importance": "Medium - Indicates market maturation in edtech sector"
+    },
+    {
+      "title": "TechCrunch Mobility: Travis Kalanick's return proves it really is 2016 again",
+      "summary": "Travis Kalanick's new robotics venture signals a return to the aggressive growth-at-all-costs mentality that characterized the 2016 startup boom.",
+      "publishedTime": "2026-03-14T17:57:00Z",
+      "url": "https://techcrunch.com/2026/03/15/techcrunch-mobility-travis-kalanicks-return-proves-it-really-is-2016-again/",
+      "source": "TechCrunch",
+      "category": "Transportation",
+      "importance": "Medium - Cultural indicator of startup ecosystem cycles"
+    },
+    {
+      "title": "Wiz investor unpacks Google's $32B acquisition",
+      "summary": "Analysis of Google's massive $32 billion acquisition of cybersecurity firm Wiz, potentially one of the largest tech acquisitions of the decade.",
+      "publishedTime": "2026-03-14T16:57:00Z",
+      "url": "https://techcrunch.com/2026/03/15/wiz-investor-unpacks-googles-32b-acquisition/",
+      "source": "TechCrunch",
+      "category": "Security",
+      "importance": "High - Major consolidation in cybersecurity sector"
+    },
+    {
+      "title": "Rivian's RJ Scaringe thinks we're doing robots all wrong",
+      "summary": "Rivian CEO argues that current robotics development approaches are fundamentally flawed and proposes a new paradigm focused on human-robot collaboration.",
+      "publishedTime": "2026-03-14T15:57:00Z",
+      "url": "https://techcrunch.com/2026/03/15/rivians-rj-scaringe-thinks-were-doing-robots-all-wrong/",
+      "source": "TechCrunch",
+      "category": "Robotics",
+      "importance": "Medium - Challenges conventional wisdom in robotics development"
+    },
+    {
+      "title": "2026 tech layoffs reach 45,000 in March",
+      "summary": "Tech industry layoffs continue with 45,000 job cuts in March alone, driven by AI automation and economic pressures, according to industry analysis.",
+      "publishedTime": "2026-03-16T01:57:00Z",
+      "url": "https://news.ycombinator.com/item?id=47380405",
+      "source": "Hacker News",
+      "category": "Industry",
+      "importance": "High - Indicates significant workforce transformation in tech sector"
+    }
+  ],
+  "keyThemes": [
+    "AI regulation and safety concerns",
+    "Tech industry consolidation",
+    "Cybersecurity investments",
+    "Robotics development challenges",
+    "Edtech market maturation",
+    "Entertainment industry AI adoption"
+  ],
+  "marketImplications": {
+    "positive": [
+      "Major AI funding initiatives continue despite some pullbacks",
+      "Cybersecurity sector sees significant M&A activity",
+      "AI content creation gaining mainstream acceptance"
+    ],
+    "negative": [
+      "Continued tech layoffs affecting 45,000 workers",
+      "Regulatory uncertainty around AI content generation",
+      "Market consolidation reducing competition"
+    ]
+  }
+}

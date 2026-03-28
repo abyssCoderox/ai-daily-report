@@ -1,0 +1,116 @@
+{
+  "search_metadata": {
+    "search_query": "technology news AI artificial intelligence breakthrough 2026",
+    "search_time": "2026-03-22T19:57:00Z",
+    "time_range": "past_6_hours",
+    "total_results": 10
+  },
+  "news_items": [
+    {
+      "title": "China aims to achieve AI breakthroughs in key sectors by 2027",
+      "summary": "China outlines latest efforts to achieve breakthroughs in AI application across key industrial sectors by 2027, focusing on practical implementation and sector-wide adoption.",
+      "publish_time": "2026-03-22T15:30:00Z",
+      "source_url": "https://www.facebook.com/ChinaGlobalTVNetwork/posts/the-industrial-application-of-artificial-intelligence-ai-has-emerged-as-a-key-to/1609221737237959/",
+      "source_name": "China Global TV Network",
+      "category": "AI Policy",
+      "importance": "High - National AI strategy announcement with specific timeline"
+    },
+    {
+      "title": "AI-powered humanoid robots show strong prospects in Chinese factories",
+      "summary": "AI-powered humanoid robots are demonstrating significant application potential across multiple sectors in China, including factory production lines and security applications.",
+      "publish_time": "2026-03-22T14:20:00Z",
+      "source_url": "https://news.cgtn.com/news/2026-03-22/From-stage-to-factory-How-AI-is-moving-into-real-world-use-in-China-1LItkFkvC48/share_amp.html",
+      "source_name": "CGTN",
+      "category": "AI Robotics",
+      "importance": "High - Real-world AI robotics implementation in manufacturing"
+    },
+    {
+      "title": "Mass-producible optical interconnects for AI data centers",
+      "summary": "New electro-optical modulator technology enables efficient data transmission through fiber-optic cables with mass production capabilities for AI data center applications.",
+      "publish_time": "2026-03-22T13:45:00Z",
+      "source_url": "https://techxplore.com/news/2026-03-ai-centers-faster-links-mass.html",
+      "source_name": "Tech Xplore",
+      "category": "AI Infrastructure",
+      "importance": "Medium - Technical breakthrough for AI infrastructure scaling"
+    },
+    {
+      "title": "Record $650 billion AI spending by Big Tech in 2026",
+      "summary": "Major technology companies announce unprecedented $650 billion investment in AI infrastructure and development, signaling massive industry commitment to AI advancement.",
+      "publish_time": "2026-03-21T18:00:00Z",
+      "source_url": "https://www.instagram.com/p/DWLXSlnDLTd/",
+      "source_name": "Tech Industry Report",
+      "category": "AI Investment",
+      "importance": "High - Record investment figures showing industry direction"
+    },
+    {
+      "title": "Google Maps gets major AI upgrade for small businesses",
+      "summary": "Google announces significant AI enhancements to Google Maps platform, providing improved tools and features specifically designed for small business applications.",
+      "publish_time": "2026-03-21T16:30:00Z",
+      "source_url": "https://www.forbes.com/sites/quickerbettertech/2026/03/21/small-business-tech-news-google-maps-gets-a-big-ai-upgrade/?ss=small-business-tech-and-innovation",
+      "source_name": "Forbes",
+      "category": "AI Applications",
+      "importance": "Medium - Major platform enhancement affecting business users"
+    },
+    {
+      "title": "AI digital humans emerge as business 'front door'",
+      "summary": "AI-powered digital humans are positioned to become the primary customer interface for most businesses, revolutionizing customer service and engagement models.",
+      "publish_time": "2026-03-16T12:00:00Z",
+      "source_url": "https://www.forbes.com/sites/quickerbettertech/2026/03/16/ai-digital-humans-are-coming-and-could-be-the-front-door-for-most-businesses/?ss=small-business-tech-and-innovation",
+      "source_name": "Forbes",
+      "category": "AI Customer Service",
+      "importance": "Medium - Emerging trend in customer interaction technology"
+    },
+    {
+      "title": "New tech firm claims breakthrough in AI software testing",
+      "summary": "Startup announces claimed breakthrough in automated AI software testing, potentially addressing critical quality assurance challenges in AI development.",
+      "publish_time": "2026-03-19T10:15:00Z",
+      "source_url": "https://www.forbes.com/sites/davidprosser/2026/03/19/meet-the-small-business-claiming-to-have-cracked-ai-software-testing/?ss=small-business-tech-and-innovation",
+      "source_name": "Forbes",
+      "category": "AI Development Tools",
+      "importance": "Medium - Potential solution to AI testing challenges"
+    },
+    {
+      "title": "Manufacturing signals point to industry transformation",
+      "summary": "Analysis of factory floor trends reveals six key signals indicating major shifts in manufacturing direction, with AI and automation playing central roles.",
+      "publish_time": "2026-03-20T09:45:00Z",
+      "source_url": "https://www.forbes.com/sites/ethankarp/2026/03-20/six-signals-from-the-factory-floor-about-where-manufacturing-is-headed/?ss=small-business-tech-and-innovation",
+      "source_name": "Forbes",
+      "category": "Industry Transformation",
+      "importance": "Medium - Insights into manufacturing evolution"
+    },
+    {
+      "title": "Y Combinator health tech startups showcase AI innovation",
+      "summary": "Multiple Y Combinator-backed health tech startups demonstrate AI applications in healthcare, including patient coordination, insurance verification, and clinical workflow automation.",
+      "publish_time": "2026-03-21T14:20:00Z",
+      "source_url": "https://www.ycombinator.com/companies/industry/health-tech",
+      "source_name": "Y Combinator",
+      "category": "Health Tech AI",
+      "importance": "Medium - Multiple innovations in healthcare AI applications"
+    },
+    {
+      "title": "Cisco AI Summit highlights AI's essential role in networking",
+      "summary": "Industry experts discuss AI's transformation from optional technology to essential infrastructure component at Cisco AI Summit, examining networking implications.",
+      "publish_time": "2026-03-22T11:30:00Z",
+      "source_url": "https://www.youtube.com/watch?v=OW4lg9o0FJ0",
+      "source_name": "Cisco AI Summit",
+      "category": "AI Infrastructure",
+      "importance": "Medium - Industry perspective on AI's critical role"
+    }
+  ],
+  "summary_statistics": {
+    "total_articles": 10,
+    "categories": {
+      "AI Policy": 1,
+      "AI Robotics": 1,
+      "AI Infrastructure": 2,
+      "AI Investment": 1,
+      "AI Applications": 1,
+      "AI Customer Service": 1,
+      "AI Development Tools": 1,
+      "Industry Transformation": 1,
+      "Health Tech AI": 1
+    },
+    "high_importance_count": 3,
+    "medium_importance_count": 7
+  }
+}

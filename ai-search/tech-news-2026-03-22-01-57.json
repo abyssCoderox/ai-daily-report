@@ -1,0 +1,66 @@
+{
+  "metadata": {
+    "timestamp": "2026-03-22T01:57:00Z",
+    "period": "past_6_hours",
+    "total_articles": 5,
+    "source": "Tavily Search API"
+  },
+  "articles": [
+    {
+      "title": "White House Unveils New AI Policy Framework That Supersedes State Laws",
+      "summary": "The White House announced a comprehensive framework for AI regulation that includes child privacy protections and IP licensing guidelines, aiming to override conflicting state laws and create uniform federal standards.",
+      "publish_time": "2026-03-22T01:22:00Z",
+      "source_url": "https://www.engadget.com/ai/the-white-house-proposes-new-ai-policy-framework-that-supersedes-state-laws-192251995.html",
+      "source_name": "Engadget",
+      "importance": "High - This represents a major shift in AI governance, centralizing regulatory authority at the federal level and potentially impacting all AI companies operating in the US. The framework addresses critical issues like child safety and intellectual property in the age of generative AI."
+    },
+    {
+      "title": "Microsoft Rolls Back Copilot AI Integration in Windows Apps",
+      "summary": "Microsoft announced it will remove Copilot from several Windows applications while restoring the ability to move the taskbar, as part of a broader effort to address user feedback about AI feature overload.",
+      "publish_time": "2026-03-21T20:28:00Z",
+      "source_url": "https://techcrunch.com/2026/03/20/microsoft-rolls-back-some-of-its-copilot-ai-bloat-on-windows/",
+      "source_name": "TechCrunch",
+      "importance": "High - This reflects growing user resistance to mandatory AI integration and signals a potential shift in how tech giants approach AI feature deployment. The move indicates that aggressive AI integration strategies may need reconsideration."
+    },
+    {
+      "title": "OpenAI Launches Desktop 'Super App' Combining ChatGPT, Browser, and Code Generator",
+      "summary": "OpenAI is developing a unified desktop application that integrates ChatGPT, its web browser, and Codex code generator into a single platform, representing a significant expansion beyond its web-based offerings.",
+      "publish_time": "2026-03-22T00:57:00Z",
+      "source_url": "https://www.engadget.com/ai/openai-is-putting-chatgpt-its-browser-and-code-generator-into-one-desktop-app-025709839.html",
+      "source_name": "Engadget",
+      "importance": "High - This consolidation into a 'super app' could fundamentally change how users interact with AI tools, creating a more seamless experience for coding, browsing, and chat functionalities. It represents OpenAI's strategy to expand beyond browser-based AI interactions."
+    },
+    {
+      "title": "Blue Origin Enters Space Data Center Market with Orbital AI Computing Plans",
+      "summary": "Jeff Bezos' Blue Origin has filed with the FCC to develop orbital AI data centers, joining the growing race for space-based computing infrastructure that can support AI workloads without terrestrial constraints.",
+      "publish_time": "2026-03-21T23:00:00Z",
+      "source_url": "https://techcrunch.com/2026/03/20/jeff-bezos-blue-origin-enters-the-space-data-center-game/",
+      "source_name": "TechCrunch",
+      "importance": "Medium - This development highlights the increasing convergence of space technology and AI infrastructure. As AI computing demands grow, space-based data centers could offer solutions for energy consumption and cooling challenges, marking a significant expansion for commercial space ventures."
+    },
+    {
+      "title": "WordPress.com Enables AI Agents to Write and Publish Posts Autonomously",
+      "summary": "WordPress.com has introduced functionality allowing AI agents to create and publish content automatically, representing a major shift toward autonomous content creation on one of the world's largest publishing platforms.",
+      "publish_time": "2026-03-21T22:00:00Z",
+      "source_url": "https://techcrunch.com/2026/03/20/wordpress-com-now-lets-ai-agents-write-and-publish-posts-and-more/",
+      "source_name": "TechCrunch",
+      "importance": "Medium - This integration brings AI content generation to mainstream publishing, potentially transforming how content is created and managed. It raises important questions about content authenticity, quality control, and the future role of human editors in digital publishing."
+    }
+  ],
+  "trends_summary": {
+    "key_themes": [
+      "AI regulation and governance",
+      "Platform consolidation and super apps",
+      "User resistance to mandatory AI integration",
+      "Space-based AI infrastructure",
+      "Autonomous content creation"
+    ],
+    "industry_impact": "The past 6 hours have seen significant developments in AI governance, platform strategy, and infrastructure. The White House's regulatory framework could reshape the AI landscape, while major tech companies are both advancing and retreating on AI integration strategies. The emergence of space-based AI computing and autonomous content creation platforms indicates the technology's expanding reach across industries.",
+    "notable_shifts": [
+      "Federal preemption of state AI laws creating unified standards",
+      "Tech giants reevaluating aggressive AI integration approaches",
+      "Convergence of space technology and AI infrastructure",
+      "Mainstream platforms enabling fully autonomous AI content creation"
+    ]
+  }
+}
