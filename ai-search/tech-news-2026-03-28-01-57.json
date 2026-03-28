@@ -1,0 +1,238 @@
+{
+  "timestamp": "2026-03-28T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_articles": 15,
+  "categories": {
+    "quantum_computing": 6,
+    "artificial_intelligence": 5,
+    "space_technology": 4
+  },
+  "articles": [
+    {
+      "title": "Quantum Computing Weekly Round-Up: Week Ending March 28, 2026",
+      "summary": "Major advances in quantum hardware including Memsstar's ORBIS Alpha Etch System at TUM, Google's neutral-atom quantum computers, and Chinese silicon quantum processor achieving logical operations.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://thequbitreport.com/quantum-computing-weekly-round-up/2026/03/27/quantum-computing-weekly-round-up-week-ending-march-28-2026/",
+      "source_name": "The Qubit Report",
+      "category": "quantum_computing",
+      "key_points": [
+        "Memsstar's ORBIS Alpha Etch System deployed at TUM's Quantum Networks Lab",
+        "Google advances neutral-atom quantum computer technology",
+        "UCF researchers make progress on scalable entanglement",
+        "Fujitsu and University of Osaka reduce resource needs for quantum chemical calculations",
+        "Chinese silicon quantum processor achieves logical operations"
+      ]
+    },
+    {
+      "title": "Xanadu Becomes First Pure-Play Photonic Quantum Computing Company to Go Public",
+      "summary": "Xanadu makes history as the first pure-play photonic quantum computing company to go public, marking a significant milestone in quantum technology commercialization.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://thequantuminsider.com/2026/03/27/xanadu-becomes-first-pure-play-photonic-quantum-computing-company-to-go-public/",
+      "source_name": "The Quantum Insider",
+      "category": "quantum_computing",
+      "key_points": [
+        "Xanadu becomes first pure-play photonic quantum computing company to go public",
+        "Marks significant milestone in quantum technology commercialization",
+        "Company combines photonic hardware with PennyLane software platform",
+        "Strategy focuses on practical, real-world quantum computing use cases"
+      ]
+    },
+    {
+      "title": "SBQuantum to Launch Quantum Sensor Into Space as Part of U.S. Government's MagQuest Challenge",
+      "summary": "SBQuantum will launch a quantum diamond magnetometer to orbit as part of the U.S. government's MagQuest challenge, advancing quantum sensing capabilities in space.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://thequantuminsider.com/2026/03/27/sbquantum-to-launch-quantum-sensor-into-space-as-part-of-u-s-governments-magquest-challenge/",
+      "source_name": "The Quantum Insider",
+      "category": "quantum_computing",
+      "key_points": [
+        "SBQuantum to launch quantum diamond magnetometer to orbit",
+        "Part of U.S. government's MagQuest challenge",
+        "Advances quantum sensing capabilities in space applications",
+        "Demonstrates practical quantum technology deployment"
+      ]
+    },
+    {
+      "title": "IBM's 2026 Quantum Advantage Push: The Infrastructure Build That Could Flip the AI Era",
+      "summary": "IBM targets 2026 quantum advantage with Nighthawk processor featuring 360 qubits and 7,500 quantum gates, plus new qLDPC error correction technology.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://www.ainvest.com/news/ibm-2026-quantum-advantage-push-infrastructure-build-flip-ai-era-2603/",
+      "source_name": "AI Invest",
+      "category": "quantum_computing",
+      "key_points": [
+        "IBM's Nighthawk processor features 360 qubits and 7,500 quantum gates",
+        "New qLDPC error correction requires fewer physical qubits",
+        "Targets quantum advantage by 2026 to outperform classical supercomputers",
+        "Infrastructure includes 28+ 100+qubit systems and 300mm chip fabrication"
+      ]
+    },
+    {
+      "title": "15+ Global Banks Exploring Quantum Technologies [2026]",
+      "summary": "Over 15 global banks are actively exploring quantum technologies for financial services including fraud detection, risk simulations, and algorithmic trading.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://thequantuminsider.com/2026/03/27/15-plus-global-banks-probing-the-wonderful-world-of-quantum-technologies/",
+      "source_name": "The Quantum Insider",
+      "category": "quantum_computing",
+      "key_points": [
+        "Standard Chartered accelerates quantum applications through Qubitra Technologies joint venture",
+        "Focus on fraud detection, risk simulations, and derivative pricing",
+        "Banks preparing for quantum computing risks and opportunities",
+        "Early adoption of quantum technologies in financial sector"
+      ]
+    },
+    {
+      "title": "ZeroTier Launches ZeroTier Quantum, an End-to-End Quantum-Secure Networking Platform",
+      "summary": "ZeroTier introduces quantum-secure networking platform to address cybersecurity threats from advancing quantum computing capabilities.",
+      "publish_time": "2026-03-24T00:00:00Z",
+      "source_url": "https://thequantuminsider.com/2026/03/24/zerotier-launches-zerotier-quantum-an-end-to-end-quantum-secure-networking-platform/",
+      "source_name": "The Quantum Insider",
+      "category": "quantum_computing",
+      "key_points": [
+        "ZeroTier Quantum provides end-to-end quantum-secure networking",
+        "Addresses cybersecurity threats from quantum computing",
+        "Prepares infrastructure for post-quantum cryptography era",
+        "Enterprise-focused quantum security solution"
+      ]
+    },
+    {
+      "title": "AI Breakthrough News This Week March 2026",
+      "summary": "Major AI developments including the rise of 'Jagged Intelligence', agentic AI evolution, and Nvidia making AI 10x more cost-effective.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://www.instagram.com/popular/ai-breakthrough-news-this-week-march-2026",
+      "source_name": "Instagram AI News",
+      "category": "artificial_intelligence",
+      "key_points": [
+        "AI has reached 'Jagged Intelligence' state per expert consensus",
+        "Agentic AI can break down complex goals into sub-tasks autonomously",
+        "Nvidia achieves 10x cost reduction in AI computing",
+        "Shift from AI as chatbot to AI as digital coworker"
+      ]
+    },
+    {
+      "title": "Latest AI News: Daily Updated Artificial Intelligence Insights (March 24, 2026)",
+      "summary": "DeepSeek's breakthrough with less compute power and continued advancements in AI efficiency and capabilities across multiple sectors.",
+      "publish_time": "2026-03-24T00:00:00Z",
+      "source_url": "https://opentools.ai/news/tags/compute-efficiency",
+      "source_name": "OpenTools AI",
+      "category": "artificial_intelligence",
+      "key_points": [
+        "DeepSeek-V3 model achieves high performance with reduced compute requirements",
+        "AI efficiency improvements continue across the industry",
+        "Growing focus on practical AI applications over theoretical advances",
+        "Increased emphasis on AI accessibility and cost-effectiveness"
+      ]
+    },
+    {
+      "title": "LLM News Today (March 2026) – AI Model Releases - LLM Stats",
+      "summary": "Latest developments in large language models including post-training advances with GRPO, DAPO, RLVR techniques replacing traditional RLHF methods.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://llm-stats.com/ai-news",
+      "source_name": "LLM Stats",
+      "category": "artificial_intelligence",
+      "key_points": [
+        "Post-training evolution: GRPO, DAPO, RLVR replace RLHF as dominant methods",
+        "NVIDIA's Nemotron 3 Super features 120B hybrid Mamba-Transformer architecture",
+        "Google's Gemini 3.1 Pro offers 1M-token context window",
+        "Physical Intelligence raises $1B for robotics AI development"
+      ]
+    },
+    {
+      "title": "1 Reason Meta's AI Spending Spree Won't Slow Down in 2026",
+      "summary": "Meta plans up to $135 billion in capital expenditures for 2026, with AI infrastructure buildouts taking center stage in the race for AI breakthroughs.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://www.theglobeandmail.com/investing/markets/markets-news/Motley%20Fool/1000805/1-reason-meta-s-ai-spending-spree-won-t-slow-down-in-2026/",
+      "source_name": "The Globe and Mail",
+      "category": "artificial_intelligence",
+      "key_points": [
+        "Meta targets $135 billion in capital expenditures for 2026",
+        "AI infrastructure expansion is top priority",
+        "Race with other tech giants for AI breakthroughs",
+        "Pressure to deliver self-improving AI technologies"
+      ]
+    },
+    {
+      "title": "Technology News March 2026 AI Breakthrough",
+      "summary": "AI's impact on job market intensifies with 13% job loss in AI-exposed roles for new graduates and predictions of half of entry-level white-collar jobs at risk within 5 years.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://www.instagram.com/popular/technology-news-march-2026-ai-breakthrough",
+      "source_name": "Instagram Tech News",
+      "category": "artificial_intelligence",
+      "key_points": [
+        "13% job loss in AI-exposed roles for new college graduates",
+        "Anthropic CEO predicts half of entry-level white-collar jobs at risk within 5 years",
+        "AI starting to 'do the job itself' rather than just assist",
+        "Rapid transformation of job market due to AI capabilities"
+      ]
+    },
+    {
+      "title": "Tech and Science Bound for Low Earth Orbit",
+      "summary": "NASA technology and science demonstrations set to launch aboard SpaceX Falcon 9, testing thermal protection systems and advancing in-space communications.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://www.nasa.gov/directorates/stmd/nasa-tech-and-science-bound-for-low-earth-orbit-on-commercial-launch/",
+      "source_name": "NASA",
+      "category": "space_technology",
+      "key_points": [
+        "Launch window opens March 30 at 6:20 a.m. EDT from Vandenberg Space Force Base",
+        "Tests thermal protection systems and in-space communications",
+        "Part of SpaceX's Transporter-16 commercial rideshare mission",
+        "Supports NASA's exploration, innovation, and research goals"
+      ]
+    },
+    {
+      "title": "Artemis II: New mission, old hardware – less recycling",
+      "summary": "NASA prepares for Artemis II moon mission launching April 1, 2026, sending four astronauts to orbit the Moon for the first time since 1972.",
+      "publish_time": "2026-03-27T15:10:00Z",
+      "source_url": "https://www.clickorlando.com/news/space-news/2026/03/27/artemis-ii-new-mission-old-hardware-less-recycling/",
+      "source_name": "Click Orlando",
+      "category": "space_technology",
+      "key_points": [
+        "Artemis II launch scheduled for April 1, 2026",
+        "First astronaut mission to the Moon since 1972",
+        "Four astronauts will orbit the Moon without landing",
+        "Mission represents new era of space exploration"
+      ]
+    },
+    {
+      "title": "Artemis 2 moon mission latest news: NASA prepares for April 1 launch of ...",
+      "summary": "NASA's Artemis 2 mission preparation intensifies with astronauts arriving in Florida ahead of the historic April 1 launch to orbit the Moon.",
+      "publish_time": "2026-03-27T00:00:00Z",
+      "source_url": "https://www.space.com/news/live/artemis-2-nasa-moon-mission-launch-updates-march-27-2026",
+      "source_name": "Space.com",
+      "category": "space_technology",
+      "key_points": [
+        "Liftoff set for 6:24 p.m. EDT on April 1, 2026",
+        "10-day voyage around the Moon planned",
+        "Astronauts have arrived in Florida for launch preparations",
+        "Historic mission marks return to lunar exploration"
+      ]
+    },
+    {
+      "title": "Commercial space pleads with NASA to stop moving the goalposts in orbit",
+      "summary": "Commercial space industry expresses concern over NASA's changing policies and goals, creating uncertainty for private space station development.",
+      "publish_time": "2026-03-27T13:15:00Z",
+      "source_url": "https://www.theregister.com/2026/03/27/iss_rethink/",
+      "source_name": "The Register",
+      "category": "space_technology",
+      "key_points": [
+        "Commercial space industry concerned about NASA policy changes",
+        "Comparison made to 'Lucy and Charlie Brown with the football'",
+        "Uncertainty affecting private space station development plans",
+        "Industry calls for more stable and predictable policies"
+      ]
+    }
+  ],
+  "summary_statistics": {
+    "most_active_category": "quantum_computing",
+    "new_quantum_companies": 3,
+    "ai_breakthroughs": 5,
+    "space_missions": 2,
+    "total_mentioned_organizations": 25
+  },
+  "trending_topics": [
+    "quantum computing commercialization",
+    "AI job market impact",
+    "NASA Artemis program",
+    "quantum security",
+    "AI efficiency improvements",
+    "space technology demonstrations"
+  ]
+}
