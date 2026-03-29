@@ -1,0 +1,85 @@
+{
+  "report_metadata": {
+    "generated_at": "2026-03-29T13:57:00Z",
+    "time_range": "past_6_hours",
+    "total_news_count": 8,
+    "source": "Tavily Search API"
+  },
+  "news": [
+    {
+      "title": "xAI失去最后一位联合创始人，马斯克AI初创公司完成团队重组",
+      "summary": "据《商业内幕》报道，人工智能初创公司xAI失去了其最初11位联合创始人中的最后一位成员，标志着公司完成团队重组。",
+      "publish_time": "2026-03-29T07:20:00Z",
+      "source_url": "https://tags.sina.com.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "importance": "high",
+      "category": "AI公司动态"
+    },
+    {
+      "title": "北京海淀构建人工智能高地，推动AI产业集聚发展",
+      "summary": "北京市海淀区正在积极构建人工智能产业高地，通过政策支持和生态建设推动AI企业集聚发展。",
+      "publish_time": "2026-03-29T07:18:53Z",
+      "source_url": "https://tags.sina.com.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "importance": "medium",
+      "category": "AI政策"
+    },
+    {
+      "title": "AI赋能教育创新，教师成长有了\"专属地图\"",
+      "summary": "在人工智能+时代背景下，AI与教育深度融合，为教师专业发展提供个性化成长路径和智能辅助工具。",
+      "publish_time": "2026-03-29T07:13:11Z",
+      "source_url": "https://tags.sina.com.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "importance": "medium",
+      "category": "AI应用"
+    },
+    {
+      "title": \"人工智能向未来：\"实用\"带来生命力\",
+      "summary": "人工智能技术正从理论研究走向实际应用，实用性成为推动AI技术发展的关键因素。",
+      "publish_time": "2026-03-29T07:10:00Z",
+      "source_url": "https://tags.sina.com.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "importance": "medium",
+      "category": "AI趋势"
+    },
+    {
+      "title": "2025十大科技前沿发明发布，AI技术占据重要位置",
+      "summary": "科学网发布2025年度十大科技前沿发明，多项人工智能相关技术入选，显示AI在科技创新中的重要地位。",
+      "publish_time": "2026-03-29T07:09:50Z",
+      "source_url": "https://tags.sina.com.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "importance": "high",
+      "category": "科技创新"
+    },
+    {
+      "title": "2026中关村论坛年会\"人工智能主题日\"系列活动圆满举办",
+      "summary": "3月25日至29日，中关村论坛年会人工智能主题日活动成功举办，涵盖AI开源前沿、通用AI、脑机接口等多个专题论坛。",
+      "publish_time": "2026-03-29T02:35:11Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001903knwe.html",
+      "importance": "high",
+      "category": "AI会议"
+    },
+    {
+      "title": "中国AI智造实力彰显，机器人全面走进生活",
+      "summary": "在上海举办的家电及消费电子博览会上，中国AI机器人集中亮相，从家用到康养安防，展现中国AI智造实力。",
+      "publish_time": "2026-03-29T02:31:57Z",
+      "source_url": "https://tags.sina.com.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "importance": "medium",
+      "category": "AI产品"
+    },
+    {
+      "title": "天府智创全球精英人才招募，最高提供100万元\"先拨后股\"支持",
+      "summary": "成都发布\"天府智创T·OPC\"全球精英人才招募令，在人工智能领域最高提供100万元\"先拨后股\"金融支持。",
+      "publish_time": "2026-03-29T04:00:10Z",
+      "source_url": "https://tags.sina.com.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "importance": "medium",
+      "category": "AI人才"
+    }
+  ],
+  "summary": {
+    "total_headlines": 8,
+    "high_importance_count": 3,
+    "categories_covered": ["AI公司动态", "AI政策", "AI应用", "AI趋势", "科技创新", "AI会议", "AI产品", "AI人才"],
+    "key_trends": [
+      "AI产业生态建设加速",
+      "AI技术实用化趋势明显",
+      "AI人才竞争持续激烈",
+      "中国AI智造能力提升"
+    ]
+  }
+}
