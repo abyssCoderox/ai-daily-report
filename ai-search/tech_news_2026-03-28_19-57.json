@@ -1,0 +1,80 @@
+{
+  "search_metadata": {
+    "query": "科技新闻",
+    "time_range": "past_6_hours",
+    "search_date": "2026-03-28T19:57:00Z",
+    "total_results": 10
+  },
+  "results": [
+    {
+      "title": "推荐新闻- 科技新闻 - 博客园",
+      "url": "https://news.cnblogs.com/n/recommend",
+      "snippet": "OpenAI闪电吞下Astral！Python开发者工具链沦陷，AI要住进你的终端；「日本最强AI」塌房了！扒开代码全是DeepSeek，日本网友集体破防；新型脑机接口可作意念打字“键盘”；天文学家发现旋转速度快得不可思议的巨大小行星",
+      "site_name": "news.cnblogs.com",
+      "score": 0.6994397
+    },
+    {
+      "title": "TechNews 科技新報| 市場和業內人士關心的趨勢、內幕與新聞",
+      "url": "https://technews.tw/",
+      "snippet": "LLM 記憶體用量縮減 20 倍！NVIDIA 超狂新技術 KVTC，靠「KV 快取」翻轉記憶體瓶頸；突破摩爾定律最後拼圖！輝達砸 40 億美元押注「矽光子」將成台股主流",
+      "site_name": "technews.tw",
+      "score": 0.6693348
+    },
+    {
+      "title": "Tech News | Today's Latest Technology News",
+      "url": "https://www.reuters.com/technology/",
+      "snippet": "Reuters provides business, financial, national and international news to professionals via desktop terminals, the world's media organizations, industry events and directly to consumers.",
+      "site_name": "www.reuters.com",
+      "score": 0.64020914
+    },
+    {
+      "title": "36氪_让一部分人先看到未来",
+      "url": "https://36kr.com/",
+      "snippet": "量产10000台人形机器人，智元“超车”特斯拉；可灵AI小苗难支，快手的估值之困；AI一键生成网站之后，最残酷的差距出现了：代码不再值钱，审美决定生死；硅谷爆火的长寿经济，商业化路径在我们脸上；00后天才少女融资16亿，Z世代重塑AI创投圈",
+      "site_name": "36kr.com",
+      "score": 0.5125224
+    },
+    {
+      "title": "鲁新国合取得可对物料进行推送的矿用回转窑专利 - 网易",
+      "url": "https://www.163.com/dy/article/KP3N1OG30519QIKK.html",
+      "snippet": "华为盘古大模型负责人王云鹤确认离职；遭中国学界\"拉黑\"后，这家AI顶会低头道歉；“龙虾”出现后，大模型时代的共识被推翻了；Anthropic“神话”模型意外曝光",
+      "site_name": "www.163.com",
+      "score": 0.4893821
+    },
+    {
+      "title": "人工智能将破解宫颈癌防控难题 - 国际科技创新中心",
+      "url": "https://www.ncsti.gov.cn/kjdt/xwjj/202603/t20260328_242286.html",
+      "snippet": "发布时间：2026-03-28 信息来源：千龙网 人工智能将破解宫颈癌防控难题",
+      "site_name": "www.ncsti.gov.cn",
+      "score": 0.43295085
+    },
+    {
+      "title": "諾貝爾經濟學獎得主推崇台灣半導體貢獻籲繼續深化",
+      "url": "https://money.udn.com/money/story/5599/9408176?from=edn_newest_index",
+      "snippet": "諾貝爾經濟學獎得主阿吉翁推崇台灣半導體貢獻，呼籲繼續深化合作",
+      "site_name": "money.udn.com",
+      "score": 0.3474712
+    },
+    {
+      "title": "中科创星硬科技孵化器入选工信部首批卓越级孵化器",
+      "url": "https://www.stdaily.com/web/gdxw/2026-03/28/content_494390.html",
+      "snippet": "中科创星硬科技孵化器凭借在集成电路和人工智能等硬科技领域的特色布局和专业孵化，成功入选首批“卓越级”科技型企业孵化器",
+      "site_name": "www.stdaily.com",
+      "score": 0.31973758
+    },
+    {
+      "title": "最先端の技術革新に取り組む新興企業を支援…政府が来春にも機構 ...",
+      "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/politics/20260328-567-GYT1T00171",
+      "snippet": "日本政府计划设立新的认可法人“先端技術研究成果活用推進機構”，支援AI、核聚变等先端技术新兴企业",
+      "site_name": "topics.smt.docomo.ne.jp",
+      "score": 0.25387532
+    },
+    {
+      "title": "脑机接口、AI眼镜、弹奏机械臂……这里的科技看点十足 - 新闻频道",
+      "url": "https://news.cctv.cn/2026/03/28/ARTI43xuXzmMnZUA7Nbwd2TH260328.shtml",
+      "snippet": "来源：央视网 | 2026年03月28日 09:22:43 脑机接口、AI眼镜、弹奏机械臂等科技看点十足",
+      "site_name": "news.cctv.cn",
+      "score": 0.24300456
+    }
+  ]
+}

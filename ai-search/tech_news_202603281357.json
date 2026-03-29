@@ -1,0 +1,90 @@
+{
+  "search_metadata": {
+    "query": "科技新闻",
+    "search_time": "2026-03-28 13:57:00 UTC",
+    "time_range": "过去6小时内",
+    "result_count": 10
+  },
+  "news_items": [
+    {
+      "title": "我国单体容量最大采煤沉陷区光伏基地投运",
+      "summary": "中国能建建筑集团参建的蒙西鄂尔多斯采煤沉陷区3000兆瓦光伏项目成功送电山东，标志着我国单体容量最大采煤沉陷区光伏基地正式投入商运。",
+      "publish_time": "2025-03-04",
+      "source": "www.ithome.com",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "tags": ["新能源", "光伏", "光伏组件"]
+    },
+    {
+      "title": "OPPO周意保否认Find X8 Ultra真机照",
+      "summary": "针对网络流传的疑似OPPO Find X8 Ultra手机图片，OPPO Find系列产品负责人周意保明确表示这是假的，称这是内部试用机，外观是随意设计的防止泄密。",
+      "publish_time": "2025-03-03",
+      "source": "www.ithome.com",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "tags": ["OPPO", "Find X8 Ultra", "手机新品"]
+    },
+    {
+      "title": "脑机接口、AI眼镜、弹奏机械臂……这里的科技看点十足",
+      "summary": "央视网报道展示了一系列前沿科技产品，包括脑机接口技术、AI智能眼镜和能够弹奏的机械臂等创新科技应用。",
+      "publish_time": "2026-03-28 09:22:43",
+      "source": "news.cctv.cn",
+      "url": "https://news.cctv.cn/2026/03/28/ARTI43xuXzmMnZUA7Nbwd2TH260328.shtml",
+      "tags": ["脑机接口", "AI眼镜", "机械臂"]
+    },
+    {
+      "title": "台灣研究日荷蘭登場聚焦量子運算前瞻合作",
+      "summary": "台湾科研前进荷兰，国科会与驻荷兰代表处共同推动「台湾研究日」于荷兰莱登大学登场，聚焦光子科技与量子运算等前瞻领域，台湾与荷兰产学界代表齐聚一堂交流探讨合作可能性。",
+      "publish_time": "2026-03-28 07:27",
+      "source": "www.cna.com.tw",
+      "url": "https://www.cna.com.tw/news/ait/202603280008.aspx",
+      "tags": ["量子运算", "光子科技", "国际合作"]
+    },
+    {
+      "title": "鲁新国合取得矿用回转窑专利",
+      "summary": "山东鲁新国合节能环保科技有限公司取得一项名为"一种可对物料进行推送的矿用回转窑"的专利，实现了物料推送速度的单独控制，在矿用物料处理领域具有显著优势。",
+      "publish_time": "2026-03-28",
+      "source": "www.163.com",
+      "url": "https://www.163.com/dy/article/KP3N1OG30519QIKK.html",
+      "tags": ["专利技术", "矿用设备", "物料处理"]
+    },
+    {
+      "title": "政府设立先端技術研究成果活用推進機構",
+      "summary": "日本政府计划在来年春天设立新的认可法人"先端技術研究成果活用推進機構"，支援AI、核融合等最尖端技术革新企业，提升国际竞争力。",
+      "publish_time": "2026-03-28 15:00",
+      "source": "topics.smt.docomo.ne.jp",
+      "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/politics/20260328-567-GYT1T00171",
+      "tags": ["政策支持", "AI", "核融合", "创业支援"]
+    },
+    {
+      "title": "两院院士评选2024年中国/世界十大科技进展新闻揭晓",
+      "summary": "由中国科学院、中国工程院主办的"两院院士评选2024年中国/世界十大科技进展新闻"在江苏省南京市揭晓，包含嫦娥六号、星舰"筷子夹火箭"等重要科技成果。",
+      "publish_time": "2025-01-22",
+      "source": "www.ithome.com",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "tags": ["科技进展", "院士评选", "重大成果"]
+    },
+    {
+      "title": "乐天派人体存在传感器Box上市",
+      "summary": "乐天派人体存在传感器Box正式上市，搭载毫米波雷达技术，支持三合一存在检测和多种智能家居生态协议，首发价249元。",
+      "publish_time": "2024-03-19",
+      "source": "www.ithome.com",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "tags": ["智能家居", "传感器", "毫米波雷达"]
+    },
+    {
+      "title": "全球首款5吨级eVTOL正式亮相",
+      "summary": "峰飞航空科技自主研发的V5000天际龙在苏州昆山基地完成转换飞行，这是全球首款5吨级eVTOL飞行器。",
+      "publish_time": "2024-02-10",
+      "source": "www.ithome.com",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "tags": ["eVTOL", "飞行器", "航空科技"]
+    },
+    {
+      "title": "魅族2026魅友新春会",
+      "summary": "魅族宣布将于1月10日举行2026魅友新春会，届时将揭晓魅族22系列神秘产品、FlymeAIOS 2新春版及PANDAER新春新品。",
+      "publish_time": "2026-01-09",
+      "source": "www.ithome.com",
+      "url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "tags": ["魅族", "新品发布", "智能手机"]
+    }
+  ]
+}
