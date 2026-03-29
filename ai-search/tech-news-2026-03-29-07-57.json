@@ -1,0 +1,76 @@
+{
+  "timestamp": "2026-03-29T07:57:00Z",
+  "search_period": "past_6_hours",
+  "results": [
+    {
+      "title": "科技资讯网|科技新闻网--最新最快科技新闻发布汇集平台。",
+      "snippet": "中兴推出Blade V50 Design手机；双飞燕推出血手幽灵GR230游戏耳机；壹号掌机发布飞行家F1搭载A系列芯片；微软Xbox极光紫手柄返场；AOC推出会议平板一体机55T23Z；微软Bing Chat更新；三星89英寸MicroLED电视在韩国上市；零刻推出SER5 MAX迷你主机。",
+      "url": "https://www.techxinwen.com/",
+      "site_name": "www.techxinwen.com",
+      "score": 0.9981324
+    },
+    {
+      "title": "博客园: 科技新闻",
+      "snippet": "教育名师张雪峰猝然离世；小米手机毛利率跌至8.3%；OpenAI宣布Sora正式关停；特斯拉Terafab芯片项目总投资或达千亿美元；禾赛发布2025年财报营收30.3亿元；美团误删用户照片引热议；哈佛物理教授用AI两周完成博士一年工作；OpenClaw 3.23紧急修复；阿里达摩院发布RISC-V CPU玄铁C950。",
+      "url": "https://news.cnblogs.com/",
+      "site_name": "news.cnblogs.com",
+      "score": 0.99477994
+    },
+    {
+      "title": "TechNews 科技新報| 市場和業內人士關心的趨勢、內幕與新聞",
+      "snippet": "NVIDIA推出KVTC技术使LLM内存用量缩减20倍；Feynman世代蓝图发布Rosa CPU；突破摩尔定律辉达押注40亿美元发展硅光子技术。",
+      "url": "https://technews.tw/",
+      "site_name": "technews.tw",
+      "score": 0.9888419
+    },
+    {
+      "title": "科技網 - DIGITIMES",
+      "snippet": "晶瑞光参加德国XPONENTIAL Europe 2026无人机展打入乌克兰供应链；日本Sony因通胀压力宣布PS5全系列涨价；研华策略投资加云联网强化能源垂直布局。",
+      "url": "https://www.digitimes.com.tw/tech/",
+      "site_name": "www.digitimes.com.tw",
+      "score": 0.9572778
+    },
+    {
+      "title": "国际科技新闻",
+      "snippet": "研制成功探测单分子的微型激光器；土星全景图像首次呈现；威士忌副产品变身超级电容器电极；美开发持久耐用核动力光伏电池；氮化镓空穴中量子振荡首次现形；反物质安全运输8公里；光纤传感器可同时读取多种生物标志物；改进型基因编辑工具综合性能大幅提高；火星上首次发现类宝石；生物混合机器人游泳速度创纪录。",
+      "url": "https://www.stdaily.com/web/gjxw/node_388.html",
+      "site_name": "www.stdaily.com",
+      "score": 0.9309621
+    },
+    {
+      "title": "网易科技_手机网易网",
+      "snippet": "比亚迪首次跻身全球前五；国家重大科技基础设施"远海浮动岛"启动建设；三大运营商算力收入提升；NASA阿尔忒弥斯二号任务进入最后准备阶段；索尼游戏主机PS5官宣涨价；Anthropic"神话"模型意外曝光。",
+      "url": "https://tech.163.com/",
+      "site_name": "tech.163.com",
+      "score": 0.90397453
+    },
+    {
+      "title": "科技- 纽约时报中文网",
+      "snippet": "中国政府推动AI企业既要发展又要"听话"；前谷歌员工窃取AI技术被定罪；TikTok美国方案正式落地；特朗普批准英伟达向中国出售H200芯片；硅谷精英痴迷"中国肽"；中国对Meta收购Manus展开调查；中国医生借助AI识别胰腺癌；中国机器人行业出现泡沫预警。",
+      "url": "https://m.cn.nytimes.com/technology",
+      "site_name": "m.cn.nytimes.com",
+      "score": 0.8558512
+    },
+    {
+      "title": "科技- 紐約時報中文網",
+      "snippet": "中国AI"养龙虾"热潮引发官方警惕；中国就Meta收购Manus处罚相关人员；中国人工智能末日论者调查；中国家长利用AI"鸡娃"；台湾芯片灾难；中国芯片自主生产面临瓶颈；Anthropic指控中国公司不当获取数据。",
+      "url": "https://m.cn.nytimes.com/technology/zh-hant/",
+      "site_name": "m.cn.nytimes.com",
+      "score": 0.81757444
+    },
+    {
+      "title": "NHK科学新闻",
+      "snippet": "日本物理学会引入"AI所写论文"判定软件；山梨大学等机构研究显示"老鼠的克隆到58代为极限"；京都大学等发布太阳系外行星三维数据库；JAXA H3火箭发射失败原因查明；九州大学等开发细胞透明化试剂；大阪大学等成功制作"迷你睾丸"。",
+      "url": "https://news.web.nhk/newsweb/pl/news-nwa-topic-nationwide-0002390",
+      "site_name": "news.web.nhk",
+      "score": 0.20055768
+    },
+    {
+      "title": "AI视频：世界气象日｜从古人"观云辨天"到现代"科技测天"",
+      "snippet": "世界气象日专题视频展示从古代观云辨天到现代气象科技的发展历程，包括气象雷达、风云卫星等现代化设备在天气预报和防灾减灾中的应用。",
+      "url": "https://www.news.cn/politics/20260323/23858b97baae4b3a80cc43ab7af3add5/c.html",
+      "site_name": "www.news.cn",
+      "score": 0.075858176
+    }
+  ]
+}
