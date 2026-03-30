@@ -1,0 +1,48 @@
+{
+  "timestamp": "2026-03-30T19:57:00Z",
+  "news_items": [
+    {
+      "title": "奥地利拟议14岁以下儿童社交媒体禁令",
+      "summary": "奥地利成为最新提议禁止14岁以下儿童使用社交媒体的国家，此前法国和西班牙已采取类似措施。",
+      "publish_time": "2026-03-30",
+      "source_url": "https://www.bbc.co.uk/news/articles/cwyv70de9exo",
+      "source_name": "BBC News",
+      "importance": "欧洲多国相继出台儿童社交媒体限制政策，反映数字健康监管趋势加强"
+    },
+    {
+      "title": "中国AI视频生成应用Seedance 2.0引发好莱坞版权争议",
+      "summary": "中国AI视频生成模型Seedance 2.0生成死侍等电影角色片段，引发好莱坞对版权侵权的严重担忧。",
+      "publish_time": "2026-03-30",
+      "source_url": "https://www.bbc.co.uk/news/articles/ckg1dl410q9o",
+      "source_name": "BBC News",
+      "importance": "AI生成内容版权问题日益突出，可能影响全球影视产业格局"
+    },
+    {
+      "title": "美国FCC发布国家安全禁令：禁售外国产家用路由器",
+      "summary": "美国联邦通信委员会基于国家安全考虑，禁止销售外国生产、组装或设计的家用路由器。",
+      "publish_time": "2026-03-26",
+      "source_url": "https://news.now.com/home/technology",
+      "source_name": "Now News",
+      "importance": "反映中美科技竞争背景下，网络设备供应链安全成为各国关注重点"
+    },
+    {
+      "title": "OPPO Find X9 Ultra规格曝光：内置10x增距镜对标vivo",
+      "summary": "OPPO Find X9 Ultra旗舰手机规格全面披露，内置10x增距镜直接对标vivo即将发布的X300 Ultra。",
+      "publish_time": "2026-03-28",
+      "source_url": "https://news.now.com/home/technology",
+      "source_name": "Now News",
+      "importance": "高端手机市场竞争加剧，光学变焦技术成为差异化竞争关键"
+    },
+    {
+      "title": "华为Pura 90设计细节曝光：经典三角镜头设计延续",
+      "summary": "华为Pura 90系列设计细节曝光，保持经典三角镜头设计，侧面指纹位置可能微调。",
+      "publish_time": "2026-03-30",
+      "source_url": "https://news.now.com/home/technology",
+      "source_name": "Now News",
+      "importance": "华为旗舰机型设计语言延续性体现品牌识别度策略"
+    }
+  ],
+  "total_count": 5,
+  "time_range": "过去6小时内",
+  "data_source": "Tavily Search API"
+}
