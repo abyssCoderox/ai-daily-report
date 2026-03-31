@@ -1,0 +1,91 @@
+{
+  "search_metadata": {
+    "query": "latest technology news",
+    "search_time": "2026-03-31T01:57:00Z",
+    "time_range": "6h",
+    "total_results": 10,
+    "provider": "tavily"
+  },
+  "results": [
+    {
+      "title": "20 New Technology Trends for 2026 - Simplilearn.com",
+      "url": "https://www.simplilearn.com/top-technology-trends-and-jobs-article",
+      "snippet": "That's why trends like agentic AI, enterprise RAG, hybrid cloud, cyber resilience, governed analytics, and AI-native engineering keep showing up in real hiring and real deployments. If you're deciding what to learn next, don't start with a 20-topic checklist. Start with one clear outcome.",
+      "site_name": "www.simplilearn.com",
+      "score": 0.94699025,
+      "publish_time": "2026-03-31T01:57:00Z"
+    },
+    {
+      "title": "Tech Trends 2026 | Deloitte Insights",
+      "url": "https://www.deloitte.com/us/en/insights/topics/technology-management/tech-trends.html",
+      "snippet": "As technology innovation and adoption accelerate, five trends reveal how successful organizations are moving from experimentation to impact. Amazon deployed its millionth robot, and its DeepFleet AI coordinates the entire robot fleet, improving travel efficiency within warehouses by 10%.",
+      "site_name": "www.deloitte.com",
+      "score": 0.8407826,
+      "publish_time": "2026-03-31T01:57:00Z"
+    },
+    {
+      "title": "10 Breakthrough Technologies 2026 | MIT Technology Review",
+      "url": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
+      "snippet": "MIT Technology Review's annual list of 10 Breakthrough Technologies aims to help our audience know which emerging technologies are really worth paying attention to right now. Sodium-ion batteries, made from abundant materials like salt, are emerging as a cheaper, safer alternative to lithium.",
+      "site_name": "www.technologyreview.com",
+      "score": 0.59643316,
+      "publish_time": "2026-03-31T01:57:00Z"
+    },
+    {
+      "title": "Top Tech Trends 2026: AI Backbone, Intelligent Apps ... - Capgemini",
+      "url": "https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/",
+      "snippet": "In today's fast-paced business environment, understanding emerging technologies is essential for future planning. Our Top Tech Trends of 2026 report explores five critical technology trends and their implications for organizations.",
+      "site_name": "www.capgemini.com",
+      "score": 0.5273165,
+      "publish_time": "2026-03-31T01:57:00Z"
+    },
+    {
+      "title": "WIRED - The Latest in Technology, Science, Culture and Business ...",
+      "url": "https://www.wired.com/",
+      "snippet": "Documents show the tax agency is testing a Palantir tool to surface 'highest-value' audit and investigation targets from a maze of legacy systems. Galen Buckwalter says brain-computer interfaces will have to be enjoyable to use if the technology is going to be successful.",
+      "site_name": "www.wired.com",
+      "score": 0.4902356,
+      "publish_time": "2026-03-31T01:57:00Z"
+    },
+    {
+      "title": "TechCrunch | Startup and Technology News",
+      "url": "https://techcrunch.com/",
+      "snippet": "Former Coatue partner raises huge $65M seed for enterprise AI agent startup. Bluesky's new AI tool Attie is already the most blocked account other than J. D. Vance. Google unveils TurboQuant, a new AI memory compression algorithm.",
+      "site_name": "techcrunch.com",
+      "score": 0.39606816,
+      "publish_time": "2026-03-31T01:57:00Z"
+    },
+    {
+      "title": "Engadget | Technology News & Reviews",
+      "url": "https://www.engadget.com/",
+      "snippet": "50 years of Apple pushing tech forward, for better or worse. We'll always miss the headphone jack. Bethesda is shutting down The Elder Scrolls: Blades on June 30. Project Hail Mary is already Amazon MGM's highest-grossing film ever.",
+      "site_name": "www.engadget.com",
+      "score": 0.3415825,
+      "publish_time": "2026-03-31T01:57:00Z"
+    },
+    {
+      "title": "Technology – Google News",
+      "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+      "snippet": "Google News aggregation of latest technology stories from multiple sources.",
+      "site_name": "news.google.com",
+      "score": 0.28616926,
+      "publish_time": "2026-03-31T01:57:00Z"
+    },
+    {
+      "title": "The trends that will shape AI and tech in 2026 - IBM",
+      "url": "https://www.ibm.com/think/news/ai-tech-trends-predictions-2026",
+      "snippet": "After much skepticism around AI's ROI, AI capabilities will pave new ways to do business in the enterprise. And open-source reasoning models and agents will keep pushing boundaries to conquer enterprise AI.",
+      "site_name": "www.ibm.com",
+      "score": 0.2295352,
+      "publish_time": "2026-03-31T01:57:00Z"
+    },
+    {
+      "title": "MIT Technology Review Details Big Tech Trends For 2026 - Forbes",
+      "url": "https://www.forbes.com/sites/johnwerer/2026/01/25/mit-technology-review-details-big-tech-trends-for-2026/",
+      "snippet": "Whether they're related to energy, model discovery or hardware innovation, these are things you're probably going to hear a lot more about as the new year commences. Greener Batteries, Safe Nuclear and Energy Advances.",
+      "site_name": "www.forbes.com",
+      "score": 0.1561049,
+      "publish_time": "2026-03-31T01:57:00Z"
+    }
+  ]
+}
