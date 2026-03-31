@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-03-31T07:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "Technology: Latest Tech News Articles Today | AP News",
+      "url": "https://apnews.com/technology",
+      "snippet": "Microsoft takes over a Texas AI data center expansion after OpenAI backs away · Yahoo turns to AI-powered answer engine Scout to lead it back to its roots in",
+      "site_name": "apnews.com",
+      "relevance_score": 0.51032627
+    },
+    {
+      "title": "Tech News | Today's Latest Technology News | Reuters",
+      "url": "https://www.reuters.com/technology/",
+      "snippet": "Technology ; Microsoft unveils AI upgrades, rolls out Copilot Cowork to early-access customers. 10 hours ago. Illustration shows Open AI and Microsoft logos.",
+      "site_name": "www.reuters.com",
+      "relevance_score": 0.5097406
+    },
+    {
+      "title": "Technology and Science News - ABC News",
+      "url": "https://abcnews.com/technology",
+      "snippet": "Technology News · Jury decides YouTube, Meta should pay $6 million in damages in landmark trial · AI is giving bad advice to flatter its users,",
+      "site_name": "abcnews.com",
+      "relevance_score": 0.45464227
+    },
+    {
+      "title": "Latest Technology News and Reviews - Yahoo Finance",
+      "url": "https://finance.yahoo.com/topic/tech/",
+      "snippet": "Arm stock rockets 15% following AI chip debut. Arm stock rocketed higher after launching its own data center chip, putting Intel and AMD on notice.",
+      "site_name": "finance.yahoo.com",
+      "relevance_score": 0.33823064
+    },
+    {
+      "title": "Technology News - CNBC",
+      "url": "https://www.cnbc.com/technology/",
+      "snippet": "Tech ; Tech · Samsung-backed AI chip firm Rebellions raises $400 million ahead of IPO ; 5 Things to Know · Oil's record month, TSA pay and more: Morning Squawk.",
+      "site_name": "www.cnbc.com",
+      "relevance_score": 0.3329396
+    },
+    {
+      "title": "Tech | CNN Business",
+      "url": "https://www.cnn.com/business/tech",
+      "snippet": "View the latest technology headlines, gadget and smartphone trends, and insights from tech industry leaders.",
+      "site_name": "www.cnn.com",
+      "relevance_score": 0.2563737
+    },
+    {
+      "title": "GeekWire – Breaking News in Technology & Business",
+      "url": "https://www.geekwire.com/",
+      "snippet": "GeekWire is a fast-growing, national technology news site with strong roots in the Seattle region and a large audience of loyal, tech-savvy readers around",
+      "site_name": "www.geekwire.com",
+      "relevance_score": 0.19980752
+    },
+    {
+      "title": "Technology - The New York Times",
+      "url": "https://www.nytimes.com/section/technology",
+      "snippet": "Technology industry news, commentary and analysis, with reporting on big tech, startups, and internet culture.",
+      "site_name": "www.nytimes.com",
+      "relevance_score": 0.17334448
+    },
+    {
+      "title": "WIRED - The Latest in Technology, Science, Culture and Business",
+      "url": "https://www.wired.com/",
+      "snippet": "We bring you the future as it happens. From the latest in science and technology to the big stories in business and culture, we've got you covered.",
+      "site_name": "www.wired.com",
+      "relevance_score": 0.15808365
+    },
+    {
+      "title": "Technology – Google News",
+      "url": "https://news.google.com/topics/CAAqJggKIiBDQkFTRWdvSUwyMHZNRGRqTVhZU0FtVnVHZ0pWVXlnQVAB?hl=en-US&gl=US&ceid=US%3Aen",
+      "snippet": "No information is available for this page.",
+      "site_name": "news.google.com",
+      "relevance_score": 0.14680773
+    }
+  ],
+  "summary": "Key tech news from the past 6 hours includes Microsoft expanding its Texas AI data center, Arm's stock surging 15% following its AI chip debut, and Samsung-backed Rebellions raising $400 million for IPO."
+}
