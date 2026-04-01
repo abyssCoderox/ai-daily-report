@@ -1,0 +1,63 @@
+{
+  "timestamp": "2026-04-01T01:57:00Z",
+  "search_period": "past_6_hours",
+  "news_count": 8,
+  "articles": [
+    {
+      "title": "TechNews 科技新報| 市場和業內人士關心的趨勢、內幕與新聞",
+      "url": "https://technews.tw/",
+      "publish_time": "2026-03-31T10:50:00Z",
+      "summary": "美國科技股近日持續回落，AI 題材降溫，加上美國與以色列對伊朗的戰事持續牽動市場情緒，正同時壓縮多位科技巨頭的身家。根據彭博億萬富豪指數，甲骨文（Oracle）共同創辦人艾利森、Meta 共同創辦人兼執行長祖克柏、Amazon 創辦人貝佐斯，以及 Alphabet 共同創辦人佩吉與布林，今年以來合計蒸發約 1,980 億美元。蘋果高層表示未來蘋果不是由 AI 領導，iPhone 也不會消失。",
+      "source": "technews.tw"
+    },
+    {
+      "title": "《全球人工智能企业科技创新指数报告2026》发布",
+      "url": "https://news.sciencenet.cn/htmlnews/2026/3/562363.shtm",
+      "publish_time": "2026-03-31T20:26:48Z",
+      "summary": "科学网新闻频道发布《全球人工智能企业科技创新指数报告2026》，对中国人工智能企业的科技创新能力进行全面评估。",
+      "source": "news.sciencenet.cn"
+    },
+    {
+      "title": "AI投資被推上風口浪尖？量子科技公司掀借殼上市潮",
+      "url": "https://news.pchome.com.tw/science/technice/20260331/index-77492903921788338005.html",
+      "publish_time": "2026-03-31T15:06:52Z",
+      "summary": "包括Alphabet、微軟、亞馬遜與IBM等科技巨頭，均已投入大量資金發展量子技術。市場對量子產業的敘事已從「科學實驗」轉向「商業化進程」，成熟後市場規模預估可達1,000億至2,500億美元。量子應用已開始在優化運算、金融模型與化學模擬等領域初步落地。",
+      "source": "news.pchome.com.tw"
+    },
+    {
+      "title": "索尼宣布 PS5 全线涨价",
+      "url": "https://news.cnblogs.com/",
+      "publish_time": "2026-03-30T13:48:00Z",
+      "summary": "索尼昨天宣布，将于 4 月 2 日起在全球范围内上调 PS5、PS5 Pro 及 PlayStation Portal 的建议零售价，官方将此次涨价归因于「全球经济持续面临的压力」。",
+      "source": "news.cnblogs.com"
+    },
+    {
+      "title": "宇树开源人形机器人数据集，覆盖洗衣洗碗等家务场景",
+      "url": "https://news.cnblogs.com/",
+      "publish_time": "2026-03-30T14:20:00Z",
+      "summary": "宇树科技官宣开源 UnifoLM-WBT-Dataset，这是一套面向开放场景的人形机器人高质量全身遥操作真机数据集。数据集涵盖多项家务场景，旨在构建场景覆盖最广、任务复杂度最高、操作多样性最丰富的人形机器人真机数据体系。",
+      "source": "news.cnblogs.com"
+    },
+    {
+      "title": "华为AI核心人物离职",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903tynm.html",
+      "publish_time": "2026-03-31T16:00:00Z",
+      "summary": "华为诺亚方舟实验室主任、盘古大模型负责人王云鹤在朋友圈宣布离职，结束了他在华为长达八年的职业生涯。王云鹤是华为内部培养的顶尖技术人才，其离职已在业界引发广泛关注。",
+      "source": "k.sina.com.cn"
+    },
+    {
+      "title": "百度拿下11亿AI大单",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903tynm.html",
+      "publish_time": "2026-03-31T16:00:00Z",
+      "summary": "百度成功中标11亿元人民币的AI项目大单，显示百度在人工智能领域的市场竞争力和技术实力。",
+      "source": "k.sina.com.cn"
+    },
+    {
+      "title": "美科技股過熱疑慮漸消除",
+      "url": "https://money.udn.com/money/story/123398/9415088",
+      "publish_time": "2026-03-31T15:00:00Z",
+      "summary": "儘管科技股近期走弱，但分析師指出科技股估值已經從高點大減，過熱的疑慮日漸消除。科技股未來12個月的本益比，從去年10月底的32倍，降至20倍，估值更具吸引力。",
+      "source": "money.udn.com"
+    }
+  ]
+}
