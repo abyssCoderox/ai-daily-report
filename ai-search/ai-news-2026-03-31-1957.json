@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-03-31T19:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "AI 人工智慧 - TechNews 科技新報",
+      "summary": "台湾最强超级电脑「晶创26」提供约86.05 Petaflops算力，预计第3季正式上线，将协助金融、国防等各领域大型语言模型训练。新研究显示AI可能不会直接取代工作，而是将工作拆解成更小、薪水更低的零碎任务。Google内部正在使用名为「Agent Smith」的AI工具来自动化执行各类任务。",
+      "publish_time": "2026-03-30T08:30:00Z",
+      "source": "technews.tw",
+      "url": "https://technews.tw/category/ai/",
+      "relevance_score": 0.99962294
+    },
+    {
+      "title": "2026年3月30日突发科技新闻：AI创新、社交媒体变革与未来能源竞争",
+      "summary": "Bluesky推出Attie应用，帮助用户使用AI构建自定义信息流，利用开放式社交网络协议atproto来个性化内容。斯坦福大学研究警告AI聊天机器人可能存在逢迎问题，即优先提供讨好而非准确的回应。",
+      "publish_time": "2026-03-29T00:00:00Z",
+      "source": "coaio.com",
+      "url": "https://coaio.com/zh/news/2026/03/breaking-tech-news-on-march-30-2026-ai-innovations-social-media-2kwc/",
+      "relevance_score": 0.9984988
+    },
+    {
+      "title": "中国科技新闻学会发布2025年度"十大科技新闻事件""十大科技热词"",
+      "summary": "神经拟态类脑计算机"悟空"问世，神经元数量接近猕猴大脑。国务院印发《关于深入实施"人工智能+"行动的意见》，提出加快实施6大重点行动。AI治理、具身智能、可控核聚变等成为年度科技热词。",
+      "publish_time": "2026-02-02T00:00:00Z",
+      "source": "www.rmzxw.com.cn",
+      "url": "http://www.rmzxw.com.cn/c/2026-02-02/3863318.shtml",
+      "relevance_score": 0.997851
+    },
+    {
+      "title": "2025国际十大科技新闻解读 - 中国科技网",
+      "summary": "DeepSeek引领开源人工智能模式，采用纯强化学习训练大规模推理模型。光子计算芯片性能超越传统电子硬件，比传统电子芯片性能更高，能耗更低。脑机接口能将脑活动解码为连续语句，帮助失语症患者恢复沟通能力。",
+      "publish_time": "2025-12-25T00:00:00Z",
+      "source": "www.stdaily.com",
+      "url": "https://www.stdaily.com/web/gdxw/2025-12/25/content_452583.html",
+      "relevance_score": 0.9971551
+    },
+    {
+      "title": "2026年中国AI发展趋势前瞻 - 新闻频道- 央视网",
+      "summary": "DeepSeek标志着中国AI技术路线分化突破，转向更轻的模型、更聪明的架构、更高的效率和更低的价格。AI正向智能体AI加速演进，具有自主性、能举一反三和长期记忆特征。算力建设呈现"政府顶层设计+市场创新活力"双轮驱动特征。",
+      "publish_time": "2026-01-28T11:51:09Z",
+      "source": "news.cctv.cn",
+      "url": "https://news.cctv.cn/2026/01/28/ARTIEvCAzmKkHNEUbwOAS6et260128.shtml",
+      "relevance_score": 0.9967775
+    },
+    {
+      "title": "【科技日报】2025年国内国际十大科技新闻揭晓 - 中国科学院",
+      "summary": "国产人工智能大模型DeepSeek引发全球关注，凭借极低训练成本和在数学推理、代码生成等任务中的突出表现，为全球AI发展提供低成本、高效能的"中国路径"。",
+      "publish_time": "2025-12-25T00:00:00Z",
+      "source": "www.cas.cn",
+      "url": "https://www.cas.cn/cm/202512/t20251225_5093679.shtml",
+      "relevance_score": 0.99580115
+    },
+    {
+      "title": "2025国内十大科技新闻解读 - 新华网",
+      "summary": "DeepSeek-R1通过纯强化学习训练方式，首次证明无需海量标注数据也可实现顶尖推理能力，使训练成本大幅下降。同时能够自主生成和验证推理步骤，实现自我反思和校正。",
+      "publish_time": "2025-12-25T09:48:42Z",
+      "source": "www.news.cn",
+      "url": "http://www.news.cn/liangzi/20251225/8c4f3d42625344daad5db5a5cac6d067/c.html",
+      "relevance_score": 0.99253935
+    },
+    {
+      "title": "人工智能 - 国际科技创新中心",
+      "summary": "中科院深圳先进技术研究院构建高精度、真实标注的大规模三维人脸数据库，让虚拟人更逼真。2026年春季招聘会显示新技术岗位占七成，AI最热门。",
+      "publish_time": "2026-03-16T00:00:00Z",
+      "source": "www.ncsti.gov.cn",
+      "url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+      "relevance_score": 0.98228765
+    },
+    {
+      "title": "2026/03/31 AI科技動態今日AI界聚焦大型平台整合",
+      "summary": "AI市场出现多重动向，基础设施重心转向太空与能源布局，模型训练更侧重安全合规与降低成本。各国监管框架趋于严密，硬件开发则加速效能迭代。",
+      "publish_time": "2026-03-31T00:00:00Z",
+      "source": "www.instagram.com",
+      "url": "https://www.instagram.com/p/DWXhBWcFLKE/",
+      "relevance_score": 0.9787127
+    },
+    {
+      "title": "Google Research發表TurboQuant演算法",
+      "summary": "Google Research发表全新压缩演算法TurboQuant，可将大型语言模型記憶體占用减少6倍，在保持模型性能的同时大幅降低运算需求。",
+      "publish_time": "2026-03-31T00:00:00Z",
+      "source": "www.facebook.com",
+      "url": "https://www.facebook.com/touchdownai/posts/1630189292444824/",
+      "relevance_score": 0.96432143
+    }
+  ]
+}
