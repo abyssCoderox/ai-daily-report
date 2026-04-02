@@ -1,0 +1,90 @@
+{
+  "search_metadata": {
+    "timestamp": "2026-04-02T13:57:00Z",
+    "search_period": "past_6_hours",
+    "total_results": 10,
+    "source": "tavily_search"
+  },
+  "news_items": [
+    {
+      "title": "博客园: 科技新闻",
+      "summary": "疲劳驾驶新规6月落地；宇树开源人形机器人数据集；刘慈欣谈科幻意义；美图AI驱动增长；NeurIPS道歉事件；索尼PS5涨价等科技动态",
+      "publish_time": "2026-03-30T14:28:00Z",
+      "source_url": "https://news.cnblogs.com/",
+      "source_name": "博客园",
+      "importance": "涵盖多项重要科技政策、AI发展和企业动态，具有行业指导意义"
+    },
+    {
+      "title": "新浪科技热点小时报丨2026年04月02日03时",
+      "summary": "京东云组织架构变阵；甲骨文裁员3万人；普冉半导体上调MCU价格；AI人才财富故事；Hinton谈AI威胁；Robotaxi商业化进展",
+      "publish_time": "2026-04-02T03:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001903w86k.html",
+      "source_name": "新浪科技",
+      "importance": "涉及云计算、裁员潮、芯片价格、AI安全等关键行业动向"
+    },
+    {
+      "title": "新浪科技热点小时报丨2026年04月01日18时",
+      "summary": "Claude源码泄露事件；OpenClaw AI治理讨论；特斯拉高管加盟小米；飞书AI产品推广；OpenAI创纪录融资",
+      "publish_time": "2026-04-01T18:00:00Z",
+      "source_url": "https://cj.sina.com.cn/articles/view/7857201856/1d45362c001903vmxw?froms=ggmp",
+      "source_name": "新浪科技",
+      "importance": "AI安全事件、人才流动、融资动态等重要行业信号"
+    },
+    {
+      "title": "谁来给爆火的"龙虾"系上安全带",
+      "summary": "OpenClaw智能体安全风险分析；AI从对话工具向执行主体转变；安全防护措施和治理建议",
+      "publish_time": "2026-04-02T07:49:14Z",
+      "source_url": "http://www.news.cn/tech/20260402/5158f310b0354d24a04f734e77c5068b/c.html",
+      "source_name": "新华网",
+      "importance": "深度分析热门AI工具的安全风险，具有预警和指导价值"
+    },
+    {
+      "title": "科技股變便宜了？相對標普估值創6年新低",
+      "summary": "科技股估值回归；NVIDIA市盈率接近大盘水平；AI投资热度变化；微软股价表现疲软",
+      "publish_time": "2026-04-02T13:00:00Z",
+      "source_url": "https://m.cnyes.com/news/id/6405122",
+      "source_name": "鉅亨網",
+      "importance": "反映科技股估值变化趋势，对投资决策有重要参考价值"
+    },
+    {
+      "title": "【钛晨报】中国人民银行等四部门：推动金融资源更加精准投向科技",
+      "summary": "充电宝新规发布；特斯拉停产Model S/X；台积电日本量产3nm；韩国芯片巨头加大在华投资；OpenClaw接入QQ Bot",
+      "publish_time": "2026-04-02T08:00:00Z",
+      "source_url": "https://www.tmtpost.com/7938437.html",
+      "source_name": "钛媒体",
+      "importance": "涵盖政策、产业、技术等多维度重要科技动态"
+    },
+    {
+      "title": "【美股動態】那指跌10%又在搶反彈？科技股現在定價的不是AI",
+      "summary": "科技股估值分析；利率环境影响；Meta和Google法律风险；资金流向防御性科技股",
+      "publish_time": "2026-04-02T12:00:00Z",
+      "source_url": "https://cmnews.com.tw/article/cmoneyairesearcher-1b71f9b3-2df4-11f1-af01-5801558a9b05",
+      "source_name": "CMoney",
+      "importance": "深度解读科技股投资逻辑和市场趋势变化"
+    },
+    {
+      "title": "18家美国科技巨头被伊朗"点名"，中东数据中心与云服务投资不香了？",
+      "summary": "伊朗制裁美国科技公司；中东投资风险上升；科技巨头地区战略调整；供应链和成本压力",
+      "publish_time": "2026-04-01T15:56:39Z",
+      "source_url": "https://www.yicai.com/news/103114734.html",
+      "source_name": "第一财经",
+      "importance": "地缘政治对科技产业的影响，具有战略预警意义"
+    },
+    {
+      "title": "科技股變便宜了？相對標普估值創6年新低 - Yahoo 財經",
+      "summary": "科技股估值分析；NVIDIA和微软市盈率变化；AI投资趋势；市场情绪转变",
+      "publish_time": "2026-04-02T05:00:00Z",
+      "source_url": "https://hk.finance.yahoo.com/news/%E7%A7%91%E6%8A%80%E8%82%A1%E8%AE%8A%E4%BE%BF%E5%AE%9C%E4%BA%86-%E7%9B%B8%E5%B0%8D%E6%A8%99%E6%99%AE%E4%BC%B0%E5%80%BC%E5%89%B56%E5%B9%B4%E6%96%B0%E4%BD%8E-050005037.html",
+      "source_name": "Yahoo 財經",
+      "importance": "补充科技股估值数据，提供市场对比视角"
+    },
+    {
+      "title": "新浪AI热点小时报丨2026年04月02日20时",
+      "summary": "世界科学智能大赛启动；AI人才培养；环卫机器人价格突破；AI对简历影响；Nature论文发表",
+      "publish_time": "2026-04-02T20:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001903x85e.html?from=finance",
+      "source_name": "新浪AI",
+      "importance": "AI教育、应用创新、学术研究等多方面进展"
+    }
+  ]
+}
