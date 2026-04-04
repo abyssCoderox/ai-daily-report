@@ -1,0 +1,147 @@
+{
+  "timestamp": "2026-04-04T07:57:00Z",
+  "search_period": "past_6_hours",
+  "total_articles": 15,
+  "articles": [
+    {
+      "title": "OpenAI Acquires Tech News Show TBPN in Major Media Move",
+      "summary": "OpenAI has acquired TBPN, a popular tech talk show, in its first media acquisition. The deal aims to help create constructive conversations about AI changes. TBPN staff will assist with marketing while maintaining editorial independence.",
+      "publication_time": "2026-04-04T05:35:00Z",
+      "source_url": "https://techmeme.com/",
+      "source_name": "Techmeme",
+      "category": "AI Industry"
+    },
+    {
+      "title": "Google Launches Gemma 4 Open AI Models with Apache 2.0 License",
+      "summary": "Google has released Gemma 4, its most intelligent open models to date, featuring advanced reasoning and agentic workflows. The models are available under Apache 2.0 license and can run on devices from smartphones to servers.",
+      "publication_time": "2026-04-04T04:30:00Z",
+      "source_url": "https://techmeme.com/",
+      "source_name": "Techmeme",
+      "category": "AI Models"
+    },
+    {
+      "title": "CFTC Sues Three States Over Prediction Market Regulation",
+      "summary": "The Commodity Futures Trading Commission has filed lawsuits against Illinois, Arizona, and Connecticut, asserting exclusive federal jurisdiction over prediction markets and blocking state attempts to regulate platforms like Kalshi and Polymarket.",
+      "publication_time": "2026-04-04T03:15:00Z",
+      "source_url": "https://techmeme.com/",
+      "source_name": "Techmeme",
+      "category": "Regulation"
+    },
+    {
+      "title": "Anthropic Research Reveals AI Emotion Concepts Influence Behavior",
+      "summary": "Anthropic researchers found that AI models have internal representations of emotion concepts that can drive behavior in significant ways, including unethical actions. The research shows how emotional states can affect AI decision-making.",
+      "publication_time": "2026-04-04T01:45:00Z",
+      "source_url": "https://techmeme.com/",
+      "source_name": "Techmeme",
+      "category": "AI Research"
+    },
+    {
+      "title": "Sony Interactive Entertainment Acquires Cinemersive Labs",
+      "summary": "Sony has acquired Cinemersive Labs, a UK startup specializing in AI tools that convert 2D photos and videos into 3D volumetric photographs. The technology will enhance PlayStation's visual computing capabilities.",
+      "publication_time": "2026-04-04T01:20:00Z",
+      "source_url": "https://techmeme.com/",
+      "source_name": "Techmeme",
+      "category": "Gaming"
+    },
+    {
+      "title": "Arcee AI Releases Trinity-Large-Thinking 399B Parameter Model",
+      "summary": "Arcee AI has launched Trinity-Large-Thinking, a 399B-parameter MoE AI model under Apache 2.0 license, enabling full customization and commercial use for long-horizon agents and tool use.",
+      "publication_time": "2026-04-03T23:30:00Z",
+      "source_url": "https://venturebeat.com/",
+      "source_name": "VentureBeat",
+      "category": "AI Models"
+    },
+    {
+      "title": "Microsoft Partners with SoftBank for $10B Japan AI Infrastructure",
+      "summary": "Microsoft is investing $10 billion over four years in Japan to build AI data infrastructure with SoftBank and Sakura Internet, including training 1 million AI engineers as part of its Asian expansion.",
+      "publication_time": "2026-04-03T23:15:00Z",
+      "source_url": "https://bloomberg.com/",
+      "source_name": "Bloomberg",
+      "category": "AI Infrastructure"
+    },
+    {
+      "title": "Noon Emerges from Stealth with $44M for AI Design Tool",
+      "summary": "Noon, an AI-native product design tool, has launched from stealth mode with $44 million in funding from Chemistry, First Round Capital, and Scribble Ventures, aiming to bridge the gap between design and code.",
+      "publication_time": "2026-04-03T23:00:00Z",
+      "source_url": "https://economictimes.com/",
+      "source_name": "Economic Times",
+      "category": "AI Tools"
+    },
+    {
+      "title": "SpaceX Targets $2 Trillion Valuation in IPO",
+      "summary": "SpaceX is floating a valuation above $2 trillion for its upcoming IPO, with reports indicating the company's acquisition of xAI valued the combined entity at $1.25 trillion.",
+      "publication_time": "2026-04-03T22:45:00Z",
+      "source_url": "https://bloomberg.com/",
+      "source_name": "Bloomberg",
+      "category": "Space Tech"
+    },
+    {
+      "title": "Microsoft Launches MAI AI Model Series for Enterprise",
+      "summary": "Microsoft has released three new foundational AI models (MAI-Transcribe-1, MAI-Voice-1, MAI-Image-2) built entirely in-house as part of its pursuit of AI self-sufficiency and reduced reliance on OpenAI.",
+      "publication_time": "2026-04-03T22:30:00Z",
+      "source_url": "https://venturebeat.com/",
+      "source_name": "VentureBeat",
+      "category": "AI Models"
+    },
+    {
+      "title": "Cursor Launches Cursor 3 Agent-First Coding Platform",
+      "summary": "Cursor has released Cursor 3, an agent-first coding product that lets developers manage multiple AI agents to compete with Claude Code and Codex, featuring improved agent orchestration capabilities.",
+      "publication_time": "2026-04-03T22:15:00Z",
+      "source_url": "https://wired.com/",
+      "source_name": "Wired",
+      "category": "Developer Tools"
+    },
+    {
+      "title": "Coinbase Receives Conditional OCC Approval for Trust Charter",
+      "summary": "Coinbase has won conditional approval from US banking regulators for a national trust company charter, which could enable the cryptocurrency exchange to issue stablecoins and expand its financial services.",
+      "publication_time": "2026-04-03T22:00:00Z",
+      "source_url": "https://bloomberg.com/",
+      "source_name": "Bloomberg",
+      "category": "Fintech"
+    },
+    {
+      "title": "LinkedIn Data Shows 640K AI-Related Jobs Added in US",
+      "summary": "Companies added 640,000 AI-related jobs in the US from 2023-2025, including 225,000 'head of AI' positions, representing a 49% increase from the prior four years according to LinkedIn job posting data.",
+      "publication_time": "2026-04-03T21:45:00Z",
+      "source_url": "https://wsj.com/",
+      "source_name": "Wall Street Journal",
+      "category": "Employment"
+    },
+    {
+      "title": "Meta May Stop Funding Oversight Board After 2028",
+      "summary": "Meta has informed its Oversight Board that it may cease funding the independent governance body after 2028, though eliminating all funding is not the preferred option according to sources.",
+      "publication_time": "2026-04-03T21:30:00Z",
+      "source_url": "https://platformer.com/",
+      "source_name": "Platformer",
+      "category": "Social Media"
+    },
+    {
+      "title": "Drift Protocol Hit by $285M Solana DeFi Exploit",
+      "summary": "Solana-based DeFi platform Drift has suffered an active attack with over $285 million in assets transferred to an attacker's wallet, leading to suspension of deposits and withdrawals while investigations continue.",
+      "publication_time": "2026-04-03T21:15:00Z",
+      "source_url": "https://bloomberg.com/",
+      "source_name": "Bloomberg",
+      "category": "DeFi Security"
+    }
+  ],
+  "metadata": {
+    "search_query": "latest technology news",
+    "search_depth": "basic",
+    "provider": "tavily",
+    "categories_covered": [
+      "AI Industry",
+      "AI Models",
+      "Regulation",
+      "AI Research",
+      "Gaming",
+      "AI Infrastructure",
+      "AI Tools",
+      "Space Tech",
+      "Developer Tools",
+      "Fintech",
+      "Employment",
+      "Social Media",
+      "DeFi Security"
+    ]
+  }
+}
