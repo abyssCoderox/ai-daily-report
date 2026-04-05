@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-04-05T19:57:00Z",
+  "news_items": [
+    {
+      "title": "Anthropic restricts Claude access through third-party tools like OpenClaw",
+      "summary": "Starting April 4, 2026, Claude Pro and Max subscribers can no longer use their available credits through third-party frameworks such as OpenClaw, requiring users to pay for a Claude usage bundle or switch to another LLM.",
+      "published_time": "2026-04-05T17:00:00Z",
+      "source": "www.pcmag.com",
+      "url": "https://www.pcmag.com/news/anthropic-you-cant-use-openclaw-with-claude-without-paying-extra"
+    },
+    {
+      "title": "Google allows users to change Gmail addresses",
+      "summary": "Google is now allowing users to change their Gmail addresses, rolling out the feature in the United States after initially launching in India. Users can change their address up to three times total through their Google account settings.",
+      "published_time": "2026-04-05T16:58:00Z",
+      "source": "www.channel3000.com",
+      "url": "https://www.channel3000.com/news/national-and-world-news/ap-technology-summarybrief-at-6-58-p-m-edt/article_d6d1aed2-fa5e-5035-8258-86035c2e9dd3.html"
+    },
+    {
+      "title": "Microsoft Copilot labeled as 'for entertainment purposes only'",
+      "summary": "According to Microsoft Copilot Terms of Use updated in October 2025, Copilot is officially labeled as 'for entertainment purposes only' and users are warned not to rely on it for important advice, contradicting the company's heavy marketing push for the AI tool.",
+      "published_time": "2026-04-05T14:00:00Z",
+      "source": "www.tomshardware.com",
+      "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/microsoft-says-copilot-is-for-entertainment-purposes-only-not-serious-use-firm-pushing-ai-hard-to-consumers-tells-users-not-to-rely-on-it-for-important-advice"
+    },
+    {
+      "title": "Samsung discontinuing Messages app in favor of Google Messages",
+      "summary": "Samsung plans to discontinue its Messages app in the US in July 2026, offering instructions for users on older Android versions to switch to Google Messages as part of the official end of service.",
+      "published_time": "2026-04-05T13:00:00Z",
+      "source": "9to5google.com",
+      "url": "https://9to5google.com/2026/04/04/samsung-messages-discontinued-us/"
+    },
+    {
+      "title": "AI machine sorts clothes faster than humans to boost textile recycling in China",
+      "summary": "A company in eastern China is using an artificial intelligence-powered machine called Fastsort-Textile to sort clothes and boost recycling. The machine can sort 100 kilograms of clothes in two to three minutes, compared to one worker taking around four hours to do the same task.",
+      "published_time": "2026-04-05T12:00:00Z",
+      "source": "www.channel3000.com",
+      "url": "https://www.channel3000.com/news/national-and-world-news/ap-technology-summarybrief-at-6-58-p-m-edt/article_d6d1aed2-fa5e-5035-8258-86035c2e9dd3.html"
+    }
+  ]
+}
