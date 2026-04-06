@@ -1,0 +1,219 @@
+{
+  "metadata": {
+    "timestamp": "2026-04-06T13:57:00Z",
+    "time_range": "past_6_hours",
+    "total_articles": 15,
+    "sources": [
+      "howlytech.com",
+      "financialexpress.com"
+    ]
+  },
+  "articles": [
+    {
+      "title": "Latest Technology News: Innovations and Trends in 2026",
+      "summary": "Comprehensive overview of 2026 tech trends including AI breakthroughs, quantum computing advances, cloud-edge computing integration, IoT expansion, robotics automation, extended reality developments, blockchain applications, and sustainable technology innovations.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://howlytech.com/latest-technology-news-innovations-and-trends-in-2026",
+      "source": "howlytech.com",
+      "key_topics": [
+        "Artificial Intelligence",
+        "Quantum Computing",
+        "Cloud Computing",
+        "IoT",
+        "Robotics",
+        "Extended Reality",
+        "Blockchain",
+        "Cybersecurity",
+        "Sustainable Technology"
+      ]
+    },
+    {
+      "title": "Technology News Coverage - Financial Express",
+      "summary": "Financial Express technology section covering latest gadgets, software updates, AI/ML innovations, cybersecurity developments, tech industry business news, scientific breakthroughs, and emerging technologies including quantum computing and blockchain.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/about/technology-news",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Consumer Electronics",
+        "Software Updates",
+        "Artificial Intelligence",
+        "Cybersecurity",
+        "Tech Industry",
+        "Scientific Research",
+        "Emerging Technologies"
+      ]
+    },
+    {
+      "title": "iPhone 17 Price Drops to Rs 44,768 in Croma's Everything Apple Sale",
+      "summary": "Apple's iPhone 17 becomes available at significant discount during Croma's Everything Apple sale, offering customers substantial savings with exchange offers and bank deals.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-iphone17-price-drops-to-rs-44768-in-cromas-everything-apple-sale-check-all-offers-here-4194247/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Apple",
+        "iPhone",
+        "Consumer Electronics",
+        "Retail Sales"
+      ]
+    },
+    {
+      "title": "Cursor 3 Introduces AI Agents That Automate Coding",
+      "summary": "Cursor 3 launches advanced AI coding agents that can automate developer tasks independently, positioning itself to compete with Claude Code and OpenAI's Codex in the AI-powered development tools market.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-cursor3-introduces-ai-agents-that-automate-coding-set-to-compete-with-claude-code-openais-codex-4194232/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Artificial Intelligence",
+        "Software Development",
+        "AI Agents",
+        "Coding Automation"
+      ]
+    },
+    {
+      "title": "OnePlus Nord 6 Launch Details: April 7, 2026",
+      "summary": "OnePlus Nord 6 set to debut in India on April 7, 2026, with expected specifications including design details, camera capabilities, battery life, chipset information, and pricing.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-oneplus-nord-6-exact-launch-date-expected-india-price-design-camera-battery-chipset-and-more-4194200/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "OnePlus",
+        "Smartphones",
+        "Mobile Technology",
+        "Product Launch"
+      ]
+    },
+    {
+      "title": "iPhone 18 Pro and Pro Max Expected Camera Upgrades",
+      "summary": "Apple's upcoming iPhone 18 Pro and iPhone 18 Pro Max expected to feature significant camera improvements including DSLR-like capabilities and enhanced zoom functionality.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-iphone-18-pro-iphone-18-pro-max-expected-camera-upgrades-dslr-like-features-to-zoom-enhancements-4194182/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Apple",
+        "iPhone",
+        "Camera Technology",
+        "Mobile Photography"
+      ]
+    },
+    {
+      "title": "Meta Builds AI Team to Boost Instagram and Facebook Engagement",
+      "summary": "Mark Zuckerberg's Meta is building a dedicated AI team focused on increasing user engagement across Facebook and Instagram platforms through advanced artificial intelligence implementations.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-mark-zuckerbergs-meta-builds-ai-team-to-keep-users-hooked-on-instagram-and-facebook-report-4194175/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Meta",
+        "Facebook",
+        "Instagram",
+        "Artificial Intelligence",
+        "User Engagement"
+      ]
+    },
+    {
+      "title": "LinkedIn CEO Reveals 5 Skills AI Won't Replace",
+      "summary": "LinkedIn CEO highlights five key skills that artificial intelligence cannot easily replicate, providing guidance for professionals to stay relevant in an AI-driven job market.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-worried-about-ai-linkedin-ceo-reveals-5-skills-artificial-intelligence-wont-replace-4194163/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Artificial Intelligence",
+        "Skills Development",
+        "Career Advice",
+        "Future of Work"
+      ]
+    },
+    {
+      "title": "GOQii CEO's AI Agent Falls Asleep During Tasks",
+      "summary": "GOQii CEO Vishal Gondal shares experience with autonomous AI agent that fell asleep while handling routine tasks, illustrating both the potential and current limitations of AI automation.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-ai-is-not-replacing-us-it-is-becoming-us-goqii-ceo-says-his-ai-agent-fell-asleep-while-handling-tasks-4194085/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Artificial Intelligence",
+        "AI Agents",
+        "Automation",
+        "Human-AI Collaboration"
+      ]
+    },
+    {
+      "title": "iPhone Fold Launch Timing After iPhone 18 Series",
+      "summary": "Apple's first foldable iPhone expected to arrive after the iPhone 18 series, with detailed explanation of the strategic timing for the foldable device launch.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-iphone-fold-launch-timing-explained-why-apples-first-foldable-could-arrive-after-iphone-18-seriesnbsp-4194013/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Apple",
+        "Foldable Phones",
+        "iPhone",
+        "Product Strategy"
+      ]
+    },
+    {
+      "title": "Google AI Pro Users Get 5TB Storage Upgrade",
+      "summary": "Google unveils significant update to AI Pro subscription, boosting storage from 2TB to 5TB without additional cost, enhancing value for AI-powered productivity tools users.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-google-ai-pro-users-can-now-enjoy-5tb-storage-without-paying-more-how-to-get-it-4193957/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Google",
+        "Cloud Storage",
+        "AI Services",
+        "Subscription Services"
+      ]
+    },
+    {
+      "title": "Google DeepMind Unveils Gemma 4 AI Models",
+      "summary": "Google DeepMind launches Gemma 4, a new series of open AI models designed for complex reasoning and autonomous AI capabilities, representing significant advancement in AI model development.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-google-deepmind-unveils-gemma-4-next-gen-ai-models-for-advanced-reasoning-4193929/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Google DeepMind",
+        "Artificial Intelligence",
+        "AI Models",
+        "Machine Learning"
+      ]
+    },
+    {
+      "title": "NASA Artemis II Crew Faces Microsoft Outlook Email Glitch",
+      "summary": "After previous toilet issues, NASA Artemis II crew encounters technical problem with Microsoft Outlook email functionality in space, highlighting challenges of technology in space missions.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-after-toilet-issues-nasa-artemis-ii-crew-faces-microsoft-outlook-email-glitch-in-space-4193867/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "NASA",
+        "Space Technology",
+        "Microsoft",
+        "Email Systems",
+        "Space Missions"
+      ]
+    },
+    {
+      "title": "OpenAI's Next AI Model 'Spud' Could Leap Toward AGI",
+      "summary": "OpenAI's upcoming AI model 'Spud' could mark a significant step toward achieving Artificial General Intelligence (AGI), according to Greg Brockman, representing a major breakthrough in AI development.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-openais-next-ai-model-spud-could-be-a-major-leap-toward-agi-greg-brockman-explains-4193811/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "OpenAI",
+        "Artificial General Intelligence",
+        "AI Models",
+        "AI Research"
+      ]
+    },
+    {
+      "title": "Meet Dobby: AI Agent That Could Replace Traditional Apps",
+      "summary": "Dobby, a revolutionary AI agent poised to replace traditional mobile applications and transform how users interact with smartphones, representing a paradigm shift in mobile user interfaces.",
+      "publish_time": "2026-04-06T13:57:00Z",
+      "url": "https://www.financialexpress.com/life/technology-meet-dobby-an-ai-agent-that-could-replace-traditional-apps-and-redefine-how-users-interact-with-smartphones-4193720/",
+      "source": "financialexpress.com",
+      "key_topics": [
+        "Artificial Intelligence",
+        "AI Agents",
+        "Mobile Apps",
+        "User Interface",
+        "Smartphone Technology"
+      ]
+    }
+  ]
+}
