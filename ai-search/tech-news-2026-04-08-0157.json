@@ -1,0 +1,127 @@
+{
+  "timestamp": "2026-04-08T01:57:00Z",
+  "time_range": "past_6_hours",
+  "total_news": 15,
+  "news_items": [
+    {
+      "title": "思科直指AI市场短期不会泡沫化，宣布开始发展太空数据中心技术",
+      "summary": "思科CEO Chuck Robbins表示，将数据中心建置于太空不仅是绝对可行的解决方案，更是未来必然趋势，以应对AI爆发性成长带来的基础设施挑战。",
+      "publish_time": "2026-04-07T13:45:00Z",
+      "source_url": "https://technews.tw/2026/04/07/cisco-announces-the-start-of-development-of-space-data-center-technology/",
+      "source_name": "TechNews科技新報",
+      "category": "AI基础设施"
+    },
+    {
+      "title": "苹果、亚马逊、OpenAI遭起诉，被指爬取YouTube视频训练AI",
+      "summary": "三个YouTube频道提起集体诉讼，指控苹果绕过反爬虫防护措施下载数百万条视频用于训练AI模型。",
+      "publish_time": "2026-04-07T09:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c00190420us.html",
+      "source_name": "新浪科技",
+      "category": "AI法律争议"
+    },
+    {
+      "title": "英特尔与亚马逊和谷歌洽谈AI芯片封装",
+      "summary": "英特尔正就其先进封装服务与至少两家大型客户展开持续磋商，人工智能推动了对先进芯片封装的需求。",
+      "publish_time": "2026-04-07T08:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c00190420us.html",
+      "source_name": "新浪科技",
+      "category": "半导体"
+    },
+    {
+      "title": "AI能从单份血样检出多种神经疾病",
+      "summary": "瑞典隆德大学研发的新AI模型仅需一份血液样本，便能精准识别多种神经退行性疾病，实现"一次采血，多重诊断"。",
+      "publish_time": "2026-04-07T07:30:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c00190420us.html",
+      "source_name": "新浪科技",
+      "category": "AI医疗"
+    },
+    {
+      "title": "AI产业活跃度有了核心指标",
+      "summary": "国家数据局发布数据显示，2026年3月份我国日均词元调用量已突破140万亿，较2024年初增长超千倍，"词元"成为AI时代核心度量指标。",
+      "publish_time": "2026-04-07T07:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c00190420us.html",
+      "source_name": "新浪科技",
+      "category": "AI产业"
+    },
+    {
+      "title": "博通确认将向Anthropic供应谷歌TPU芯片",
+      "summary": "博通将为Anthropic提供谷歌TPU芯片，作为英伟达技术的替代方案，显示AI芯片市场竞争加剧。",
+      "publish_time": "2026-04-07T06:30:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c00190420us.html",
+      "source_name": "新浪科技",
+      "category": "AI芯片"
+    },
+    {
+      "title": "史上最大IPO细节曝光！马斯克SpaceX传6月启动法说",
+      "summary": "SpaceX计划将大比例股份保留给散户投资人，预计募资约750亿美元，估值将达1.75兆美元，创史上最大规模IPO纪录。",
+      "publish_time": "2026-04-07T06:00:00Z",
+      "source_url": "https://www.technice.com.tw/technology/space/211843/",
+      "source_name": "科技岛",
+      "category": "科技IPO"
+    },
+    {
+      "title": "雷军刘强东，投了个29岁哥大学霸",
+      "summary": "上海仿生机器人创企首形科技完成数亿元A1轮融资，由华控基金及某互联网大厂联合领投，雷军旗下顺为资本等跟投。",
+      "publish_time": "2026-04-07T19:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019042kwe.html",
+      "source_name": "新浪科技",
+      "category": "机器人"
+    },
+    {
+      "title": "微信低调更新，这功能太「泪目」",
+      "summary": "腾讯客服上线升级逝者微信QQ零钱资金继承专属服务，材料完备情况下最快24小时可完成提取，简化了继承流程。",
+      "publish_time": "2026-04-07T18:30:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019042kwe.html",
+      "source_name": "新浪科技",
+      "category": "科技服务"
+    },
+    {
+      "title": "TensorWave能否实现跨越式突破，撼动英伟达的坚固壁垒？",
+      "summary": "TensorWave CEO挑战英伟达CUDA生态，探讨AMD AI芯片替代方案，反映AI芯片市场竞争格局变化。",
+      "publish_time": "2026-04-07T18:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019042kwe.html",
+      "source_name": "新浪科技",
+      "category": "AI芯片"
+    },
+    {
+      "title": "滴滴清明出行数据：异地打车需求上涨41%，AI打车需求上涨86%",
+      "summary": "清明假期全国打车需求同比上涨近15%，AI打车需求相比平日上涨86%，00后用户占比超40%，显示AI出行服务快速增长。",
+      "publish_time": "2026-04-07T17:30:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019042kwe.html",
+      "source_name": "新浪科技",
+      "category": "AI应用"
+    },
+    {
+      "title": "00后AI天才，广东制造",
+      "summary": "广东培养的年轻AI人才崭露头角，展现中国在AI人才培养方面的成果和潜力。",
+      "publish_time": "2026-04-07T17:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019042kwe.html",
+      "source_name": "新浪科技",
+      "category": "AI人才"
+    },
+    {
+      "title": "晶科发布AIDC全场景光储解决方案，为数据中心全天候供电",
+      "summary": "晶科能源发布面向人工智能数据中心的全场景光储解决方案，以"储能+光伏"融合方案为AI基础设施提供绿色能源保障。",
+      "publish_time": "2026-04-07T16:30:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019042kwe.html",
+      "source_name": "新浪科技",
+      "category": "绿色AI"
+    },
+    {
+      "title": "第一批用AI的人，已经染上了AI疲惫症",
+      "summary": "随着AI工具普及，许多用户出现AI疲惫症，反映AI技术快速发展和使用压力带来的负面影响。",
+      "publish_time": "2026-04-07T16:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019042kwe.html",
+      "source_name": "新浪科技",
+      "category": "AI社会影响"
+    },
+    {
+      "title": "4小时自主攻破主流服务器，AI改写网络安全攻防逻辑",
+      "summary": "AI首次独立完成对FreeBSD服务器的完整攻击链构建，4小时内实现root权限获取，引发网络安全领域广泛关注。",
+      "publish_time": "2026-04-07T15:00:00Z",
+      "source_url": "https://stcn.com/article/detail/3729447.html",
+      "source_name": "证券时报",
+      "category": "AI安全"
+    }
+  ]
+}
