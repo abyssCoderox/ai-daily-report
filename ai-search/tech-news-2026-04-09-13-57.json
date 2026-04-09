@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-04-09T13:57:00Z",
+  "time_range": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "Technology News - Latest Tech News Today, New Gadgets, Mobile Technology News - Gadgets 360",
+      "summary": "Latest tech news covering OnePlus Nord 6 launch with 9,000mAh battery, Meta's AI model Muse Spark, and various mobile device releases in India.",
+      "publish_time": "2026-04-09T00:00:00Z",
+      "source_url": "https://www.gadgets360.com/news",
+      "source_name": "Gadgets 360",
+      "category": "Technology"
+    },
+    {
+      "title": "Phys.org - News and Articles on Science and Technology",
+      "summary": "Recent science and technology updates including AI discovering bacterial immune defenses, forest soundscape research, and climate change studies.",
+      "publish_time": "2026-04-09T07:45:00Z",
+      "source_url": "https://phys.org/",
+      "source_name": "Phys.org",
+      "category": "Science & Technology"
+    },
+    {
+      "title": "Fortune Tech: Meta Muse Spark, Anthropic vs. Pentagon, Greece social media ban",
+      "summary": "Meta unveils Muse Spark AI model, causing 7% stock surge. The model enhances Meta AI and will expand to WhatsApp, Instagram, and Facebook for better engagement and ad targeting.",
+      "publish_time": "2026-04-09T10:30:00Z",
+      "source_url": "https://fortune.com/2026/04/09/meta-takes-the-wraps-off-muse-spark/",
+      "source_name": "Fortune",
+      "category": "Business Technology"
+    },
+    {
+      "title": "Technology | Latest News & Updates | BBC News",
+      "summary": "Tech news including phone theft investigations, maritime drone funding, social media impact discussions, and AI marking systems in education.",
+      "publish_time": "2026-04-09T08:15:00Z",
+      "source_url": "https://www.bbc.co.uk/news/technology",
+      "source_name": "BBC News",
+      "category": "General Technology"
+    },
+    {
+      "title": "The Latest News in Technology | PCMag",
+      "summary": "Tech updates including Android data settlements, Insta360 Snap accessory, Metaverse analysis, Microsoft account freezes, and Google Maps AI captions.",
+      "publish_time": "2026-04-09T09:00:00Z",
+      "source_url": "https://www.pcmag.com/news",
+      "source_name": "PCMag",
+      "category": "Consumer Technology"
+    },
+    {
+      "title": "Alphabet, Meta, Amazon, Nvidia lead tech rally after Iran ceasefire",
+      "summary": "Tech stocks surge following Iran ceasefire announcement. Meta, Amazon, Alphabet, and Nvidia lead gains with chipmakers also performing strongly.",
+      "publish_time": "2026-04-08T20:00:00Z",
+      "source_url": "https://www.cnbc.com/2026/04/08/alphabet-nvidia-microsoft-tech-stocks-iran-ceasefire.html",
+      "source_name": "CNBC",
+      "category": "Financial Technology"
+    },
+    {
+      "title": "Technology News, Research & Innovations - SciTechDaily",
+      "summary": "Breakthrough technologies including AI rewriting history, DNA-electronics memory, solar panels generating power from rain, and quantum signal measurement advances.",
+      "publish_time": "2026-04-09T11:20:00Z",
+      "source_url": "https://scitechdaily.com/news/technology/",
+      "source_name": "SciTechDaily",
+      "category": "Research & Innovation"
+    },
+    {
+      "title": "The Tech Buzz | The Future of Tech News & Insights",
+      "summary": "Latest tech developments including OpenAI halting UK Stargate project, YouTube AI avatar cloning, and various AI and mobile technology updates.",
+      "publish_time": "2026-04-09T12:10:00Z",
+      "source_url": "https://www.techbuzz.ai/",
+      "source_name": "Tech Buzz",
+      "category": "Technology Trends"
+    },
+    {
+      "title": "Tech Innovation - Quartz",
+      "summary": "Tech industry news including Microsoft SharePoint ransomware attacks, Google crisis hotline integration, Samsung AI chip demand, and OpenAI leadership changes.",
+      "publish_time": "2026-04-09T06:45:00Z",
+      "source_url": "https://qz.com/tech-innovation",
+      "source_name": "Quartz",
+      "category": "Tech Business"
+    },
+    {
+      "title": "Techmeme",
+      "summary": "Aggregated tech news from multiple sources including startup updates, funding news, and industry developments.",
+      "publish_time": "2026-04-09T09:55:00Z",
+      "source_url": "https://www.techmeme.com/",
+      "source_name": "Techmeme",
+      "category": "Tech Aggregator"
+    }
+  ]
+}
