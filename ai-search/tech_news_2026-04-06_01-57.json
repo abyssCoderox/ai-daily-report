@@ -1,0 +1,98 @@
+{
+  "timestamp": "2026-04-06T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "Technology | Latest News & Updates - BBC",
+      "summary": "Latest technology news and updates including mixed-reality headsets, gaming conventions, smart glasses for blind runners, and cybersecurity incidents affecting companies like Hasbro.",
+      "url": "https://www.bbc.co.uk/news/technology",
+      "source": "BBC",
+      "relevance_score": 0.932,
+      "key_topics": ["mixed-reality", "gaming", "smart glasses", "cybersecurity"]
+    },
+    {
+      "title": "The Latest News in Technology - PCMag",
+      "summary": "PCMag's latest technology coverage including AI-powered assistant Maggie, NASA's Artemis II mission updates, Windows updates, Lenovo's console price increases, and AI psychiatric medication prescription pilot programs in Utah.",
+      "url": "https://www.pcmag.com/news",
+      "source": "PCMag",
+      "relevance_score": 0.890,
+      "key_topics": ["AI assistant", "space mission", "console pricing", "AI healthcare"]
+    },
+    {
+      "title": "SciTechDaily - Science, Space and Technology News 2026",
+      "summary": "Comprehensive science and technology coverage including NASA's Artemis II moon mission, quantum theory breakthroughs, AI cancer detection through voice analysis, and new approaches to eliminating aging cells.",
+      "url": "https://scitechdaily.com/",
+      "source": "SciTechDaily",
+      "relevance_score": 0.860,
+      "key_topics": ["space exploration", "quantum physics", "AI medical diagnosis", "longevity research"]
+    },
+    {
+      "title": "Technology News, Research & Innovations - SciTechDaily",
+      "summary": "Advanced technology research including metasurface chips for infrared light conversion, fusion power measurement breakthroughs, ChatGPT mathematical proof generation, and revolutionary laser wireless systems achieving 360 Gbps speeds.",
+      "url": "https://scitechdaily.com/news/technology/",
+      "source": "SciTechDaily",
+      "relevance_score": 0.859,
+      "key_topics": ["photonics", "fusion energy", "AI mathematics", "wireless technology"]
+    },
+    {
+      "title": "Cybersecurity, Technology News and Support - BleepingComputer",
+      "summary": "Critical cybersecurity updates including Microsoft's forced Windows 11 upgrades, European Commission data breach affecting 30 EU entities, GitHub malware campaigns exploiting Claude Code leaks, and new FortiClient security vulnerabilities.",
+      "url": "https://www.bleepingcomputer.com/",
+      "source": "BleepingComputer",
+      "relevance_score": 0.488,
+      "key_topics": ["Windows updates", "data breaches", "malware", "security vulnerabilities"]
+    },
+    {
+      "title": "Techmeme - Technology News aggregator",
+      "summary": "Aggregated technology news from multiple sources covering industry developments, startup news, and major tech company announcements from the past 24 hours.",
+      "url": "https://techmeme.com/",
+      "source": "Techmeme",
+      "relevance_score": 0.199,
+      "key_topics": ["tech industry", "startups", "company news"]
+    },
+    {
+      "title": "Tech Fix - New York Times",
+      "summary": "NYT's technology column covering AI health record privacy concerns, smart home AI reboot initiatives by Amazon and Google, self-driving taxi expansion, and analysis of tech trends for 2026.",
+      "url": "https://www.nytimes.com/column/tech-fix",
+      "source": "New York Times",
+      "relevance_score": 0.064,
+      "key_topics": ["AI privacy", "smart homes", "autonomous vehicles", "tech trends"]
+    },
+    {
+      "title": "Android Headlines - Android News",
+      "summary": "Latest Android ecosystem news including Google's new Aluminium OS wallpapers, Samsung device reviews, and mobile technology updates across the Android platform.",
+      "url": "https://www.androidheadlines.com/",
+      "source": "Android Headlines",
+      "relevance_score": 0.032,
+      "key_topics": ["Android OS", "mobile devices", "Google products"]
+    },
+    {
+      "title": "Cleantech News - EV and Renewable Energy",
+      "summary": "Clean technology updates including EV sales surges in Australia, VinFast's record vehicle sales in Vietnam, and expansion of EV charging infrastructure in Illinois.",
+      "url": "https://cleantechnica.com/",
+      "source": "CleanTechnica",
+      "relevance_score": 0.031,
+      "key_topics": ["electric vehicles", "renewable energy", "charging infrastructure"]
+    },
+    {
+      "title": "Innovation - Forbes",
+      "summary": "Forbes innovation coverage including Samsung's surprise Galaxy updates, AI curiosity research, Baidu's robotaxi challenges, and analysis of OpenAI's cancelled projects and products.",
+      "url": "https://www.forbes.com/innovation/",
+      "source": "Forbes",
+      "relevance_score": 0.022,
+      "key_topics": ["mobile updates", "AI research", "autonomous vehicles", "product development"]
+    }
+  ],
+  "summary_statistics": {
+    "total_sources": 10,
+    "average_relevance_score": 0.338,
+    "top_categories": ["AI/ML", "Cybersecurity", "Space Technology", "Mobile/Wireless"],
+    "emerging_trends": [
+      "AI healthcare applications",
+      "Quantum computing advances",
+      "Cybersecurity threats",
+      "Autonomous vehicle development"
+    ]
+  }
+}

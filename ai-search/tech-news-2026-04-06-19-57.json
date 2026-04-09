@@ -1,0 +1,79 @@
+{
+  "timestamp": "2026-04-06T19:57:00Z",
+  "time_range": "past_6_hours",
+  "total_articles": 8,
+  "news": [
+    {
+      "title": "历史性突破！中国AI大模型调用量连续5周超美国",
+      "summary": "中国AI大模型周调用量达12.96万亿Token，环比增长31.48%，连续五周超越美国，全球调用量排名前六均为中国模型",
+      "publish_time": "2026-04-06",
+      "source": "每日经济新闻",
+      "url": "https://www.163.com/dy/article/KPS0JNH30530RMN7.html",
+      "importance": "中国AI产业从跟随者转变为引领者，标志着全球AI竞争格局的重大转变"
+    },
+    {
+      "title": "阿里巴巴Qwen3.6-Plus日调用量突破1.4兆，全球领先",
+      "summary": "Qwen3.6-Plus在全球知名大模型API平台OpenRouter日榜登顶，单日调用量突破1.4兆Token，刷新全球纪录",
+      "publish_time": "2026-04-06",
+      "source": "Yahoo股市",
+      "url": "https://tw.stock.yahoo.com/news/%E9%98%BF%E9%87%8C%E5%B7%B4%E5%B7%B4qwen3-6-plus%E6%97%A5%E8%AA%BF%E7%94%A8%E9%87%8F%E7%AA%81%E7%A0%B41-4-%E5%85%86-110003673.html",
+      "importance": "国产大模型已具备与国际顶尖模型正面竞争的能力，显示中国AI技术实力获得全球认可"
+    },
+    {
+      "title": "AI就业冲击：中国7030万岗位面临替代风险",
+      "summary": "花旗银行测算显示中国将直接被AI替代7030万个岗位，影响超1.57亿人，翻译、法律助理、程序员等岗位替代率最高",
+      "publish_time": "2026-04-06",
+      "source": "稀土掘金",
+      "url": "https://juejin.cn/post/7625087255814717466",
+      "importance": "AI对就业市场产生实质性冲击，需要关注劳动力转型和技能升级"
+    },
+    {
+      "title": "OpenAI CEO呼吁美国为AI超智能风险做准备",
+      "summary": "Sam Altman警告AI可能助长更强大的网络攻击，降低有害生物研究门槛，需要在安全与监管间找到平衡",
+      "publish_time": "2026-04-06",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/zh/tech/2026/04/06/openai-ceo-urges-u-s-to-prepare-for-ai-superintelligence-risks-and-gains",
+      "importance": "AI安全成为全球关注焦点，需要建立有效的监管框架和防护机制"
+    },
+    {
+      "title": "中国六部门推动人工智能+电商发展",
+      "summary": "商务部等6部门发布指导意见，引导电商企业加强人工智能大模型等技术研发应用，优化消费体验、降低运营成本",
+      "publish_time": "2026-04-06",
+      "source": "财经客户端",
+      "url": "https://news.caijingmobile.com/article/detail/566655?source_id=40",
+      "importance": "政策支持AI在电商领域的应用，将推动传统产业数字化转型"
+    },
+    {
+      "title": "华为昇腾950PR芯片技术突破",
+      "summary": "国内首款支持FP4低精度推理的芯片，可将大模型显存占用降低75%，显著提升模型部署密度与推理效率",
+      "publish_time": "2026-04-06",
+      "source": "稀土掘金",
+      "url": "https://juejin.cn/post/7625087255814717466",
+      "importance": "芯片技术突破为AI发展提供硬件支撑，降低部署成本"
+    },
+    {
+      "title": "2026年AI发展趋势：多模态融合与智能体时代",
+      "summary": "AI将向多模态融合、AI智能体、端云协同推理、世界模型四个方向发展，2026年被定义为AI Agent商用元年",
+      "publish_time": "2026-04-06",
+      "source": "稀土掘金",
+      "url": "https://juejin.cn/post/7625087255814717466",
+      "importance": "技术发展方向明确，AI将进入更高级的智能体阶段"
+    },
+    {
+      "title": "洛杉矶跃居AI创新重镇，十大企业引领应用科技浪潮",
+      "summary": "微软投资日本100亿美元扩展AI发展，韩国景福大学导入AI与数字分身获教育创新奖",
+      "publish_time": "2026-04-06",
+      "source": "PChome新闻",
+      "url": "https://news.pchome.com.tw/science/sunmedia/20260406/index-77546710758053329005.html",
+      "importance": "全球AI创新格局多元化发展，各国加大AI投入和布局"
+    }
+  ],
+  "key_trends": [
+    "中国AI大模型技术实力全球领先，调用量连续五周超越美国",
+    "AI对就业市场产生实质性冲击，需要关注劳动力转型",
+    "AI安全问题日益突出，需要建立有效监管框架",
+    "多模态融合和AI智能体成为技术发展重点方向"
+  ],
+  "generated_by": "Learning Bot",
+  "data_source": "Tavily Search API"
+}

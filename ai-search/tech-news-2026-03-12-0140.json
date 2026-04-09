@@ -1,0 +1,91 @@
+{
+  "search_metadata": {
+    "query": "科技新闻 人工智能 机器学习 2026年3月11日",
+    "search_time": "2026-03-12T01:40:00Z",
+    "total_results": 10,
+    "time_range": "day",
+    "topic": "news"
+  },
+  "news_articles": [
+    {
+      "title": "Fulloop Highlights Institutional Shift Toward AI Infrastructure Investment",
+      "summary": "Fulloop, a technology platform focused on AI-driven recruitment and technical hiring workflows, today shared new industry insights highlighting a growing institutional investment shift toward artificial intelligence infrastructure. As global investment in AI continues to accelerate, companies are prioritizing foundational technologies that enable AI systems to scale.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://markets.businessinsider.com/news/stocks/fulloop-highlights-institutional-shift-toward-ai-infrastructure-investment-1035916673",
+      "source_name": "markets.businessinsider.com",
+      "relevance_score": 98
+    },
+    {
+      "title": "Qualcomm, Wayve partner to accelerate AI-powered self-driving system rollout",
+      "summary": "Qualcomm and Wayve have partnered to accelerate the rollout of AI-powered self-driving systems. This collaboration aims to bring advanced autonomous driving technology to market faster by combining Qualcomm's hardware expertise with Wayve's AI software capabilities.",
+      "publish_time": "2026-03-11T05:44:00Z",
+      "source_url": "https://www.autonews.com/technology/ai/ane-wayve-qualcomm-ai-self-driving-sytem-0311/",
+      "source_name": "Automotive News",
+      "relevance_score": 98
+    },
+    {
+      "title": "MIT study suggests computing power – not 'secret sauce' – drives most AI model breakthroughs",
+      "summary": "A new study by researchers at the Massachusetts Institute of Technology suggests that the rapid improvement of large language models is driven primarily by access to massive computing power rather than secret proprietary techniques developed by individual AI companies.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://roboticsandautomationnews.com/2026/03/10/mit-study-suggests-computing-power-not-secret-sauce-drives-most-ai-model-breakthroughs/99457/",
+      "source_name": "Robotics & Automation News",
+      "relevance_score": 84
+    },
+    {
+      "title": "New industry imperative: modern, secure AI-native networks (Reader Forum)",
+      "summary": "As costs soar and threats evolve, IT services company Kyndryl says organizations must move beyond basic automation toward secure, AI-native infrastructure capable of autonomous operations, continuous visibility, and resilient performance.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://www.rcrwireless.com/20260311/reader-forum/secure-ai-native-networks",
+      "source_name": "RCR Wireless News",
+      "relevance_score": 79
+    },
+    {
+      "title": "Anthropic's First Amendment case",
+      "summary": "One of the major First Amendment issues at play in the litigation cuts across the intersection of AI ethics and constitutional rights, concerning the limits on the use of AI technology and ethical AI principles.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://www.politico.com/newsletters/digital-future-daily/2026/03/10/anthropics-first-amendment-case-00821116",
+      "source_name": "Politico",
+      "relevance_score": 58
+    },
+    {
+      "title": "How AI Might Impact the Gov Tech Biz Market in 2026",
+      "summary": "Jeff Cook, an expert on gov tech investment, lays out his thoughts on how AI will shake up the market — including possibly altering our understanding of what kinds of business are included in it. AI is already changing how gov tech businesses operate and compete.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://www.govtech.com/biz/how-ai-might-impact-the-gov-tech-biz-market-in-2026",
+      "source_name": "GovTech",
+      "relevance_score": 56
+    },
+    {
+      "title": "Huawei driving enterprises to ACT on industrial AI",
+      "summary": "Huawei's SHAPE 2.0 partner framework receives an AI makeover. For Huawei, facilitating this industrial transformation means providing enterprises with the tools and partnerships needed to implement AI solutions at scale.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://totaltele.com/huawei-driving-enterprises-to-act-on-industrial-ai/",
+      "source_name": "Total Telecom",
+      "relevance_score": 41
+    },
+    {
+      "title": "SpaceX's Starship delays risk NASA moon landing timeline: watchdog",
+      "summary": "The video covers various tech topics including AI rally sparks white-collar job loss fears, Meta acquires AI agent social network Moltbook, and how tech is screening underage users amid wave of online safety laws.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://www.reuters.com/video/watch/idRW289111032026RP1/?chan=technology",
+      "source_name": "Reuters",
+      "relevance_score": 37
+    },
+    {
+      "title": "Skylark Labs Unveils Self-Learning AI Road Infrastructure Intelligence Platform Following Multi-Million-Dollar Contract Win",
+      "summary": "Skylark Labs today unveiled its AI-driven, self-learning road infrastructure intelligence platform, a sensor-equipped network survey system designed to improve road safety and infrastructure management through advanced AI analytics.",
+      "publish_time": "2026-03-10T00:00:00Z",
+      "source_url": "https://www.prnewswire.com/news-releases/skylark-labs-unveils-self-learning-ai-road-infrastructure-intelligence-platform-following-multi-million-dollar-contract-win-302710098.html",
+      "source_name": "PR Newswire",
+      "relevance_score": 21
+    },
+    {
+      "title": "NAPLAN tests disrupted by tech issue on first day",
+      "summary": "Technical issues disrupted NAPLAN testing on the first day, highlighting ongoing challenges in educational technology infrastructure. The article also mentions Woolworths' AI customer problem-solving initiatives.",
+      "publish_time": "2026-03-11T00:00:00Z",
+      "source_url": "https://www.itnews.com.au/news/naplan-tests-disrupted-by-tech-issue-on-first-day-624185?utm_source=feed&utm_medium=rss&utm_campaign=iTnews+",
+      "source_name": "iTnews",
+      "relevance_score": 7
+    }
+  ]
+}

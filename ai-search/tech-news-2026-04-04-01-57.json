@@ -1,0 +1,95 @@
+{
+  "timestamp": "2026-04-04T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "Technology News 2026: AI Breakthroughs and Quantum Computing",
+      "summary": "AI breakthroughs and quantum computing advances are translating into tangible value across industries. Key developments include deeper hybrids of quantum computing and AI, privacy-preserving machine learning, and specialized hardware accelerators.",
+      "publish_time": "2026-04-04T01:57:00Z",
+      "source_url": "https://www.wiredraft.com/technology-news-2026-ai-breakthroughs-and-quantum-computing",
+      "source_name": "wiredraft.com",
+      "relevance_score": 0.9999862
+    },
+    {
+      "title": "Latest Quantum Computing News",
+      "summary": "2026 is emerging as a potential inflection point for quantum computing, with significant developments in quantum AI startups, quantum computer design, and industry transformation. Key trends include quantum computing moving from labs to real-world applications.",
+      "publish_time": "2026-04-04T01:57:00Z",
+      "source_url": "https://www.analyticsinsight.net/quantum-computing-analytics-insight",
+      "source_name": "analyticsinsight.net",
+      "relevance_score": 0.9998697
+    },
+    {
+      "title": "Quantum Computing AI News",
+      "summary": "Latest developments include Sparrow Quantum raising €21.5M for quantum chip supply, IBM and CoreWeave building a powerful AI supercomputer, and IonQ acquiring Qubitekk to advance quantum networking.",
+      "publish_time": "2026-04-04T01:57:00Z",
+      "source_url": "https://justainews.com/category/technologies/quantum-computing/",
+      "source_name": "justainews.com",
+      "relevance_score": 0.9994642
+    },
+    {
+      "title": "Exploring the Latest Technology Trends: From AI to Quantum Computing and Beyond",
+      "summary": "Comprehensive overview of technology trends including AI, blockchain, biotechnology, and quantum computing, highlighting their applications, benefits, risks, and transformative potential across industries.",
+      "publish_time": "2026-04-04T01:57:00Z",
+      "source_url": "https://www.linkedin.com/pulse/exploring-latest-technology-trends-from-ai-quantum-computing-noor",
+      "source_name": "linkedin.com",
+      "relevance_score": 0.998103
+    },
+    {
+      "title": "Quantum News Briefs: April 19, 2024",
+      "summary": "D-Wave introduces new fast anneal feature extending quantum computing performance gains, allowing dramatically faster quantum annealing times in their Leap real-time quantum cloud service.",
+      "publish_time": "2026-04-04T01:57:00Z",
+      "source_url": "https://www.insidequantumtechnology.com/news-archive/quantum-news-briefs-april-19-2024-news-from-riverlane-d-wave-and-more/",
+      "source_name": "insidequantumtechnology.com",
+      "relevance_score": 0.997783
+    },
+    {
+      "title": "Quantum Computing - Inside Quantum Technology",
+      "summary": "Latest quantum computing developments including LPU100 Laser Computing System for optimization problems, NSA prediction of cloud-based quantum computing in 3-5 years, and 100km quantum-encrypted transfer achievements.",
+      "publish_time": "2026-04-04T01:57:00Z",
+      "source_url": "https://www.insidequantumtechnology.com/tag/quantum-computing",
+      "source_name": "insidequantumtechnology.com",
+      "relevance_score": 0.9977482
+    },
+    {
+      "title": "Gaining a Competitive Edge with Quantum Computing Technology",
+      "summary": "TCS insights on quantum computing's potential to transform industries and create competitive advantages, emphasizing the need for businesses to prepare for both opportunities and threats from this technology.",
+      "publish_time": "2026-04-04T01:57:00Z",
+      "source_url": "https://www.tcs.com/insights/blogs/quantum-computing-technology-future",
+      "source_name": "tcs.com",
+      "relevance_score": 0.9968273
+    },
+    {
+      "title": "Upcoming Quantum Computing Conferences in South Korea April 2026",
+      "summary": "Information about upcoming quantum computing conferences in South Korea for April 2026, covering various technology topics including AI, quantum engineering, and related fields.",
+      "publish_time": "2026-04-04T01:57:00Z",
+      "source_url": "https://www.conferencealert.com/south-korea/quantum-computing/april",
+      "source_name": "conferencealert.com",
+      "relevance_score": 0.9965166
+    },
+    {
+      "title": "Rigetti CEO: Quantum Computing, AI Key To Future Growth",
+      "summary": "Rigetti Computing CEO forecasts that advancements in quantum computing and AI will be pivotal growth drivers in 2026, with projections for achieving 'quantum advantage' within 3-5 years and fault-tolerant quantum computing in 7-9 years.",
+      "publish_time": "2026-04-04T01:57:00Z",
+      "source_url": "https://quantumzeitgeist.com/rigetti-ai-quantum-computing-future-growth",
+      "source_name": "quantumzeitgeist.com",
+      "relevance_score": 0.99497885
+    },
+    {
+      "title": "Quantum Computing News | Latest News - NewsNow",
+      "summary": "Latest quantum computing news including SEALSQ and WISeKey setting up Geneva HQ with quantum focus, Chinese quantum computing maintaining global top tier status, and cryogenic switching breakthroughs for scalable quantum computing.",
+      "publish_time": "2026-04-04T01:57:00Z",
+      "source_url": "https://www.newsnow.com/au/Science/Quantum+Computing",
+      "source_name": "newsnow.com",
+      "relevance_score": 0.9750122
+    }
+  ],
+  "summary": "The latest technology news from the past 6 hours highlights significant advances in AI and quantum computing. Key themes include the convergence of AI and quantum technologies, enterprise adoption of quantum computing, hardware innovations, and the transition from laboratory research to practical applications. Major companies like Google, IBM, and Rigetti are making substantial progress in quantum computing capabilities, while AI continues to drive transformation across industries.",
+  "key_trends": [
+    "AI and quantum computing convergence",
+    "Enterprise quantum computing adoption",
+    "Quantum hardware innovations",
+    "Privacy-preserving machine learning",
+    "Quantum networking and cloud services"
+  ]
+}

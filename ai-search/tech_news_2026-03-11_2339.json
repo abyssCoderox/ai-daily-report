@@ -1,0 +1,118 @@
+{
+  "timestamp": "2026-03-11T23:39:00Z",
+  "search_period": "past_hour",
+  "news_count": 15,
+  "news": [
+    {
+      "title": "卫星互联网迈入发展快车道",
+      "summary": "卫星互联网技术正在快速发展，行业迎来重要发展机遇期",
+      "publish_time": "2026-03-11 06:33",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "存储行业告别旧周期：AI 驱动供需失衡，巨头集体锁定长期供应",
+      "summary": "AI技术驱动下，存储行业供需关系发生重大变化，各大厂商纷纷布局长期供应",
+      "publish_time": "2026-03-11 06:21",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "优步与亚马逊旗下Zoox达成协议 提供自动驾驶出租车服务",
+      "summary": "优步与Zoox达成合作协议，将在自动驾驶出租车服务领域展开合作",
+      "publish_time": "2026-03-11 04:35",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "从5G迈向6G，移动通信未来由AI定义",
+      "summary": "移动通信技术从5G向6G演进，AI将在未来通信技术标准制定中扮演关键角色",
+      "publish_time": "2026-03-11 04:32",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "追觅官宣造芯",
+      "summary": "追觅科技正式宣布进入芯片制造领域，加大核心技术投入",
+      "publish_time": "2026-03-11 23:16",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "微软在与五角大楼的争端中支持Anthropic",
+      "summary": "微软在涉及五角大楼的项目争端中选择支持AI公司Anthropic",
+      "publish_time": "2026-03-11 22:30",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "英伟达将向人工智能数据中心专业公司Nebius投资20亿美元",
+      "summary": "英伟达宣布对Nebius公司进行20亿美元的战略投资，加强AI数据中心布局",
+      "publish_time": "2026-03-11 20:37",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "抖音再战社交？App上线"世界广场" 内测AI精灵聊天",
+      "summary": "抖音推出"世界广场"功能，内测AI精灵聊天，进一步拓展社交领域",
+      "publish_time": "2026-03-11 20:30",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "甲骨文因强劲营收预期缓解对大规模人工智能押注的担忧而大涨",
+      "summary": "甲骨文发布强劲营收预期，市场对公司在AI领域的大规模投资信心增强",
+      "publish_time": "2026-03-11 19:58",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "智谱启动"龙虾全国部署计划"",
+      "summary": "智谱AI启动全国部署计划，扩大AI技术在各地区的应用范围",
+      "publish_time": "2026-03-11 17:27",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "三人行拟更名"未来科技"全面拥抱AI浪潮",
+      "summary": "三人行公司计划更名为"未来科技"，表明全面转型AI领域的决心",
+      "publish_time": "2026-03-11 17:20",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "美团升级"星眸"大模型，AI技术实现后厨风险秒级阻断",
+      "summary": "美团升级AI大模型"星眸"，利用AI技术实现餐饮后厨风险的实时监控和阻断",
+      "publish_time": "2026-03-11 17:00",
+      "source": "新浪科技",
+      "url": "https://tech.sina.com.cn/"
+    },
+    {
+      "title": "Magic Layers lets you change specific parts of generated images without prompting",
+      "summary": "新技术Magic Layers允许用户在不重新提示的情况下修改生成图像的特定部分",
+      "publish_time": "2026-03-11 15:02",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech"
+    },
+    {
+      "title": "Intel says they finally beat their older chips",
+      "summary": "英特尔宣布其新一代芯片性能终于超越旧款产品",
+      "publish_time": "2026-03-11 13:00",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech"
+    },
+    {
+      "title": "Bitwig Studio 6 officially launches with major automation and interface improvements",
+      "summary": "Bitwig Studio 6正式发布，带来重大自动化和界面改进功能",
+      "publish_time": "2026-03-11 19:45",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/tech"
+    }
+  ],
+  "metadata": {
+    "search_method": "web_fetch",
+    "sources": ["新浪科技", "The Verge"],
+    "language": ["zh", "en"],
+    "categories": ["AI", "芯片", "自动驾驶", "移动通信", "互联网", "软件"]
+  }
+}

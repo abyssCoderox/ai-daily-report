@@ -1,0 +1,150 @@
+{
+  "timestamp": "2026-04-05T07:57:00Z",
+  "report_period": "past_6_hours",
+  "total_articles": 15,
+  "articles": [
+    {
+      "title": "谷歌回应Chrome 145分屏视图菜单易引发误触，已着手修复",
+      "summary": "Chrome 145版本的分屏视图菜单位置设计不当导致用户误操作，谷歌已着手修复此问题",
+      "source": "博客园",
+      "url": "https://news.cnblogs.com/",
+      "publish_time": "2026-04-03T14:34:00Z",
+      "category": "software",
+      "importance": "用户体验改进，影响Chrome浏览器用户"
+    },
+    {
+      "title": "阿里发布Wan2.7-Video视频生成模型",
+      "summary": "阿里巴巴发布Wan2.7-Video视频生成系列模型，涵盖文生视频、图生视频、参考生视频和视频编辑四大模型，将AI能力扩展至创作全链路",
+      "source": "博客园",
+      "url": "https://news.cnblogs.com/",
+      "publish_time": "2026-04-03T14:27:00Z",
+      "category": "AI",
+      "importance": "AI视频生成技术重大进展，从单一素材生成扩展到创作全链路"
+    },
+    {
+      "title": "壁仞科技深度参与的《超节点技术体系白皮书》正式发布",
+      "summary": "上海人工智能实验室DeepLink团队牵头，壁仞科技等16家核心产业伙伴共同编撰的《超节点技术体系白皮书》发布，覆盖芯片研发、算力部署等全产业链",
+      "source": "博客园",
+      "url": "https://news.cnblogs.com/",
+      "publish_time": "2026-04-03T14:20:00Z",
+      "category": "AI基础设施",
+      "importance": "AI芯片和算力技术发展的重要指导文件"
+    },
+    {
+      "title": "11.19万起售！纯电续航最长的插混比亚迪出现了",
+      "summary": "比亚迪海洋网推出2026款海豹06GT和海豹06DM-i旅行版，插混车型纯电续航达到新高",
+      "source": "博客园",
+      "url": "https://news.cnblogs.com/",
+      "publish_time": "2026-04-05T11:00:00Z",
+      "category": "新能源汽车",
+      "importance": "新能源汽车技术进步，插混车型续航能力提升"
+    },
+    {
+      "title": "苹果将Anything应用从App Store下架",
+      "summary": "苹果以违反审核指南为由，将Anything的Vibe Coding应用从App Store下架，理由是应用在指定容器范围外读写数据",
+      "source": "博客园",
+      "url": "https://news.cnblogs.com/",
+      "publish_time": "2026-04-05T10:51:00Z",
+      "category": "软件开发",
+      "importance": "苹果App Store政策执行，影响开发者生态"
+    },
+    {
+      "title": "智谱首份财报背后，新故事难讲",
+      "summary": "智谱AI发布上市后首份年度业绩报告，反映大模型行业从狂热到内卷的发展轨迹",
+      "source": "博客园",
+      "url": "https://news.cnblogs.com/",
+      "publish_time": "2026-04-05T10:49:00Z",
+      "category": "AI商业",
+      "importance": "AI大模型行业商业化进程的重要指标"
+    },
+    {
+      "title": "AI撰写的科研论文通过了同行评审",
+      "summary": "字节跳动火山引擎宣布Seedance 2.0 API正式面向企业用户开放公测申请",
+      "source": "博客园",
+      "url": "https://news.cnblogs.com/",
+      "publish_time": "2026-04-05T12:09:00Z",
+      "category": "AI科研",
+      "importance": "AI在科研领域的应用取得重要突破"
+    },
+    {
+      "title": "商汤十二年，能否穿越AI周期？",
+      "summary": "商汤科技发布2025年业绩，EBITDA首次转正至3.8亿元，经营性现金流同步实现转正",
+      "source": "博客园",
+      "url": "https://news.cnblogs.com/",
+      "publish_time": "2026-04-05T11:44:00Z",
+      "category": "AI商业",
+      "importance": "AI公司商业化能力和财务健康状况的重要信号"
+    },
+    {
+      "title": "兆瓦级氢燃料航空涡桨发动机首飞成功",
+      "summary": "中国航发集团研制的兆瓦级氢燃料航空涡桨发动机AEP100成功首飞，标志着氢能航空动力技术取得重大突破",
+      "source": "stockwe.com",
+      "url": "https://stockwe.com/news",
+      "publish_time": "2026-04-04T05:53:00Z",
+      "category": "航空技术",
+      "importance": "清洁能源航空技术的重大进展，有望推动航空产业绿色低碳发展"
+    },
+    {
+      "title": "国星宇航硅基智能体调用太空算力通过信通院测试",
+      "summary": "全球首次实现硅基智能体调用太空算力并通过信通院测试，太空算力被视为数字经济的战略制高点",
+      "source": "stockwe.com",
+      "url": "https://stockwe.com/news",
+      "publish_time": "2026-04-04T05:53:00Z",
+      "category": "太空技术",
+      "importance": "太空计算技术的重要里程碑，开启太空数字经济新纪元"
+    },
+    {
+      "title": "Anthropic 加码生命科学，4亿拿下AI新药研发公司",
+      "summary": "人工智能企业Anthropic以约4亿美元收购AI生物技术初创企业Coefficient Bio，进一步深耕医疗生命科学领域",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c00190406my.html",
+      "publish_time": "2026-04-05T11:00:00Z",
+      "category": "AI医疗",
+      "importance": "AI在生物医药领域的深度应用，加速新药研发进程"
+    },
+    {
+      "title": "外骨骼机器人迎来产业化发展良机",
+      "summary": "消费级外骨骼机器人技术日趋成熟，山东省明确在可穿戴设备领域布局智能外骨骼等前沿领域",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c00190406my.html",
+      "publish_time": "2026-04-05T11:00:00Z",
+      "category": "机器人",
+      "importance": "外骨骼机器人技术产业化进程加速，应用前景广阔"
+    },
+    {
+      "title": "耶鲁研究：AGI时代，人类工作不会大面积消失",
+      "summary": "耶鲁大学研究指出，通用人工智能发展不会导致大多数人类工作被自动化替代，核心原因是大量工作对经济增长并非关键",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c00190406my.html",
+      "publish_time": "2026-04-05T11:00:00Z",
+      "category": "AI社会影响",
+      "importance": "对AI自动化替代人类工作的重新认识，缓解社会担忧"
+    },
+    {
+      "title": "亚马逊收购Bee AI可穿戴设备公司",
+      "summary": "亚马逊收购由Pebble创始人创立的AI可穿戴设备公司Bee，加强其在AI硬件领域的布局",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/category/gadgets",
+      "publish_time": "2026-04-05T07:00:00Z",
+      "category": "AI硬件",
+      "importance": "科技巨头在AI可穿戴设备领域的战略布局"
+    },
+    {
+      "title": "Meta股价相对标普估值创6年新低",
+      "summary": "Meta股票相对于标普500指数的估值达到6年来最低点，反映市场对Meta投资回报的担忧",
+      "source": "AASTOCKS",
+      "url": "https://www.aastocks.com/tc/usq/quote/stock-news-content.aspx",
+      "publish_time": "2026-04-05T07:00:00Z",
+      "category": "科技股",
+      "importance": "科技股估值变化，反映市场对Meta等科技公司的信心状况"
+    }
+  ],
+  "summary": "过去6小时内科技领域重要进展包括：1）阿里巴巴发布Wan2.7-Video视频生成模型，扩展AI创作能力；2）中国兆瓦级氢燃料航空发动机成功首飞，清洁能源航空技术突破；3）Anthropic收购AI新药研发公司，深化生命科学布局；4）商汤科技EBITDA首次转正，AI商业化进程加速；5）亚马逊收购Bee AI可穿戴设备公司，加强硬件布局。整体来看，AI在各领域的应用持续深化，清洁能源和太空技术也取得重要进展。",
+  "key_trends": [
+    "AI视频生成技术向全链路创作发展",
+    "清洁能源技术在航空领域应用突破",
+    "AI在生物医药领域投资加大",
+    "AI公司商业化能力逐步验证",
+    "科技巨头加速AI硬件布局"
+  ]
+}

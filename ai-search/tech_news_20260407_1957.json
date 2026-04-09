@@ -1,0 +1,37 @@
+[
+  {
+    "title": "Artemis II月球探测任务成功发射",
+    "summary": "NASA的Artemis II任务成功发射，这是自阿波罗计划以来首次载人的月球轨道飞行任务，标志着人类重返月球计划的重要里程碑。",
+    "publish_time": "2026-04-07",
+    "source_url": "https://www.yomiuri.co.jp/science/",
+    "why_important": "这项任务将测试载人飞船在深空环境中的性能，为未来的月球基地建设和火星任务奠定基础，同时推动航天技术的发展。"
+  },
+  {
+    "title": "AI就业市场持续增长，失业论被质疑",
+    "summary": "根据TrueUp数据，软件工程师职位数量超过6.7万个，是近三年最高水平，从2023年低谷翻倍增长，AI相关职位需求旺盛。",
+    "publish_time": "2026-04-07",
+    "source_url": "https://topics.smt.docomo.ne.jp/article/recordchina/business/recordchina-RC_974276",
+    "why_important": "数据显示AI并未导致大规模失业，而是提高了生产力并创造了新需求，改变了就业市场竞争格局，对科技行业就业政策有指导意义。"
+  },
+  {
+    "title": "OpenAI等三家公司联合对抗中国模仿者",
+    "summary": "OpenAI与美国其他两家科技公司建立合作关系，共同应对中国公司制作模仿版AI产品的尝试，加强技术保护。",
+    "publish_time": "2026-04-07",
+    "source_url": "https://topics.smt.docomo.ne.jp/article/tbs_bb/business/tbs_bb-2582891?page=3",
+    "why_important": "这一合作反映了全球AI技术竞争加剧，可能影响未来AI技术标准和市场格局，对中国AI发展构成挑战。"
+  },
+  {
+    "title": "法律事务所引入AI技术，扩展数字法务服务",
+    "summary": "日本Monolis法律事务所新增6名律师，专门提供AI治理、跨境法务和数字平台合规服务，支持企业数字化转型。",
+    "publish_time": "2026-04-07",
+    "source_url": "https://mainichi.jp/articles/20260407/pr2/00m/020/069000c",
+    "why_important": "这表明法律行业正在积极适应AI和数字化趋势，为企业提供前沿的法务支持，推动法律服务创新。"
+  },
+  {
+    "title": "天然氢气开发调查启动，目标2040年商业化",
+    "summary": "日本NEDO启动天然氢气开发适地调查，旨在实现低成本清洁能源，目标在2040年实现商业化，减少对化石燃料的依赖。",
+    "publish_time": "2026-04-07",
+    "source_url": "https://www.yomiuri.co.jp/science/",
+    "why_important": "天然氢气作为清洁能源，有望缓解全球能源危机和气候变化，推动能源转型，对环境和经济都有重大影响。"
+  }
+]

@@ -1,0 +1,89 @@
+{
+  "report_info": {
+    "date": "2026-04-05",
+    "time": "01:57",
+    "timezone": "UTC",
+    "period": "past_6_hours",
+    "total_news": 8
+  },
+  "news": [
+    {
+      "title": "AI治理、具身智能入选2025年度"十大科技热词"",
+      "summary": "中国科技新闻学会发布2025年度十大科技热词，AI治理位列榜首，反映全球AI发展从技术追赶转向规则塑造",
+      "importance": "标志全球AI治理进入新阶段，中国在全球AI治理体系中发挥引领作用",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_1893892941_70e2834d02001x9sa.html",
+      "publish_time": "2026-04-05T01:30:00Z",
+      "category": "AI政策"
+    },
+    {
+      "title": "量子科技与人工智能融合发展论坛在中关村举行",
+      "summary": "北京市量子领域重点实验室发布最新研究成果，量子计算与AI融合技术取得突破性进展",
+      "importance": "量子-AI融合将重塑计算范式，为下一代人工智能提供算力基础",
+      "source": "新京报",
+      "url": "http://tags.sina.com.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "publish_time": "2026-04-05T01:15:00Z",
+      "category": "量子计算"
+    },
+    {
+      "title": "脑机接口技术实现语言解码新突破",
+      "summary": "第十一届中国（上海）国际技术进出口交易会展示多模态脑机接口系统，实现意念对话技术突破",
+      "importance": "脑机接口从实验室走向实际应用，为人机交互开辟全新路径",
+      "source": "上海技术交易所",
+      "url": "http://tags.sina.com.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "publish_time": "2026-04-05T00:45:00Z",
+      "category": "脑机接口"
+    },
+    {
+      "title": "垂直大模型推动制造业智能化升级",
+      "summary": "垂直大模型在制造、水利、能源、医疗等行业深度应用，实现产业能级跃升",
+      "importance": "大模型技术从通用走向专用，推动传统产业数字化转型",
+      "source": "36氪",
+      "url": "https://blog.happydayhappylife.com/2026/03/19/ai-news",
+      "publish_time": "2026-04-05T00:30:00Z",
+      "category": "产业AI"
+    },
+    {
+      "title": "全球首个通用智能人"通通"3.0版本亮相",
+      "summary": "2026中关村论坛展示通用智能人最新版本，具备更强的认知和交互能力",
+      "importance": "通用人工智能发展迈出重要一步，向AGI目标迈进",
+      "source": "北京商报",
+      "url": "http://tags.sina.com.cn/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "publish_time": "2026-04-05T00:15:00Z",
+      "category": "通用AI"
+    },
+    {
+      "title": "AI穿戴设备迎来爆发式增长",
+      "summary": "阿里千问AI眼镜、韶音OpenFit Pro等多款AI穿戴新品集中发布，打造随身AI助手",
+      "importance": "AI硬件进入消费级市场，智能穿戴设备迎来AI化浪潮",
+      "source": "AWE官方",
+      "url": "https://blog.happydayhappylife.com/2026/03/21/ai-news",
+      "publish_time": "2026-04-04T23:45:00Z",
+      "category": "AI硬件"
+    },
+    {
+      "title": "吴文俊人工智能科学技术奖颁奖典礼举行",
+      "summary": "第十五届吴文俊人工智能科学技术奖在常州颁奖，推动科研成果产业化应用",
+      "importance": "中国AI技术创新成果丰硕，产学研用深度融合加速",
+      "source": "中国人工智能学会",
+      "url": "https://baike.baidu.com/item/%E5%90%B4%E6%96%87%E4%BF%8A%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E7%A7%91%E5%AD%A6%E6%8A%80%E6%9C%AF%E5%A5%96",
+      "publish_time": "2026-04-04T23:30:00Z",
+      "category": "AI奖项"
+    },
+    {
+      "title": "AI艺术创作进入新阶段",
+      "summary": "武汉大学举办"跨越六十年：人工智能的创意之火"展览，展示AI艺术发展历程",
+      "importance": "AI与艺术深度融合，开启数字艺术创作新纪元",
+      "source": "澎湃新闻",
+      "url": "https://szmt.site/ai-art-news",
+      "publish_time": "2026-04-04T23:00:00Z",
+      "category": "AI艺术"
+    }
+  ],
+  "trends": {
+    "primary_trend": "AI技术从单一应用向产业融合深化",
+    "emerging_areas": ["量子AI融合", "脑机接口", "AI穿戴设备", "垂直大模型"],
+    "policy_focus": "全球AI治理体系构建",
+    "investment_hotspots": ["通用人工智能", "AI硬件", "产业AI应用"]
+  }
+}

@@ -1,0 +1,79 @@
+{
+  "news": [
+    {
+      "title": "西班牙团队研发鱼鳞人工角膜 可减少对捐赠者依赖",
+      "summary": "西班牙格拉纳达大学研究团队以市售鲤鱼等鱼类鳞片为原料，研发出具备高度生物相容性且透明坚韧的人工角膜植入物。通过实验室及动物实验确认其角膜修复再生功能良好，有望提供低成本医疗方案。",
+      "publish_time": "2026-03-15 00:00",
+      "source_url": "https://technews.tw/",
+      "why_important": "该技术突破可解决角膜移植供体短缺问题，降低医疗成本，为视力障碍患者提供新希望。"
+    },
+    {
+      "title": "粒子加速器助力还原古希腊星表 考古天文学获突破",
+      "summary": "科学家利用美国SLAC国家加速器实验室的同步加速器X光扫描技术，成功还原6世纪被重写的喜帕恰斯原始希腊星表。该技术能无损识别不同墨水化学成分，逐行提取被掩盖的天文数据。",
+      "publish_time": "2026-03-15 00:00",
+      "source_url": "https://technews.tw/",
+      "why_important": "这项技术为考古学和天文学研究开辟了新途径，使失传两千年的古代科学文献重见天日。"
+    },
+    {
+      "title": "德国EMBL开发MAGIC AI工具 助力癌症起源研究",
+      "summary": "德国海德堡欧洲分子生物学实验室开发AI系统MAGIC，可自动识别显示早期染色体异常的细胞，验证癌症起源于染色体异常的理论，为癌症早期诊断提供新工具。",
+      "publish_time": "2026-03-15 00:00",
+      "source_url": "https://technews.tw/",
+      "why_important": "该AI工具有望革新癌症早期检测技术，提高癌症预防和治疗效果，降低癌症死亡率。"
+    },
+    {
+      "title": "OpenAI调整ChatGPT商业化策略 放弃直接处理交易",
+      "summary": "OpenAI正大幅缩减在ChatGPT内部直接处理交易与预订的计划，转而将购买行为引导至第三方应用程序中，这一战略调整可能影响其商业化进程。",
+      "publish_time": "2026-03-14 11:00",
+      "source_url": "https://technews.tw/",
+      "why_important": "这一调整反映AI公司在商业化过程中面临的挑战，可能影响未来AI助手的商业模式和发展方向。"
+    },
+    {
+      "title": "美国商务部撤回AI芯片出口限制草案",
+      "summary": "美国商务部撤回了一项有关AI芯片出口的拟议规则，这一政策变化可能影响全球AI芯片供应链和中美科技竞争格局。",
+      "publish_time": "2026-03-14 10:44",
+      "source_url": "https://technews.tw/",
+      "why_important": "政策调整可能缓解AI芯片供应紧张，影响全球科技产业链布局，对AI发展产生深远影响。"
+    },
+    {
+      "title": "Google伦敦总部命名为Platform 37 纪念AlphaGo突破",
+      "summary": "Google在伦敦的新总部正式命名为Platform 37，既向附近的国王十字火车站致敬，也纪念10年前AlphaGo战胜人类棋手的AI突破，将成为Google在欧洲的AI运营中心。",
+      "publish_time": "2026-03-14 10:30",
+      "source_url": "https://technews.tw/",
+      "why_important": "这标志着AI发展的重要里程碑，显示科技巨头对AI历史的重视和对未来AI发展的战略布局。"
+    },
+    {
+      "title": "中国月之暗面估值3个月翻4倍 达180亿美元",
+      "summary": "中国AI新创企业月之暗面正在进行新一轮融资，估值升至约180亿美元，3个月内翻了4倍多。旗下Kimi Claw产品收入爆发式增长，已进入全球支付平台Stripe榜单前十。",
+      "publish_time": "2026-03-15",
+      "source_url": "https://www.worldjournal.com/wj/story/121347/9381001?zh-cn",
+      "why_important": "显示中国AI企业在全球市场的快速崛起，反映AI投资热潮和中国在AI领域的竞争力提升。"
+    },
+    {
+      "title": "Meta计划裁员1.6万人 应对AI基础设施成本",
+      "summary": "科技巨头Meta正计划进行大规模裁员，规模可能达到员工总数的20%甚至更多，旨在抵消AI基础设施投资带来的巨额成本，为未来AI辅助员工带来的更高效率做准备。",
+      "publish_time": "2026-03-15",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019038cvi.html",
+      "why_important": "反映AI发展对传统科技行业就业的影响，以及科技巨头在AI转型过程中的战略调整。"
+    },
+    {
+      "title": "伊朗袭击AWS数据中心 中东AI算力中心梦受挫",
+      "summary": "伊朗无人机袭击了位于阿联酋的亚马逊云服务数据中心，导致当地云服务大面积中断，约30万商家业务瘫痪，这对中东地区发展AI算力中心的计划造成重大打击。",
+      "publish_time": "2026-03-15",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019038cvi.html",
+      "why_important": "突显地缘政治冲突对全球科技基础设施的影响，以及云计算服务在地缘政治中的脆弱性。"
+    },
+    {
+      "title": "我国团队攻克胰岛再生难题 实现患者血糖自主调控",
+      "summary": "海军军医大学与中科院团队合作，将再生胰岛移植到1型糖尿病患者体内，成功实现胰岛功能重建与血糖自主调控，研究成果发表于《柳叶刀·糖尿病与内分泌学》。",
+      "publish_time": "2026-03-11",
+      "source_url": "https://www.ncsti.gov.cn/kjdt/xwjj/",
+      "why_important": "这一医学突破为糖尿病患者提供了新的治疗希望，可能改变糖尿病治疗格局，具有重大临床价值。"
+    }
+  ],
+  "meta": {
+    "generated_at": "2026-03-15 13:57 UTC",
+    "total_news": 10,
+    "time_range": "past 24 hours"
+  }
+}

@@ -1,0 +1,96 @@
+{
+  "metadata": {
+    "timestamp": "2026-03-29T19:57:00Z",
+    "search_period": "past_6_hours",
+    "total_results": 10,
+    "data_sources": ["Innovation News Network", "NewsNow", "Coaio", "SciTechDaily", "Todays.gg", "Popular Scientist", "IEEE Spectrum", "Technical.ly", "Springer Nature", "Instagram"]
+  },
+  "news_items": [
+    {
+      "title": "AI breakthrough in action detection technology",
+      "summary": "Researchers at University of Virginia's School of Engineering developed SMAST (Semantic and Motion-Aware Spatiotemporal Transformer Network), an AI-driven intelligent video analyzer for human action detection with applications in surveillance, healthcare, and autonomous vehicles.",
+      "publish_time": "2026-03-29T15:00:00Z",
+      "source": "Innovation News Network",
+      "url": "https://www.innovationnewsnetwork.com/ai-breakthrough-in-action-detection-technology/52000/"
+    },
+    {
+      "title": "AI Agents increasingly ignoring human commands, study reveals",
+      "summary": "Recent research indicates a growing trend of AI agents disregarding human instructions, raising concerns about AI safety and control mechanisms in autonomous systems.",
+      "publish_time": "2026-03-29T14:00:00Z",
+      "source": "NewsNow",
+      "url": "https://www.newsnow.com/au/Science/AI"
+    },
+    {
+      "title": "Eli Lilly secures $2.75B deal with Insilico Medicine for AI-developed drugs",
+      "summary": "Pharmaceutical giant Eli Lilly partners with Insilico Medicine in a multi-billion dollar deal to bring AI-developed drugs to global markets, marking a major milestone in AI-driven drug discovery.",
+      "publish_time": "2026-03-29T13:30:00Z",
+      "source": "NewsNow",
+      "url": "https://www.newsnow.com/au/Science/AI"
+    },
+    {
+      "title": "Google's new compression technology drastically reduces AI memory use",
+      "summary": "Google develops innovative compression technology that significantly reduces AI memory requirements while improving performance, potentially revolutionizing large-scale AI deployment.",
+      "publish_time": "2026-03-29T13:25:00Z",
+      "source": "NewsNow",
+      "url": "https://www.newsnow.com/au/Science/AI"
+    },
+    {
+      "title": "2026's Tech Revolution: AI Breakthroughs and Quantum Computing Advances",
+      "summary": "Comprehensive overview of 2026's major tech developments including AI integration with quantum technologies, cybersecurity challenges, and sustainable innovations across industries.",
+      "publish_time": "2026-03-29T12:00:00Z",
+      "source": "Coaio",
+      "url": "https://coaio.com/news/2026/03/2026s-tech-revolution-ai-breakthroughs-cybersecurity-battles-and-2ksc/"
+    },
+    {
+      "title": "Scientists identify biological pathway that could reverse memory loss",
+      "summary": "Research reveals gut microbiome changes may drive age-related memory loss through inflammation and disrupted brain signaling, opening new avenues for treatment.",
+      "publish_time": "2026-03-29T11:00:00Z",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/scientists-identify-biological-pathway-that-could-reverse-memory-loss/"
+    },
+    {
+      "title": "Popular weight-loss drug Wegovy linked to sudden vision loss",
+      "summary": "Researchers analyzing millions of safety reports identified a possible link between obesity drug Wegovy and sudden vision loss, prompting further investigation.",
+      "publish_time": "2026-03-29T10:30:00Z",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/popular-weight-loss-drug-wegovy-linked-to-sudden-vision-loss/"
+    },
+    {
+      "title": "New carbon nanotube coating could supercharge 6G technology",
+      "summary": "Scientists develop ultrathin nanotube films that absorb terahertz waves, potentially boosting 6G performance and enabling advanced shielding and medical applications.",
+      "publish_time": "2026-03-28T16:00:00Z",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/new-carbon-nanotube-coating-could-supercharge-6g-technology/"
+    },
+    {
+      "title": "100x Less Power: The breakthrough that could solve AI's massive energy crisis",
+      "summary": "A new hybrid AI approach promises to drastically cut energy use while improving reliability, addressing one of the biggest challenges in AI deployment.",
+      "publish_time": "2026-03-28T15:30:00Z",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/100x-less-power-the-breakthrough-that-could-solve-ais-massive-energy-crisis/"
+    },
+    {
+      "title": "Scientists smash superconductivity record at normal pressure",
+      "summary": "Researchers achieve new superconductivity record at normal pressure, bringing practical superconducting applications closer to reality.",
+      "publish_time": "2026-03-28T14:00:00Z",
+      "source": "SciTechDaily",
+      "url": "https://scitechdaily.com/scientists-smash-superconductivity-record-at-normal-pressure/"
+    }
+  ],
+  "key_trends": [
+    "AI action detection and video analysis advancements",
+    "AI safety and control concerns",
+    "AI in pharmaceutical drug discovery",
+    "AI memory optimization and compression",
+    "Quantum-AI integration",
+    "Biological and medical AI applications",
+    "6G technology development",
+    "AI energy efficiency breakthroughs",
+    "Superconductivity advances"
+  ],
+  "impact_analysis": {
+    "industries_affected": ["Healthcare", "Autonomous Vehicles", "Surveillance", "Pharmaceuticals", "Telecommunications", "Energy", "Computing"],
+    "emerging_technologies": ["SMAST AI system", "Quantum-AI hybrid systems", "6G networks", "AI drug discovery", "Superconducting materials"],
+    "investment_trends": ["Multi-billion dollar AI pharma deals", "AI infrastructure optimization", "Sustainable tech development"]
+  }
+}

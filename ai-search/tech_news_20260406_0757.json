@@ -1,0 +1,61 @@
+{
+  "timestamp": "2026-04-06T07:57:00Z",
+  "news_items": [
+    {
+      "title": "中国氢动力无人机成功首飞",
+      "summary": "中国一架7.5吨的氢动力无人机成功完成首飞，搭载全球最强氢燃料涡桨发动机，动力超过1兆瓦，飞行速度220公里/小时，航程36公里。",
+      "publish_time": "2026-04-06T04:00:00Z",
+      "source_url": "https://fearnation.club/shi-jie-ku-cha-04yue-06ri-xin-wen-32tiao-yi-lang-quan-guo-duan-wang-chuang-zui-jiu-ji-lu/",
+      "why_important": "标志着中国在氢燃料航空技术领域的重大突破，为清洁能源航空器发展奠定基础"
+    },
+    {
+      "title": "NVIDIA神经纹理压缩技术突破",
+      "summary": "NVIDIA发布神经纹理压缩技术，可将8GB显存需求降低85%至970MB，同时保持画质不变，让8GB显卡再战十年。",
+      "publish_time": "2026-04-06T06:00:00Z",
+      "source_url": "https://news.mydrivers.com/technewsall.html",
+      "why_important": "大幅提升显卡性能利用率，降低高端游戏体验门槛，影响整个PC游戏产业生态"
+    },
+    {
+      "title": "全球首次兆瓦级氢燃料航空涡桨发动机首飞成功",
+      "summary": "我国自主研制的兆瓦级氢燃料航空涡桨发动机AEP100配装在无人运输机上成功完成首飞，发动机工作正常。",
+      "publish_time": "2026-04-05T20:00:00Z",
+      "source_url": "https://news.mydrivers.com/technewsall.html",
+      "why_important": "实现氢燃料航空发动机技术突破，推动绿色航空技术发展，减少航空业碳排放"
+    },
+    {
+      "title": "OPPO Find X9s Pro银色哈苏专业增距镜亮相",
+      "summary": "OPPO Find系列产品负责人卓世杰晒出OPPO Find X9s Pro与全新升级的银色哈苏专业增距镜，定位观赛神器。",
+      "publish_time": "2026-04-05T15:00:00Z",
+      "source_url": "https://news.mydrivers.com/technewsall.html",
+      "why_important": "展示手机影像技术创新，提升移动摄影专业性能，推动智能手机影像技术发展"
+    },
+    {
+      "title": "微美全息布局AI芯片生态",
+      "summary": "微美全息(WIMI)聚焦AI芯片生态布局，搭建高端算力基地和全息云平台，构建覆盖大模型训练、推理的算力支撑体系。",
+      "publish_time": "2026-04-06T02:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019040zcq.html",
+      "why_important": "AI芯片生态建设是人工智能发展的基础设施，影响整个AI产业链的竞争力"
+    },
+    {
+      "title": "AI短剧盗用易烊千玺形象被追责",
+      "summary": "多部AI短剧盗用易烊千玺形象，工作室发声追责，相关平台下架涉事作品。",
+      "publish_time": "2026-04-06T05:00:00Z",
+      "source_url": "https://news.mydrivers.com/technewsall.html",
+      "why_important": "凸显AI技术滥用问题，推动AI伦理和知识产权保护相关法规完善"
+    },
+    {
+      "title": "小米16周年庆，雷军晒公司俯瞰图",
+      "summary": "小米集团创始人雷军发布微博庆祝小米创办16周年，16年老员工感恩致谢。",
+      "publish_time": "2026-04-06T07:00:00Z",
+      "source_url": "https://news.mydrivers.com/technewsall.html",
+      "why_important": "反映中国科技企业成长历程，展示本土品牌发展成就"
+    },
+    {
+      "title": ""涪陵造"AI机器人"上岗"收茶",
+      "summary": "重庆涪陵区茶场引入4台AI机器人进行茶叶评级和称重，提升收茶效率和公平性。",
+      "publish_time": "2026-04-06T03:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019040zcq.html",
+      "why_important": "展示AI技术在农业领域的实际应用，推动智慧农业发展，提升农业生产效率"
+    }
+  ]
+}

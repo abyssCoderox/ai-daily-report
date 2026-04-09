@@ -1,0 +1,141 @@
+{
+  "timestamp": "2026-03-20T01:57:00Z",
+  "news_sources": [
+    {
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news",
+      "articles": [
+        {
+          "title": "FBI Seizes Sites of Hacking Group Behind Data-Wiping Attack On Stryker",
+          "summary": "FBI has seized websites of the Handala hacking group responsible for a data-wiping attack on medical device maker Stryker, although the group is already preparing to launch new sites.",
+          "publish_time": "2026-03-20T01:27:00Z",
+          "url": "https://www.pcmag.com/news/fbi-seizes-sites-of-hacking-group-behind-data-wiping-attack-on-stryker",
+          "why_important": "Shows law enforcement action against cybercriminals targeting critical medical infrastructure"
+        },
+        {
+          "title": "Starlink's Router Mini Faces a 150% Price Increase",
+          "summary": "SpaceX's Starlink Router Mini price increased from $40 to $100, potentially due to memory shortage issues.",
+          "publish_time": "2026-03-20T00:27:00Z",
+          "url": "https://www.pcmag.com/news/starlinks-router-mini-faces-a-150-price-increase",
+          "why_important": "Highlights ongoing supply chain and pricing challenges in satellite internet hardware"
+        },
+        {
+          "title": "No, the Aura Data Breach Did Not Expose Your SSN or Password. Here's What Happened",
+          "summary": "Aura identity protection service breach by ShinyHunters group only exposed marketing lists, not main application data or sensitive personal information.",
+          "publish_time": "2026-03-20T00:27:00Z",
+          "url": "https://www.pcmag.com/news/no-the-aura-data-breach-did-not-expose-your-ssn-password-heres-what-happened",
+          "why_important": "Clarifies misinformation about data breach scope and reassures users about actual security impact"
+        },
+        {
+          "title": "Get Ready: Bluetooth 6 and Other Advances Will Give Your Devices a Much Needed Upgrade",
+          "summary": "Bluetooth 6 introduces Channel Sounding feature for improved device location tracking and accuracy, with additional features coming.",
+          "publish_time": "2026-03-19T23:27:00Z",
+          "url": "https://www.pcmag.com/news/get-ready-bluetooth-6-other-advances-will-give-devices-much-needed-upgrade",
+          "why_important": "Major wireless technology advancement that will improve accuracy and functionality of connected devices"
+        },
+        {
+          "title": "Update Your iPhone Now: New 'DarkSword' Hack Targets Older iOS 18 Versions",
+          "summary": "Security researchers discovered a new iOS exploit called 'DarkSword' that targets vulnerable devices running older iOS 18 versions.",
+          "publish_time": "2026-03-19T23:27:00Z",
+          "url": "https://www.pcmag.com/news/update-your-iphone-now-new-darksword-hack-targets-older-ios-18-versions",
+          "why_important": "Critical security vulnerability affecting millions of iPhone users requiring immediate attention"
+        }
+      ]
+    },
+    {
+      "source": "Interesting Engineering",
+      "url": "https://interestingengineering.com/",
+      "articles": [
+        {
+          "title": "Chinese Humanoid Robots Could Soon Beat the Fastest Human Ever in Sprinting",
+          "summary": "Chinese humanoid robots may soon rival or surpass human sprinting speeds, representing a major breakthrough in robotics.",
+          "publish_time": "2026-03-20T01:00:00Z",
+          "url": "https://interestingengineering.com/ai-robotics/chinese-humanoid-robots-could-beat-fastest-human",
+          "why_important": "Demonstrates rapid advancement in humanoid robotics and AI-powered physical capabilities"
+        },
+        {
+          "title": "World's First Quantum Battery Prototype Built, Charges Faster as It Gets Larger",
+          "summary": "Scientists have built the first quantum battery prototype that exhibits counterintuitive charging properties - charging faster as it increases in size.",
+          "publish_time": "2026-03-20T00:30:00Z",
+          "url": "https://interestingengineering.com/energy/worlds-first-quantum-battery-charges-faster-larger",
+          "why_important": "Revolutionary energy storage technology that could transform battery design and charging efficiency"
+        },
+        {
+          "title": "New Sodium-Ion Cathode Resists Air Damage, Keeps 80% Capacity After 200 Cycles",
+          "summary": "Researchers developed a new sodium-ion battery cathode that resists air damage and maintains 80% capacity after 200 charge cycles.",
+          "publish_time": "2026-03-19T23:45:00Z",
+          "url": "https://interestingengineering.com/energy/sodium-ion-battery-air-stable-gradient-cathode",
+          "why_important": "Advances sodium-ion battery technology as a safer, more sustainable alternative to lithium-ion batteries"
+        },
+        {
+          "title": "100 Times More Sensitive: Spectrometer 'GPU' Analyses Billions of Molecules at Once",
+          "summary": "New spectrometer technology can analyze billions of molecules simultaneously, offering 100x greater sensitivity than previous methods.",
+          "publish_time": "2026-03-19T23:15:00Z",
+          "url": "https://interestingengineering.com/innovation/100-times-more-sensitive-spectrometer",
+          "why_important": "Breakthrough in analytical chemistry that could revolutionize biological research and drug discovery"
+        },
+        {
+          "title": "New Thermal Routing Design Lets Next-Gen Wearable Devices Finally Run on Body Heat",
+          "summary": "Innovative thermal routing technology enables wearable devices to generate power from body heat using dual thermal conductivity substrates.",
+          "publish_time": "2026-03-19T22:30:00Z",
+          "url": "https://interestingengineering.com/innovation/flat-thermoelectric-generator-body-heat",
+          "why_important": "Solves power challenges for wearable technology, enabling self-powered health monitoring devices"
+        }
+      ]
+    },
+    {
+      "source": "Innovation News Network",
+      "url": "https://www.innovationnewsnetwork.com/category/digital-technology-news/",
+      "articles": [
+        {
+          "title": "ARCHER2 Supercomputer Generates £4.2bn for UK Economy",
+          "summary": "The ARCHER2 supercomputer has generated £4.2 billion for the UK economy, delivering an eightfold return on public investment.",
+          "publish_time": "2026-03-20T01:15:00Z",
+          "url": "https://www.innovationnewsnetwork.com/archer2-supercomputer-generates-4-2bn-for-uk-economy/67761/",
+          "why_important": "Demonstrates significant economic impact of high-performance computing infrastructure investments"
+        },
+        {
+          "title": "The Password is Dying – Biometrics Are Taking Their Place",
+          "summary": "Biometric authentication using fingerprints, facial features, and typing patterns is replacing traditional passwords for enhanced security.",
+          "publish_time": "2026-03-20T00:45:00Z",
+          "url": "https://www.innovationnewsnetwork.com/password-dying-biometric-authentication-taking-their-place/67718/",
+          "why_important": "Signals a fundamental shift in cybersecurity and authentication methods across digital platforms"
+        },
+        {
+          "title": "UK Unveils £45m 'Sunrise' AI Supercomputer to Accelerate Fusion Energy Research",
+          "summary": "The UK has launched Sunrise, a £45 million AI supercomputer designed to accelerate fusion energy research and development.",
+          "publish_time": "2026-03-19T23:30:00Z",
+          "url": "https://www.innovationnewsnetwork.com/uk-unveils-45m-sunrise-ai-supercomputer-to-accelerate-fusion/67722/",
+          "why_important": "Major investment in AI-powered scientific computing to advance clean energy solutions"
+        },
+        {
+          "title": "AI System Detects and Stops Cyber-Attacks on 5G Networks in Under 100 Milliseconds",
+          "summary": "Researchers developed an AI system that can detect and stop cyber-attacks on 5G networks in under 100 milliseconds.",
+          "publish_time": "2026-03-19T22:45:00Z",
+          "url": "https://www.innovationnewsnetwork.com/ai-stops-cyber-attacks-on-5g-networks-in-under-100-milliseconds/67565/",
+          "why_important": "Critical advancement in 5G network security with real-time threat detection and response capabilities"
+        },
+        {
+          "title": "AI Toys That Talk With Children Raise Safety Concerns, Cambridge Study Finds",
+          "summary": "Cambridge University study finds AI-powered toys that interact with children could affect development, calling for stronger regulation.",
+          "publish_time": "2026-03-19T22:00:00Z",
+          "url": "https://www.innovationnewsnetwork.com/ai-toys-that-talk-with-children-raise-safety-concerns/67662/",
+          "why_important": "Raises important questions about AI ethics, child development, and need for regulatory oversight in consumer AI"
+        }
+      ]
+    }
+  ],
+  "summary_statistics": {
+    "total_articles": 15,
+    "sources_count": 3,
+    "time_range_hours": 6,
+    "categories": {
+      "cybersecurity": 4,
+      "AI/Robotics": 4,
+      "energy_tech": 3,
+      "hardware": 2,
+      "biometrics": 1,
+      "quantum_tech": 1
+    }
+  }
+}

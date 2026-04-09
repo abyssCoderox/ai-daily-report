@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-04-08T19:57:00Z",
+  "news_count": 10,
+  "news_items": [
+    {
+      "title": "富士康称尽管美国关税存在不确定性，AI 和电车业务仍实现强劲增长",
+      "summary": "富士康AI和电动车业务在面临美国关税不确定性的情况下仍实现强劲收入增长，显示其多元化战略的有效性。",
+      "publish_time": "2025-06-03",
+      "source_url": "https://www.781203.com/2025/06/03/oneminuteennews/10180/",
+      "source_name": "Best英语新闻网",
+      "why_important": "富士康作为全球最大的电子制造服务商，其AI和电动车业务的增长表明传统制造业向高科技转型的成功，对全球供应链格局有重要影响。"
+    },
+    {
+      "title": "京东携手腾讯投资中国机器人初创企业 Agibot",
+      "summary": "京东与腾讯联合投资中国机器人初创公司Agibot，加速在智能机器人领域的布局。",
+      "publish_time": "2025-06-02",
+      "source_url": "https://www.781203.com/2025/06/02/oneminuteennews/10176/",
+      "source_name": "Best英语新闻网",
+      "why_important": "两大中国互联网巨头的联合投资显示了对机器人技术前景的看好，可能推动中国智能制造和物流自动化发展。"
+    },
+    {
+      "title": "华为尊界S800将于5月30日发布，冲击高端电动车市场",
+      "summary": "华为尊界S800计划于5月30日发布，定位高端电动车市场，与特斯拉等竞争对手展开直接竞争。",
+      "publish_time": "2025-05-25",
+      "source_url": "https://www.781203.com/2025/05/25/cnennews/10152/",
+      "source_name": "Best英语新闻网",
+      "why_important": "华为进入高端电动车市场标志着科技公司全面进军汽车行业的趋势，可能重塑中国乃至全球电动车市场竞争格局。"
+    },
+    {
+      "title": "苹果、华为、小米等大品牌主导中国线上消费趋势",
+      "summary": "苹果、华为、小米等知名品牌在中国线上消费市场占据主导地位，消费者偏好向头部品牌集中。",
+      "publish_time": "2025-05-25",
+      "source_url": "https://www.781203.com/2025/05/25/oneminuteennews/10140/",
+      "source_name": "Best英语新闻网",
+      "why_important": "头部品牌在线上市场的强势地位反映了消费者对品质和品牌价值的重视，对中小品牌形成更大竞争压力。"
+    },
+    {
+      "title": "北斗系统在中国全面超越GPS，每日定位超万亿次",
+      "summary": "北斗导航系统在中国市场的使用量已全面超越GPS，每日定位次数超过万亿次，成为中国主要的导航系统。",
+      "publish_time": "2025-05-22",
+      "source_url": "https://www.781203.com/2025/05-22/oneminuteennews/10128/",
+      "source_name": "Best英语新闻网",
+      "why_important": "北斗系统的成功标志着中国在卫星导航领域实现自主可控，对国家安全和经济发展具有战略意义。"
+    },
+    {
+      "title": "华为首款HarmonyOS笔记本亮相，告别Windows系统",
+      "summary": "华为发布首款搭载HarmonyOS的笔记本电脑，不再依赖Windows操作系统，实现软硬件生态的完全自主。",
+      "publish_time": "2025-05-11",
+      "source_url": "https://www.781203.com/2025/05/11/oneminuteennews/10074/",
+      "source_name": "Best英语新闻网",
+      "why_important": "华为HarmonyOS笔记本的推出标志着中国在操作系统领域的重大突破，减少对国外技术的依赖，推动国产软硬件生态发展。"
+    },
+    {
+      "title": "美图创始人以8400万美元购入香港一栋商业大楼",
+      "summary": "美图公司创始人以8400万美元购入香港一栋商业大楼，计划将其改造为加密和AI初创企业孵化基地。",
+      "publish_time": "2025-05-08",
+      "source_url": "https://www.781203.com/2025/05/08/oneminuteennews/10062/",
+      "source_name": "Best英语新闻网",
+      "why_important": "此举显示AI和加密技术领域的投资热度持续升温，香港作为国际金融中心的地位在科技创新领域得到进一步巩固。"
+    },
+    {
+      "title": "应对隐私疑虑，TikTok将在芬兰投资10亿欧元建数据中心",
+      "summary": "为应对全球范围内的隐私安全疑虑，TikTok宣布将在芬兰投资10亿欧元建设数据中心，提升数据存储和安全性。",
+      "publish_time": "2025-05-05",
+      "source_url": "https://www.781203.com/2025/05/05/cnennews/10060/",
+      "source_name": "Best英语新闻网",
+      "why_important": "TikTok在芬兰建设数据中心是其全球化战略的重要一步，有助于缓解国际市场的监管压力，提升用户信任度。"
+    },
+    {
+      "title": "京东与美团因骑手限制问题爆发冲突",
+      "summary": "京东与美团就配送骑手限制问题产生冲突，涉及平台经济下的劳动力管理和竞争规则。",
+      "publish_time": "2025-04-26",
+      "source_url": "https://www.781203.com/2025/04/26/oneminuteennews/10006/",
+      "source_name": "Best英语新闻网",
+      "why_important": "此事件反映了平台经济快速发展带来的劳动权益和竞争秩序问题，对行业监管政策制定有重要参考价值。"
+    },
+    {
+      "title": "投资者对美元和美股信心降至20年来最低点",
+      "summary": "最新调查显示，投资者对美元和美股的信心已降至20年来最低水平，全球经济不确定性增加。",
+      "publish_time": "2025-04-21",
+      "source_url": "https://www.781203.com/2025/04/21/oneminuteennews/9978/",
+      "source_name": "Best英语新闻网",
+      "why_important": "投资者信心下降可能影响全球资本流动和金融市场稳定，对各国货币政策和经济决策产生深远影响。"
+    }
+  ]
+}

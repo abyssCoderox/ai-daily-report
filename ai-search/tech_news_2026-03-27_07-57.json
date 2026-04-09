@@ -1,0 +1,76 @@
+{
+  "timestamp": "2026-03-27T07:57:00Z",
+  "news_count": 10,
+  "news": [
+    {
+      "title": "推荐新闻- 科技新闻- 博客园",
+      "url": "https://news.cnblogs.com/n/recommend",
+      "snippet": "博客园科技新闻推荐，包含多项重要科技进展：天文学家发现旋转速度快得不可思议的巨大小行星；Cell Stem Cell：睡眠不足会伤害肠道；新型脑机接口可作意念打字“键盘”；OpenAI闪电吞下Astral；「日本最强AI」塌房；AI正在吞噬软件行业；清华团队养出了一只「龙虾老师」；Gemini重塑谷歌地图；MCP已死，CLI当立等",
+      "site": "news.cnblogs.com",
+      "score": 0.9843364
+    },
+    {
+      "title": "科技新闻- 博客园",
+      "url": "https://news.cnblogs.com/",
+      "snippet": "博客园科技新闻主页，涵盖：张雪峰猝然离世；小米手机毛利率跌至8.3%；Sora正式关停；Anthropic版“龙虾”上线；特斯拉Terafab芯片项目；禾赛发布2025年财报；美团误删用户照片；哈佛物理教授用AI写论文；OpenClaw 3.23紧急修复；OpenAI证明ChatGPT用得越多越孤独；阿里达摩院发布RISC-V CPU玄铁C950等",
+      "site": "news.cnblogs.com",
+      "score": 0.97754294
+    },
+    {
+      "title": "新闻1+1丨聚焦科技成果转化2026中关村论坛有哪些新亮点",
+      "url": "https://news.cctv.cn/2026/03/27/ARTIJcX9AzH1YsI5m0XRgt0a260327.shtml",
+      "snippet": "央视新闻报道2026中关村论坛年会，聚焦科技成果转化，探讨科技创新与产业创新深度融合的新亮点和成果展示",
+      "site": "news.cctv.cn",
+      "score": 0.94776917
+    },
+    {
+      "title": "中华人民共和国科学技术部",
+      "url": "https://www.most.gov.cn/",
+      "snippet": "科技部官网发布多项科技新闻：2026中关村论坛年会开幕，月壤研究最新成果等入选2025年度"中国科学十大进展"；创新的中关村，见证科技革命的"奇点时刻"；科技部工作动态和地方科技新闻等",
+      "site": "www.most.gov.cn",
+      "score": 0.91550726
+    },
+    {
+      "title": "日本敲定新版科技五年计划推进军民两用技术研究",
+      "url": "https://china.kyodonews.net/articles/-/8474",
+      "snippet": "日本政府在内阁会议上敲定《第七期科学技术与创新基本计划》，将科学技术定位为"经济与社会的基础，同时从安全保障的观点来看也左右国家存亡"，提出重视军民两用技术研发的方针，重点投入人工智能、量子、半导体、太空及防卫产业关联技术等领域",
+      "site": "china.kyodonews.net",
+      "score": 0.28616926
+    },
+    {
+      "title": "新闻分析丨马斯克的大型芯片项目Terafab落地不易",
+      "url": "https://www.news.cn/world/20260327/45b46161807c43ac849943c155c15856/c.html",
+      "snippet": "新华社记者分析马斯克宣布的Terafab大型芯片制造项目，该项目将由特斯拉与SpaceX联合运营，面临技术门槛高、建设周期长、资金投入大等多重挑战，实现规模化落地仍需跨越诸多障碍",
+      "site": "www.news.cn",
+      "score": 0.10017222
+    },
+    {
+      "title": "“中国引领科技发展方向”——国际人士积极评价中国科技创新成就",
+      "url": "https://finance.sina.com.cn/jjxw/2026-03-26/doc-inhsikaq0196030.shtml",
+      "snippet": "国际人士在中关村论坛上积极评价中国科技创新成就，德国曼海姆科技园总经理认为中国在人工智能领域遥遥领先；国际食品科技联盟主席赞赏中国在科技领域的开放合作；澳大利亚学者认为中国的创新模式为世界提供宝贵经验",
+      "site": "finance.sina.com.cn",
+      "score": 0.05033063
+    },
+    {
+      "title": "AI顶级会议拒受制裁机构论文中国多家学会抗议",
+      "url": "https://money.udn.com/money/story/5603/9406706?from=edn_newestlist_rank",
+      "snippet": "AI顶级学术会议NeurIPS首次在投稿阶段引入美国制裁合规要求，拒绝受制裁机构的论文参与评审与发表，中国计算机学会、自动化学会、科学技术协会等纷纷提出抗议，反对将学术交流与政治挂钩",
+      "site": "money.udn.com",
+      "score": 0.023419945
+    },
+    {
+      "title": "日本防卫科技实力深藏不露关键材料全球市占率逾五成",
+      "url": "https://enn.tw/703624/",
+      "snippet": "日本防卫产业在关键材料和军民两用技术领域实力突出，特别是在高性能碳纤维市场，日本东丽、帝人、三菱化学三家企业合计掌握全球逾五成的市占率，成为全球防卫供应链中不可或缺的一环",
+      "site": "enn.tw",
+      "score": 0.015906392
+    },
+    {
+      "title": "日本敲定新版科技五年計劃推進軍民兩用技術研究",
+      "url": "https://tchina.kyodonews.net/articles/-/6387",
+      "snippet": "繁体版日本科技五年计划新闻，内容与简体版基本一致，强调军民两用技术研发和防卫产业关联技术的重点投入",
+      "site": "tchina.kyodonews.net",
+      "score": 0.10818895
+    }
+  ]
+}

@@ -1,0 +1,116 @@
+{
+  "timestamp": "2026-03-23T13:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "articles": [
+    {
+      "title": "Breaking News of Technology: What's Trending in the Digital ...",
+      "url": "https://www.intelligenthq.com/news-of-technology/",
+      "snippet": "Keeping up with the fast pace of technology can feel like a full-time job. Every day brings new developments that change how we live, work, and connect. This article looks at some of the most interesting news of technology happening right now, from big AI shifts to the latest gadgets and how companies are handling the digital world.",
+      "source": "www.intelligenthq.com",
+      "relevance_score": 0.6445166,
+      "key_topics": ["AI shifts", "digital world", "technology trends", "HP AI strategy", "Volvo EX60 electric vehicle"]
+    },
+    {
+      "title": "Unraveling the AI Dependency Trap: Key Software ...",
+      "url": "https://coaio.com/news/2026/03/unraveling-the-ai-dependency-trap-key-software-development-trends-in-2026/",
+      "snippet": "As of March 23, 2026, the software development landscape is buzzing with innovations, risks, and regulatory shifts that could reshape how businesses build and deploy technology. From the perils of over-relying on external AI tools to groundbreaking no-code platforms and high-profile corporate dramas.",
+      "source": "coaio.com",
+      "relevance_score": 0.51618147,
+      "key_topics": ["AI dependency", "software development trends", "no-code platforms", "regulatory shifts", "Faraday Future SEC investigation"]
+    },
+    {
+      "title": "Advanced Technology | Roland Berger",
+      "url": "https://www.rolandberger.com/en/Insights/Global-Topics/Advanced-Technology/",
+      "snippet": "Technology advancements are affecting our daily lives, particularly in the field of healthcare. Robotic-assisted surgery is a prime example, bringing a revolution to the operating theatre. Another groundbreaking development in healthcare is the introduction of gene therapies.",
+      "source": "www.rolandberger.com",
+      "relevance_score": 0.45682228,
+      "key_topics": ["healthcare technology", "robotic surgery", "gene therapies", "EV charging infrastructure", "AI innovations"]
+    },
+    {
+      "title": "AI (artificial intelligence) - The Guardian",
+      "url": "https://www.theguardian.com/technology/artificialintelligenceai",
+      "snippet": "Recent developments include Hachette pulling a horror novel over suspected AI use, Meta AI agent causing sensitive data leak, Essex police pausing facial recognition due to racial bias, and various AI-related controversies and investigations.",
+      "source": "www.theguardian.com",
+      "relevance_score": 0.29933092,
+      "key_topics": ["AI ethics", "data privacy", "facial recognition bias", "AI-generated content", "tech regulation"]
+    },
+    {
+      "title": "Latest Enterprise AI News Today | Trends, Predictions, & ...",
+      "url": "https://www.forbes.com/topics/enterprise-ai/",
+      "snippet": "Latest Enterprise AI news as of 7 a.m. ET Mar. 23. Coverage includes Microsoft expanding Fabric for enterprise AI, Nvidia partnerships, AI companies transforming the industry, and enterprise AI platform strategies.",
+      "source": "www.forbes.com",
+      "relevance_score": 0.2741004,
+      "key_topics": ["enterprise AI", "Microsoft Fabric", "Nvidia partnership", "AI platforms", "business transformation"]
+    },
+    {
+      "title": "Techmeme",
+      "url": "https://techmeme.com/index.html",
+      "snippet": "Technology news aggregator featuring top stories from various sources including Bloomberg, Reuters, Wall Street Journal, and others covering the latest in tech industry developments.",
+      "source": "techmeme.com",
+      "relevance_score": 0.22877659,
+      "key_topics": ["tech industry news", "news aggregation", "business technology", "startup ecosystem"]
+    },
+    {
+      "title": "Artificial Intelligence - The New York Times",
+      "url": "https://www.nytimes.com/spotlight/artificial-intelligence",
+      "snippet": "Coverage of AI developments including OpenAI's growth to 900 million weekly active users, concerns about AI-generated videos on YouTube affecting children, and various AI policy and economic impact discussions.",
+      "source": "www.nytimes.com",
+      "relevance_score": 0.21948004,
+      "key_topics": ["OpenAI growth", "AI policy", "YouTube AI content", "AI economy", "tech regulation"]
+    },
+    {
+      "title": "The Top 10 Technology Trends for 2026",
+      "url": "https://www.facebook.com/thichminhduc02/photos/the-top-10-technology-trends-for-2026-%EF%B8%8Fthey-reveal-how-to-strengthen-resilience-/3343373482489023/",
+      "snippet": "Social media content highlighting the top 10 technology trends for 2026, focusing on emerging technologies and their potential impact on various industries.",
+      "source": "www.facebook.com",
+      "relevance_score": 0.19351324,
+      "key_topics": ["technology trends 2026", "emerging technologies", "industry impact", "future predictions"]
+    },
+    {
+      "title": "Engineering News - ScienceDaily",
+      "url": "https://www.sciencedaily.com/news/matter_energy/engineering/",
+      "snippet": "Comprehensive coverage of engineering news and developments across various fields including materials science, energy systems, and technological innovations.",
+      "source": "www.sciencedaily.com",
+      "relevance_score": 0.15529642,
+      "key_topics": ["engineering developments", "materials science", "energy systems", "scientific research"]
+    },
+    {
+      "title": "TERAFAB: the next step to becoming a galactic civilization",
+      "url": "https://www.instagram.com/reel/DWMaJfNk1kO/",
+      "snippet": "Elon Musk's massive chip factory called 'Terafab' could change everything. Instead of relying on companies like Nvidia or TSMC, Tesla is building its own semiconductor manufacturing capabilities.",
+      "source": "www.instagram.com",
+      "relevance_score": 0.13814782,
+      "key_topics": ["Tesla Terafab", "semiconductor manufacturing", "Elon Musk", "chip production", "technology infrastructure"]
+    }
+  ],
+  "summary": {
+    "total_articles": 10,
+    "top_trends": [
+      "AI and machine learning developments",
+      "Enterprise AI adoption and platforms",
+      "Healthcare technology innovations",
+      "Automotive technology and electric vehicles",
+      "Semiconductor manufacturing and chip industry",
+      "Tech regulation and AI ethics",
+      "Software development trends and tools"
+    ],
+    "major_companies_mentioned": [
+      "Microsoft",
+      "Nvidia",
+      "HP",
+      "Volvo",
+      "Tesla",
+      "Meta",
+      "OpenAI",
+      "Faraday Future"
+    ],
+    "key_concerns": [
+      "AI dependency and over-reliance",
+      "Data privacy and security",
+      "Algorithmic bias in AI systems",
+      "Regulatory compliance",
+      "Impact on employment and workforce"
+    ]
+  }
+}

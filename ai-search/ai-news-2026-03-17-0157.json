@@ -1,0 +1,75 @@
+{
+  "timestamp": "2026-03-17T01:57:00Z",
+  "news": [
+    {
+      "title": "英伟达推出太空计算服务，将人工智能送入轨道",
+      "summary": "英伟达宣布推出太空计算服务，计划在2027年底前实现AI芯片收入至少1万亿美元目标，标志着AI技术正式进入太空领域。",
+      "publish_time": "2026-03-17T01:00:00Z",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903ajvu.html?from=tech"
+    },
+    {
+      "title": "NVIDIA Jetson Thor与机器人：多模态的真正挑战",
+      "summary": "NVIDIA发布Jetson Thor机器人平台，强调AI从数字世界向实体AI转型的关键价值，推动多模态AI在现实世界的应用。",
+      "publish_time": "2026-03-17T09:00:00Z",
+      "source": "TechNews科技新報",
+      "url": "https://technews.tw/"
+    },
+    {
+      "title": "比亚迪、吉利采用NVIDIA DRIVE Hyperion平台，打造L4级自驾车",
+      "summary": "NVIDIA宣布比亚迪、吉利、Isuzu及日产将采用DRIVE Hyperion平台开发下一代Level 4等级自驾车系统。",
+      "publish_time": "2026-03-17T08:47:00Z",
+      "source": "TechNews科技新報",
+      "url": "https://technews.tw/"
+    },
+    {
+      "title": "NVIDIA公布新Groq 3推论晶片，由三星代工、预计Q3出货",
+      "summary": "NVIDIA在GTC大会发布整合Groq技术的Groq 3 LPU推论晶片，由三星代工，预计第三季度开始出货。",
+      "publish_time": "2026-03-17T08:25:00Z",
+      "source": "TechNews科技新報",
+      "url": "https://technews.tw/"
+    },
+    {
+      "title": "澳洲大神用ChatGPT手搓疫苗抢命，救活癌症晚期爱犬",
+      "summary": "机器学习专家Paul Conyngham利用ChatGPT+AlphaFold为患癌爱犬设计定制mRNA疫苗，肿瘤缩小50%，展示AI在医疗领域的突破应用。",
+      "publish_time": "2026-03-17T03:00:00Z",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903ahdo.html"
+    },
+    {
+      "title": "诺奖获得者Hassabis警告：AlphaGo已觉醒，AGI正接管科研",
+      "summary": "DeepMind创始人Demis Hassabis表示AlphaGo开创的技术路径正在重塑科学研究，AI已在蛋白质折叠、数学等领域取得重大突破。",
+      "publish_time": "2026-03-17T02:00:00Z",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903ahdo.html"
+    },
+    {
+      "title": "AI手机的分水岭来了：豆包、千问、Gemini走出了三条路",
+      "summary": "三星Galaxy S26首发基于Gemini的Screen Automation功能，实现手机屏幕自动化操作，与豆包手机助手形成竞争格局。",
+      "publish_time": "2026-03-17T03:00:00Z",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903ahdo.html"
+    },
+    {
+      "title": "别顾着吃315的瓜！大厂打响「数据保卫战」：三张底牌破解AI投毒",
+      "summary": "央视315晚会曝光AI大模型被投毒现象，商业营销公司利用GEO技术编造虚假内容影响AI系统，引发行业对AI安全性的关注。",
+      "publish_time": "2026-03-17T02:00:00Z",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903ahdo.html"
+    },
+    {
+      "title": "AWE2026观察：海尔如何拼出AI家电的真实模样？",
+      "summary": "海尔在AWE2026展示AI家电应用，探讨智能家居的真实落地场景和技术实现路径。",
+      "publish_time": "2026-03-17T03:00:00Z",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001903ahdo.html"
+    },
+    {
+      "title": "黄仁勋牵着迪士尼雪宝现身！NVIDIA联手全球机器人巨头，宣布实体AI时代正式降临",
+      "summary": "NVIDIA CEO黄仁勋在GTC 2026主题演讲中与迪士尼雪宝机器人互动，宣布实体AI时代正式来临，展示AI驱动的现实世界应用。",
+      "publish_time": "2026-03-17T01:00:00Z",
+      "source": "Yahoo新闻",
+      "url": "https://tw.news.yahoo.com/tech-news"
+    }
+  ]
+}

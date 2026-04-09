@@ -1,0 +1,75 @@
+{
+  "query_time": "2026-03-25T13:57:00Z",
+  "news": [
+    {
+      "title": "Tech News | Today's Latest Technology News",
+      "summary": "Latest technology news and updates from Reuters.",
+      "publish_time": "2026-03-25",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/"
+    },
+    {
+      "title": "钛媒体-打开科技打开财富",
+      "summary": "Multiple tech stories including AI developments, semiconductor industry updates, and healthcare technology innovations.",
+      "publish_time": "2026-03-25",
+      "source": "TMT Post",
+      "url": "https://www.tmtpost.com/"
+    },
+    {
+      "title": "政务--中国科技网",
+      "summary": "Government technology policies and initiatives, including AI development and quantum technology advancements.",
+      "publish_time": "2026-03-25",
+      "source": "China Science and Technology Network",
+      "url": "https://www.stdaily.com/web/zwxw/node_362.html"
+    },
+    {
+      "title": "中关村星闪耀时",
+      "summary": "Zhongguancun Forum annual meeting highlights China's innovation achievements and future technology directions.",
+      "publish_time": "2026-03-25",
+      "source": "Beijing International Science and Technology Innovation Center",
+      "url": "https://www.ncsti.gov.cn/kjdt/xwjj/202603/t20260325_241990.html"
+    },
+    {
+      "title": "虎嗅网",
+      "summary": "Various tech industry analyses including AI applications, gaming industry trends, and consumer electronics updates.",
+      "publish_time": "2026-03-25",
+      "source": "Huxiu",
+      "url": "https://m.huxiu.com/"
+    },
+    {
+      "title": "我国在量子科技等未来产业布局一批关键核心技术专利",
+      "summary": "China has deployed key core technology patents in quantum technology, biomanufacturing, brain-computer interfaces, and 6G communications.",
+      "publish_time": "2026-03-25",
+      "source": "Xinhuanet",
+      "url": "http://www.news.cn/liangzi/20260325/1a9d2b86af944d0e9f8a95bb0d5eb684/c.html"
+    },
+    {
+      "title": "长江计算本地“龙虾盒子”算力足供给稳",
+      "summary": "Changjiang Computing launches local AI computing solutions to address cloud computing cost and security concerns.",
+      "publish_time": "2026-03-25",
+      "source": "Wuhan Science and Technology Bureau",
+      "url": "https://kjj.wuhan.gov.cn/xwzx_8/kjspxw/202603/t20260325_2744527.html"
+    },
+    {
+      "title": "强强联合！科迪华与Hexagon Bio成立合资企业",
+      "summary": "Corteva and Hexagon Bio establish joint venture to develop next-generation nature-inspired agricultural solutions.",
+      "publish_time": "2026-03-25",
+      "source": "Corteva",
+      "url": "https://www.corteva.com/cn/media-center/Corteva-and-Hexagon-Bio-have-established-a-joint-venture.html"
+    },
+    {
+      "title": "Google 新闻",
+      "summary": "Aggregated technology news from various sources.",
+      "publish_time": "2026-03-25",
+      "source": "Google News",
+      "url": "https://news.google.com/home?hl=zh-CN&gl=CN&ceid=CN%3Azh-Hans"
+    },
+    {
+      "title": "全球资产价值发现平台，洞察 Web3、AI、黄金、美股与宏观 ...",
+      "summary": "Global asset value discovery platform focusing on Web3, AI, gold, US stocks, and macroeconomic trends.",
+      "publish_time": "2026-03-25",
+      "source": "TechFlow",
+      "url": "https://m.techflowpost.com/"
+    }
+  ]
+}

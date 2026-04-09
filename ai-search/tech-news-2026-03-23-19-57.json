@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-03-23T19:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "土耳其推出PİRANA自杀无人艇 可进行超过230英里远程打击",
+      "summary": "土耳其国有防务公司MKE发布了一款名为PİRANA的自杀式无人水面舰艇，专为打击敌方舰艇及沿海基础设施而设，作战范围超过230英里。这艘舰艇能够通过空中无人机实时指挥。",
+      "publish_time": "2026-03-23",
+      "source": "chinese.engadget.com",
+      "url": "https://chinese.engadget.com",
+      "importance": "军事科技领域的重大进展，展示了无人作战平台的新发展"
+    },
+    {
+      "title": "华为Mate 80系列销量破453万！Kirin 9030产能爬坡，全系现货",
+      "summary": "截至2026年第11周，华为Mate 80系列自2025年11月发布以来，累计销量已达453.01万部。随着供应链产能爬坡，Kirin 9030系列处理器供应充足，整机供货能力大幅提升。",
+      "publish_time": "2026-03-23",
+      "source": "Qooah.com via chinese.engadget.com",
+      "url": "https://chinese.engadget.com",
+      "importance": "显示华为手机业务的强劲复苏和市场需求"
+    },
+    {
+      "title": "美国F-22 Raptor测试隐形油箱 扩大作战范围",
+      "summary": "最新图片显示，美国正在测试一款经过改装的F-22猛禽战斗机，该机型配备了隐形设计的外部油箱和任务传感器舱，这种组合将大幅提升飞机的航程，并改善其在不暴露位置的情况下侦测目标的能力。",
+      "publish_time": "2026-03-23",
+      "source": "chinese.engadget.com",
+      "url": "https://chinese.engadget.com",
+      "importance": "军事航空技术的重要升级，提升作战能力"
+    },
+    {
+      "title": "华为畅享90系列发布！6.84吋1.5K OLED直屏+8500mAh电池，1999元起",
+      "summary": "华为在春季全场景新品发布会上正式推出华为畅享90系列，分别有常规的畅享90和畅享90 Plus，以及该产品线首款Pro Max机型华为畅享90 Pro Max。三款机型均搭载Kirin 8000系列处理器。",
+      "publish_time": "2026-03-23",
+      "source": "Qooah.com via chinese.engadget.com",
+      "url": "https://chinese.engadget.com",
+      "importance": "华为中端手机市场的新产品布局"
+    },
+    {
+      "title": "Waymo全无人驾驶杀入逾20个城市，第六代自驾技术成本减半",
+      "summary": "Waymo的完全无人驾驶汽车正在进入超过20个城市，其第六代自动驾驶技术的成本降低了一半。这标志着自动驾驶技术商业化的重要进展。",
+      "publish_time": "2026-03-23",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com/waymo-%E5%85%A8%E7%84%A1%E4%BA%BA%E9%A7%95%E9%A7%9B%E6%AE%BA%E5%85%A5%E9%80%BE-20-%E5%80%8B%E5%9F%8E%E5%B8%82%EF%BC%8C%E7%AC%AC%E5%85%AD%E4%BB%A3%E8%87%AA%E9%A7%97%E6%8A%80%E8%A1%93%E6%88%90%E6%9C%AC%E6%B8%9B%E5%8D%8A-083021392.html",
+      "importance": "自动驾驶技术大规模商业化的重要里程碑"
+    },
+    {
+      "title": "索尼WF-1000XM6真无线耳机登场：降噪升25％仲有Gemini AI",
+      "summary": "索尼发布了WF-1000XM6真无线耳机，降噪性能提升25%，集成Gemini AI，通话质量达到"史上最佳"，单次充电可使用8小时。",
+      "publish_time": "2026-03-23",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com",
+      "importance": "消费电子领域的重要产品更新"
+    },
+    {
+      "title": "小米电视S Mini LED 55" 2026香港推出，4K QD-Mini LED面板，峰值亮度1200nit",
+      "summary": "小米推出了2026款电视S Mini LED 55英寸版本，配备4K QD-Mini LED面板，峰值亮度达到1200nit，将在香港市场推出。",
+      "publish_time": "2026-03-23",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com",
+      "importance": "显示技术领域的创新产品"
+    },
+    {
+      "title": "OPPO Find N6国际版通过TDRA认证！最快3月上市、配S8E Gen5芯片",
+      "summary": "OPPO Find N6国际版已获得海外TDRA认证，传闻最快能在3月开卖，成为首轮采用旗舰5G芯片S8E Gen5新品之一。",
+      "publish_time": "2026-03-23",
+      "source": "TechRitual via cn.engadget.com",
+      "url": "https://cn.engadget.com",
+      "importance": "折叠屏手机市场的新竞争者"
+    },
+    {
+      "title": "美国初创公司发布全球首个大型植物模型 以AI技术改进农作物管理",
+      "summary": "美国初创公司Carbon Robotics发布了全球首款大型植物模型(LPM)，这款基于人工智能的系统利用1.5亿个标记植物进行训练，旨在彻底改变作物管理的方式。",
+      "publish_time": "2026-03-23",
+      "source": "Qooah.com via cn.engadget.com",
+      "url": "https://cn.engadget.com",
+      "importance": "农业科技与AI结合的重要创新"
+    },
+    {
+      "title": "富士通推"Made in Japan"AI服务器，力保数码主权",
+      "summary": "日本富士通将于3月开始制造标榜为"Made in Japan"产品的国产"主权AI服务器"，强调数据自主和数码主权。",
+      "publish_time": "2026-03-23",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com",
+      "importance": "国家层面AI基础设施建设的战略举措"
+    }
+  ]
+}

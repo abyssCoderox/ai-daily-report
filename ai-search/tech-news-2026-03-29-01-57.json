@@ -1,0 +1,100 @@
+{
+  "timestamp": "2026-03-29T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_articles": 5,
+  "articles": [
+    {
+      "title": "Breaking Tech News on March 28, 2026: AI Revolution, Hardware Upgrades, and Security Threats",
+      "summary": "Comprehensive coverage of major tech developments including Lucid Software's MCP server enhancements, Revenium's AI Outcomes ROI measurement tool, Google's Gemini 3.1 Flash Live conversational AI, and significant hardware releases like AMD's Ryzen 9 9950X3D2 processor with 208MB cache.",
+      "key_points": [
+        "Lucid Software introduces Process Agent to accelerate team collaborations on complex diagrams",
+        "Revenium launches AI Outcomes for measuring ROI at workflow level",
+        "Google's Gemini 3.1 Flash Live enables real-time audio chats with visual context integration",
+        "AMD unveils Ryzen 9 9950X3D2 Dual Edition with 208MB cache for enhanced gaming performance",
+        "Security concerns raised about leaked iPhone hacking tools Coruna and DarkSword"
+      ],
+      "publish_time": "2026-03-28T00:00:00Z",
+      "source_url": "https://coaio.com/news/2026/03/breaking-tech-news-on-march-28-2026-ai-revolution-hardware-upgrades-2koc/",
+      "source_name": "Coaio",
+      "category": "general_technology"
+    },
+    {
+      "title": "How AI giants tried to storm the last stronghold of the human mind: the math olympiads",
+      "summary": "Investigation reveals controversy around AI companies' participation in the 2025 International Mathematical Olympiad, where OpenAI claimed 'gold medal-level performance' without official evaluation, causing tension between human competitors and tech corporations.",
+      "key_points": [
+        "OpenAI announced gold medal-level performance without official IMO evaluation",
+        "Google DeepMind also participated but faced criticism for pressuring volunteer graders",
+        "Controversy sparked debate about separate competitions for AI vs human participants",
+        "Terence Tao suggests different format needed for AI competitions",
+        "Chinese company DeepSeek later claimed similar achievements without coordination"
+      ],
+      "publish_time": "2026-03-28T00:00:00Z",
+      "source_url": "https://english.elpais.com/technology/2026-03-28/how-ai-giants-tried-to-storm-the-last-stronghold-of-the-human-mind-the-math-olympiads.html?outputType=amp",
+      "source_name": "El País",
+      "category": "artificial_intelligence"
+    },
+    {
+      "title": "Tech companies leaning hard into the US defense industry",
+      "summary": "Major tech companies including Palantir, Anthropic, and Anduril are increasingly collaborating with the US Department of Defense, marking a significant shift from previous resistance to military contracts.",
+      "key_points": [
+        "Palantir's Maven platform extensively used in offensive operations against Iran",
+        "Anduril secured $20 billion defense contract for drone defense systems",
+        "Anthropic's AI systems used in Middle East conflicts despite Pentagon restrictions",
+        "Record $49 billion private equity investment in defense technology companies",
+        "Shift driven by Ukraine conflict and concerns about China's ambitions toward Taiwan"
+      ],
+      "publish_time": "2026-03-29T00:00:00Z",
+      "source_url": "https://www.taipeitimes.com/News/biz/archives/2026/03/29/2003854633",
+      "source_name": "Taipei Times",
+      "category": "defense_technology"
+    },
+    {
+      "title": "Smaller Is Better in Silicon Valley's 'Tiny Team' Moment",
+      "summary": "Silicon Valley embraces minimal team structures with some companies operating on 'two-slice teams' consisting of just one person plus AI tools, challenging traditional notions of organizational scale.",
+      "key_points": [
+        "Rise of 'tiny teams' with high revenue-to-worker ratios",
+        "Dan Shipper's 'two-slice team' concept: one person plus AI tools",
+        "Evolution from Jeff Bezos' 'two pizza rule' to minimal staffing",
+        "AI enables small startups to compete with large companies' capabilities",
+        "Focus on 'high agency' employees who accomplish more with AI assistance"
+      ],
+      "publish_time": "2026-03-28T05:01:00Z",
+      "source_url": "https://www.nytimes.com/2026/03/28/business/silicon-valley-tiny-team-two-slice.html",
+      "source_name": "The New York Times",
+      "category": "startup_culture"
+    },
+    {
+      "title": "Latest Technology News and Developments",
+      "summary": "Reuters provides ongoing coverage of technology sector developments including digital trade rules, tech industry policy changes, and international technology cooperation.",
+      "key_points": [
+        "WTO members introduce world's first baseline digital trade rules",
+        "Ongoing coverage of technology policy and regulation",
+        "International technology cooperation and standards development",
+        "Tech industry response to global economic conditions",
+        "Emerging technology trends and market analysis"
+      ],
+      "publish_time": "2026-03-28T00:00:00Z",
+      "source_url": "https://www.reuters.com/technology/",
+      "source_name": "Reuters",
+      "category": "technology_policy"
+    }
+  ],
+  "metadata": {
+    "search_method": "tavily_api",
+    "extraction_method": "tavily_extract",
+    "categories_covered": [
+      "general_technology",
+      "artificial_intelligence",
+      "defense_technology",
+      "startup_culture",
+      "technology_policy"
+    ],
+    "geographic_coverage": [
+      "Global",
+      "United States",
+      "China",
+      "Europe"
+    ],
+    "reliability_score": 0.85
+  }
+}
