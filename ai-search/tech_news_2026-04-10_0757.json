@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "timestamp": "2026-04-10T07:57:00Z",
+    "report_period": "past_6_hours",
+    "total_news_items": 5,
+    "sources": ["IT之家", "Tavily Search", "Coaio", "Softunis"]
+  },
+  "news_items": [
+    {
+      "title": "全球首款5吨级eVTOL\"峰飞航空V5000天际龙\"正式亮相",
+      "summary": "峰飞航空科技自主研发的全球首款5吨级eVTOL\"V5000天际龙\"在苏州昆山民用无人机试飞运行基地完成转换飞行，标志着中国电动垂直起降飞行器技术取得重大突破。",
+      "publish_time": "2026-02-10T00:00:00Z",
+      "source_url": "https://www.ithome.com/0/920/823.htm",
+      "source_name": "IT之家",
+      "importance": "high",
+      "impact": "该eVTOL的成功试飞代表中国在电动航空领域的技术领先地位，将对未来城市空中交通和物流运输产生重大影响。",
+      "tags": ["eVTOL", "电动航空", "无人机", "交通革命"]
+    },
+    {
+      "title": "主流手机厂商因内存涨价仅一家上调2026年出货量",
+      "summary": "由于内存等物料价格上涨，主流TOP5手机厂商中仅一家上调2026年新机出货量至约7000万台，存储涨价对2.5K档中端机影响最大，部分厂商暂停下一代旗舰研发。",
+      "publish_time": "2026-02-11T00:00:00Z",
+      "source_url": "https://www.ithome.com/0/921/204.htm",
+      "source_name": "IT之家",
+      "importance": "high",
+      "impact": "内存价格上涨将影响整个智能手机产业链，可能导致终端产品价格上涨，影响消费者购买决策和行业发展节奏。",
+      "tags": ["智能手机", "内存涨价", "产业链", "市场调整"]
+    },
+    {
+      "title": "小米Xiaomi Tag追踪器将推出国行版本",
+      "summary": "小米在欧洲市场推出的Xiaomi Tag追踪器将推出国行版本，产品定位智能追踪设备市场，预计将与陶瓷手环等智能配件同步推出。",
+      "publish_time": "2026-02-13T00:00:00Z",
+      "source_url": "https://www.ithome.com/0/921/739.htm",
+      "source_name": "IT之家",
+      "importance": "medium",
+      "impact": "小米进一步扩大智能硬件生态布局，增强在物联网和智能家居领域的竞争力。",
+      "tags": ["小米", "智能硬件", "物联网", "追踪器"]
+    },
+    {
+      "title": "中兴考拉二合一智能台灯上市",
+      "summary": "中兴推出的考拉二合一智能台灯在京东开售，具备智能节律照明和RG0豁免级光照特性，定价699元，主打健康照明市场。",
+      "publish_time": "2026-02-10T00:00:00Z",
+      "source_url": "https://www.ithome.com/0/920/840.htm",
+      "source_name": "IT之家",
+      "importance": "medium",
+      "impact": "智能照明产品进一步普及，结合健康理念的照明设备将成为智能家居新趋势。",
+      "tags": ["智能照明", "健康科技", "智能家居", "中兴"]
+    },
+    {
+      "title": "2026年科技领域AI创新、芯片战争和太空探索发展",
+      "summary": "2026年科技领域迎来重大突破，涵盖人工智能创新、先进芯片封装技术应用以及NASA Artemis登月计划进展，科技产业正经历深度变革。",
+      "publish_time": "2026-04-02T00:00:00Z",
+      "source_url": "https://coaio.com/yue/news/2026/04/techs-bold-leap-in-2026-ai-innovations-chip-wars-and-space-2lwc/",
+      "source_name": "Coaio",
+      "importance": "high",
+      "impact": "AI技术、芯片制造和太空探索的协同发展将重塑未来科技格局，推动新一轮产业革命。",
+      "tags": ["人工智能", "芯片技术", "太空探索", "科技创新"]
+    }
+  ],
+  "summary": {
+    "total_articles_analyzed": 5,
+    "key_trends": [
+      "电动航空技术突破",
+      "智能硬件生态扩展",
+      "内存市场波动影响",
+      "AI与芯片技术融合",
+      "健康科技产品普及"
+    ],
+    "market_impact": "科技产业正经历多领域突破，从eVTOL到智能硬件，从AI创新到太空探索，各领域技术协同发展将推动产业变革。",
+    "notable_changes": "内存价格上涨对智能手机产业链产生显著影响，同时电动航空和AI技术的突破预示着未来交通和计算技术的重要转变。"
+  }
+}
