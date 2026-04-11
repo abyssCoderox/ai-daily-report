@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-04-11T07:57:00Z",
+  "report_period": "past_6_hours",
+  "total_articles": 8,
+  "articles": [
+    {
+      "title": "Banks Warned About Anthropic's New, Powerful A.I. Technology",
+      "summary": "Treasury Secretary Scott Bessent and Federal Reserve Chair Jerome Powell convened an urgent meeting with major bank CEOs to warn about cybersecurity risks posed by Anthropic's new AI model, Claude Mythos Preview, which can identify critical security vulnerabilities.",
+      "publish_time": "2026-04-10T18:00:00Z",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/10/business/anthropic-claude-mythos-preview-banks.html",
+      "importance": "High - Government officials warning financial institutions about AI security risks",
+      "category": "AI Security"
+    },
+    {
+      "title": "Anthropic's 'Claude Mythos' Model Sparks Fear of AI Doomsday",
+      "summary": "Financial experts discuss growing concerns over Anthropic's powerful AI model that can detect and exploit vulnerabilities, raising significant cybersecurity risks across industries.",
+      "publish_time": "2026-04-10T20:30:00Z",
+      "source": "Fox Business",
+      "url": "https://www.foxbusiness.com/video/6392818781112",
+      "importance": "High - AI model with unprecedented vulnerability detection capabilities",
+      "category": "AI Security"
+    },
+    {
+      "title": "OpenAI Identifies Security Issue Involving Third-Party Tool",
+      "summary": "OpenAI discovered a security issue with a third-party tool but confirmed user data was not accessed, highlighting ongoing security challenges in AI development.",
+      "publish_time": "2026-04-11T02:04:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-2026-04-11/",
+      "importance": "Medium - Security incident at major AI company",
+      "category": "Cybersecurity"
+    },
+    {
+      "title": "Meta Must Face Youth Addiction Lawsuit by Massachusetts Court",
+      "summary": "A Massachusetts court ruled that Meta must face a youth addiction lawsuit, marking a significant legal challenge for the social media giant regarding platform safety.",
+      "publish_time": "2026-04-10T15:00:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/meta-must-face-youth-addiction-lawsuit-by-massachusetts-court-rules-2026-04-10/",
+      "importance": "Medium - Legal precedent for social media regulation",
+      "category": "Tech Regulation"
+    },
+    {
+      "title": "Japan Approves Additional $4 Billion for Chipmaker Rapidus",
+      "summary": "Japan's government approved an additional $4 billion investment in semiconductor manufacturer Rapidus to boost domestic chip production capabilities.",
+      "publish_time": "2026-04-11T05:55:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/japan-approves-additional-4-bln-chipmaker-rapidus-2026-04-11/",
+      "importance": "Medium - Major government investment in semiconductor industry",
+      "category": "Semiconductors"
+    },
+    {
+      "title": "Tesla's Supervised Self-Driving Software Gets Dutch Approval",
+      "summary": "Tesla received approval from Dutch authorities for its supervised self-driving software, marking the first European approval for the company's autonomous driving technology.",
+      "publish_time": "2026-04-10T14:00:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/teslas-self-driving-software-gets-dutch-go-ahead-boost-eu-ambitions-2026-04-10/",
+      "importance": "Medium - Regulatory milestone for autonomous vehicles in Europe",
+      "category": "Autonomous Vehicles"
+    },
+    {
+      "title": "CoreWeave Strikes AI Cloud Deal with Anthropic",
+      "summary": "Cloud infrastructure provider CoreWeave secured a multi-year agreement with Anthropic to run AI workloads, driving significant business growth in AI infrastructure.",
+      "publish_time": "2026-04-10T12:00:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/transactional/coreweave-strikes-ai-cloud-deal-with-anthropic-shares-rise-2026-04-10/",
+      "importance": "Medium - Major AI infrastructure partnership",
+      "category": "AI Infrastructure"
+    },
+    {
+      "title": "South Africa Unveils Draft AI Policy with New Institutions and Incentives",
+      "summary": "South Africa introduced a comprehensive draft AI policy proposing new regulatory institutions and economic incentives to guide responsible AI development and deployment.",
+      "publish_time": "2026-04-10T11:00:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/south-africa-unveils-draft-ai-policy-proposes-new-institutions-incentives-2026-04-10/",
+      "importance": "Medium - National AI policy framework development",
+      "category": "AI Policy"
+    }
+  ],
+  "key_trends": [
+    "AI security concerns escalating with powerful new models like Anthropic's Mythos",
+    "Government agencies taking active role in AI risk management",
+    "International AI policy development accelerating",
+    "AI infrastructure investments continuing to grow"
+  ],
+  "sources_cited": [
+    "The New York Times",
+    "Fox Business",
+    "Reuters"
+  ]
+}
