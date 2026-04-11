@@ -1,0 +1,111 @@
+{
+  "search_time": "2026-04-11 13:57:00 UTC",
+  "news_count": 15,
+  "news_items": [
+    {
+      "title": "OpenAI CEO住宅遭燃烧瓶袭击，嫌疑人已被逮捕",
+      "summary": "OpenAI首席执行官萨姆·奥尔特曼位于旧金山的住宅遭遇燃烧瓶袭击，嫌疑人随后在公司总部外被捕。奥尔特曼表示理解'反科技'情绪，但强调技术应为所有人谋求福祉。",
+      "publish_time": "2026-04-11 08:00:00",
+      "source_url": "https://news.cnyes.com/news/id/6416897",
+      "source_name": "鉅亨網"
+    },
+    {
+      "title": "Anthropic与CoreWeave签署算力大单，AI模型扩容提速",
+      "summary": "人工智能云基础设施供应商CoreWeave宣布与Anthropic达成多年期合作协议，将提供数据中心算力支持其Claude人工智能模型，凸显AI运算需求持续快速增长。",
+      "publish_time": "2026-04-11 07:08:00",
+      "source_url": "https://news.mbalib.com/story/258643",
+      "source_name": "MBA智库"
+    },
+    {
+      "title": "华为靳玉志：L3是走向完全自动驾驶的必经之路",
+      "summary": "华为公司高级副总裁、引望公司CEO靳玉志在智能电动汽车发展高层论坛上指出，2026年是全球自动驾驶开启的元年，L3是走向完全自动驾驶的必经之路。",
+      "publish_time": "2026-04-11 15:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047j2u.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "滴滴自动驾驶新一代Robotaxi升级，深化AI投入与全球化布局",
+      "summary": "滴滴自动驾驶公司CEO张博表示，安全与体验是自动驾驶行稳致远的根基，滴滴自动驾驶以混合出行网络探索可持续的发展路径，依托全栈技术能力和本地化服务积累，推动中国自动驾驶产业走向全球。",
+      "publish_time": "2026-04-11 14:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047g2k.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "米哈游创始人蔡浩宇AI公司发表最新视频生成模型论文",
+      "summary": "米哈游创始人蔡浩宇旗下AI公司Anuttacon在arXiv发布论文，公开其新一代视频生成模型LPM 1.0。该模型基于170亿参数扩散Transformer架构，主打角色表演生成能力。",
+      "publish_time": "2026-04-11 19:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047qt8.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "国产手术机器人三路径：微创的"快"、精锋的"稳"、康诺思腾的"慢"",
+      "summary": "在第93届中国国际医疗器械博览会上，医疗机器人板块成为焦点，国产腔镜手术机器人展区迎来精锋医疗、微创机器人、康诺思腾等头部企业的集中亮相，展示了不同的技术发展路径。",
+      "publish_time": "2026-04-11 15:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047j2u.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "智元酷拓专注四足机器人，市场规模有望达千亿元级别",
+      "summary": "智元机器人孵化的子公司智元酷拓专注于四足机器人业务，COO邱恒认为四足机器人市场规模有望达千亿元级别，暂不考虑进入C端市场。",
+      "publish_time": "2026-04-11 14:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047g2k.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "地平线余凯：舱驾融合智能体SoC芯片最高可节省4000元单车成本",
+      "summary": "地平线创始人兼CEO余凯表示，舱驾融合智能体SoC芯片通过控制器融合，可以节省50%的芯片空间，共用零件和算力能节省30%的芯片器件，并能节省1500~4000元的单车成本。",
+      "publish_time": "2026-04-11 14:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047g2k.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": ""静音舱"火了！从机场到书房，下一个爆款品类？",
+      "summary": "静音舱（或称隔音舱、静音工作站）从机场、互联网大厂办公区逐渐普及到家用场景，成为从机场到书房的下一个潜在爆款品类。",
+      "publish_time": "2026-04-11 19:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047qt8.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "脑机接口有多火？"一天可能讲了上百遍"",
+      "summary": "博睿康的"植入式脑机接口手部运动功能代偿系统"获得中国国家药监局批准上市，适用于颈段脊髓损伤所致四肢瘫患者，在医博会期间引发广泛关注。",
+      "publish_time": "2026-04-11 19:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047qt8.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "太重集团积极拓展印尼市场，签署新能源智能叉车采购合同",
+      "summary": "太重印尼有限公司与印尼物流头部企业成功签署2026年度新能源智能叉车采购合同，标志着太重集团迅速扎根印尼本土市场，为中国装备制造业拓展东南亚市场筑牢根基。",
+      "publish_time": "2026-04-11 19:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047qt8.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "乔锋智能新品发布会圆满举办！以硬核装备赋能AI液冷与人形机器人双赛道",
+      "summary": "乔锋智能"智铣新生·赋能双赛道"新品发布会在东莞总部圆满举办，发布了面向AI液冷散热、人形机器人两大高潜力赛道的全新精密加工产品与解决方案。",
+      "publish_time": "2026-04-11 19:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047qt8.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "25岁天才少女公司估值过百亿，专治AI说谎",
+      "summary": "25岁的洪乐潼创办的Axiom公司最近拿下2亿美元A轮融资，投后估值高达16亿美元。该公司专注于用数学验证AI，不做聊天机器人，也不跟风大语言模型热潮。",
+      "publish_time": "2026-04-11 14:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047g2k.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "工信部将发布一批"人工智能+"高价值场景",
+      "summary": "工业和信息化部将发布一批"人工智能+"高价值场景，旨在推动人工智能技术与各行业深度融合，促进产业升级和经济发展。",
+      "publish_time": "2026-04-11 17:29:50",
+      "source_url": "https://news.cctv.cn/2026/04/11/ARTIkzrapDyezYI7MlhKealp260411.shtml",
+      "source_name": "央视网"
+    },
+    {
+      "title": ""一人公司"翻车，极致效率背后是极致脆弱？",
+      "summary": "号称年入18亿美元的远程医疗公司Medvi接连陷入虚假宣传、违规营销、法律诉讼和FDA警告等多重争议，揭示了AI驱动下"一人公司"模式的风险和挑战。",
+      "publish_time": "2026-04-11 14:00:00",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047g2k.html",
+      "source_name": "新浪科技"
+    }
+  ]
+}
