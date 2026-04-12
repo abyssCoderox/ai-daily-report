@@ -1,0 +1,171 @@
+{
+  "metadata": {
+    "timestamp": "2026-04-12T07:57:00Z",
+    "search_period": "past_6_hours",
+    "total_articles": 10,
+    "sources": [
+      "International News and Views",
+      "AI Tool Mind",
+      "Coaio",
+      "Parliament News",
+      "Flytronics Group",
+      "TechResider",
+      "Ad-hoc News",
+      "Firstpost"
+    ]
+  },
+  "news": [
+    {
+      "title": "Apple Foldable iPhone Faces Delays After Testing Issues",
+      "summary": "Apple's first foldable iPhone encounters technical challenges during engineering test production, potentially delaying its planned second-half 2026 launch due to higher-than-expected issues discovered during prototype evaluation.",
+      "publish_time": "2026-04-08T06:14:28Z",
+      "source": "International News and Views",
+      "url": "https://internationalnewsandviews.com/apple-foldable-iphone-delay-testing-issues-400925-2/",
+      "importance": "high",
+      "category": "smartphone_technology",
+      "key_points": [
+        "Technical issues discovered during Engineering Test Production phase",
+        "Higher number of problems than expected affecting mass production readiness",
+        "Launch timeline may be pushed back from second half of 2026",
+        "Apple maintaining strict quality standards despite delays"
+      ]
+    },
+    {
+      "title": "World's Thinnest Foldable Phone Launched: Smart-Tech FoldSlim X1 Measures Just 4.9mm",
+      "summary": "Smart-Tech unveils the FoldSlim X1, claiming the title of world's thinnest foldable smartphone at just 4.9mm when unfolded, featuring advanced aerospace-grade hinge technology and 8.1-inch 144Hz display.",
+      "publish_time": "2026-04-05T14:43:22Z",
+      "source": "International News and Views",
+      "url": "https://internationalnewsandviews.com/world-thinnest-foldable-phone-launched-smart-tech-foldslim-x1-measures-just-4-9mm-400758-2/",
+      "importance": "high",
+      "category": "smartphone_innovation",
+      "key_points": [
+        "Ultra-thin design at 4.9mm when unfolded sets new industry benchmark",
+        "Features 8.1-inch LTPO OLED main display with 144Hz refresh rate",
+        "Carbon-fiber hinge system rated for 500,000 folds",
+        "5000mAh battery with silicon-carbon technology and 100W fast charging",
+        "Expected price around $1,699 in international markets"
+      ]
+    },
+    {
+      "title": "India's Income Tax Department Launches AI Assistant 'Kar Saathi'",
+      "summary": "Indian government launches AI-powered chatbot 'Kar Saathi' with new website to simplify tax filing, offering 24/7 bilingual support in Hindi and English for taxpayer assistance.",
+      "publish_time": "2026-04-02T13:58:44Z",
+      "source": "International News and Views",
+      "url": "https://internationalnewsandviews.com/income-tax-ai-assistant-kar-saathi-new-website-india-launch-400562-2/",
+      "importance": "medium",
+      "category": "ai_government_services",
+      "key_points": [
+        "24/7 AI-powered assistance available in Hindi and English",
+        "Simplified user-friendly portal with unified navigation",
+        "Comprehensive guidance tools including FAQs and tax calendar",
+        "Part of broader digital transformation in government services"
+      ]
+    },
+    {
+      "title": "Realme 16 5G Launching with 7000mAh Battery and Premium iPhone-Like Design",
+      "summary": "Realme announces the 16 5G smartphone featuring industry-leading 7000mAh battery, dual 50MP cameras, and premium design, set to launch April 2 in India with six-year battery warranty.",
+      "publish_time": "2026-03-30T05:29:04Z",
+      "source": "International News and Views",
+      "url": "https://internationalnewsandviews.com/realme-16-5g-launch-india-specs-price-7000mah-battery-400416-2/",
+      "importance": "medium",
+      "category": "smartphone_launch",
+      "key_points": [
+        "Massive 7000mAh battery with 60W fast charging capability",
+        "Six-year battery warranty demonstrates confidence in longevity",
+        "Dual 50MP cameras (front and rear) with 'Selfie Mirror' design",
+        "IP66, IP68, and IP69 ratings for dust and water protection",
+        "Expected price under ₹30,000 in Indian market"
+      ]
+    },
+    {
+      "title": "Samsung Plans AI Features Across All Smartphones by 2026",
+      "summary": "Samsung officially confirms integration of advanced AI features across nearly all smartphone models by 2026, focusing on on-device AI processing for improved privacy and performance.",
+      "publish_time": "2026-01-01T00:00:00Z",
+      "source": "AI Tool Mind",
+      "url": "https://aitoolmind.com/latest-ai-news-today-january-2026/",
+      "importance": "high",
+      "category": "ai_mobile_technology",
+      "key_points": [
+        "Comprehensive AI integration across flagship, mid-range, and budget phones",
+        "Focus on on-device AI processing rather than cloud dependency",
+        "Enhanced privacy, reduced latency, and offline AI capabilities",
+        "Applications include smart cameras, real-time translation, and voice assistants"
+      ]
+    },
+    {
+      "title": "GSI Technology Stock Surges on AI Memory Breakthrough",
+      "summary": "GSI Technology announces breakthrough in Gemini AI associative processing unit, causing stock to jump 15% as the technology shows superior performance in vector search and database acceleration for AI workloads.",
+      "publish_time": "2026-03-18T00:00:00Z",
+      "source": "Ad-hoc News",
+      "url": "https://www.ad-hoc-news.de/boerse/news/ueberblick/gsi-technology-inc-stock-surges-on-ai-memory-breakthrough-amid/68943068",
+      "importance": "medium",
+      "category": "ai_semiconductor",
+      "key_points": [
+        "Gemini AI platform demonstrates 10x better power efficiency than competitors",
+        "Targets generative AI applications where traditional DRAM falls short",
+        "Stock surged over 15% following the announcement",
+        "Positions GSI as potential supplier for next-gen data centers"
+      ]
+    },
+    {
+      "title": "AI Reshaping Global Jobs: Automation Cuts Traditional Roles While Tech Careers Surge",
+      "summary": "Global job market undergoes profound transformation as AI and automation replace traditional roles while creating new opportunities in technology-driven sectors, requiring massive reskilling efforts worldwide.",
+      "publish_time": "2026-03-31T02:35:26Z",
+      "source": "International News and Views",
+      "url": "https://internationalnewsandviews.com/ai-automation-global-job-market-shift-reskilling-demand-2026-400466-2/",
+      "importance": "high",
+      "category": "ai_workforce_impact",
+      "key_points": [
+        "Automation reducing demand for routine and predictable jobs",
+        "Surge in demand for data science, machine learning, and cybersecurity roles",
+        "Reskilling and upskilling becoming essential for workforce survival",
+        "Countries investing heavily in digital education and training programs"
+      ]
+    },
+    {
+      "title": "Infineon Achieves 300mm GaN Wafer Technology Breakthrough",
+      "summary": "Infineon develops world's first 300mm GaN wafer technology for power electronics, enabling improved efficiency, smaller size, lighter weight, and lower costs for semiconductor chips.",
+      "publish_time": "2026-03-01T00:00:00Z",
+      "source": "Flytronics Group",
+      "url": "https://flytronics-group.com/articledetail/635.html",
+      "importance": "high",
+      "category": "semiconductor_manufacturing",
+      "key_points": [
+        "300mm wafers enable 2.3x more chips per wafer than 200mm",
+        "Leverages existing silicon manufacturing equipment for cost efficiency",
+        "Positions Infineon as leader in all three power semiconductor materials",
+        "Technology breakthrough unlocks full potential of gallium nitride"
+      ]
+    },
+    {
+      "title": "US Launches $250 Million Pax Silica Fund for Semiconductor Supply Chain",
+      "summary": "U.S. Department of State announces $250 million fund to strengthen global semiconductor supply chains, focusing on critical minerals, infrastructure development, and manufacturing capabilities.",
+      "publish_time": "2026-03-27T00:49:22Z",
+      "source": "International News and Views",
+      "url": "https://internationalnewsandviews.com/us-pax-silica-fund-250-million-semiconductor-supply-chain-400232-2/",
+      "importance": "high",
+      "category": "semiconductor_policy",
+      "key_points": [
+        "Aims to reduce vulnerabilities in global semiconductor ecosystem",
+        "Focuses on mining, processing, and infrastructure development",
+        "Part of broader strategy to secure technological leadership",
+        "Expected to reshape global supply chain dynamics"
+      ]
+    },
+    {
+      "title": "India's Startup Sector Enters New Era with 23% Funding Rise",
+      "summary": "Indian startup ecosystem raises $9.1 billion in 2025, marking 23% year-over-year growth, with DeepTech and AI driving sustainable growth and profitability focus over rapid expansion.",
+      "publish_time": "2026-03-28T10:40:20Z",
+      "source": "International News and Views",
+      "url": "https://internationalnewsandviews.com/india-startup-funding-2025-deeptech-ai-growth-nasscom-report-400339-2/", 
+      "importance": "medium",
+      "category": "startup_ecosystem",
+      "key_points": [
+        "Over 4,200 DeepTech startups with 550 new launches in 2025",
+        "AI accounts for 84% of DeepTech activity and 91% of funding",
+        "Shift from growth-at-all-costs to sustainable, profitable models",
+        "DeepTech sector attracted $2.3 billion, up 37% year-over-year"
+      ]
+    }
+  ]
+}
