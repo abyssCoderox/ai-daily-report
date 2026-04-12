@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-04-12T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "2026年4月10日重大科技新闻：人工智能创新、安全威胁和行业变革",
+      "summary": "涵盖NASA Artemis任务关键决策、Motorola预算手机涨价、Google与Intel深化AI基础设施合作、Snap新AI眼镜发布等多个重大科技动态",
+      "publish_time": "2026-04-10",
+      "source": "coaio.com",
+      "url": "https://coaio.com/zh/news/2026/04/breaking-tech-news-on-april-10-2026-ai-innovations-security-threats-2m4c/"
+    },
+    {
+      "title": "2026年4月10日科技行业热点新闻速递 - AtomGit开源社区",
+      "summary": "AI与机器学习突破、云计算重大公告、网络安全进展、量子抗性加密协议、物联网智能设备、生物集成计算系统、可持续计算技术投资等重要进展",
+      "publish_time": "2026-04-10",
+      "source": "gitcode.csdn.net",
+      "url": "https://gitcode.csdn.net/69d849fa0a2f6a37c59e2b24.html"
+    },
+    {
+      "title": "IT早报0412：宇树机器人跑出10m/s 刷新世界纪录；小米手机正式调价",
+      "summary": "宇树科技H1人形机器人实测峰值速度达10米/秒，小米手机因存储芯片价格上涨调整售价，三星2nm工艺良率问题导致高通芯片仍由台积电代工",
+      "publish_time": "2026-04-12",
+      "source": "news.17173.com",
+      "url": "https://news.17173.com/content/04122026/080239243.shtml"
+    },
+    {
+      "title": "2026年4月10日科技快讯：AI创新、网络安全挑战和行业变革 - Coaio",
+      "summary": "Meta推出Muse Spark模型、Anthropic限制Mythos访问、OpenAI推出100美元/月专业计划、伊朗相关黑客攻击美国基础设施、大众汽车放弃美国全电动ID.4",
+      "publish_time": "2026-04-10",
+      "source": "coaio.com",
+      "url": "https://coaio.com/zh/news/2026/04/breaking-tech-news-on-april-10-2026-ai-innovations-cybersecurity-2m4c/"
+    },
+    {
+      "title": "新浪科技热点小时报丨2026年04月11日10时_今日实时科技热点速递",
+      "summary": "PC市场回暖、中国电子信息博览会强调算力与场景应用、微软Win11预览版体验改革、智能物流发展、参半牙膏IPO、谷歌安卓自动备份新方案等",
+      "publish_time": "2026-04-11T10:00:00",
+      "source": "cj.sina.cn",
+      "url": "https://cj.sina.cn/articles/view/7857201856/1d45362c00190474ku?froms=ggmp"
+    },
+    {
+      "title": "新浪科技热点小时报丨2026年04月11日20时_今日实时科技热点速递",
+      "summary": "滴滴自动驾驶新一代Robotaxi升级、熊喵大师推出数字菜谱AI系统、李斌谈行业标准化降本、法国用Linux替代Windows影响250万公务人员、光模块CPO技术突破",
+      "publish_time": "2026-04-11T20:00:00",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047s6c.html"
+    },
+    {
+      "title": "新浪科技热点小时报丨2026年04月11日18时_今日实时科技热点速递",
+      "summary": "亚化咨询半导体数据全家桶发布、深睿医疗AI战略跃迁、智元机器人亮相中美乒乓外交大会、华为靳玉志谈L3自动驾驶、米哈游蔡浩宇AI公司发布LPM 1.0模型",
+      "publish_time": "2026-04-11T18:00:00",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047p94.html"
+    },
+    {
+      "title": "新浪科技热点小时报丨2026年04月11日22时_今日实时科技热点速递",
+      "summary": "多位院士共话具身智能发展、亚太峰会聚焦数智技术、AI时代云竞争分化、小米成都产教融合基地启用、光通信订单排满至2028年、AI生成内容监管问题",
+      "publish_time": "2026-04-11T22:00:00",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047v26.html"
+    },
+    {
+      "title": "新浪科技热点小时报丨2026年04月11日19时_今日实时科技热点速递",
+      "summary": "美国AI产业链关键矿物100%依赖进口、滴滴自动驾驶全球化布局、马来西亚推动人工智能城市转型、人保财险发布五亮理赔服务、Anthropic解封OpenClaw创始人",
+      "publish_time": "2026-04-11T19:00:00",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019047qt8.html"
+    },
+    {
+      "title": "新浪科技热点小时报丨2026年04月12日03时_今日实时科技热点速递",
+      "summary": "鸿蒙微信大更新上线ClawBot插件、OpenAI CEO奥特曼住宅遭袭、工信部发布人工智能+高价值场景、西北首家苹果直营店确认、地平线发布舱驾融合芯片星空",
+      "publish_time": "2026-04-12T03:00:00",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019048746.html"
+    }
+  ]
+}
