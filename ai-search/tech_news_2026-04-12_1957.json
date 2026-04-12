@@ -1,0 +1,93 @@
+{
+  "metadata": {
+    "timestamp": "2026-04-12T19:57:00Z",
+    "timezone": "UTC",
+    "search_period_hours": 6,
+    "total_articles": 5
+  },
+  "articles": [
+    {
+      "title": "State of AI: April 2026 - Anthropic Blacklisted, $19B Revenue, and mRNA Dog Cancer Vaccine",
+      "summary": "The US government blacklisted Anthropic as a 'supply chain risk' over Pentagon usage restrictions, triggering a federal lawsuit. Anthropic's revenue surged from $14B to $19B in weeks. An Australian entrepreneur used ChatGPT and AlphaFold to design the first personalized mRNA cancer vaccine for a dog, with most tumors shrinking.",
+      "publish_time": "2026-04-12T19:00:00Z",
+      "source": "Nathan Benaich Substack",
+      "url": "https://nathanbenaich.substack.com/p/state-of-ai-april-2026-newsletter",
+      "key_points": [
+        "US government designated Anthropic as supply chain risk over Pentagon usage restrictions",
+        "Anthropic revenue surged from $14B to $19B in weeks",
+        "First personalized mRNA cancer vaccine designed for dog using AI",
+        "Six major AI model releases in four weeks",
+        "Industrial-scale distillation campaigns detected by Anthropic"
+      ],
+      "impact": "High - Covers major regulatory, commercial, and research developments in AI"
+    },
+    {
+      "title": "Healthcare AI Survey: 67% of Consumers Say AI Time Savings Will Make Providers More Engaged",
+      "summary": "A recent survey shows 67% of consumers believe AI's time savings will make healthcare providers more engaged, while 27% of desktop devices in healthcare remain unencrypted, highlighting ongoing security challenges.",
+      "publish_time": "2026-04-12T18:30:00Z",
+      "source": "Healthcare IT Today",
+      "url": "https://www.healthcareittoday.com/2026/04/12/bonus-features-april-12-2026-67-of-consumers-say-ais-time-savings-will-make-providers-more-engaged-27-of-desktop-devices-in-healthcare-are-unencrypted-plus-25-more-stories/",
+      "key_points": [
+        "67% of consumers say AI time savings will improve provider engagement",
+        "27% of healthcare desktop devices remain unencrypted",
+        "Healthcare IT security and AI adoption trends",
+        "Weekly healthcare technology roundup"
+      ],
+      "impact": "Medium - Important healthcare technology trends and security concerns"
+    },
+    {
+      "title": "LA County Cities Grapple with AI Data Center Surge and Environmental Concerns",
+      "summary": "Los Angeles County cities are weighing data center proposals amid concerns about power grid capacity, environmental impact, and land use. Monterey Park successfully banned data centers, while Pasadena and other cities are developing regulations.",
+      "publish_time": "2026-04-12T17:45:00Z",
+      "source": "Pasadena Star News",
+      "url": "https://www.pasadenastarnews.com/2026/04/11/la-county-cities-weigh-the-data-center-question-in-the-face-of-ai-surge/",
+      "key_points": [
+        "Monterey Park banned data centers after community opposition",
+        "Cities concerned about power grid capacity and environmental impact",
+        "Amazon purchased Pasadena facility for quantum computing (not data center)",
+        "Data centers consume massive energy and water resources",
+        "California lawmakers proposing data center regulations"
+      ],
+      "impact": "Medium - Local impact with broader implications for AI infrastructure growth"
+    },
+    {
+      "title": "SoftBank Leads Japanese Consortium to Develop High-Performance AI",
+      "summary": "SoftBank, NEC, Sony Group, and Honda Motor have established a new company to develop Japanese-made high-performance AI, aiming to compete with US and Chinese firms. The company will apply for ¥1 trillion in government support over five years.",
+      "publish_time": "2026-04-12T16:20:00Z",
+      "source": "The Japan Times",
+      "url": "https://www.japantimes.co.jp/business/2026/04/12/companies/softbank-ai-new-firm/",
+      "key_points": [
+        "SoftBank, NEC, Sony, and Honda each hold >10% stakes",
+        "Aims to develop 'physical AI' for robot control",
+        "Will apply for ¥1 trillion NEDO government support program",
+        "Focus on competing with US and Chinese AI companies",
+        "Engineers from SoftBank and Preferred Networks to participate"
+      ],
+      "impact": "High - Major international AI development initiative with government backing"
+    },
+    {
+      "title": "AI-Powered Cyber Attacks: UK Study Shows 9.8 Average Steps Completed in Corporate Network Penetration",
+      "summary": "UK AI Safety Institute research reveals AI agents can complete an average of 9.8 steps in multi-step cyber attacks, with the best agents completing 22 of 32 attack steps autonomously. The marginal cost of AI-assisted network penetration is estimated at £65.",
+      "publish_time": "2026-04-12T15:30:00Z",
+      "source": "UK AI Safety Institute (via State of AI)",
+      "url": "https://arxiv.org/abs/2603.11214",
+      "key_points": [
+        "AI agents completed 9.8 steps on average in cyber attack scenarios",
+        "Best agent completed 22 of 32 attack steps autonomously",
+        "Performance scales log-linearly with inference compute",
+        "Marginal cost of AI-assisted penetration: £65",
+        "No performance plateau observed in testing"
+      ],
+      "impact": "High - Critical cybersecurity implications for AI safety and defense"
+    }
+  ],
+  "summary": "The past 6 hours have seen significant developments across the AI landscape: regulatory battles between the US government and Anthropic, massive revenue growth in the AI sector, breakthrough applications in healthcare and biotechnology, growing concerns about AI infrastructure's environmental impact, international competition in AI development, and emerging cybersecurity challenges from AI-powered attacks.",
+  "trends": [
+    "AI regulation and government oversight increasing",
+    "Commercial AI revenue growth accelerating rapidly",
+    "AI applications expanding into biotech and healthcare",
+    "Data center infrastructure facing environmental scrutiny",
+    "International AI development competition intensifying",
+    "AI cybersecurity threats becoming more sophisticated"
+  ]
+}

@@ -1,0 +1,90 @@
+{
+  "search_metadata": {
+    "timestamp": "2026-04-12T13:57:00Z",
+    "query": "科技新闻",
+    "time_range": "past_6_hours",
+    "total_results": 10
+  },
+  "news_items": [
+    {
+      "title": "科技新闻_百度百科",
+      "summary": "科技新闻是对科学技术领域新近发生事实的报道，涵盖消息、通讯、评论等体裁，具有新闻性、科学性和通俗性特征，核心功能包括传播科技成果、宣传科技政策、普及科学知识及展示改革开放成果。",
+      "publish_time": "2026-04-12T13:57:00Z",
+      "source_url": "https://baike.baidu.com/item/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB/9053924",
+      "site_name": "baike.baidu.com",
+      "relevance_score": 0.8925721
+    },
+    {
+      "title": "科技新闻 - MBA智库百科",
+      "summary": "科技新闻一般可分为三类：介绍科技成果的科技新闻、科学人物类的科技新闻、科技政策类的科技新闻，具有科学性、知识性与规范性的特点，发挥着教育功能与引导功能。",
+      "publish_time": "2026-04-12T13:57:00Z",
+      "source_url": "https://wiki.mbalib.com/wiki/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "wiki.mbalib.com",
+      "relevance_score": 0.8539252
+    },
+    {
+      "title": "科技新闻 - AI研究社搜索",
+      "summary": "AI研究社汇集了多个科技资讯平台，包括新经网、Readhub、煎蛋网、IT168、PCPOP泡泡网等，提供第一手的科技新闻、IT资讯、产品体验、手机电脑评测等内容。",
+      "publish_time": "2026-04-12T13:57:00Z",
+      "source_url": "https://www.aiyanshe.com/tag/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "www.aiyanshe.com",
+      "relevance_score": 0.735737
+    },
+    {
+      "title": "科技新闻所有文章-最新科技新闻相关文章汇总-HelloWorld开发者社区",
+      "summary": "HelloWorld开发者社区提供科技新闻相关文章汇总，包括Google搜索大调整、JVM调优等技术话题，主要推送javaweb开发相关技术和热点科技新闻。",
+      "publish_time": "2026-04-12T13:57:00Z",
+      "source_url": "https://helloworld.net/tag/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB.html",
+      "site_name": "helloworld.net",
+      "relevance_score": 0.67166495
+    },
+    {
+      "title": "中国科技新闻学会_百度百科",
+      "summary": "中国科技新闻学会成立于1988年1月，是由中国科学技术协会主管的全国性、学术性、非营利性社会组织，主办《科学中国人》、《科技创新与品牌》、《科幻画报》等期刊。",
+      "publish_time": "2026-04-12T13:57:00Z",
+      "source_url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB%E5%AD%A6%E4%BC%9A/3123355",
+      "site_name": "baike.baidu.com",
+      "relevance_score": 0.63288915
+    },
+    {
+      "title": "科技新闻 | 爱范儿",
+      "summary": "爱范儿关注明日产品的数字潮牌，提供科技新闻、产品评测、AIGC相关内容，涵盖CES、MWC等科技展会报道，以及智能设备、汽车、游戏等领域的最新资讯。",
+      "publish_time": "2026-04-12T13:57:00Z",
+      "source_url": "https://www.ifanr.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "www.ifanr.com",
+      "relevance_score": 0.62358373
+    },
+    {
+      "title": "中国科技新闻网_百度百科",
+      "summary": "中国科技新闻网原名华云网，是由中国科协直属的国家一级学会中国科技新闻学会主办的大型网站，定位为中国科技类新闻网站头部平台。",
+      "publish_time": "2026-04-12T13:57:00Z",
+      "source_url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB%E7%BD%91/6062142",
+      "site_name": "baike.baidu.com",
+      "relevance_score": 0.6097339
+    },
+    {
+      "title": "年度科技新闻 – 量子位",
+      "summary": "量子位提供年度科技新闻汇总，包括阿里AI战略商业目标、Qwen3.5-Max模型发布、Cursor自研模型突破等2026年重要科技事件。",
+      "publish_time": "2026-04-12T13:57:00Z",
+      "source_url": "https://www.qbitai.com/tag/%E5%B9%B4%E5%BA%A6%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "www.qbitai.com",
+      "relevance_score": 0.59796065
+    },
+    {
+      "title": "科技新闻素材-科技新闻图片-科技新闻设计模板-昵图网",
+      "summary": "昵图网提供科技新闻相关的图片素材和设计模板，包括新闻发布会背景、演播室动态背景、科技空间穿梭背景等多种科技主题视觉素材。",
+      "publish_time": "2026-04-12T13:57:00Z",
+      "source_url": "https://soso.nipic.com/q_%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB_g_0.html",
+      "site_name": "soso.nipic.com",
+      "relevance_score": 0.59089786
+    },
+    {
+      "title": "闻泰科技_闻泰科技资讯_闻泰科技最新信息_雷峰网",
+      "summary": "雷峰网提供闻泰科技的最新资讯，包括企业业绩变化、半导体资产被冻结、收购项目终止等科技行业动态信息。",
+      "publish_time": "2026-04-12T13:57:00Z",
+      "source_url": "https://www.leiphone.com/tag/%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80",
+      "site_name": "www.leiphone.com",
+      "relevance_score": 0.24906391
+    }
+  ]
+}
