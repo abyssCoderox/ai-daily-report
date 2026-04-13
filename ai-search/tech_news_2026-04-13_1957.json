@@ -1,0 +1,111 @@
+{
+  "timestamp": "2026-04-13T19:57:00Z",
+  "news_count": 15,
+  "news": [
+    {
+      "title": "AI重塑勞動市場！Palantir執行長看重職業訓練，人文學科畢業生恐遇挑戰",
+      "summary": "AI正在改變就業市場格局，Palantir執行長認為職業技能工作者將有更多機會，而人文學科畢業生可能面臨挑戰。",
+      "publish_time": "2026-04-13 18:39",
+      "source": "TechNews科技新報",
+      "url": "https://technews.tw/2026/04/13/ai-will-destroy-humanities-jobs-but-create-more-roles-for-vocational-workers/"
+    },
+    {
+      "title": "歷年來最多！2026 WWDC Swift Student Challenge獲獎學生達8位",
+      "summary": "台灣在蘋果WWDC學生挑戰賽中表現優異，共有8位學生獲獎，創下歷年最佳成績。",
+      "publish_time": "2026-04-13 17:48",
+      "source": "TechNews科技新報",
+      "url": "https://technews.tw/2026/04/13/2026-wwdc-swift-student-challenge-taiwan/"
+    },
+    {
+      "title": "開啟綠能高股息時代！天能綠電配發現金股利3.2元",
+      "summary": "天能綠電宣布2025年配發每股現金股利3.2元，配發率達8成，展現穩健獲利體質。",
+      "publish_time": "2026-04-13 17:42",
+      "source": "TechNews科技新報",
+      "url": "https://finance.technews.tw/2026/04/13/high-dividend-policy/"
+    },
+    {
+      "title": "大型語言模型面臨瓶頸，AI投資轉向神經符號與混合架構新路線",
+      "summary": "大型語言模型發展遇到瓶頸，投資人開始轉向神經符號與混合架構等新興AI技術。",
+      "publish_time": "2026-04-13 17:40",
+      "source": "TechNews科技新報",
+      "url": "https://finance.technews.tw/2026/04/13/why-you-should-wait-out-ais-super-spending-false-start/"
+    },
+    {
+      "title": "AI電力架構升級 台達電受惠高壓直流趨勢、美國券商上修展望",
+      "summary": "台達電因AI資料中心電力需求快速成長，獲美國券商上修第二季營收展望至季增約18%。",
+      "publish_time": "2026-04-13 16:59",
+      "source": "TechNews科技新報",
+      "url": "https://technews.tw/2026/04/13/delta-ai-power/"
+    },
+    {
+      "title": "與其被取代，不如主導遊戲規則：日本知名聲優梶裕貴創辦AI語音公司",
+      "summary": "日本知名聲優梶裕貴創辦AI語音公司FRACTAL，致力於聲音為核心的音聲AI事業商業化。",
+      "publish_time": "2026-04-13 16:50",
+      "source": "TechNews科技新報",
+      "url": "https://technews.tw/2026/04/13/fractal-voice/"
+    },
+    {
+      "title": "去年全球半導體製造設備銷售額創高 台灣增幅最靚",
+      "summary": "2025年全球半導體製造設備銷售總額達1,351億美元，年成長15%，台灣市場增幅表現最佳。",
+      "publish_time": "2026-04-13 16:40",
+      "source": "TechNews科技新報",
+      "url": "https://technews.tw/2026/04/13/global-semiconductor-equipment-sales-hit-record-high-last-year/"
+    },
+    {
+      "title": "Meta打造「AI版祖克柏」與員工溝通，為解決分身乏術問題",
+      "summary": "Meta正在開發AI版的執行長祖克柏，讓AI分身代替本人與員工互動，是Meta全面擁抱AI轉型的重要部分。",
+      "publish_time": "2026-04-13 16:30",
+      "source": "TechNews科技新報",
+      "url": "https://finance.technews.tw/2026/04/13/meta-builds-ai-version-of-mark-zuckerberg-to-interact-with-staff/"
+    },
+    {
+      "title": "HONOR 600亮橙新色曝光：全面升級旗艦規格，定檔423全球發佈",
+      "summary": "HONOR 600系列新機曝光，採用亮橙新色，全面升級旗艦規格，預計4月23日全球發布。",
+      "publish_time": "2026-04-13 10:25",
+      "source": "Now新聞",
+      "url": "https://news.now.com/home/technology"
+    },
+    {
+      "title": "華為AI智慧眼鏡首度曝光：首發第一視角拍攝功能將於4月20日亮相",
+      "summary": "華為AI智慧眼鏡首次曝光，具備第一視角拍攝功能，預計4月20日正式亮相。",
+      "publish_time": "2026-04-13 10:22",
+      "source": "Now新聞",
+      "url": "https://news.now.com/home/technology"
+    },
+    {
+      "title": "雙2億像素鏡頭首現！OPPO Find X9s Pro官圖亮相",
+      "summary": "OPPO Find X9s Pro官方圖片亮相，搭載雙2億像素鏡頭，配備哈蘇影像系統與7025mAh超強續航。",
+      "publish_time": "2026-04-13 10:19",
+      "source": "Now新聞",
+      "url": "https://news.now.com/home/technology"
+    },
+    {
+      "title": "TSMC likely to book fourth straight quarter of record profit on insatiable AI demand",
+      "summary": "台積電因AI需求持續強勁，有望實現連續第四季創紀錄的利潤。",
+      "publish_time": "2026-04-13 03:09",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/asia-pacific/tsmc-likely-book-fourth-straight-quarter-record-profit-on-insatiable-ai-demand-2026-04-13/"
+    },
+    {
+      "title": "How the AI boom derailed clean-air efforts in one of America's most polluted cities",
+      "summary": "AI產業的快速發展導致能源需求激增，影響了美國污染最嚴重城市的清潔空氣努力。",
+      "publish_time": "2026-04-10",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/sustainability/climate-energy/how-ai-boom-derailed-cleanair-efforts-one-americas-most-polluted-cities-2026-04-10/"
+    },
+    {
+      "title": "OpenAI identifies security issue involving third-party tool, says user data was not accessed",
+      "summary": "OpenAI發現涉及第三方工具的安全問題，但表示用戶數據未被訪問。",
+      "publish_time": "2026-04-11",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/openai-identifies-security-issue-involving-third-party-tool-says-user-data-was-2026-04-11/"
+    },
+    {
+      "title": "Meta must face youth addiction lawsuit by Massachusetts, court rules",
+      "summary": "法院裁定Meta必須面對馬薩諸塞州提起的青少年成癮訴訟。",
+      "publish_time": "2026-04-10",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/meta-must-face-youth-addiction-lawsuit-by-massachusetts-court-rules-2026-04-10/"
+    }
+  ]
+}
