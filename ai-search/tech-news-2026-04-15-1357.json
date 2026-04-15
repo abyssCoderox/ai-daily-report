@@ -1,0 +1,93 @@
+{
+  "timestamp": "2026-04-15T13:57:00Z",
+  "search_period": "past_6_hours",
+  "total_articles": 8,
+  "articles": [
+    {
+      "title": "ASML Raises 2026 Revenue Forecast as AI Chip Demand Surges",
+      "summary": "ASML, the world's largest supplier of chipmaking tools, reported stronger-than-expected Q1 earnings and lifted its 2026 revenue outlook to €36-40 billion (from €34-39 billion) due to artificial intelligence boosting demand for semiconductor equipment.",
+      "why_important": "This reflects the continued strength of the AI semiconductor market and indicates sustained investment in AI infrastructure. ASML's position as a key supplier to chip manufacturers makes this a significant indicator of the broader AI hardware ecosystem's health.",
+      "url": "https://mobile.reuters.com/video/watch/idRW266015042026RP1/?chan=business",
+      "source": "Reuters",
+      "published_time": "2026-04-15T13:00:00Z",
+      "category": "semiconductors"
+    },
+    {
+      "title": "Apple's Smart Glasses Program Shifts Focus to Camera-First Wearables for 2027 Launch",
+      "summary": "Apple is pivoting its smart-glasses program from mixed-reality displays to camera-first wearables, with four distinct frame designs revealed for a planned 2027 launch and possible unveiling in late 2026.",
+      "why_important": "This strategic shift indicates Apple's assessment that camera-focused wearables may have more immediate market potential than AR overlays, potentially reshaping the wearable technology landscape and developer priorities.",
+      "url": "https://glassalmanac.com/4-apple-glass-designs-revealed-for-2027-launch-heres-why-it-matters/",
+      "source": "Glass Almanac",
+      "published_time": "2026-04-15T12:30:00Z",
+      "category": "wearable_technology"
+    },
+    {
+      "title": "Google Previews I/O 2026 Sessions: Android 17, AI, and Chrome Updates",
+      "summary": "Google has released the initial sessions list for I/O 2026 (May 19-20), featuring keynotes on Google AI, Android 17 with performance improvements and agentic automation, and new Chrome capabilities.",
+      "why_important": "The conference preview highlights Google's continued investment in AI integration across its platforms and the evolution toward more autonomous, agentic systems in mobile and web technologies.",
+      "url": "https://9to5google.com/2026/04/14/google-i-o-2026-sessions/",
+      "source": "9to5Google",
+      "published_time": "2026-04-15T11:45:00Z",
+      "category": "software_development"
+    },
+    {
+      "title": "Microsoft Patches 161 Vulnerabilities Including Exploited SharePoint Zero-Day",
+      "summary": "Microsoft's April 2026 Patch Tuesday addressed 161 vulnerabilities, including an already-exploited SharePoint zero-day (CVE-2026-32201) added to CISA's KEV list, with federal agencies required to patch by April 28.",
+      "why_important": "This large-scale security update highlights ongoing cybersecurity challenges in enterprise software and the critical importance of timely patch management, especially for government systems.",
+      "url": "https://www.securityweek.com/microsoft-patches-exploited-sharepoint-zero-day-and-160-other-vulnerabilities/",
+      "source": "SecurityWeek",
+      "published_time": "2026-04-15T10:20:00Z",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "ShinyHunters Ransomware Attack on Rockstar Games",
+      "summary": "The hacking group ShinyHunters breached Rockstar Games, the developer of GTA 6, in a ransomware attack that highlights ongoing security vulnerabilities in the gaming industry.",
+      "why_important": "This attack demonstrates the continued targeting of high-profile gaming companies by sophisticated hacking groups, raising concerns about intellectual property protection and game development security.",
+      "url": "https://techsoften.com/top-tech-news-wednesday-april-15-2026/",
+      "source": "TechSoften",
+      "published_time": "2026-04-15T09:15:00Z",
+      "category": "cybersecurity"
+    },
+    {
+      "title": "AI Emerges as New Marketing Channel Requiring Optimization Discipline",
+      "summary": "Bluefish secured $43M Series B funding and HubSpot launched Answer Engine, signaling AI's evolution into a distinct marketing channel that requires specialized optimization strategies.",
+      "why_important": "This represents the maturation of AI from a tool to a full marketing channel, indicating significant shifts in how businesses approach customer engagement and marketing technology investment.",
+      "url": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-april-15-2026/",
+      "source": "Agile Brand Guide",
+      "published_time": "2026-04-15T08:30:00Z",
+      "category": "ai_marketing"
+    },
+    {
+      "title": "Private 5G Networks Address Warehouse Robot Connectivity Challenges",
+      "summary": "Private 5G networks are emerging as a solution for warehouse robot connectivity issues, providing more reliable and scalable communication infrastructure for automated logistics systems.",
+      "why_important": "This development addresses a critical bottleneck in warehouse automation, potentially accelerating the adoption of robotic systems in logistics and supply chain operations.",
+      "url": "https://www.technewsworld.com/",
+      "source": "TechNewsWorld",
+      "published_time": "2026-04-15T07:45:00Z",
+      "category": "robotics"
+    },
+    {
+      "title": "Google and MediaTek Challenge PC Status Quo with Android PCs",
+      "summary": "Google and MediaTek are developing Android PCs powered by Arm architecture and AI, emerging as a challenge to the traditional Windows-Intel (WinTel) model in personal computing.",
+      "why_important": "This represents a significant challenge to the decades-old PC industry standard, potentially reshaping the laptop and desktop computer market with AI-optimized, Arm-based alternatives.",
+      "url": "https://www.technewsworld.com/",
+      "source": "TechNewsWorld",
+      "published_time": "2026-04-15T06:20:00Z",
+      "category": "computing_platforms"
+    }
+  ],
+  "trending_topics": [
+    "AI chip demand",
+    "wearable technology",
+    "cybersecurity",
+    "semiconductor industry",
+    "mobile development",
+    "enterprise software"
+  ],
+  "key_insights": [
+    "AI continues to drive semiconductor industry growth with ASML raising forecasts",
+    "Major tech companies are pivoting toward camera-first wearable strategies",
+    "Cybersecurity remains a critical concern with large-scale vulnerability patches",
+    "Traditional computing paradigms face challenges from AI-optimized alternatives"
+  ]
+}
