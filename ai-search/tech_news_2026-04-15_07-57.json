@@ -1,0 +1,157 @@
+{
+  "metadata": {
+    "timestamp": "2026-04-15T07:57:00Z",
+    "time_range": "past_6_hours",
+    "total_articles": 10,
+    "categories": ["AI", "Quantum Computing", "Semiconductors", "Tech Industry", "Healthcare AI"]
+  },
+  "articles": [
+    {
+      "title": "NVIDIA Launches Ising, the World's First Open AI Models to Accelerate the Path to Useful Quantum Computers",
+      "summary": "NVIDIA announced the world's first family of open source quantum AI models, NVIDIA Ising, designed to help researchers and enterprises build quantum processors capable of running useful applications. The models deliver up to 2.5x faster performance and 3x higher accuracy for quantum error correction decoding.",
+      "publish_time": "2026-04-14T10:00:00Z",
+      "source_url": "https://markets.businessinsider.com/news/stocks/nvidia-launches-ising-the-world-s-first-open-ai-models-to-accelerate-the-path-to-useful-quantum-computers-1036020087",
+      "source_name": "Business Insider",
+      "key_points": [
+        "Ising models provide quantum processor calibration and error correction capabilities",
+        "Up to 2.5x faster and 3x more accurate than traditional approaches",
+        "Leading quantum enterprises and research labs are adopting Ising",
+        "Part of NVIDIA's open model portfolio including Nemotron, Cosmos, and BioNeMo"
+      ],
+      "impact": "This development significantly accelerates the path to practical quantum computing by providing open-source AI tools that address critical engineering challenges in quantum processor calibration and error correction."
+    },
+    {
+      "title": "Tech stocks today: Amazon to acquire satellite company Globalstar, OpenAI memo lashes out at rival Anthropic",
+      "summary": "Amazon agreed to acquire satellite company Globalstar for $11.57 billion, positioning itself to compete with SpaceX's Starlink. Meanwhile, OpenAI's chief revenue officer criticized Anthropic's growth metrics in an internal memo.",
+      "publish_time": "2026-04-14T14:42:00Z",
+      "source_url": "https://finance.yahoo.com/sectors/technology/article/tech-stocks-today-amazon-to-acquire-satellite-company-globalstar-openai-memo-lashes-out-at-rival-anthropic-144220958.html",
+      "source_name": "Yahoo Finance",
+      "key_points": [
+        "Amazon's acquisition adds Globalstar's 24 satellites to its existing 200-satellite portfolio",
+        "Deal positions Amazon to challenge SpaceX's Starlink (10,000 satellites)",
+        "OpenAI CRO claimed Anthropic's $30B run rate is inflated by $8B",
+        "Amazon aims to deploy 3,200 satellites by 2029"
+      ],
+      "impact": "This acquisition marks Amazon's serious entry into the satellite internet market, creating a three-way competition with SpaceX and traditional telecom providers, while the OpenAI-Anthropic rivalry intensifies in the AI space."
+    },
+    {
+      "title": "VLSI TSA Explores Quantum Computing, AI-Driven Healthcare Firsts",
+      "summary": "The VLSI TSA symposium dedicated significant focus to quantum computing architectures and AI-driven cardiac diagnostics, showcasing the convergence of semiconductor technology with quantum computing and healthcare applications.",
+      "publish_time": "2026-04-15T00:00:00Z",
+      "source_url": "https://quantumzeitgeist.com/quantum-computing-ai-vlsi-tsa/",
+      "source_name": "Quantum Zeitgeist",
+      "key_points": [
+        "Over 800 experts gathered to discuss quantum computing and AI advancements",
+        "Focus on wafer-scale technology and terahertz wireless communications",
+        "AI-powered intracardiac signal analysis for improved cardiac diagnostics",
+        "Integration of quantum computing with classical semiconductor technology"
+      ],
+      "impact": "This symposium highlights the growing convergence of quantum computing, AI, and semiconductor technology, with practical applications emerging in healthcare and communications."
+    },
+    {
+      "title": "Technology News 2026: AI Breakthroughs and Quantum Computing",
+      "summary": "Comprehensive overview of 2026's technology landscape, featuring AI breakthroughs, quantum computing advances, and hardware innovations that are reshaping industries from healthcare to climate research.",
+      "publish_time": "2026-03-05T00:00:00Z",
+      "source_url": "https://www.wiredraft.com/technology-news-2026-ai-breakthroughs-and-quantum-computing",
+      "source_name": "Wire Draft",
+      "key_points": [
+        "Foundation models becoming task-agnostic engines",
+        "Quantum computing moving from labs to practical industry applications",
+        "Hardware innovations enabling more powerful, energy-efficient systems",
+        "Cross-industry collaboration driving responsible AI deployment"
+      ],
+      "impact": "The technology landscape of 2026 shows unprecedented convergence of AI, quantum computing, and advanced hardware, driving transformation across multiple sectors while emphasizing responsible innovation."
+    },
+    {
+      "title": "D-Wave CEO says Nvidia should be 'shaking in their boots' as quantum computing battles AI GPUs",
+      "summary": "D-Wave Quantum CEO Alan Baratz claimed quantum computers are becoming competitive with Nvidia's AI GPUs, citing a problem that would take GPUs nearly a million years to solve but only minutes on quantum systems.",
+      "publish_time": "2026-04-14T18:02:00Z",
+      "source_url": "https://finance.yahoo.com/news/d-wave-ceo-says-nvidia-should-be-shaking-in-their-boots-as-quantum-computing-battles-ai-gpus-180249321.html",
+      "source_name": "Yahoo Finance",
+      "key_points": [
+        "Quantum computer uses only 10 kilowatts vs. multiple GPUs",
+        "D-Wave stock jumped 16% following the announcement",
+        "IonQ shares soared 18% after scaling commercial systems",
+        "Claims of solving million-year GPU problems in minutes"
+      ],
+      "impact": "This represents a significant claim in the quantum computing industry, suggesting quantum systems are reaching practical parity with classical AI hardware for specific computational tasks."
+    },
+    {
+      "title": "Oracle stock pops as company agrees to buy fuel cell power from Bloom Energy",
+      "summary": "Oracle signed a deal to purchase up to 2.8 gigawatts of fuel cell power from Bloom Energy, supporting its AI infrastructure build-out with clean energy solutions.",
+      "publish_time": "2026-04-14T14:45:00Z",
+      "source_url": "https://finance.yahoo.com/news/oracle-stock-pops-as-company-agrees-to-buy-fuel-cell-power-from-bloom-energy-144532508.html",
+      "source_name": "Yahoo Finance",
+      "key_points": [
+        "Bloom Energy stock surged nearly 20% on the announcement",
+        "1.2 gigawatts already under contract with deployment underway",
+        "Fuel cells provide on-site power generation for data centers",
+        "Part of tech industry's move toward sustainable AI infrastructure"
+      ],
+      "impact": "This deal highlights the growing intersection of AI infrastructure development and clean energy solutions, as tech companies seek sustainable power sources for energy-intensive AI operations."
+    },
+    {
+      "title": "JPMorgan CEO Jamie Dimon says AI will make AI cyber risks 'worse'",
+      "summary": "JPMorgan CEO Jamie Dimon expressed concerns about AI cybersecurity risks while discussing the bank's testing of Anthropic's Mythos AI model, which was deemed too dangerous for public release.",
+      "publish_time": "2026-04-14T17:38:00Z",
+      "source_url": "https://finance.yahoo.com/news/jpmorgan-ceo-jamie-dimon-says-ai-will-make-ai-cyber-risks-worse-180249321.html",
+      "source_name": "Yahoo Finance",
+      "key_points": [
+        "Anthropic delayed Mythos release due to safety concerns",
+        "Model detected thousands of high-severity vulnerabilities",
+        "Dimon called cybersecurity the bank's 'largest risk'",
+        "AI creates additional vulnerabilities while offering defensive capabilities"
+      ],
+      "impact": "This highlights the dual-edged nature of AI in cybersecurity, where advanced AI models can both identify and potentially create new security vulnerabilities, requiring careful governance."
+    },
+    {
+      "title": "Lucid stock pops on new CEO, fresh funding from Saudi PIF, Uber",
+      "summary": "Electric vehicle maker Lucid announced Silvio Napoli as new CEO and secured $750 million in new investment from Saudi Arabia's Public Investment Fund and Uber's subsidiary.",
+      "publish_time": "2026-04-14T13:10:00Z",
+      "source_url": "https://finance.yahoo.com/markets/stocks/article/lucid-stock-pops-on-new-ceo-fresh-funding-from-saudi-pif-uber-131046857.html",
+      "source_name": "Yahoo Finance",
+      "key_points": [
+        "$550 million from Saudi PIF via preferred stock",
+        "$200 million from Uber's SMB Holding Corporation",
+        "New CEO from Schindler Group industrial company",
+        "Stock down 60% over the past year despite recent gains"
+      ],
+      "impact": "This leadership change and fresh funding provides Lucid with resources to compete in the increasingly crowded EV market, though significant challenges remain given the stock's poor performance."
+    },
+    {
+      "title": "OpenAI CEO Sam Altman reportedly targeted in second attack",
+      "summary": "OpenAI CEO Sam Altman was targeted in a second attack at his San Francisco home, following an earlier Molotov cocktail attack, raising concerns about AI industry safety.",
+      "publish_time": "2026-04-14T14:53:00Z",
+      "source_url": "https://finance.yahoo.com/sectors/technology/article/openai-ceo-sam-altman-reportedly-targeted-in-second-attack-210240698.html",
+      "source_name": "Yahoo Finance",
+      "key_points": [
+        "Second attack involved attempted shooting",
+        "Two suspects arrested following the incidents",
+        "Altman has become the face of global AI explosion",
+        "Attacks coincide with growing AI industry tensions"
+      ],
+      "impact": "These attacks highlight the increasing personal risks faced by AI industry leaders and may lead to enhanced security measures across the tech sector as AI becomes more influential and controversial."
+    },
+    {
+      "title": "Meta is testing an AI version of Mark Zuckerberg",
+      "summary": "Meta is creating a photorealistic AI avatar of CEO Mark Zuckerberg that can interact with users and provide feedback to employees, part of the company's broader AI personality initiatives.",
+      "publish_time": "2026-04-13T16:48:00Z",
+      "source_url": "https://finance.yahoo.com/sectors/technology/articles/meta-builds-ai-version-mark-040004225.html",
+      "source_name": "Yahoo Finance",
+      "key_points": [
+        "AI character trained to adopt Zuckerberg's mannerisms and tone",
+        "Part of Meta's Superintelligence Lab initiatives",
+        "Previous celebrity AI chatbots were scrapped due to low uptake",
+        "Zuckerberg personally involved in training the AI character"
+      ],
+      "impact": "This development represents the next frontier in AI-human interaction, potentially transforming corporate communication and leadership engagement, though raising questions about authenticity and AI ethics."
+    }
+  ],
+  "trends_summary": {
+    "ai_quantum_convergence": "Strong trend of AI and quantum computing integration, with NVIDIA's Ising models leading the way",
+    "satellite_internet_race": "Amazon's Globalstar acquisition intensifies competition in satellite internet services",
+    "ai_safety_concerns": "Growing concerns about AI safety, from cybersecurity risks to physical security of AI leaders",
+    "sustainable_tech": "Increasing focus on sustainable technology, from clean energy for AI to responsible AI deployment",
+    "healthcare_innovation": "AI and quantum computing making significant impacts in healthcare diagnostics and treatment"
+  }
+}
