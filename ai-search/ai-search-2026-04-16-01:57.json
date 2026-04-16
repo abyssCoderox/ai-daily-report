@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-04-16T01:57:00Z",
+  "news": [
+    {
+      "title": "科技新闻- 博客园",
+      "url": "https://news.cnblogs.com/",
+      "snippet": "博客园科技新闻汇总，包含马斯克版微信上线、OpenClaw之父点赞、大疆Pocket 4出货目标超千万等重要科技动态。",
+      "siteName": "news.cnblogs.com"
+    },
+    {
+      "title": "TechNews 科技新報| 市場和業內人士關心的趨勢、內幕與新聞",
+      "url": "https://technews.tw/",
+      "snippet": "涵盖三星2奈米良率、Meta AI版祖克柏、南亚科第二季ASP涨幅、Google DeepMind首设AI哲学家职位等重要科技资讯。",
+      "siteName": "technews.tw"
+    },
+    {
+      "title": "SciTechDaily - Science, Space and Technology News 2026",
+      "url": "https://scitechdaily.com/",
+      "snippet": "科学突破包括40年2D物理难题解决、黄热病在亚马逊地区回归、AI检测阿尔茨海默症早期征兆等前沿科技动态。",
+      "siteName": "scitechdaily.com"
+    },
+    {
+      "title": "前字节产品设计师创业做"AI宠物"，萌友智能完成A轮超千万美元融资",
+      "url": "https://www.163.com/dy/article/KQINSRVJ0553YQCC.html",
+      "snippet": "AI机器萌宠公司萌友智能ropet完成A轮融资，累计金额超千万美元，产品ropet肉派派累计出货近2万台。",
+      "siteName": "www.163.com"
+    },
+    {
+      "title": "新闻分析丨AI模型"克劳德神话"为何引发网络安全担忧",
+      "url": "https://www.news.cn/world/20260415/32d43564f9d14844b788147f52645a37/c.html",
+      "snippet": "Anthropic研发的"克劳德神话"AI模型能够自主识别大量安全漏洞并开发攻击手段，引发全球网络安全担忧。",
+      "siteName": "www.news.cn"
+    },
+    {
+      "title": "高校、企业、科研机构联手，人工智能开放联盟建设明确这些任务",
+      "url": "https://www.tsinghua.edu.cn/info/1182/125326.htm",
+      "snippet": "教育部发布"人工智能+教育"行动计划，人工智能开放联盟将承担国家重大任务、促进学术交流、深化国际合作。",
+      "siteName": "www.tsinghua.edu.cn"
+    }
+  ]
+}
