@@ -1,0 +1,72 @@
+{
+  "timestamp": "2026-04-16T07:57:00Z",
+  "news_items": [
+    {
+      "title": "2026 的科技前沿：AI 代理、安全之战和电动汽车革命",
+      "summary": "AI代理已成为企业运营核心，AWS推出Agent Registry管理大规模AI代理，Meta推出AI版扎克伯格参与员工互动，同时网络安全威胁和电动汽车技术持续突破。",
+      "publish_time": "2026-04-15T00:00:00Z",
+      "source": "coaio.com",
+      "url": "https://coaio.com/zh/news/2026/04/2026s-tech-frontier-ai-agents-security-battles-and-ev-revolutions-2moc/"
+    },
+    {
+      "title": "斯坦福大学发布《2026年AI指数报告》：中美AI模型性能差距基本消失",
+      "summary": "报告指出中美顶级AI模型性能差距仅2.7%，AI在科学考试和数学竞赛中表现优异，但安全事故增长55%，负责任AI发展严重滞后。",
+      "publish_time": "2026-04-16T10:00:00Z",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904dnui.html"
+    },
+    {
+      "title": "特斯拉AI5芯片流片成功，马斯克宣布重大突破",
+      "summary": "特斯拉CEO马斯克宣布AI5芯片设计团队成功完成流片，将成为产量最高的AI芯片之一，同时英特尔参与马斯克的Terafab项目。",
+      "publish_time": "2026-04-16T07:37:00Z",
+      "source": "www.stcn.com",
+      "url": "https://www.stcn.com/article/detail/3753701.html"
+    },
+    {
+      "title": "国家数据局局长刘烈宏：中国人工智能产业规模将突破10万亿元",
+      "summary": "刘烈宏在中国发展高层论坛表示，到十五五末期我国人工智能相关产业规模将突破10万亿元，智能体成为驱动大模型应用爆发的核心动力。",
+      "publish_time": "2026-04-16T00:00:00Z",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904dnui.html"
+    },
+    {
+      "title": "AI相关论文爆发式增长，科研领域加速接纳AI技术",
+      "summary": "2010-2025年间生命科学、物理科学与地球科学领域提及AI的论文数量增长近30倍，但研究质量下滑引发担忧。",
+      "publish_time": "2026-04-16T00:00:00Z",
+      "source": "www.ncsti.gov.cn",
+      "url": "https://www.ncsti.gov.cn/kjdt/kjrd/qtrd_kjrd/202604/t20260416_244061.html"
+    },
+    {
+      "title": "OpenAI升级Agents SDK，沙箱技术筑牢企业智能代理安全防线",
+      "summary": "OpenAI更新Agents SDK新增沙箱功能和测试工具，解决企业部署智能代理的安全风险，2026年全球AI智能体市场规模预计达108.82亿美元。",
+      "publish_time": "2026-04-15T00:00:00Z",
+      "source": "www.163.com",
+      "url": "https://www.163.com/dy/article/KQKFDNC105118O92.html"
+    },
+    {
+      "title": "谷歌发布Gemini 3.1 Flash TTS，下一代富有表现力的AI语音模型",
+      "summary": "支持70余种语言，集成SynthID水印技术防范虚假信息，在可控性、表现力和音质上均有显著提升。",
+      "publish_time": "2026-04-15T00:00:00Z",
+      "source": "www.163.com",
+      "url": "https://www.163.com/dy/article/KQKFDNC105118O92.html"
+    },
+    {
+      "title": "企查查掷两千万数据燃料，国内首个AI智能体扶持计划落子江苏",
+      "summary": "面向OPC创业者推出价值2000万元的智能体数据平台MCP专项服务，免费开放三个月，支持AI智能体创新创业。",
+      "publish_time": "2026-04-15T00:00:00Z",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904dv6o.html"
+    },
+    {
+      "title": "60亿美元！华尔街量化巨头简街签算力大单",
+      "summary": "量化交易巨头简街与CoreWeave签署60亿美元AI云计算协议，获得英伟达Vera Rubin等下一代计算资源访问权限。",
+      "publish_time": "2026-04-15T00:00:00Z",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904dv6o.html"
+    },
+    {
+      "title": "芬兰研发AI模型Log2Motion，可计算刷手机疲劳度",
+      "summary": "基于智能手机触控记录与人体动作数据，可模拟手机使用时的肌肉骨骼负荷，为界面设计和无障碍设计提供参考。",
+      "publish_time": "2026-04-15T00:00:00Z",
+      "source": "www.news.cn",
+      
