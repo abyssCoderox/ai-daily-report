@@ -1,0 +1,156 @@
+{
+  "search_time": "2026-04-16T13:57:00Z",
+  "news_count": 10,
+  "news_items": [
+    {
+      "title": "2026年4月16日：AI安全模型、机器人与芯片行业最新动态",
+      "summary": "OpenAI发布GPT-5.4-Cyber强化网络安全；Anthropic调整Claude企业版定价。阿里发布集成多模型的AI开发工具'秒悟'，腾讯上线Hermes Agent云端模板。千问AI眼镜、小鹏GX Robotaxi原型车、菜鸟仓储机器人等硬件产品亮相。多家AI公司获融资，特斯拉AI5芯片流片成功。纳指11连涨，苹果敦促用户更新iOS系统以防攻击。",
+      "publish_time": "2026-04-16",
+      "source_url": "https://www.saiita.com.cn/technology-consulting/%E6%AF%8F%E6%97%A5%E7%A7%91%E6%8A%80%E8%B5%84%E8%AE%AF-2026%E5%B9%B44%E6%9C%8816%E6%97%A5%EF%BC%9Aai%E5%AE%89%E5%85%A8%E6%A8%A1%E5%9E%8B%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E8%8A%AF.html",
+      "source_name": "saiita.com.cn",
+      "category": "AI与科技综合",
+      "key_points": [
+        "OpenAI推出GPT-5.4-Cyber模型，增强网络安全能力",
+        "Anthropic调整Claude企业版定价模式",
+        "阿里发布AI开发工具'秒悟'，集成四大模型",
+        "特斯拉AI5芯片成功流片",
+        "腾讯上线Hermes Agent云端模板"
+      ]
+    },
+    {
+      "title": "关于征集新一代人工智能国家科技重大专项人工智能驱动科学研究（AI4S）领域相关专家的通知",
+      "summary": "新一代人工智能国家科技重大专项专项办公室开展AI4S领域专家征集工作，重点包括数学、物理、化学、生命科学等领域。要求专家具有高级职称，科研诚信良好，无失信记录。",
+      "publish_time": "2026-04-16",
+      "source_url": "https://kyy.hfut.edu.cn/2026/0416/c3310a318476/page.htm",
+      "source_name": "kyy.hfut.edu.cn",
+      "category": "政策与人才",
+      "key_points": [
+        "征集AI4S领域专家，涵盖多个科学领域",
+        "要求正高级职称，科研诚信良好",
+        "每个领域限额推荐不超过30人",
+        "申报截止时间为2026年4月21日16:00"
+      ]
+    },
+    {
+      "title": "新浪AI热点小时报丨2026年04月16日08时_今日实时AI热点速递",
+      "summary": "中国之行后美学者得出结论：芯片出口管制失败，中国技术部门高度成熟；国产人形机器人成广交会'顶流'；苹果为重构Siri练兵，近200名工程师参加AI编程训练营；工业智脑提升产线效率。",
+      "publish_time": "2026-04-16T08:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001904dkg4.html?from=tech",
+      "source_name": "k.sina.com.cn",
+      "category": "AI产业动态",
+      "key_points": [
+        "美学者认为芯片出口管制未能遏制中国AI发展",
+        "国产人形机器人吸引全球采购商关注",
+        "苹果200名Siri工程师参加AI编程训练营",
+        "工业智脑在山东企业提升生产效率",
+        "17岁学生成Kimi团队论文第一作者获马斯克点赞"
+      ]
+    },
+    {
+      "title": "新浪人工智能热点小时报丨2026年04月16日10时",
+      "summary": "国家数据局局长刘烈宏预判'十五五'末期AI产业规模将突破10万亿元；黄仁勋盛赞中国市场；AI如何改变打工人；广西南宁加速打造面向东盟人工智能产业高地。",
+      "publish_time": "2026-04-16T10:00:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001904dnqs.html",
+      "source_name": "k.sina.com.cn",
+      "category": "AI政策与市场",
+      "key_points": [
+        "国家数据局局长预判AI产业规模将突破10万亿元",
+        "英伟达CEO黄仁勋再次盛赞中国市场",
+        "麦肯锡发布《2025年人工智能现状报告》",
+        "广西南宁打造面向东盟AI产业高地",
+        "世界互联网大会亚太峰会聚焦数智赋能"
+      ]
+    },
+    {
+      "title": "【中国日报网】《中国城市人工智能指数报告》发布-中国科大新闻网",
+      "summary": "《中国城市人工智能指数报告》显示我国城市AI发展形成'头部引领—高位扩散—梯度追赶'多层级格局。北电数智发布星火·AI云2.0，推动AI从试点应用走向规模化生产。",
+      "publish_time": "2026-04-16",
+      "source_url": "https://news.ustc.edu.cn/info/1056/94598.htm",
+      "source_name": "news.ustc.edu.cn",
+      "category": "AI城市发展与产业",
+      "key_points": [
+        "城市AI发展呈现多层级格局",
+        "北电数智发布星火·AI云2.0系统",
+        "AI产业竞争核心转向'比拼每瓦Token生产效率'",
+        "中国工程院院士郑纬民提出TaaS概念",
+        "中国日均词元调用量达140万亿"
+      ]
+    },
+    {
+      "title": "当AI学会共情，如何避免沉迷其中—新闻—科学网",
+      "summary": "国家网信办等五部门联合公布《人工智能拟人化互动服务管理暂行办法》，对AI伴侣等新兴业态提出规范。办法自7月15日起施行，重点关注未成年人保护和心理风险防控。",
+      "publish_time": "2026-04-16T10:16:21Z",
+      "source_url": "https://news.sciencenet.cn/htmlnews/2026/4/563141.shtm",
+      "source_name": "news.sciencenet.cn",
+      "category": "AI伦理与监管",
+      "key_points": [
+        "五部门联合发布AI拟人化互动服务管理办法",
+        "明确禁止向未成年人提供虚拟伴侣服务",
+        "要求建立未成年人使用时长限制",
+        "加强对老年人健康使用服务的指导",
+        "AI陪伴市场规模预计2030年达1500亿美元"
+      ]
+    },
+    {
+      "title": "彭博：受惠 AI 熱潮，台股市值破 4 兆美元超越英國",
+      "summary": "台湾股市总市值上升至4.14兆美元，成为全球第7大市场，超越英国。台积电在全球AI供应链中扮演关键角色，外资4月净买进89亿美元台股。",
+      "publish_time": "2026-04-16T15:50:00Z",
+      "source_url": "https://finance.technews.tw/2026/04/16/taiwan-market-cap-tops-4-trillion-on-ai-boom-overtaking-uk/",
+      "source_name": "finance.technews.tw",
+      "category": "AI与资本市场",
+      "key_points": [
+        "台股市值突破4兆美元，超越英国",
+        "台积电在AI供应链中角色关键",
+        "外资4月净买进89亿美元台股",
+        "台股连续8个交易日收红",
+        "台湾被视为AI硬件代表"
+      ]
+    },
+    {
+      "title": "開局跑出了一個'好'--經濟·科技--人民網",
+      "summary": "国家统计局公布一季度GDP同比增长5%，落在政府工作报告目标区间上限。进出口总额达11.84万亿元，同比增长15%，创下近五年最高增速。",
+      "publish_time": "2026-04-16T16:18:00Z",
+      "source_url": "http://finance.people.com.cn/BIG5/n1/2026/0416/c1004-40702818.html",
+      "source_name": "finance.people.com.cn",
+      "category": "经济与科技宏观",
+      "key_points": [
+        "一季度GDP同比增长5%，达到预期上限",
+        "进出口总额同比增长15%，创五年新高",
+        "规模以上工业增加值同比增长6.1%",
+        "制造业PMI连续处于扩张区间",
+        "固定资产投资实现由降转增"
+      ]
+    },
+    {
+      "title": "AI人工智能领域最新热点资讯汇总（2026年04月15日） - 软盟资讯",
+      "summary": "DeepSeek V4计划4月下旬发布，将完全运行于华为昇腾950PR芯片；智元机器人展示具身智能产线；英伟达发布量子AI模型；OpenAI与Anthropic竞争加剧。",
+      "publish_time": "2026-04-15",
+      "source_url": "https://news.softunis.com/56170.html",
+      "source_name": "news.softunis.com",
+      "category": "AI技术突破",
+      "key_points": [
+        "DeepSeek V4将采用华为昇腾芯片",
+        "智元机器人完成8小时连续作业验证",
+        "英伟达发布开源量子AI模型系列",
+        "OpenAI与Anthropic企业级市场竞争加剧",
+        "医疗AI从辅助诊断转向结果管理"
+      ]
+    },
+    {
+      "title": "推动人工智能在科技与伦理间'守正创新'_快讯_安防资讯网",
+      "summary": "工信部等十部门联合印发《人工智能科技伦理审查与服务办法（试行）》，提出支持AI科技伦理审查技术创新，强化技术手段防范伦理风险。",
+      "publish_time": "2026-04-16",
+      "source_url": "https://www.anfangnews.com/2026/0416/15114.shtml",
+      "source_name": "www.anfangnews.com",
+      "category": "AI伦理与政策",
+      "key_points": [
+        "十部门联合印发AI科技伦理审查办法",
+        "重点关注人类福祉、公平公正、可控可信",
+        "防范算法歧视和深度伪造风险",
+        "促进高质量数据集有序开源开放",
+        "加强通用性风险管理工具研发"
+      ]
+    }
+  ],
+  "summary": "2026年4月16日科技新闻涵盖AI模型发布、芯片突破、政策监管、产业应用等多个领域。重点包括：OpenAI发布网络安全专用模型GPT-5.4-Cyber；特斯拉AI5芯片流片成功；国家数据局局长预判AI产业规模将突破10万亿元；五部门联合发布AI拟人化服务管理办法；台股市值突破4兆美元超越英国。整体显示AI技术持续快速发展，政策监管日趋完善，产业应用不断深化。"
+}

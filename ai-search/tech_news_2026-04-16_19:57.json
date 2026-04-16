@@ -1,0 +1,75 @@
+{
+  "timestamp": "2026-04-16T19:57:00Z",
+  "news": [
+    {
+      "title": "OpenAI计划为ChatGPT广告推出新定价",
+      "summary": "OpenAI正在探索ChatGPT广告的新的定价策略，并测试其他升级方案",
+      "impact": "这将影响AI商业化进程，可能改变大模型的盈利模式",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26041600456",
+      "publish_time": "2026-04-16"
+    },
+    {
+      "title": "腾讯开源混元3D世界模型2.0",
+      "summary": "腾讯正式发布并开源混元3D世界模型2.0，提升3D内容生成能力",
+      "impact": "将推动3D AI应用发展，降低行业技术门槛",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26041600456",
+      "publish_time": "2026-04-16"
+    },
+    {
+      "title": "特斯拉完成AI5自驾芯片流片",
+      "summary": "马斯克宣布特斯拉已完成AI5自駕芯片的流片工作",
+      "impact": "标志着特斯拉在自动驾驶芯片领域取得重要突破",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26041600456",
+      "publish_time": "2026-04-16"
+    },
+    {
+      "title": "MiniMax云端沙箱Hermes上线",
+      "summary": "MiniMax宣布云端沙箱Hermes“MaxHermes”正式上线提供服务",
+      "impact": "为AI应用提供更安全的运行环境，推动行业标准化",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26041600456",
+      "publish_time": "2026-04-16"
+    },
+    {
+      "title": "百度开源文生图模型ERNIE-Image",
+      "summary": "百度文心大模型开源文生图模型ERNIE-Image，增强图像生成能力",
+      "impact": "促进AIGC产业发展，提升中文图像生成技术水平",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26041600456",
+      "publish_time": "2026-04-16"
+    },
+    {
+      "title": "阿里云AI开发工具妙悟Meoo发布",
+      "summary": "阿里云推出新的AI开发工具妙悟Meoo，简化AI应用开发流程",
+      "impact": "降低AI开发门槛，加速企业AI转型进程",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26041600456",
+      "publish_time": "2026-04-16"
+    },
+    {
+      "title": "AI初创公司Hilbert完成2800万美元A轮融资",
+      "summary": "Hilbert公司成功完成2800万美元的A轮融资，用于AI技术研发",
+      "impact": "显示资本市场对AI初创企业的持续看好",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26041600456",
+      "publish_time": "2026-04-16"
+    },
+    {
+      "title": "谷歌关联公司发行57亿美元债券助力数据中心",
+      "summary": "谷歌关联公司计划发行57亿美元垃圾债，用于数据中心建设",
+      "impact": "反映科技巨头对AI基础设施的持续投入",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26041600456",
+      "publish_time": "2026-04-16"
+    },
+    {
+      "title": "五部门联合发文禁止向未成年人提供虚拟伴侣",
+      "summary": "国家五部门联合发文，明确禁止向未成年人提供虚拟亲属、虚拟伴侣等服务",
+      "impact": "规范AI伦理边界，保护未成年人心理健康",
+      "url": "https://k.sina.com.cn/article_5952915705_162d248f906702says.html",
+      "publish_time": "2026-04-16"
+    },
+    {
+      "title": "国家统计局：日均词元调用量突破140万亿",
+      "summary": "截至3月，我国日均词元调用量突破140万亿，比上年末增长超40%",
+      "impact": "显示AI商业化应用进入快速增长期，产业规模持续扩大",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904de4m.html",
+      "publish_time": "2026-04-16"
+    }
+  ]
+}
