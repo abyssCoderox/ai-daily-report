@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-04-17T01:57:00Z",
+  "search_period": "past_6_hours",
+  "news_count": 10,
+  "articles": [
+    {
+      "title": "Mythos AI Model Raises Serious Cybersecurity Concerns",
+      "summary": "Finance ministers and top bankers express serious concerns about the Mythos AI model, which experts say has unprecedented ability to identify and exploit cybersecurity weaknesses.",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c2ev24yx4rmo",
+      "published_time": "2026-04-17T01:34:00Z",
+      "importance": "High - Major cybersecurity implications for financial sector"
+    },
+    {
+      "title": "Tesla Submits Plans for New Servicing Facility",
+      "summary": "Electric car company Tesla submits plans to open a new showroom and bodyshop in Reading, expanding their service network.",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c1452e1jp83o",
+      "published_time": "2026-04-16T11:57:00Z",
+      "importance": "Medium - Business expansion in electric vehicle sector"
+    },
+    {
+      "title": "UK Online Safety Concerns Prompt Tech Summit",
+      "summary": "Prime Minister Starmer tells tech bosses that online safety issues must be addressed, as government consults on banning under-16s from social media.",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/crl11ynjyn1o",
+      "published_time": "2026-04-16T08:57:00Z",
+      "importance": "High - Major policy implications for social media platforms"
+    },
+    {
+      "title": "AI Insurance Fraud Surge Reported",
+      "summary": "An insurer reports a 71% rise in fraudulent claims, driven partly by an increase in AI-generated fake damage images and imaginary watch claims.",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/cm2rr9pg4jzo",
+      "published_time": "2026-04-16T04:57:00Z",
+      "importance": "High - Growing threat of AI-enabled insurance fraud"
+    },
+    {
+      "title": "AI Bullying Impact on Youth Mental Health",
+      "summary": "Police report that AI bullying is having a 'massive' impact on young people, with some forced to leave their communities due to online harassment.",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c80mmn13zxro",
+      "published_time": "2026-04-16T04:57:00Z",
+      "importance": "High - Serious social implications of AI-powered bullying"
+    },
+    {
+      "title": "Allbirds Stock Rises 580% After AI Pivot",
+      "summary": "Shares in shoe brand Allbirds rise 580% after announcing plans to pivot from footwear to providing AI technology infrastructure.",
+      "source": "BBC Technology",
+      "url": "https://www.bbc.co.uk/news/articles/c98mrepzgj7o",
+      "published_time": "2026-04-16T01:57:00Z",
+      "importance": "High - Significant market reaction to AI business transformation"
+    },
+    {
+      "title": "OpenAI Agents SDK Improves Governance with Sandbox Execution",
+      "summary": "OpenAI introduces sandbox execution capabilities to improve governance and control of automated workflows in enterprise environments.",
+      "source": "AI News",
+      "url": "https://www.artificialintelligence-news.com/news/openai-agents-sdk-improves-governance-sandbox-execution/",
+      "published_time": "2026-04-16T16:00:00Z",
+      "importance": "High - Enterprise AI governance advancement"
+    },
+    {
+      "title": "Cadence Expands AI and Robotic Partnerships with Nvidia, Google Cloud",
+      "summary": "Cadence announces expanded partnerships with Nvidia and Google Cloud to enhance AI and robotics capabilities.",
+      "source": "AI News",
+      "url": "https://www.artificialintelligence-news.com/news/cadence-expands-ai-and-robotics-partnerships-with-nvidia-google-cloud/",
+      "published_time": "2026-04-16T16:00:00Z",
+      "importance": "Medium - Strategic partnerships in AI and robotics"
+    },
+    {
+      "title": "Nvidia Maintains AI Powerhouse Status as Chip Stocks Rally",
+      "summary": "Nvidia stock surges 21% in April with an 11-day winning streak, driven by strong AI chip demand and positive market sentiment.",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/nvidia-is-still-an-ai-powerhouse-as-chip-stocks-rally-in-april-143000445.html",
+      "published_time": "2026-04-16T14:30:00Z",
+      "importance": "High - Market leadership in AI semiconductor space"
+    },
+    {
+      "title": "Future Technologies Transforming Daily Life",
+      "summary": "Tech Times highlights 10 emerging technologies including self-healing concrete, AR contact lenses, quantum gravimeters, and neuromorphic computing chips.",
+      "source": "Tech Times",
+      "url": "http://www.techtimes.com/articles/315928/20260416/10-more-future-technologies-that-will-transform-daily-life-ai-quantum-tech-beyond.htm",
+      "published_time": "2026-04-16T12:00:00Z",
+      "importance": "Medium - Overview of transformative future technologies"
+    }
+  ]
+}
