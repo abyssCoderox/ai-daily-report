@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-04-18T13:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news": [
+    {
+      "title": "Huge iPad Mini 8 LEAKS: OLED, 120Hz, A19 Pro?",
+      "summary": "Latest leaks suggest iPad Mini 8 will feature OLED display, 120Hz refresh rate, and A19 Pro chip.",
+      "url": "https://www.youtube.com/watch?v=7-haNPOsH7o",
+      "source": "YouTube",
+      "relevance_score": 0.997
+    },
+    {
+      "title": "Latest Business Technology News – AI, Startups, IT Industry & Cybersecurity Updates",
+      "summary": "Comprehensive coverage including Zepto's IPO plans, Kiwi cofounder stepping down, OpenClaw development at TED 2026, and Jio's May IPO preparations.",
+      "url": "https://economictimes.indiatimes.com/tech",
+      "source": "Economic Times",
+      "relevance_score": 0.978
+    },
+    {
+      "title": "TechNewsWorld - Technology News and Information",
+      "summary": "Multiple tech updates including private 5G for warehouse robots, Aptera solar vehicle milestone, Google search result impacts, AMD's momentum, MWC 2026 smartphone trends, social media bans for minors, space data centers, and Nvidia's Clawbots development.",
+      "url": "https://www.technewsworld.com/",
+      "source": "TechNewsWorld",
+      "relevance_score": 0.904
+    },
+    {
+      "title": "Technology News & Updates | BBC News",
+      "summary": "Tech news covering Tinder and Zoom implementing eye-scans for AI proof of humanity, AI minister statements, mobile cyber threat projects, and council drone usage for planning enforcement.",
+      "url": "https://www.bbc.co.uk/news/technology",
+      "source": "BBC News",
+      "relevance_score": 0.755
+    },
+    {
+      "title": "The Latest News in Technology | PCMag",
+      "summary": "Latest tech news featuring Anthropic's Claude Design tool for designers and PCMag's AI-powered assistant Maggie.",
+      "url": "https://www.pcmag.com/news",
+      "source": "PCMag",
+      "relevance_score": 0.733
+    },
+    {
+      "title": "Instagram Tech Updates",
+      "summary": "Social media updates related to technology news and AI developments.",
+      "url": "https://www.instagram.com/reel/DXOLCGmAfn2/",
+      "source": "Instagram",
+      "relevance_score": 0.514
+    },
+    {
+      "title": "Phys.org - Science and Technology News",
+      "summary": "Scientific and technology research updates including EU video game regulations, transparent cooling films, CO₂ capture systems, robotics innovations, AI for scientific data mining, voice security research, and battery technology advances.",
+      "url": "https://phys.org/",
+      "source": "Phys.org",
+      "relevance_score": 0.082
+    },
+    {
+      "title": "Meta Layoffs Update",
+      "summary": "Information about potential Meta layoffs affecting up to 8,000 roles as part of tech industry restructuring.",
+      "url": "https://www.youtube.com/watch?v=CybL1tSjoho",
+      "source": "YouTube",
+      "relevance_score": 0.028
+    },
+    {
+      "title": "Forbes Innovation Section",
+      "summary": "Business technology coverage including Mercor's challenges with employee fraud, Amazon AWS Middle East expansion, CoreWeave's AI infrastructure investments, and ByteDance's AI app developments.",
+      "url": "https://www.forbes.com/innovation/",
+      "source": "Forbes",
+      "relevance_score": 0.024
+    },
+    {
+      "title": "New Chips Maximizing Battery Power",
+      "summary": "Coverage of new chip technologies focused on optimizing battery performance and power efficiency.",
+      "url": "https://www.foxnews.com/video/6393300852112",
+      "source": "Fox News",
+      "relevance_score": 0.010
+    }
+  ]
+}

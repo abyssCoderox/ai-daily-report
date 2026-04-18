@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "timestamp": "2026-04-18T19:57:00Z",
+    "search_period": "past_6_hours",
+    "total_articles": 10,
+    "sources": ["coaio.com", "airesearch.hk", "juejin.cn", "sina.com.cn", "finance.sina.com.cn"]
+  },
+  "news": [
+    {
+      "title": "OpenAI更新Agents SDK：加入原生沙盒执行，强化企业级代理治理",
+      "summary": "OpenAI针对代理式应用的开发套件推出更新，主打'原生沙盒执行'与更完整的执行框架，让代理可在受控环境内读写档案、执行指令、进行长流程任务。",
+      "publish_time": "2026-04-18T19:00:00Z",
+      "source": "AI研究HK",
+      "url": "https://www.airesearch.hk/news/2026-04-18-ai-daily-digest",
+      "impact": "企业级代理的安全性和可控性大幅提升，为AI代理在企业内部系统的落地提供了关键技术基础"
+    },
+    {
+      "title": "Google发布Gemma 4：Apache 2.0授权的开放权重多模态模型",
+      "summary": "Google发布新一代开放权重模型Gemma 4，改以Apache 2.0授权释出，降低商用与二次开发门槛。新系列分为E2B、E4B、26B（MoE）及31B（Dense）四个版本，并把长上下文能力拉到128K至256K。",
+      "publish_time": "2026-04-18T18:30:00Z",
+      "source": "AI研究HK",
+      "url": "https://www.airesearch.hk/news/2026-04-18-ai-daily-digest",
+      "impact": "开源模型性能逼近商用旗舰，打破了开源与商用模型之间的质量断层，将大幅降低AI应用创业成本"
+    },
+    {
+      "title": "斯坦福权威报告：中美AI差距仅剩2.7%，中国论文和专利双双超越",
+      "summary": "斯坦福大学《2026年AI指数报告》显示，中美顶级大模型差距'实质性消除'，头部模型间表现相当，呈并跑态势。中国在前20的AI机构中占11家，超过美国位居首位。",
+      "publish_time": "2026-04-18T17:45:00Z",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7629708793547112494",
+      "impact": "标志着全球AI竞争格局从'美国独霸'走向'多极并跑'，中国基础研究实力转化为实际模型能力"
+    },
+    {
+      "title": "DeepSeek首次开放融资：估值超100亿美元，计划募资至少3亿美元",
+      "summary": "中国人工智能初创公司DeepSeek正在与投资者洽谈，计划以100亿美元的估值筹集至少3亿美元资金。这是该公司成立以来首次引入外部资本的尝试。",
+      "publish_time": "2026-04-18T17:20:00Z",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904g914.html",
+      "impact": "标志着这家以技术理想主义著称的AI企业正在调整资本策略，为顶尖AI模型研发提供资金支持"
+    },
+    {
+      "title": "智元机器人宣告'部署态元年'：4款新品+6大模型，人形机器人上下料成本低于人工",
+      "summary": "智元合作伙伴大会在上海举行，发布了4款新品和6大模型，宣称人形机器人进入工厂实际生产场景，上下料成本已低于人工成本。",
+      "publish_time": "2026-04-18T16:55:00Z",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7629708793547112494",
+      "impact": "人形机器人产业正从实验室走向工厂，标志着'具身智能'商业化提速，部署飞轮开始启动"
+    },
+    {
+      "title": "AI编程工具进入'自主Agent时代'：Claude Code领跑，Cursor走差异化路线",
+      "summary": "AI编程工具已从'智能代码补全'全面进化为'自主Agent'模式，各工具的核心差异化方向开始清晰：Claude Code自主性最强，Cursor交互体验最佳，Copilot企业生态整合，Trae国产化多模型。",
+      "publish_time": "2026-04-18T16:30:00Z",
+      "source": "掘金",
+      "url": "https://juejin.cn/post/7629708793547112494",
+      "impact": "程序员角色正在转变为'AI的产品经理'，未来核心竞争力集中在需求明确、架构设计和质量判断"
+    },
+    {
+      "title": "东南亚平台加速部署'具身智能'：外送机器人走向商用场景",
+      "summary": "区域科技平台正把AI从云端推到街头，大型外送平台宣布部署AI外送辅助机器人，目标是缩短取餐与交接时间，提升司机周转率。",
+      "publish_time": "2026-04-18T16:00:00Z",
+      "source": "AI研究HK",
+      "url": "https://www.airesearch.hk/news/2026-04-18-ai-daily-digest",
+      "impact": "具身智能在最后一公里配送场景的商业化落地，将改变配送成本结构与服务体验"
+    },
+    {
+      "title": "白宫与Anthropic就新模型'Mythos'风险会面：聚焦网络安全与政府采用评估",
+      "summary": "美国白宫安排与Anthropic管理层会面，讨论其新模型Mythos的安全影响与政府采用流程。该模型在寻找与利用系统漏洞方面能力显著提升，使用范围被限制在少数客户。",
+      "publish_time": "2026-04-18T15:30:00Z",
+      "source": "AI研究HK",
+      "url": "https://www.airesearch.hk/news/2026-04-18-ai-daily-digest",
+      "impact": "前沿模型能力提升直接带动监管与采购审查加速，企业需同步强化渗透测试和权限管理"
+    },
+    {
+      "title": "中国大模型周调用量超越美国：OpenRouter数据显示中国调用量达12.96万亿Token",
+      "summary": "全球大模型聚合平台OpenRouter最新数据显示，中国AI大模型周调用量为12.96万亿Token，是美国的4倍多，连续多周保持领先态势。",
+      "publish_time": "2026-04-18T15:00:00Z",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-04-18/doc-inhuxymv9921597.shtml",
+      "impact": "标志着中国AI应用生态活跃度持续提升，AI从'聊天'向'干活'的转变正在加速"
+    },
+    {
+      "title": "2026年被确定为智能体爆发年：四个条件同时成熟",
+      "summary": "基础模型能力突破推理门槛、工具生态基础设施成熟、成本曲线拐点出现、企业侧AI治理体系逐步建立，这四个条件的同时成熟使得2026年成为智能体快速落地的元年。",
+      "publish_time": "2026-04-18T14:30:00Z",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/wm/2026-04-18/doc-inhuxymv9921597.shtml",
+      "impact": "AI发展路径正从以对话为核心的'Chat阶段'进入以执行和交付为核心的'Agent阶段'，开启产业智能化革命"
+    }
+  ]
+}
