@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-04-18T07:57:00Z",
+  "news_count": 5,
+  "news": [
+    {
+      "title": "中国科技企业密集发布人工智能与机器人新品",
+      "summary": "2026年4月中旬，中国多家科技公司集中发布AI与机器人领域新进展，包括深度求索DeepSeek V4模型、MiniMax开源M2.7模型，以及智元机器人四大本体新品等",
+      "publish_time": "2026-04-13",
+      "source": "靠谱新闻",
+      "url": "https://kaopu.news/story/2026-04-13/%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E4%BC%81%E4%B8%9A%E5%AF%86%E9%9B%86%E5%8F%91%E5%B8%83%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E4%B8%8E%E6%9C%BA%E5%99%A8%E4%BA%BA%E6%96%B0%E5%93%81-d05bf3",
+      "importance": "高 - 反映中国AI产业整体发展态势和技术突破"
+    },
+    {
+      "title": "2026年中国AI核心产业规模预计突破1.2万亿元",
+      "summary": "工信部数据显示，2026年中国人工智能核心产业规模预计达到1.2万亿元人民币，同比增长25%，AI Agent相关软件服务成为增长最快细分领域",
+      "publish_time": "2026-02-01",
+      "source": "新华社",
+      "url": "https://zjr.ai/ai%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB%E7%AE%80%E6%8A%A5-2026%E5%B9%B402%E6%9C%8801%E6%97%A5",
+      "importance": "高 - 官方数据揭示AI产业发展规模和增长趋势"
+    },
+    {
+      "title": "苹果发布Apple Intelligence 3.0，实现跨设备无缝智能体协作",
+      "summary": "苹果春季发布会展示Apple Intelligence 3.0，引入多设备协同推理技术，Siri可跨App执行多步复杂指令，将AI Agent门槛降至最低",
+      "publish_time": "2026-02-01",
+      "source": "The Verge",
+      "url": "https://zjr.ai/ai%E6%AF%8F%E6%97%A5%E6%96%B0%E9%97%BB%E7%AE%80%E6%8A%A5-2026%E5%B9%B402%E6%9C%8801%E6%97%A5",
+      "importance": "高 - 定义下一代个人智能终端交互标准"
+    },
+    {
+      "title": "梅宏院士警示AI热潮需冷思考，警惕算力泡沫与数据枯竭",
+      "summary": "中国科学院院士梅宏指出当前AI产业存在严重算力过度建设现象，警告高质量中文语料库枯竭问题，呼吁回归技术本质",
+      "publish_time": "2026-02-01",
+      "source": "财联社",
+      "url": "https://zjr.ai/ai%E6%AF%8F%E6%97%A5%E6%97%A5%E6%96%B0%E7%AE%80%E6%8A%A5-2026%E5%B9%B402%E6%9C%8801%E6%97%A5",
+      "importance": "高 - 行业顶尖专家的理性声音，有助于识别产业泡沫"
+    },
+    {
+      "title": "华为云智慧医疗专区发布，AI辅助诊断准确率达98%",
+      "summary": "华为云在深圳发布智慧医疗专区，整合盘古医学大模型与50家三甲医院数据，在肺结节早期筛查中实现98%准确率，加速医疗行业数字化转型",
+      "publish_time": "2026-02-01",
+      "source": "36氪",
+      "url": "https://zjr.ai/ai%E6%AF%8F%E6%97%A5%E6%97%A5%E6%96%B0%E7%AE%80%E6%8A%A5-2026%E5%B9%B402%E6%9C%8801%E6%97%A5",
+      "importance": "高 - 国产AI在垂直高价值领域的深度落地标杆"
+    }
+  ]
+}
