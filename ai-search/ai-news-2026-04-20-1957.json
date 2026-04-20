@@ -1,0 +1,85 @@
+{
+  "timestamp": "2026-04-20T19:57:00Z",
+  "news": [
+    {
+      "title": "DeepSeek完成3亿美元融资，估值不低于100亿美元",
+      "summary": "深度求索首次开放外部融资，计划以不低于100亿美元估值募集至少3亿美元，标志着这家曾拒绝无数顶级风投的公司开始商业化探索。",
+      "publish_time": "2026-04-20",
+      "source": "gitcode.csdn.net",
+      "url": "https://gitcode.csdn.net/69e57f3654b52172bc6ae1c3.html",
+      "impact": "中国AI大模型商业化进程加速，DeepSeek议价权强势，探索\"开源底座+差异化服务\"新路径"
+    },
+    {
+      "title": "Claude Opus 4.7发布，编程能力达64.3%创纪录",
+      "summary": "Anthropic发布Claude Opus 4.7旗舰模型，编程基准分从55%跃升至64.3%，新增实时协作功能，AI已能独立完成中等复杂度代码项目。",
+      "publish_time": "2026-04-17",
+      "source": "gitcode.csdn.net",
+      "url": "https://gitcode.csdn.net/69e57f3654b52172bc6ae1c3.html",
+      "impact": "AI编程能力进入新阶段，不再只是辅助工具，而是能独立完成代码项目的\"程序员\""
+    },
+    {
+      "title": "腾讯阿里同日发布世界模型，AI竞争转向空间智能",
+      "summary": "腾讯和阿里在同一天发布各自的世界模型新品，将AI竞争焦点从语言对话正式推向空间智能，字节跳动Seedance视频生成模型也正式上线。",
+      "publish_time": "2026-04-20",
+      "source": "gitcode.csdn.net",
+      "url": "https://gitcode.csdn.net/69e57f3654b52172bc6ae1c3.html",
+      "impact": "AI竞争主战场从\"对话\"转向\"空间智能\"，意味着从理解语言到理解三维世界的重大转变"
+    },
+    {
+      "title": "人形机器人半马夺冠，50分26秒跑赢人类世界纪录",
+      "summary": "荣耀\"闪电\"机器人在北京亦庄人形机器人半程马拉松赛中以50分26秒夺冠，比人类半马世界纪录快近7分钟，标志着中国智能制造工程优势的系统性爆发。",
+      "publish_time": "2026-04-19",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904j844.html",
+      "impact": "具身智能技术突破，中国机器人产业链全面突破，从\"踉踉跄跄\"到\"健步如飞\"的技术演进"
+    },
+    {
+      "title": "中国AI大模型周调用量环比降23.8%，美国首次反超",
+      "summary": "中国AI大模型周调用量出现下降，美国近两个月来首次反超，阿里Qwen3.6 Plus由榜首跌出前十，显示全球AI竞争格局变化。",
+      "publish_time": "2026-04-20",
+      "source": "www.capitalfutures.com.tw",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26042000344",
+      "impact": "中美AI竞争进入新阶段，从\"追赶\"进化成\"内部竞争\"，美国在AI领域重新确立优势"
+    },
+    {
+      "title": "硅谷AI代理遇发展瓶颈，海量Token浪费系统运行混乱",
+      "summary": "硅谷企业高管看好AI代理能高效处理办公事务，但底层技术不稳定，盲目使用会浪费海量Token、消耗大量资金，企业应谨慎挑选适配场景。",
+      "publish_time": "2026-04-20",
+      "source": "www.ccidnet.com",
+      "url": "https://www.ccidnet.com/AIqqy/1103206.jhtml",
+      "impact": "AI代理技术规模化落地面临现实困境，需要解决推理成本和数据管理等复杂问题"
+    },
+    {
+      "title": "Meta预计2026年广告收入超Google，靠\"耐心与AI\"双料布局",
+      "summary": "调研机构Emarketer数据显示，Meta年度广告净收入预计达2434.6亿美元，正式超过Google的2395.4亿美元，AI推荐系统让Reels观看时间暴增30%。",
+      "publish_time": "2026-04-20",
+      "source": "technews.tw",
+      "url": "https://technews.tw/2026/04/20/meta-expected-to-unseat-google-as-worlds-largest-digital-ad-player/",
+      "impact": "AI时代广告业格局重塑，Meta通过战略定力和AI技术实现反超，Google搜索帝国面临挑战"
+    },
+    {
+      "title": "光子技术成半导体领域\"换道超车\"重大机遇",
+      "summary": "中科创星米磊指出，光子技术将成为半导体领域\"换道超车\"的重大机遇，光芯片正成为继GPU之后下一轮AI军备竞赛的关键变量。",
+      "publish_time": "2026-04-20",
+      "source": "www.capitalfutures.com.tw",
+      "url": "https://www.capitalfutures.com.tw/zh-tw/Financial/BreakingNewsArticle?ContentId=C26042000344",
+      "impact": "光芯片技术突破将重塑半导体产业格局，为AI算力提供更高带宽和更低功耗的解决方案"
+    },
+    {
+      "title": "全国首份人工智能开源生态共识发布",
+      "summary": "24家单位共同发布《关于加强协同创新 促进人工智能开源生态繁荣的共识》，围绕人工智能开源领域知识产权保护等前沿司法需求展开研讨。",
+      "publish_time": "2026-04-20",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904j844.html",
+      "impact": "人工智能开源生态规范化发展迈出重要一步，为产业健康可持续发展提供制度保障"
+    },
+    {
+      "title": "AI绘画师学会看图说话，一秒生成逼真人脸肖像",
+      "summary": "北德克萨斯大学开发出MMFace-DiT人工智能系统，只需简单语言描述和粗略草图，就能立刻生成逼真人脸照片，革命性提升AI绘画效率。",
+      "publish_time": "2026-03-30",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904j844.html",
+      "impact": "AI生成技术进入新阶段，从文本生成到图像生成的技术突破，为创意产业带来新机遇"
+    }
+  ]
+}
