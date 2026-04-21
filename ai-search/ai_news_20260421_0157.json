@@ -1,0 +1,40 @@
+{
+  "timestamp": "2026-04-21T01:57:00Z",
+  "news": [
+    {
+      "title": "《路透晚报》--4月21日日间新闻摘要（国际版）",
+      "summary": "路透社发布4月21日日间新闻摘要，涵盖国际政治、经济、军事等多个领域的重要动态",
+      "publish_time": "2026-04-21",
+      "source": "Reuters",
+      "url": "https://jp.reuters.com/article/idCNL3S0ND1JT20140421"
+    },
+    {
+      "title": "伊朗海军封锁霍尔木兹海峡",
+      "summary": "据海运消息人士透露，伊朗海军向商船发出无线电通知，宣布霍尔木兹海峡再次封锁，禁止任何船舶通行",
+      "publish_time": "2026-04-21",
+      "source": "Reuters",
+      "url": "https://jp.reuters.com/article/idCNL3S0ND1JT20140421"
+    },
+    {
+      "title": "美国航空否认与联合航空合并谈判",
+      "summary": "美国航空公司明确否认与联合航空正在进行合并谈判，称对此事没有兴趣",
+      "publish_time": "2026-04-21",
+      "source": "Reuters",
+      "url": "https://jp.reuters.com/article/idCNL3S0ND1JT20140421"
+    },
+    {
+      "title": "Meta宣布大规模裁员计划",
+      "summary": "据知情人士透露，Meta计划在5月20日开始第一轮人员削减，预计影响约8000名员工",
+      "publish_time": "2026-04-21",
+      "source": "Reuters",
+      "url": "https://jp.reuters.com/article/idCNL3S0ND1JT20140421"
+    },
+    {
+      "title": "美联储年内降息预期升温",
+      "summary": "在霍尔木兹海峡开放声明后，市场对美联储年内降息的预期再次升温，但前景仍复杂",
+      "publish_time": "2026-04-21",
+      "source": "Reuters",
+      "url": "https://jp.reuters.com/article/idCNL3S0ND1JT20140421"
+    }
+  ]
+}
