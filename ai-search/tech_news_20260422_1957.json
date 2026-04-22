@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-04-22T19:57:00Z",
+  "news_items": [
+    {
+      "title": "阿里宣布AI战略商业目标：未来五年，云和AI商业化收入突破1000亿美元",
+      "summary": "阿里巴巴公布其AI战略商业目标，计划在未来五年内实现云和AI商业化收入突破1000亿美元，显示出对AI技术商业化的高度重视和巨大投入。",
+      "publish_time": "2026-03-19",
+      "source_url": "https://www.qbitai.com/2026/03/389559.html",
+      "why_important": "这一目标体现了中国科技巨头在AI领域的雄心壮志，将对全球AI产业格局产生重大影响，可能加速AI技术的商业化进程和产业应用。"
+    },
+    {
+      "title": "阿里"悟空"上线！钉钉给企业送来龙虾大军",
+      "summary": "阿里巴巴推出名为"悟空"的新功能，通过钉钉平台为企业提供创新服务，这一举措展示了阿里在企业服务领域的技术创新。",
+      "publish_time": "2026-03-18",
+      "source_url": "https://www.qbitai.com/2026/03/388845.html",
+      "why_important": "体现了大型科技公司如何通过技术创新提升企业效率，可能引领企业服务数字化转型的新趋势。"
+    },
+    {
+      "title": "Qwen3.5-Max预览版首度亮相，阿里千问登顶中国最强模型",
+      "summary": "阿里云发布Qwen3.5-Max预览版，宣称其性能达到中国最强AI模型水平，标志着中国在大语言模型领域的重要突破。",
+      "publish_time": "2026-03-20",
+      "source_url": "https://www.qbitai.com/2026/03/389610.html",
+      "why_important": "中国AI模型技术的重大进步，可能改变全球AI模型竞争格局，对推动本土AI产业发展具有重要意义。"
+    },
+    {
+      "title": "Cursor自研模型反超Opus 4.6！价格脚踝斩，氛围编程沸腾了",
+      "summary": "Cursor公司自研的AI编程模型性能超越Opus 4.6，同时大幅降低价格，这一突破可能重塑编程工具市场格局。",
+      "publish_time": "2026-03-20",
+      "source_url": "https://www.qbitai.com/2026/03/389673.html",
+      "why_important": "AI编程工具的进步将极大提升开发效率，价格下降可能使AI编程技术普及化，影响整个软件开发行业。"
+    },
+    {
+      "title": "OpenClaw、Agent 企业级落地……2026 奇点智能技术大会硬核议题发布",
+      "summary": "2026年奇点智能技术大会发布重要议题，聚焦OpenClaw和Agent技术的企业级应用，展示AI技术在实际业务场景中的落地能力。",
+      "publish_time": "2026-03-20",
+      "source_url": "https://www.qbitai.com/2026/03/389666.html",
+      "why_important": "企业级AI应用的成熟标志着AI技术从实验阶段向实际商业价值转化的重要转折点，对推动AI产业化具有重要意义。"
+    }
+  ],
+  "metadata": {
+    "total_results": 5,
+    "search_period": "past_6_hours",
+    "data_sources": ["Tavily Search API"],
+    "generation_time": "2026-04-22T19:57:00Z"
+  }
+}

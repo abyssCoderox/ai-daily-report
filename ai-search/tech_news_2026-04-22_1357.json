@@ -1,0 +1,112 @@
+{
+  "metadata": {
+    "date": "2026-04-22",
+    "time": "13:57 UTC",
+    "period": "past_6_hours",
+    "total_news": 10,
+    "source": "Tavily Search API"
+  },
+  "news": [
+    {
+      "title": "Kimi K2.6开源发布，支持300个子Agent并行协作",
+      "summary": "月之暗面发布Kimi K2.6并同步开源，相比K2.5代码与Agent集群能力再提升20%，支持300个子Agent并行协作，256k Token上下文",
+      "impact": "标志着AI工程化能力的重要突破，从单一智能体向群体协作演进，大幅提升复杂任务处理能力",
+      "source_url": "https://gitcode.csdn.net/69e8206b0a2f6a37c5a169ec.html",
+      "publish_time": "2026-04-22T12:00:00Z",
+      "category": "AI模型"
+    },
+    {
+      "title": "Anthropic推出Claude Mythos Preview，具备行动智能能力",
+      "summary": "Anthropic正式推出Claude Mythos Preview，核心卖点是行动智能——不只是生成文字，而是能自主操作数字系统、完成跨平台任务",
+      "impact": "AI从被动响应向主动执行的转变，可能重塑人机协作模式，提升自动化水平",
+      "source_url": "https://gitcode.csdn.net/69e8206b0a2f6a37c5a169ec.html",
+      "publish_time": "2026-04-22T12:00:00Z",
+      "category": "AI应用"
+    },
+    {
+      "title": "中科院Ouroboros晶圆级芯片亮相，Llama 13B推理达15万tokens/s",
+      "summary": "中科院发布Ouroboros晶圆级存算一体芯片，Llama 13B推理速度达15万tokens/s，性能和能效分别是现有顶尖系统的4.1倍和4.2倍",
+      "impact": "存算一体路线打破英伟达垄断的关键突破，大幅提升AI计算效率和能效比",
+      "source_url": "https://gitcode.csdn.net/69e8206b0a2f6a37c5a169ec.html",
+      "publish_time": "2026-04-22T12:00:00Z",
+      "category": "AI芯片"
+    },
+    {
+      "title": "Google DeepMind承认编码落后Anthropic，组建特别小组追赶",
+      "summary": "Google DeepMind内部承认在AI辅助编程上落后于Anthropic，Anthropic近100%的代码由AI生成，而Google仅约50%",
+      "impact": "反映AI编程工具市场竞争格局变化，可能加速Google在AI编码领域的技术投入",
+      "source_url": "https://gitcode.csdn.net/69e8206b0a2f6a37c5a169ec.html",
+      "publish_time": "2026-04-22T12:00:00Z",
+      "category": "AI研发"
+    },
+    {
+      "title": "国家五部门联合发布AI拟人化互动服务管理暂行办法",
+      "summary": "严禁向未成年人提供虚拟亲密关系服务，2026年7月15日起正式施行，直接打掉了一批靠AI恋人、AI陪伴变现的平台对未成年用户的变现模式",
+      "impact": "AI监管政策趋严，保护未成年人权益，对合规产品形成利好",
+      "source_url": "https://gitcode.csdn.net/69e8206b0a2f6a37c5a169ec.html",
+      "publish_time": "2026-04-22T12:00:00Z",
+      "category": "AI监管"
+    },
+    {
+      "title": "苹果考虑用外部AI模型支持新版Siri",
+      "summary": "苹果考虑放弃自家开发的AI模型，转而使用Anthropic或OpenAI的AI技术支持新一代Siri，已与两家公司讨论合作",
+      "impact": "标志苹果AI战略重大转变，可能影响其AI生态布局和技术自主性",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001904la58.html",
+      "publish_time": "2026-04-22T13:00:00Z",
+      "category": "企业动态"
+    },
+    {
+      "title": "华为发布鸿蒙AI眼镜，支持实时视频交互",
+      "summary": "华为首款鸿蒙AI眼镜正式发布，支持AI实时视频交互、AI构图矫正、0.7秒AI闪拍等功能，镜架轻至35.5克",
+      "impact": "消费级AI硬件产品创新，推动AI技术向日常生活场景渗透",
+      "source_url": "https://news.softunis.com/56732.html",
+      "publish_time": "2026-04-22T13:00:00Z",
+      "category": "AI硬件"
+    },
+    {
+      "title": "SpaceX获权以600亿美元收购Cursor",
+      "summary": "SpaceX宣布有权在今年晚些时候以600亿美元收购AI编程初创公司Cursor，或支付100亿美元建立合作伙伴关系",
+      "impact": "反映AI开发者工具市场价值，SpaceX加速布局AI编码领域",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001904l5cu.html",
+      "publish_time": "2026-04-22T09:00:00Z",
+      "category": "AI投资"
+    },
+    {
+      "title": "Meta将为员工电脑装追踪软件训练AI",
+      "summary": "Meta将在员工电脑上安装追踪软件，捕捉鼠标动作和截屏，用于训练能够自主执行工作任务的人工智能模型",
+      "impact": "引发AI训练数据获取方式争议，可能涉及员工隐私问题",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001904ldby.html",
+      "publish_time": "2026-04-22T13:00:00Z",
+      "category": "AI伦理"
+    },
+    {
+      "title": "OpenAI正洽谈向私募股权合资企业最高投资15亿美元",
+      "summary": "OpenAI计划向一家与私募机构合作成立的全新合资企业DeployCo投入最高15亿美元资金，该企业估值将达100亿美元",
+      "impact": "显示OpenAI在AI商业化方面的战略布局，可能拓展新的业务模式",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001904ldby.html",
+      "publish_time": "2026-04-22T13:00:00Z",
+      "category": "AI投资"
+    }
+  ],
+  "summary": {
+    "total_articles": 10,
+    "categories": {
+      "AI模型": 1,
+      "AI应用": 1,
+      "AI芯片": 1,
+      "AI研发": 1,
+      "AI监管": 1,
+      "企业动态": 1,
+      "AI硬件": 1,
+      "AI投资": 2,
+      "AI伦理": 1
+    },
+    "key_trends": [
+      "AI模型向群体协作和行动智能发展",
+      "存算一体芯片技术取得重大突破",
+      "AI监管政策趋严，保护未成年人权益",
+      "企业AI战略调整，外部合作增加",
+      "AI投资活跃，商业化进程加速"
+    ]
+  }
+}
