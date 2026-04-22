@@ -1,0 +1,67 @@
+{
+  "timestamp": "2026-04-22 01:57 UTC",
+  "timeRange": "past 6 hours",
+  "totalResults": 10,
+  "news": [
+    {
+      "title": "TechNews 科技新報| 市場和業內人士關心的趨勢、內幕與新聞",
+      "url": "https://technews.tw/",
+      "snippet": "TechNews 科技新報是一個專注於科技趨勢和業內新聞的網站，提供最新的科技資訊和深度分析。網站內容涵蓋資安快報、專欄文章等多個領域，為讀者提供全面的科技視角。",
+      "siteName": "technews.tw"
+    },
+    {
+      "title": "科技新闻 - 茉莉花新闻网",
+      "url": "https://molihua.org/category/tech/",
+      "snippet": "1. 张雪机车820RR订单火爆，闲鱼转让价炒至10万元，夺冠赛车复刻版拍卖起拍价40万元飙至500万元封顶；2. Meta计划5月20日启动裁员8000人，下半年还有第二轮裁员；3. AI编程工具Cursor计划融资20亿美元，估值达500亿美元；4. 雷军表示小米未来几年不会做十万元以内车型；5. 高德地图发布首款四足机器人，能自主过马路和买奶茶。",
+      "siteName": "molihua.org"
+    },
+    {
+      "title": "科技新闻_央视网",
+      "url": "https://news.cctv.com/tech/index.shtml",
+      "snippet": "1. 我国科学家利用AI技术实现"数字剥离"肿瘤，提高放疗精准度；2. 2026第六届雷达未来大会强调"脑力"竞争；3. 我国新型显示产业总产值突破8000亿元；4. 莆田用AI技术将"治水"变"智水"；5. 大湾区首台"华龙一号"机组投产发电。",
+      "siteName": "news.cctv.com"
+    },
+    {
+      "title": "科技新聞 - Yahoo奇摩",
+      "url": "https://tw.news.yahoo.com/tech-news/",
+      "snippet": "1. 裕融與調查局簽署資安聯防MOU，強化租賃業防詐韌性；2. 新竹物流遭網路攻擊，北市刑大受理報案偵辦；3. 星展銀行投入3000萬元啟動"生態淡水河守護星計畫"；4. 藍源火箭成功回收推進器但衛星未入正確軌道；5. 量子運算威脅加密貨幣安全，比特幣風險較高。",
+      "siteName": "tw.news.yahoo.com"
+    },
+    {
+      "title": "新科技New Tech - VC News",
+      "url": "https://www.vc-news.com.cn/?cat=42",
+      "snippet": "1. 谷歌与美国国防部研究AI增强现实显微镜，可能成为病理诊断重要工具；2. 人工智能改变科技行业就业形势，多家公司因AI裁员；3. 英伟达进军人形机器人领域，推出Project GR00T平台；4. 谷歌AI聊天机器人Bard表示美国司法部在反垄断审判中获胜。",
+      "siteName": "www.vc-news.com.cn"
+    },
+    {
+      "title": "科技相关报道 - 美国之音",
+      "url": "https://www.voachinese.com/z/1763",
+      "snippet": "1. 美国国会推出法案禁止联邦政府使用中国制造机器人；2. NASA计划在月球表面建造基地，投资约200亿美元；3. 超微电脑因向中国走私AI芯片被美国司法部起诉；4. 众议院通过《芯片安全法案》遏制向中国走私半导体。",
+      "siteName": "www.voachinese.com"
+    },
+    {
+      "title": "新华科技_新华网",
+      "url": "http://www.news.cn/tech/",
+      "snippet": "新华网科技频道提供最新的科技资讯，涵盖大国科技、数字经济、智库研报等多个领域，包括中国空间站动态、新一代消费者趋势、AI制药发展等内容。",
+      "siteName": "www.news.cn"
+    },
+    {
+      "title": "中国科技网",
+      "url": "https://www.stdaily.com/",
+      "snippet": "中国科技网提供科技日报的最新资讯，包括一周热榜、科技新观察、创新故事等栏目，涵盖科技创新、产业发展、科普知识等多个方面。",
+      "siteName": "www.stdaily.com"
+    },
+    {
+      "title": "科技 - 中時新聞網",
+      "url": "https://www.chinatimes.com/technologynews/",
+      "snippet": "1. 成熟製程回暖，ASIC台鏈歡呼；2. 中小尺寸面板漲勢疲弱；3. 強固型電腦剛需湧現，台廠搶推新品；4. AI引爆失業潮，黃仁勳揭關鍵；5. 充電怪獸時代來臨，北市產發局推超快充站。",
+      "siteName": "www.chinatimes.com"
+    },
+    {
+      "title": "网易科技_手机网易网",
+      "url": "https://tech.163.com/",
+      "snippet": "1. Meta下月拟裁8000人，大举清退人力为AI腾位；2. "世界模型"概念火热但定义不一；3. 梁文锋被曝融资20亿；4. 7家头部平台被罚没35.97亿元；5. 高德发布首款四足机器人"途途"。",
+      "siteName": "tech.163.com"
+    }
+  ]
+}
