@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-04-23T13:57:00Z",
+  "news_count": 5,
+  "news": [
+    {
+      "title": "科技新闻",
+      "url": "https://kjj.wuhan.gov.cn/xwzx_8/kjspxw/202604/t20260423_2756380.html",
+      "snippet": "在化合物半导体这条"新枝"上，光谷同样跑在了前面。以九峰山实验室为龙头，光谷已建成全球规模最大、技术最先进的化合物半导体中试平台，拿下全国首个集成电路领域国家级制造业中试平台。同时，以实验室为核心，已集聚产业链企业70余家。从产业数据看，光谷硅基芯片与化合物半导体的产值比例约为4:1。这意味着在硅基芯片这个主赛道之外，化合物半导体正在快速成长为光谷的"第二条曲线"。",
+      "site_name": "kjj.wuhan.gov.cn",
+      "score": 0.99482024
+    },
+    {
+      "title": "科技_界面新闻",
+      "url": "https://www.jiemian.com/lists/65.html",
+      "snippet": "AI早报 I OpenAI斥资超过200亿美元购买Cerebras芯片，并获得股权；Gucci与谷歌联名AI智能眼镜明年推出。优必选科技与Terra Robotics签署合作，人形机器人落地欧洲零售物流场景；机器人租赁平台擎天租官宣出海动作，首批业务落地13国。",
+      "site_name": "www.jiemian.com",
+      "score": 0.98998636
+    },
+    {
+      "title": "TechNewsWorld - Technology News and Information",
+      "url": "https://www.technewsworld.com/",
+      "snippet": "Get Tech Industry News and Insights in the TechNewsWorld Newsletter » View Sample | Subscribe. FOMO Driving GPU Overbuying, 95% of Capacity Idle. Enterprise AI demand is rising, but most GPU capacity remains idle, exposing costly overbuying and inefficiencies...",
+      "site_name": "www.technewsworld.com",
+      "score": 0.98445636
+    },
+    {
+      "title": "科技资讯中心--快科技--科技改变未来",
+      "url": "https://news.mydrivers.com/",
+      "snippet": "快科技4月20日消息，近日，江苏一名20多岁女大学生因频繁向多人表白被拒却仍坚信对方"欲擒故纵"的异常行为，被确诊为春季高发的"桃花癫"。据了解，该女生近期出现明显...全球首款QQ音乐畅听耳机发布！399元送十年VIP 立省2001元",
+      "site_name": "news.mydrivers.com",
+      "score": 0.9777139
+    },
+    {
+      "title": "科技新闻 - 博客园",
+      "url": "https://news.cnblogs.com/",
+      "snippet": "千里科技赵明车圈首秀！剧透两款合作车型，目标智驾三年上车800万辆。东航接入千问：改造机票服务流程，AI可以帮选座位。出门问问发布AI原生协作平台CodeBanana，AI重写组织进化。",
+      "site_name": "news.cnblogs.com",
+      "score": 0.967163
+    }
+  ]
+}
