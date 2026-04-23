@@ -1,0 +1,133 @@
+{
+  "timestamp": "2026-04-23T01:57:00Z",
+  "search_period_hours": 6,
+  "total_articles": 8,
+  "articles": [
+    {
+      "title": "Google takes on Nvidia, announces 2 new AI chips",
+      "summary": "Google announced two new AI processors (TPU 8T for training and TPU 8i for inference) as part of its effort to compete with Nvidia in AI hardware. These specialized chips are more powerful and power-efficient, making them attractive to customers like Anthropic, OpenAI, and Meta.",
+      "publish_time": "2026-04-22T14:59:00Z",
+      "source_url": "https://finance.yahoo.com/video/google-takes-on-nvidia-announces-2-new-ai-chips-145915437.html",
+      "source_name": "Yahoo Finance",
+      "category": "AI Hardware",
+      "key_points": [
+        "Google developing TPU 8T (training) and TPU 8i (inference) chips",
+        "Competing with Nvidia in AI hardware market",
+        "Chips sold to external customers including Anthropic, OpenAI, Meta",
+        "More power-efficient and increasingly powerful than previous generations"
+      ]
+    },
+    {
+      "title": "China's homegrown quantum computer gains AI capabilities",
+      "summary": "China's third-generation superconducting quantum computer 'Origin Wukong' has been equipped with AI computing capabilities, marking a major step from 'usable' to 'user-friendly' for China's quantum computing power. The system can now integrate into AI application ecosystems.",
+      "publish_time": "2026-04-22T12:59:00Z",
+      "source_url": "https://www.chinadailyasia.com/article/632364",
+      "source_name": "China Daily Asia",
+      "category": "Quantum Computing",
+      "key_points": [
+        "Origin Wukong quantum computer now has AI integration capabilities",
+        "Provides quantum computing services to over 47 million visits from 163 countries",
+        "Launched quantum AI tools including Origin Brain knowledge model",
+        "Exploring quantum-AI hybrid algorithms for power, finance, and industry sectors"
+      ]
+    },
+    {
+      "title": "T-Mobile reportedly in merger talks, Adobe's $25B stock buyback",
+      "summary": "Bloomberg reports T-Mobile is in talks to merge with Deutsche Telekom, while Adobe announces a massive $25 billion stock buyback program. AT&T shows mixed results with wireless revenue under pressure.",
+      "publish_time": "2026-04-22T14:27:00Z",
+      "source_url": "https://finance.yahoo.com/video/t-mobile-reportedly-in-merger-talks-adobes-25b-stock-buyback-142745188.html",
+      "source_name": "Yahoo Finance",
+      "category": "Telecommunications",
+      "key_points": [
+        "T-Mobile in merger discussions with Deutsche Telekom",
+        "Adobe announces $25B stock buyback program",
+        "AT&T reports mixed quarterly results",
+        "Deutsche Telecom owns 53% stake in T-Mobile"
+      ]
+    },
+    {
+      "title": "Alphabet shares climb after Google announces new AI products",
+      "summary": "Alphabet stock rose following Google's announcement of new AI products and chips, showing market confidence in Google's AI strategy and hardware development initiatives.",
+      "publish_time": "2026-04-22T15:00:00Z",
+      "source_url": "https://www.cnbc.com/video/2026/04/22/alphabet-shares-climb-after-google-announces-new-ai-products.html",
+      "source_name": "CNBC",
+      "category": "AI Products",
+      "key_points": [
+        "Alphabet stock price increased post-announcement",
+        "Google unveiling new AI products and capabilities",
+        "Market responds positively to AI hardware developments"
+      ]
+    },
+    {
+      "title": "Optimus 3: Musk teases plans for unveiling",
+      "summary": "Elon Musk announced that Tesla's Optimus humanoid robot will become their 'biggest product ever' with production starting in Fremont later this year and expanding to Giga Texas by summer 2027. The V3 Optimus design is nearly ready for demonstration.",
+      "publish_time": "2026-04-22T22:52:00Z",
+      "source_url": "https://finance.yahoo.com/video/optimus-3-musk-teases-plans-for-unveiling-225227515.html",
+      "source_name": "Yahoo Finance",
+      "category": "Robotics",
+      "key_points": [
+        "Optimus V3 design almost ready for demonstration",
+        "Production starts in Fremont later this year",
+        "Second factory planned for Giga Texas by summer 2027",
+        "Musk claims it will be Tesla's biggest product ever"
+      ]
+    },
+    {
+      "title": "The Agentic Era: Google Unveils 8th Generation AI Chips",
+      "summary": "Google announced its 8th generation Tensor Processing Units (TPUs), featuring specialized chips for training (TPU 8T) and inference (TPU 8i) workloads, representing a significant advancement in AI chip technology.",
+      "publish_time": "2026-04-22T16:00:00Z",
+      "source_url": "https://www.reddit.com/r/AIGuild/comments/1st2w6d/the_agentic_era_google_unveils_8th_generation_ai/",
+      "source_name": "Reddit AI Guild",
+      "category": "AI Hardware",
+      "key_points": [
+        "8th generation TPU chips announced",
+        "Specialized TPU 8T for training models",
+        "Specialized TPU 8i for inference workloads",
+        "Significant performance improvements over previous generations"
+      ]
+    },
+    {
+      "title": "AI meets quantum challenge Nvidia has launched open-source 'Ising' AI models",
+      "summary": "Nvidia launched open-source 'Ising' AI models designed to tackle quantum computing bottlenecks, with participation from major tech companies like IBM, Google, and Microsoft.",
+      "publish_time": "2026-04-22T10:00:00Z",
+      "source_url": "https://www.facebook.com/EconomicTimes/posts/-ai-meets-quantum-challenge-nvidia-has-launched-open-source-ising-ai-models-aime/1444879471001290/",
+      "source_name": "Economic Times",
+      "category": "AI/Quantum",
+      "key_points": [
+        "Nvidia releases open-source 'Ising' AI models",
+        "Models designed to solve quantum computing bottlenecks",
+        "Collaboration with IBM, Google, Microsoft",
+        "Focus on AI-quantum computing integration"
+      ]
+    },
+    {
+      "title": "Quantum Chips: Infineon Contributes to European Quantum Pilot Lines",
+      "summary": "Infineon Technologies is contributing industrialization expertise to three European quantum pilot lines (SUPREME, CHAMP-ION, SPINS) to accelerate practical quantum computing development and bridge the gap between lab research and industrial-scale manufacturing.",
+      "publish_time": "2026-04-22T09:00:00Z",
+      "source_url": "https://www.powersystemsdesign.com/articles/quantum-chips-infineon-contributes-industrialization-know-how-to-european-quantum-pilot-lines/97/23598",
+      "source_name": "Power Systems Design",
+      "category": "Quantum Computing",
+      "key_points": [
+        "Infineon participates in three European quantum pilot lines",
+        "Focus on ion-traps, superconducting, and semiconductor-based spin technologies",
+        "Aims to bridge lab research and industrial manufacturing",
+        "Supported by EU Chips Act and national funding"
+      ]
+    }
+  ],
+  "summary_statistics": {
+    "ai_hardware": 3,
+    "quantum_computing": 3,
+    "telecommunications": 1,
+    "robotics": 1,
+    "ai_products": 1,
+    "sources": [
+      "Yahoo Finance",
+      "China Daily Asia",
+      "CNBC",
+      "Reddit AI Guild",
+      "Economic Times",
+      "Power Systems Design"
+    ]
+  }
+}
