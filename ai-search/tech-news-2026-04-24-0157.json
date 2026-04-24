@@ -1,0 +1,91 @@
+{
+  "search_metadata": {
+    "timestamp": "2026-04-24T01:57:00Z",
+    "query": "technology news latest 6 hours",
+    "time_range": "past 6 hours",
+    "total_results": 10
+  },
+  "news_items": [
+    {
+      "title": "What to watch for in Intel's Q1 earnings - CNBC",
+      "summary": "CNBC's Kristina Partsinevelos reports the latest news surrounding Intel's Q1 earnings",
+      "published_time": "6 hours ago",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/04/23/what-to-watch-for-in-intels-q1-earnings.html",
+      "relevance_score": 0.5851011
+    },
+    {
+      "title": "Microsoft CEO Satya Nadella exclusive Australian interview on AI",
+      "summary": "Microsoft announces its largest-ever technology investment in Australia, with CEO Satya Nadella committing $25 billion to expand AI infrastructure and training",
+      "published_time": "6 hours ago",
+      "source": "9news.com.au",
+      "url": "https://www.9news.com.au/technology/microsoft-ceo-satya-nadella-exclusive-australian-workers-ai-training/ad59e869-eb6d-4b86-a5f0-5c703aed920b",
+      "relevance_score": 0.08819005
+    },
+    {
+      "title": "Tesla stock falls on capex plans: Here's what investors need to know",
+      "summary": "CNBC's Phil LeBeau reports on Tesla's latest earnings report and the impact of capital expenditure plans on stock performance",
+      "published_time": "6 hours ago",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/04/23/tesla-stock-falls-on-capex-plans-heres-what-investors-need-to-know.html",
+      "relevance_score": 0.08819005
+    },
+    {
+      "title": "Fundamentals remain 'very tough' for Tesla, says Wells Fargo's Colin Langan",
+      "summary": "Wells Fargo analyst discusses Tesla's earnings report, robotaxis, and current market challenges",
+      "published_time": "6 hours ago",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/video/2026/04/23/fundamentals-remain-very-tough-for-tesla-says-wells-fargos-colin-langan.html",
+      "relevance_score": 0.0034834242
+    },
+    {
+      "title": "SOX continues rally as US stocks pull back: A closer look",
+      "summary": "Analysis of semiconductor sector performance amid broader market pullback, with tech stocks showing mixed results",
+      "published_time": "6 hours ago",
+      "source": "Yahoo Finance",
+      "url": "https://finance.yahoo.com/video/sox-continues-rally-as-us-stocks-pull-back-a-closer-look-192152168.html",
+      "relevance_score": 0.03461884
+    },
+    {
+      "title": "Josh Brown's \"Best Stocks in the Market:\" Trane Technologies",
+      "summary": "Investment analysis featuring Trane Technologies as a market-leading stock pick",
+      "published_time": "6 hours ago",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=RAIvUTsXSpQ",
+      "relevance_score": 0.284576
+    },
+    {
+      "title": "I Bought Amazon's \"Number One\" Tech...",
+      "summary": "Product review and analysis of Amazon's top-rated technology product",
+      "published_time": "6 hours ago",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=riMemu2YAps",
+      "relevance_score": 0.12085323
+    },
+    {
+      "title": "4%, Palantir Revolt Leaked — The Day the Earnings Rally Broke",
+      "summary": "Market analysis covering Tesla's 4% decline and leaked information about Palantir revolt affecting earnings rally",
+      "published_time": "6 hours ago",
+      "source": "YouTube",
+      "url": "https://www.youtube.com/watch?v=g8_rTAHpFHU",
+      "relevance_score": 0.058776557
+    },
+    {
+      "title": "The Palantir Manifesto's Controversial Ideas on AI, Surveillance & Autonomous Weapons",
+      "summary": "DW News analysis of Palantir's controversial positions on artificial intelligence, surveillance technology, and autonomous weapons systems",
+      "published_time": "6 hours ago",
+      "source": "DW News",
+      "url": "https://www.youtube.com/watch?v=5MEooDH6XpU",
+      "relevance_score": 0.014392335
+    },
+    {
+      "title": "Introducing GPT-5.5—a new class of intelligence for real work",
+      "summary": "Announcement of GPT-5.5, described as a new class of AI intelligence designed for practical work applications",
+      "published_time": "6 hours ago",
+      "source": "Instagram",
+      "url": "https://www.instagram.com/reel/DXe9NuwJp-b/",
+      "relevance_score": 0.010091315
+    }
+  ],
+  "summary": "Key tech news from the past 6 hours includes Intel's Q1 earnings scrutiny, Microsoft's $25B AI investment in Australia, Tesla's stock decline due to capex plans, and the announcement of GPT-5.5. Market analysis shows mixed performance in tech stocks with semiconductor sector rally continuing."
+}
