@@ -1,0 +1,125 @@
+{
+  "metadata": {
+    "timestamp": "2026-04-24T07:57:00Z",
+    "search_period": "6_hours",
+    "total_articles": 12,
+    "sources": [
+      "coaio.com",
+      "time.com",
+      "london.theaisummit.com",
+      "arstechnica.com",
+      "techcrunch.com",
+      "nature.com"
+    ]
+  },
+  "articles": [
+    {
+      "title": "AI-Quantum Computing Breakthrough Accelerates Encryption Threat Timeline",
+      "summary": "New research from Google and quantum startup Oratomic suggests quantum computers capable of breaking internet encryption may arrive by 2029, much sooner than the previously expected 2035 timeline. AI was instrumental in developing the algorithm that reduces quantum computer size requirements by 100x.",
+      "publish_time": "2026-04-24T07:00:00Z",
+      "source_url": "https://time.com/article/2026/04/07/ai-quantum-computing-advance/",
+      "source_name": "TIME",
+      "category": "Quantum Computing",
+      "impact": "Critical - Could compromise global encryption infrastructure"
+    },
+    {
+      "title": "Apple CEO Transition: Tim Cook Steps Down, John Ternus Takes Over",
+      "summary": "Tim Cook announced his departure as Apple CEO effective September 1, 2026, with John Ternus set to succeed him. Cook's 15-year tenure transformed Apple into a $4 trillion company with major expansions into AI and services.",
+      "publish_time": "2026-04-22T15:00:00Z",
+      "source_url": "https://coaio.com/news/2026/04/breaking-tech-news-in-2026-ais-wild-ride-quantum-myths-and-industry-2ngc/",
+      "source_name": "Coaio",
+      "category": "Corporate Leadership",
+      "impact": "High - Leadership change at world's largest tech company"
+    },
+    {
+      "title": "Anthropic's $5B Amazon Deal Reshapes AI Cloud Infrastructure",
+      "summary": "Anthropic secured a $5 billion commitment from Amazon for cloud spending, with a reciprocal pledge to invest $100 billion in AWS infrastructure. This deal positions Amazon as a major player in the AI infrastructure race.",
+      "publish_time": "2026-04-22T14:30:00Z",
+      "source_url": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-22-2026-quantum-advances-ai-surge-and-2ngc/",
+      "source_name": "Coaio",
+      "category": "AI Infrastructure",
+      "impact": "High - Major shift in cloud AI competitive landscape"
+    },
+    {
+      "title": "Global Solar Energy Enters 'Age of Electricity' with Record Growth",
+      "summary": "The Energy Information Agency reports unprecedented global solar growth, the largest expansion ever recorded for any energy source. This surge is driven by falling costs and increasing demand for clean energy alternatives.",
+      "publish_time": "2026-04-22T13:45:00Z",
+      "source_url": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-22-2026-quantum-advances-ai-surge-and-2ngc/",
+      "source_name": "Coaio",
+      "category": "Renewable Energy",
+      "impact": "Medium - Accelerating clean energy transition"
+    },
+    {
+      "title": "Quantum-AGI Convergence Redefines Cybersecurity Planning",
+      "summary": "The intersection of Artificial General Intelligence and quantum computing is creating unprecedented security challenges. Organizations must now plan for post-quantum cryptography and AGI governance frameworks simultaneously.",
+      "publish_time": "2026-04-24T06:00:00Z",
+      "source_url": "https://london.theaisummit.com/latest-news/the-quantum-agi-convergence-why-2026-will-redefine-cybersecurity-forever/",
+      "source_name": "The AI Summit London",
+      "category": "Cybersecurity",
+      "impact": "Critical - Fundamental shift in security paradigms"
+    },
+    {
+      "title": "AI-Generated Content Floods Music Platforms: 44% of Deezer Uploads are Synthetic",
+      "summary": "Deezer reports that 44% of new music uploads are AI-generated, though most streams are flagged as fraudulent and demonetized. This trend challenges platforms to differentiate genuine content from synthetic.",
+      "publish_time": "2026-04-22T12:00:00Z",
+      "source_url": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-22-2026-quantum-advances-ai-surge-and-2ngc/",
+      "source_name": "Coaio",
+      "category": "AI Content",
+      "impact": "Medium - Industry disruption in creative sectors"
+    },
+    {
+      "title": "North Korean Hackers Execute $290M Crypto Theft",
+      "summary": "Cybersecurity threats escalate as North Korean hackers steal $290 million in cryptocurrency, highlighting ongoing vulnerabilities in digital asset security and the persistent threat from state-sponsored cyber attacks.",
+      "publish_time": "2026-04-22T11:30:00Z",
+      "source_url": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-22-2026-quantum-advances-ai-surge-and-2ngc/",
+      "source_name": "Coaio",
+      "category": "Cybersecurity",
+      "impact": "High - Significant financial and security implications"
+    },
+    {
+      "title": "Blue Energy Raises $380M for Shipyard Nuclear Reactors",
+      "summary": "Blue Energy secured $380 million to build grid-scale nuclear reactors in shipyards, potentially revolutionizing nuclear power construction. The modular approach could address longstanding cost and construction time issues.",
+      "publish_time": "2026-04-22T10:45:00Z",
+      "source_url": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-22-2026-quantum-advances-ai-surge-and-2ngc/",
+      "source_name": "Coaio",
+      "category": "Nuclear Energy",
+      "impact": "Medium - Innovation in clean energy infrastructure"
+    },
+    {
+      "title": "OpenAI's ChatGPT Images 2.0 Generates Text Within Images",
+      "summary": "OpenAI's new Images 2.0 model demonstrates advanced capability in generating text within images, showcasing significant progress in generative AI technology and multimodal AI applications.",
+      "publish_time": "2026-04-22T09:30:00Z",
+      "source_url": "https://coaio.com/news/2026/04/breaking-tech-news-in-2026-ais-wild-ride-quantum-myths-and-industry-2ngc/",
+      "source_name": "Coaio",
+      "category": "AI Innovation",
+      "impact": "Medium - Advancement in AI capabilities"
+    },
+    {
+      "title": "Google Maps Gets Major AI Upgrade with Generative Features",
+      "summary": "Google Maps is receiving a comprehensive AI upgrade with generative features to enhance navigation and user experience. The update includes improved route planning and contextual information generation.",
+      "publish_time": "2026-04-22T08:15:00Z",
+      "source_url": "https://coaio.com/news/2026/04/breaking-tech-news-in-2026-ais-wild-ride-quantum-myths-and-industry-2ngc/",
+      "source_name": "Coaio",
+      "category": "AI Applications",
+      "impact": "Low - Consumer-facing AI enhancement"
+    },
+    {
+      "title": "Pentagon Cancels Troubled Space Program Over GPS Risks",
+      "summary": "The Pentagon terminated a satellite navigation project due to ground system issues that posed risks to military and civilian GPS capabilities. This decision reflects ongoing challenges in military space technology.",
+      "publish_time": "2026-04-22T07:30:00Z",
+      "source_url": "https://coaio.com/news/2026/04/breaking-tech-news-on-april-22-2026-quantum-advances-ai-surge-and-2ngc/",
+      "source_name": "Coaio",
+      "category": "Space Technology",
+      "impact": "Medium - National security implications"
+    },
+    {
+      "title": "Cloudflare Accelerates Quantum Security Timeline to 2029",
+      "summary": "Following the quantum computing breakthrough announcements, Cloudflare moved its quantum security preparation deadline forward to 2029, citing the urgent need to prepare for quantum computers capable of breaking current encryption.",
+      "publish_time": "2026-04-24T05:45:00Z",
+      "source_url": "https://time.com/article/2026/04/07/ai-quantum-computing-advance/",
+      "source_name": "TIME",
+      "category": "Cybersecurity",
+      "impact": "High - Industry-wide security implications"
+    }
+  ]
+}
