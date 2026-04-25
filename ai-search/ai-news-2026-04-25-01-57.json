@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-04-25T01:57:00Z",
+  "search_period": "past_6_hours",
+  "news_count": 10,
+  "news_items": [
+    {
+      "title": "2026年技术革命：AI 代理、硬件升级和安全转变",
+      "summary": "文章深入探讨2026年4月23日的最新技术发展，涵盖AI代理、硬件创新和安全领域的重大突破。重点包括MCP开发者峰会讨论模型上下文协议的重要性，Anthropic的Mythos模型在Firefox 150中发现271个零日漏洞，Meta利用AI跟踪员工互动并引入家长监控工具，以及Google Workspace将AI作为办公室实习生等创新应用。硬件方面，Framework宣布笔记本电脑重大升级，AMD发布Ryzen 9 9950X3D2处理器，CATL推出7分钟快充电池技术。",
+      "publish_time": "2026-04-23T00:00:00Z",
+      "source": "coaio.com",
+      "url": "https://coaio.com/zh/news/2026/04/revolutionizing-tech-in-2026-ai-agents-hardware-upgrades-and-security-2nkc/"
+    },
+    {
+      "title": "2026年4月24日AI前沿资讯速览",
+      "summary": "复旦大学提出MEDS框架解决大模型强化学习中的错误坍塌问题。月之暗面发布Kimi K2.6旗舰模型，支持300个子Agent并行调度。国际投行共识认为全球AI算力面临结构性短缺，2026年将成为供需缺口最严重的峰值年。Google发布TPUv8双芯片，首次将训练与推理分离。",
+      "publish_time": "2026-04-24T14:22:02Z",
+      "source": "openeuler.csdn.net",
+      "url": "https://openeuler.csdn.net/69eb0c280a2f6a37c5a5cd96.html"
+    },
+    {
+      "title": "2026年4月24日人工智能领域热点趋势报告",
+      "summary": "OpenAI发布GPT-5.5模型，在智能体能力上实现质的飞跃。DeepSeek-V4开源模型发布，具备百万字超长上下文和领先Agent能力。Google发布第八代TPU v8，挑战NVIDIA在AI芯片市场的主导地位。NVIDIA Rubin架构芯片进入全面生产阶段。中国出台《人工智能拟人化互动服务管理暂行办法》。Meta裁员8000人同时大幅增加AI基础设施投入。",
+      "publish_time": "2026-04-24T00:00:00Z",
+      "source": "juejin.cn",
+      "url": "https://juejin.cn/post/7632237134600077364"
+    },
+    {
+      "title": "每日AI必读资讯：AI人工智能领域最新热点资讯（2026年4月24日）",
+      "summary": "OpenAI GPT-5.5正式发布，被称为迄今最智能的版本。DeepSeek-V4预览版上线并开源。腾讯混元Hy3 preview发布，采用MoE架构。国内大模型密集更新，包括字节Seed3D 2.0、阿里Qwen3.6-27B、小米MiMo-V2.5。Meta计划裁员10%约8000人，全力押注AI。IBM与谷歌云宣布全球战略合作。",
+      "publish_time": "2026-04-24T00:00:00Z",
+      "source": "news.softunis.com",
+      "url": "https://news.softunis.com/57080.html"
+    },
+    {
+      "title": "新浪人工智能热点小时报丨2026年04月24日20时",
+      "summary": "特斯拉以20亿美元收购一家神秘的AI硬件公司。同方股份推进AI+核技术，自主研发的核智大模型通过国家级权威认证。科大讯飞携手两仪万象成立合资企业量智开物，布局AI+量子领域。英特尔股价飙升20%，AI业务成为核心增长引擎。",
+      "publish_time": "2026-04-24T20:00:00Z",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904ohwm.html?from=tech"
+    },
+    {
+      "title": "【史丹佛大學2026 AI 指數報告】中美技術差距消弭、初階職位消失",
+      "summary": "史丹佛大学AI指数报告显示，中美在顶尖AI模型效能上的差距已实质性消弭。AI事故通报数量显著攀升，初阶工作者的就业机会正在系统性消失。生成式AI在短短三年内达到53%的人口普及率。AI在专业领域的表现急速攀升，在自主软件工程基准测试中表现接近人类基准。",
+      "publish_time": "2026-04-25T00:00:00Z",
+      "source": "techorange.com",
+      "url": "https://techorange.com/2026/04/25/2026-ai-index-report/"
+    },
+    {
+      "title": "AI+与产业发展新趋势",
+      "summary": "香港政府提出加速AI产业化，推动人工智能与各行各业深度融合。AI正由技术示范与试点应用，转化为企业日常运营的基础配置。AI在信用保险业的应用可有效整合多来源资料，协助核保及风险评估等关键环节，提升效率的同时强化风险判断的准确性。",
+      "publish_time": "2026-04-25T00:00:00Z",
+      "source": "www.hkej.com",
+      "url": "https://www.hkej.com/wm/article/id/4380877/"
+    },
+    {
+      "title": "大厂AI的两手准备",
+      "summary": "腾讯与阿里巴巴正就投资DeepSeek展开洽谈。大厂采取左手自研、右手撒网的两手准备策略，一方面通过自研构建核心能力，同时以广泛投资覆盖不同技术路径与潜在颠覆性机会。大厂对AI初创企业的投资不再执着于控制权，而是转向体系协同下的开放合作。",
+      "publish_time": "2026-04-24T00:00:00Z",
+      "source": "www.ncsti.gov.cn",
+      "url": "https://www.ncsti.gov.cn/kjdt/xwjj/202604/t20260424_244842.html"
+    },
+    {
+      "title": "中国拟限制科技公司接受美国投资 含AI新创领域",
+      "summary": "中国拟限制人工智能新创企业在内的顶尖科技公司，未经当局核准不得接受美国资金投资。包括月之暗面和阶跃星辰等中国AI新创公司已接获这项指示。这些措施旨在防止美国投资人取得攸关中国国家安全的敏感技术公司股票。",
+      "publish_time": "2026-04-24T22:00:00Z",
+      "source": "www.cna.com.tw",
+      "url": "https://www.cna.com.tw/news/aopl/202604240325.aspx"
+    },
+    {
+      "title": "新浪人工智能热点小时报丨2026年04月24日19时",
+      "summary": "沐曦股份陈维良表示国产GPU筑牢算力基座，AI深度赋能医疗健康。数学极客将人工智能变成印钞机，XTX Markets利用英伟达芯片和深度学习技术预测价格走势。经纬恒润与商汤绝影签署战略合作协议，围绕多模态大模型、智能驾驶等领域开展深度合作。",
+      "publish_time": "2026-04-24T19:00:00Z",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904ogl6.html?from=tech"
+    }
+  ]
+}
