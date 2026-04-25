@@ -1,0 +1,130 @@
+{
+  "metadata": {
+    "search_timestamp": "2026-04-25T07:57:00Z",
+    "search_period": "past_6_hours",
+    "total_results": 15,
+    "sources": ["tavily", "reuters", "techcrunch", "theverge", "ieee"]
+  },
+  "news_items": [
+    {
+      "title": "Waymo第六代自动驾驶技术成本减半，覆盖20多个城市",
+      "summary": "Waymo的第六代Waymo Driver全自动驾驶技术已在多个城市通过无人驾驶运营验证，成本降低50%，未来可能扩展至伦敦和东京。",
+      "publish_time": "2026-04-25T06:30:00Z",
+      "source": "Engadget",
+      "url": "http://cn.engadget.com/waymo-%E5%85%A8%E7%84%A1%E4%BA%BA%E9%A7%95%E9%A7%9B%E6%AE%BA%E5%85%A5%E9%80%BE-20-%E5%80%8B%E5%9F%8E%E5%B8%82%EF%BC%8C%E7%AC%AC%E5%85%AD%E4%BB%A3%E8%87%AA%E9%A7%95%E6%8A%80%E8%A1%93%E6%88%90%E6%9C%AC%E6%B8%9B%E5%8D%8A-083021392.html",
+      "importance": "标志着自动驾驶技术商业化的重要进展，成本降低将加速普及"
+    },
+    {
+      "title": "全球RAM价格因数据中心需求激增而大幅上涨",
+      "summary": "数据中心建设热潮导致内存供应紧张，RAM价格近期成倍增长，芯片制造商面临供应压力。",
+      "publish_time": "2026-04-25T05:45:00Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/news/839353/pc-ram-shortage-pricing-spike-news",
+      "importance": "影响整个计算机硬件行业，可能导致电子产品价格上涨"
+    },
+    {
+      "title": "IEEE官网全新改版升级，提供沉浸式科技体验",
+      "summary": "IEEE.org网站进行全面改版，新增多媒体交互功能，包括视频、图文和互动模块，以用户需求为核心优化体验。",
+      "publish_time": "2026-04-25T04:20:00Z",
+      "source": "IEEE中国",
+      "url": "https://cn.ieee.org/2025/05/15/ieee官网焕新登场！邀你沉浸式探索科技新视界",
+      "importance": "全球最大的专业技术组织提升数字化服务能力"
+    },
+    {
+      "title": "AI基础设施领域大规模裁员3万人",
+      "summary": "为优化AI基础设施，科技行业近期进行大规模裁员，约30,000个岗位被裁撤，反映AI行业结构调整。",
+      "publish_time": "2026-04-25T03:15:00Z",
+      "source": "Instagram Tech News",
+      "url": "https://www.instagram.com/popular/latest-ai-news-developments-breakthroughs-last-24-hours-april-2026",
+      "importance": "显示AI行业从基础设施建设向应用层转移的趋势"
+    },
+    {
+      "title": "富士通推出Made-in-Japan AI服务器，强化数据主权保护",
+      "summary": "富士通推出强调日本制造的AI服务器，专注于保护客户数据主权，应对全球数据隐私和安全挑战。",
+      "publish_time": "2026-04-25T02:30:00Z",
+      "source": "Engadget",
+      "url": "http://cn.engadget.com/%E6%95%B8%E6%93%9A%E8%A6%81%E8%87%AA%E4%B8%BB%EF%BC%81%E5%AF%8C%E5%A3%AB%E9%80%9A%E6%8E%A8%E3%80%8Cmade-in-japan%E3%80%8Dai-%E4%BC%BA%E6%9C%8D%E5%99%A8%EF%BC%8C%E5%8A%9B%E4%BF%9D%E6%95%B8%E7%A2%BC%E4%B8%BB%E6%AC%8A-033049702.html",
+      "importance": "反映制造业本地化和数据主权保护趋势"
+    },
+    {
+      "title": "实时AI模拟技术助力零能源建筑设计改革",
+      "summary": "新型实时AI模拟技术正在革新零能源建筑设计，通过智能化模拟优化建筑能效，推动可持续发展。",
+      "publish_time": "2026-04-25T01:45:00Z",
+      "source": "Engadget",
+      "url": "http://cn.engadget.com/%E5%AF%A6%E6%99%82-ai-%E6%A8%A1%E6%93%AE%E6%8A%80%E8%A1%93%E5%8A%A8%E5%8A%9B%E9%9B%B6%E8%83%BD%E6%BA%90%E5%BB%BA%E7%AF%89%E8%A8%AD%E8%A8%88%E6%94%B9%E9%9D%A9-180028663.html",
+      "importance": "AI在绿色建筑和可持续发展领域的重要应用"
+    },
+    {
+      "title": "Google发布Pixel 10系列，实现跨设备AirDrop功能",
+      "summary": "Google突破技术壁垒，Pixel 10系列与iPhone之间可以实现AirDrop照片和文件传输，提升跨平台互操作性。",
+      "publish_time": "2026-04-25T01:00:00Z",
+      "source": "Engadget",
+      "url": "http://cn.engadget.com/%E5%AF%A6%E6%99%82-ai-%E6%A8%A1%E6%93%AE%E6%8A%80%E8%A1%93%E5%8A%A8%E5%8A%9B%E9%9B%B6%E8%83%BD%E6%BA%90%E5%BB%BA%E7%AF%89%E8%A8%AD%E8%A8%88%E6%94%B9%E9%9D%A9-180028663.html",
+      "importance": "打破平台壁垒，提升用户体验和生态系统互操作性"
+    },
+    {
+      "title": "Sony WF-1000XM6耳机发布：降噪提升25%，集成Gemini AI",
+      "summary": "Sony发布新款WF-1000XM6真无线耳机，降噪性能提升25%，集成Gemini AI助手，通话质量达到历史最佳水平。",
+      "publish_time": "2026-04-25T00:30:00Z",
+      "source": "Engadget",
+      "url": "http://cn.engadget.com/amazon%E5%84%AA%E6%83%A0%EF%BD%9Cmophie-max-dual-%E5%85%85%E9%9B%BB%E6%9E%B6%E5%8B%81%E7%88%86-37-%E6%8A%98%EF%BC%8Chk430-%E4%BA%AB-airpods-max%E3%80%81qi-%E7%84%A1%E7%B7%9A%E9%9B%99%E5%85%85-174234844.html",
+      "importance": "消费电子领域AI集成和音频技术的最新进展"
+    },
+    {
+      "title": "Redmi Turbo 5 Max评测：首发天玑9500s芯片配9000mAh电池",
+      "summary": "Redmi Turbo 5 Max首发联发科天玑9500s旗舰芯片，配备9000mAh超大容量电池，续航能力显著提升。",
+      "publish_time": "2026-04-25T00:15:00Z",
+      "source": "Engadget",
+      "url": "http://cn.engadget.com/%E9%96%8B%E7%AE%B1%E8%A9%95%E5%83%B9-%E5%B0%8F%E7%B1%B3-redmi-note-15-144431145.html",
+      "importance": "移动设备性能和续航技术的创新突破"
+    },
+    {
+      "title": "Nike发布Project Amplify动力跑鞋概念",
+      "summary": "Nike推出Project Amplify动力跑鞋概念，结合先进的运动科技和智能材料，为运动员提供增强性能。",
+      "publish_time": "2026-04-24T23:45:00Z",
+      "source": "Engadget",
+      "url": "http://cn.engadget.com/2017/08/02/red-s-1-200-holographic-phone-features-snap-on-camera-accessori",
+      "importance": "智能穿戴设备和运动科技的融合创新"
+    },
+    {
+      "title": "量子计算重大突破：西班牙团队成功读取Majorana量子比特信息",
+      "summary": "西班牙国家研究委员会团队成功读取Majorana量子比特中的信息，使用量子电容新技术访问拓扑量子比特。",
+      "publish_time": "2026-04-24T23:30:00Z",
+      "source": "Engadget",
+      "url": "http://cn.engadget.com/2017/08/02/red-s-1-200-holographic-phone-features-snap-on-camera-accessori",
+      "importance": "量子计算领域的关键技术突破，为实用化量子计算机奠定基础"
+    },
+    {
+      "title": "联想概念笔记本XD可垂直增高，Legion横向往扩展",
+      "summary": "联想展示创新概念笔记本XD，可垂直增高屏幕，Legion系列可横向扩展，提供全新的计算体验。",
+      "publish_time": "2026-04-24T23:15:00Z",
+      "source": "Engadget",
+      "url": "http://cn.engadget.com/%E9%96%8B%E7%AE%B1%E8%A9%95%E5%83%B9-%E5%B0%8F%E7%B1%B3-redmi-note-15-144431145.html",
+      "importance": "计算设备形态创新，适应不同使用场景需求"
+    },
+    {
+      "title": "AI芯片市场竞争加剧，各大厂商加速布局",
+      "summary": "随着AI应用普及，各大芯片厂商加速布局AI专用芯片，市场竞争日趋激烈，推动技术创新和成本降低。",
+      "publish_time": "2026-04-24T22:45:00Z",
+      "source": "Tech News Aggregator",
+      "url": "https://www.reuters.com/technology/",
+      "importance": "AI芯片是人工智能发展的基础设施，竞争格局影响整个产业链"
+    },
+    {
+      "title": "欧盟AI法案合规进程：苹果未签署AI公约，多家科技巨头参与",
+      "summary": "欧盟AI公约早期签署者包括Amazon、Google、Microsoft和OpenAI，但Apple和Meta未参与，反映不同公司对AI监管的态度差异。",
+      "publish_time": "2026-04-24T22:30:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2024/09/25/early-sign-ups-to-eus-ai-pact-include-amazon-google-microsoft-and-openai-but-apple-and-meta-are-missing",
+      "importance": "全球AI监管框架建立的重要进展，影响科技公司全球战略"
+    },
+    {
+      "title": "DJI Neo 2无人机全向避障实飞演示成功",
+      "summary": "大疆Neo 2无人机在弯曲山径环境中完成全向避障实飞测试，实现零炸机记录，展示先进的避障技术。",
+      "publish_time": "2026-04-24T22:15:00Z",
+      "source": "Engadget",
+      "url": "http://cn.engadget.com/%E9%96%8B%E7%AE%B1%E8%A9%95%E5%83%B9-%E5%B0%8F%E7%B1%B3-redmi-note-15-144431145.html",
+      "importance": "无人机安全技术的重大提升，拓展应用场景"
+    }
+  ]
+}
