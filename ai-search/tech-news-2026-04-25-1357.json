@@ -1,0 +1,150 @@
+{
+  "metadata": {
+    "search_time": "2026-04-25T13:57:00Z",
+    "time_range": "past_6_hours",
+    "total_articles": 10,
+    "categories": ["AI", "Quantum Computing", "Technology", "Innovation"]
+  },
+  "articles": [
+    {
+      "title": "国内首家"AI+量子"融合实体公司"量智开物"正式启航：破解算力"天花板"的中国方案",
+      "summary": "量智开物(北京)科技有限公司正式揭牌，发布国内首个专注于AI与量子科技深度融合的实体公司。公司发布了"追风"大规模原子快速重排算法和"扁鹊"量子纠错解码器两项突破性成果，首次在实验上捕获10064个原子，突破万量级比特资源。",
+      "publish_time": "2026-04-25T08:23:56Z",
+      "source": "清华大学官网",
+      "url": "https://www.tsinghua.edu.cn/info/1182/125605.htm",
+      "key_points": [
+        "国内首家AI+量子融合实体公司正式成立",
+        "发布"追风"和"扁鹊"两项核心算法",
+        "实现10064个原子捕获，突破万量级比特",
+        "科大讯飞与清华大学团队合作成果"
+      ],
+      "impact": "标志着中国在AI+量子融合领域迈出从学术探索走向系统性产业布局的关键一步，为解决AI算力瓶颈提供了全新路径。"
+    },
+    {
+      "title": "我国自主量子计算机"本源悟空"形成搭载人工智能运算能力",
+      "summary": "中国第三代自主超导量子计算机"本源悟空"已初步具备搭载人工智能运算能力，上线了量子知识大模型Origin Brain和QPanda3 Runtime MCP等多款量子人工智能工具，推动量子计算机从"可用"向"好用"迈进。",
+      "publish_time": "2026-04-25T10:30:00Z",
+      "source": "新浪财经",
+      "url": "https://finance.sina.com.cn/jjxw/2026-04-25/doc-inhvtfma2395262.shtml",
+      "key_points": [
+        ""本源悟空"具备AI运算能力",
+        "上线量子知识大模型Origin Brain",
+        "推出QPanda3 Runtime MCP工具",
+        "为全球163个国家和地区提供服务"
+      ],
+      "impact": "这是我国自主量子算力首次系统性融入人工智能应用生态，大幅降低量子计算使用门槛，推动量子算力向更多开发者和行业场景开放。"
+    },
+    {
+      "title": "谷歌加码1800亿美元押注AGI，量子计算与AI范式转变成焦点",
+      "summary": "谷歌CEO皮查伊透露，谷歌计划在未来数年内对通用人工智能(AGI)领域投入高达1800亿美元。谷歌正在探索量子计算、太空数据中心等长周期技术，其中量子计算被认为将在自然现象模拟方面发挥关键作用。",
+      "publish_time": "2026-04-25T09:15:00Z",
+      "source": "新浪新闻",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904pbco.html?from=tech",
+      "key_points": [
+        "谷歌AGI投资达1800亿美元",
+        "探索量子计算和太空数据中心",
+        "量子计算用于自然现象模拟",
+        "预计2027年AI将迎范式转变"
+      ],
+      "impact": "显示了科技巨头对AGI和量子计算的重视程度，预示着未来计算技术的重要发展方向。"
+    },
+    {
+      "title": "霍尼韦尔旗下量子计算公司Quantinuum秘密提交美国IPO申请",
+      "summary": "霍尼韦尔旗下的量子计算公司Quantinuum已秘密提交美国IPO文件，去年9月融资时估值达到100亿美元。该公司在量子计算领域具有重要地位。",
+      "publish_time": "2026-04-25T11:45:00Z",
+      "source": "凤凰网财经",
+      "url": "https://finance.ifeng.com/c/8sbyzAwEqSN",
+      "key_points": [
+        "Quantinuum秘密提交IPO申请",
+        "估值达100亿美元",
+        "霍尼韦尔旗下量子计算公司",
+        "显示量子计算商业化进程加速"
+      ],
+      "impact": "量子计算公司IPO标志着该技术正从实验室走向商业化，将推动整个行业的发展。"
+    },
+    {
+      "title": "比特币面临量子威胁：690万BTC可能面临风险",
+      "summary": "量子计算机可能破解保护比特币钱包所有权的加密技术，约690万枚比特币(包括中本聪持有的部分)由于公钥在链上可见，已经暴露于未来的量子攻击风险之中。",
+      "publish_time": "2026-04-25T06:00:00Z",
+      "source": "CoinDesk",
+      "url": "https://www.coindesk.com/zh/tech/2026/04/25/clock-is-ticking-for-bitcoin-to-prevent-quantum-threat-as-it-could-drain-6-9-million-btc-including-satoshi-s",
+      "key_points": [
+        "量子计算机威胁比特币安全",
+        "690万BTC面临量子攻击风险",
+        "主要威胁来自椭圆曲线加密破解",
+        "需要后量子密码学升级"
+      ],
+      "impact": "凸显了量子计算对现有加密体系的威胁，推动区块链行业加速后量子密码学的研发和应用。"
+    },
+    {
+      "title": "Project Eleven颁发Q-Day 1 BTC悬赏：量子计算机成功破解15位元椭圆曲线金钥",
+      "summary": "非营利组织Project Eleven向独立研究者Giancarlo Lelli颁发1枚比特币悬赏，因其在公开可存取的云端量子电脑上使用Shor算法变体，成功破解15位元椭圆曲线金钥，这是迄今为止规模最大的公开量子攻击演示。",
+      "publish_time": "2026-04-25T12:30:00Z",
+      "source": "ABMedia",
+      "url": "https://abmedia.io/project-eleven-qday-prize-15bit-ecc-quantum-attack-shor-algorithm",
+      "key_points": [
+        "成功破解15位元椭圆曲线金钥",
+        "使用Shor算法变体",
+        "在云端量子电脑上实现",
+        "量子攻击能力显著提升"
+      ],
+      "impact": "证明了量子计算机在密码破解方面的实际进展，距离威胁真实比特币网络更近一步，促使加密行业加速量子安全防护。"
+    },
+    {
+      "title": "华为香港科技周聚焦"AI+金融"，联手伙伴发布"银行智慧应用一体机"",
+      "summary": "华为在香港科技周上重点探讨AI赋能金融行业，联合四家伙伴推出"银行智慧应用一体机"解决方案，助力巩固香港国际金融中心地位。",
+      "publish_time": "2026-04-25T14:00:00Z",
+      "source": "美通社",
+      "url": ""https://money.udn.com/money/story/123828/9463961",
+      "key_points": [
+        "华为发布银行智慧应用一体机",
+        "聚焦AI+金融领域",
+        "联合四家合作伙伴",
+        "助力香港国际金融中心建设"
+      ],
+      "impact": "展示了AI技术在金融行业的实际应用，推动了金融行业的数字化转型和智能化升级。"
+    },
+    {
+      "title": "科技巨头发展量子电脑，千附精密切入量子运算股价连拉五根涨停",
+      "summary": "千附精密协助全球量子运算领导企业开发"超低温量子设备系统"，已完成验证并出货，推动股价连续拉出五根涨停板。NVIDIA发布全球第一个开源量子AI模型"Ising"系列。",
+      "publish_time": "2026-04-25T08:30:00Z",
+      "source": "经济日报",
+      "url": "https://money.udn.com/money/story/5710/9454674",
+      "key_points": [
+        "千附精密量子设备系统出货",
+        "股价连续五涨停",
+        "NVIDIA发布Ising量子AI模型",
+        "量子计算产业链逐步成熟"
+      ],
+      "impact": "显示量子计算产业链正在形成，相关企业的技术突破获得市场认可，推动整个行业发展。"
+    },
+    {
+      "title": "2026年4月24日科技新闻：AI芯片大战、电动车创新和全球变革",
+      "summary": "科技界充斥着各种动态，包括OpenAI最新模型发布、特斯拉财报、网络安全进展等。勒索软件开始使用量子安全加密，多个国家禁止儿童使用社交媒体，美国指责中国进行"工业规模"的AI盗窃。",
+      "publish_time": "2026-04-25T07:00:00Z",
+      "source": "Coaio",
+      "url": "https://coaio.com/zh/news/2026/04/breaking-tech-news-on-april-24-2026-ai-chip-wars-ev-innovations-and-2noc/",
+      "key_points": [
+        "AI芯片竞争激烈",
+        "网络安全威胁升级",
+        "全球科技政策变化",
+        "量子安全加密应用"
+      ],
+      "impact": "反映了当前科技行业的多维度发展，包括技术创新、安全挑战和政策监管等方面。"
+    },
+    {
+      "title": "2026年4月2日科技突发新闻：月球任务、AI泄露和量子威胁",
+      "summary": "Artemis II月球任务进展、Anthropic的Claude Code CLI源代码泄露事件、量子计算机可能以低于预期的资源破坏关键加密系统等重大科技新闻。",
+      "publish_time": "2026-04-25T06:30:00Z",
+      "source": "Coaio",
+      "url": "https://coaio.com/zh/news/2026/04/breaking-tech-news-on-april-2-2026-moon-missions-ai-leaks-and-quantum-2l8c",
+      "key_points": [
+        "Artemis II月球任务进展",
+        "AI源代码泄露事件",
+        "量子计算加密威胁",
+        "太空技术与AI融合"
+      ],
+      "impact": "展示了太空探索、人工智能和量子计算等前沿技术的最新进展和挑战。"
+    }
+  ]
+}
