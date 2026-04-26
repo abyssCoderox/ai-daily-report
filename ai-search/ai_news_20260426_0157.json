@@ -1,0 +1,77 @@
+{
+  "timestamp": "2026-04-26T01:57:00Z",
+  "time_range": "past_6_hours",
+  "total_results": 10,
+  "articles": [
+    {
+      "title": "Xiao-Bo Zhu | Division of Quantum Physics and Quantum Information",
+      "url": "https://quantum.ustc.edu.cn/web/en/node/51",
+      "snippet": "‘祖冲之三号’入选2025年度中国十大科技进展新闻；中国科大在量子纠错领域达到关键里程碑；中国科大利用超导量子处理器首次在量子体系中实现并探测高阶非平衡拓扑相；中国科大实现超导体系“量子计算优越性”新纪录；中国科大成功实现最大规模的51比特量子纠缠态制备。",
+      "site_name": "quantum.ustc.edu.cn",
+      "score": 0.97788346
+    },
+    {
+      "title": "2026年4月24日的科技突破：人工智能、安全和电动车创新塑造未来",
+      "url": "https://coaio.com/zh/news/2026/04/tech-breakthroughs-on-april-24-2026-ai-security-and-ev-innovations-2noc/",
+      "snippet": "ChargePoint推出了新的600 kW快速充电器，设计更具经济性和空间效率；Meta与亚马逊达成协议，使用数百万亚马逊人工智能CPU进行代理工作负载；微软发布了针对ASP.NET中漏洞的紧急更新，影响macOS和Linux用户；Vercel报告了一起数据泄露事件，其中一些客户信息被窃取。",
+      "site_name": "coaio.com",
+      "score": 0.971779
+    },
+    {
+      "title": "Techmeme",
+      "url": "https://www.techmeme.com/",
+      "snippet": "xAI held talks in recent weeks with Mistral and Cursor about a potential three-way partnership；Mistral co-founder Devendra Chaplot joined xAI in March；SK hynix sees HBM demand outpacing supply for three years；SK Hynix Earnings Top Estimates as AI Boom Lifts Memory Prices — Update。",
+      "site_name": "www.techmeme.com",
+      "score": 0.6370308
+    },
+    {
+      "title": "市科委、中关村管委会召开中关村示范区一季度经济形势分析会暨世界领先 科技园区建设2026年重点 工作部署会",
+      "url": "https://www.ncsti.gov.cn/kjdt/xwjj/202604/t20260425_244922.html",
+      "snippet": "中关村示范区一季度经济形势分析会召开，部署2026年重点工作；会议强调要加快建设世界领先科技园区，推动科技创新和产业升级；重点关注人工智能、量子信息、生物技术等前沿领域发展。",
+      "site_name": "www.ncsti.gov.cn",
+      "score": 0.441673
+    },
+    {
+      "title": "林仁斌觀點：誰用電、誰買單？台灣能源補貼背後的隱形不正義 | 林仁斌 | 評論 - 風傳媒",
+      "url": "https://www.storm.mg/article/11122972",
+      "snippet": "讨论台湾能源补贴背后的隐性不公；分析当前能源政策对不同群体的影响；探讨如何实现更公平的能源分配机制。",
+      "site_name": "www.storm.mg",
+      "score": 0.15921742
+    },
+    {
+      "title": "除了無人機、無人艇 國防部：將導入無人機器狗 | 政經焦點 | 要聞 | 經濟日報",
+      "url": "https://money.udn.com/money/story/7307/9464161",
+      "snippet": "国防部成立国防创新小组（DIO）至今已超过2年；国军已规划导入四足机器人（机器狗）、无人运输及战术载具，用于侦察、攻击及物资运补等多样任务；各类无人机已大量用于情监侦、攻击、通讯中继、电战、后勤与救援等任务。",
+      "site_name": "money.udn.com",
+      "score": 0.1066906
+    },
+    {
+      "title": "新闻分析丨AI模型“克劳德神话”风波背后，是安全风险还是商业算计",
+      "url": "https://www.news.cn/tech/20260425/70629feeb70a4c538a4a6fc4d1325416/c.html",
+      "snippet": "Anthropic以“网络安全风险过高”为由，宣布暂缓向公众开放其最新大模型“克劳德神话”预览版；英国人工智能安全研究所发布的独立评估报告指出，“克劳德神话”模型在专家级别的“夺旗”网络安全挑战中成功率达到73%；业界质疑这是Anthropic为推高估值、谋求生态垄断而刻意制造的“恐惧营销”。",
+      "site_name": "www.news.cn",
+      "score": 0.08694165
+    },
+    {
+      "title": "DoNews-创新无边界",
+      "url": "https://www.donews.com/",
+      "snippet": "科技创新资讯平台，提供最新的科技动态和行业分析。",
+      "site_name": "www.donews.com",
+      "score": 0.037892424
+    },
+    {
+      "title": "中国人民解放軍の艦艇編隊 フィリピン・ルソン島の東方海域で演習・訓練（レコードチャイナ）｜ｄメニューニュース（NTTドコモ）",
+      "url": "https://topics.smt.docomo.ne.jp/article/recordchina/world/recordchina-RC_975728?utm_source=dnews&utm_medium=article&utm_campaign=contentsmatch1",
+      "snippet": "中国人民解放军舰艇编队在菲律宾吕宋岛东部海域进行演习训练；演习重点包括实弹射击、海空协同、快速机动、航行中补给等；战区部队根据安全形势需要组织相关军事行动，维护国家主权安全和地区和平稳定。",
+      "site_name": "topics.smt.docomo.ne.jp",
+      "score": 0.012053779
+    },
+    {
+      "title": "「国際的な詐欺拠点」カンボジア、摘発強化で外国人２４万人が出国か…政府と詐欺組織の癒着の指摘も（読売新聞）｜ｄメニューニュース（NTTドコモ）",
+      "url": "https://topics.smt.docomo.ne.jp/article/yomiuri/world/20260425-567-GYT1T00273",
+      "snippet": "柬埔寨加强打击国际诈骗据点，可能导致24万外国人出境；美国财政部对涉嫌参与特殊诈骗的柬埔寨上议员兼实业家Cook An等人实施制裁；Cook An是前总理Hun Sen的亲信，也被视为执政党人民党的资金来源。",
+      "site_name": "topics.smt.docomo.ne.jp",
+      "score": 0.006241259
+    }
+  ]
+}
