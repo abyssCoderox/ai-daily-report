@@ -1,0 +1,91 @@
+{
+  "timestamp": "2026-04-26T13:57:00Z",
+  "timeRange": "past_6_hours",
+  "totalArticles": 5,
+  "articles": [
+    {
+      "title": "Google Unveils Eighth Generation TPUs for Agentic AI Era",
+      "summary": "Google announces TPU 8t and TPU 8i, its eighth-generation Tensor Processor Units designed specifically for the agentic AI era. The TPU 8t focuses on massive model training while TPU 8i specializes in low-latency inference for AI agents.",
+      "keyPoints": [
+        "TPU 8t delivers 3x compute performance per pod over previous generation with 9,600 chips scaling to 121 ExaFlops",
+        "TPU 8i offers 80% better performance-per-dollar with specialized memory architecture for AI agent collaboration",
+        "Both chips feature custom Axion ARM-based CPUs and support major AI frameworks like JAX, PyTorch, and vLLM",
+        "Designed in partnership with Google DeepMind to handle complex, iterative AI agent workloads"
+      ],
+      "whyImportant": "These specialized AI chips represent Google's strategic move to dominate the infrastructure layer for agentic AI, potentially reducing training cycles from months to weeks while enabling more efficient AI agent collaboration at scale.",
+      "source": "Google Blog",
+      "url": "https://blog.google/innovation-and-ai/infrastructure-and-cloud/google-cloud/eighth-generation-tpu-agentic-era/",
+      "publishedAt": "2026-04-26T12:00:00Z",
+      "category": "AI Hardware"
+    },
+    {
+      "title": "Apple CEO Transition Signals Hardware-First Strategy Under John Ternus",
+      "summary": "Apple announces John Ternus, longtime hardware engineering leader, as incoming CEO to replace Tim Cook in September 2026. The move signals a strategic pivot back to hardware innovation amid AI competition.",
+      "keyPoints": [
+        "Ternus led Apple Silicon development and recent Mac lineup, bringing deep hardware expertise",
+        "Leadership change represents shift from Cook's services-focused strategy to hardware-centric innovation",
+        "Analysts expect renewed focus on robotics, AR hardware, and AI-powered devices",
+        "Apple betting on embedding AI intelligence directly into silicon rather than cloud-based models"
+      ],
+      "whyImportant": "This leadership transition marks a fundamental strategic shift for Apple, potentially accelerating hardware innovation in AI, robotics, and AR while maintaining focus on device-centric AI rather than competing directly with cloud AI providers.",
+      "source": "CIO.inc",
+      "url": "https://www.cio.inc/apples-ceo-pick-signals-stability-at-risky-moment-for-ai-a-31473",
+      "publishedAt": "2026-04-26T11:30:00Z",
+      "category": "Corporate Strategy"
+    },
+    {
+      "title": "NVIDIA GPU-Accelerated AI Transforms Astronomical Discovery",
+      "summary": "UC Santa Cruz researchers demonstrate how NVIDIA GPU-accelerated AI systems process James Webb Space Telescope data, reducing analysis time from years to days for datasets containing hundreds of thousands of galaxies.",
+      "keyPoints": [
+        "Morpheus AI system uses semantic segmentation to analyze individual pixels rather than entire galaxies",
+        "$1.6 million NSF-funded computational pipeline enables real-time cosmic discovery",
+        "Distributed computing approach spans campus clusters to national supercomputers",
+        "Technology extends beyond astronomy to genomics, climate modeling, and drug discovery"
+      ],
+      "whyImportant": "This breakthrough democratizes advanced scientific computing, enabling smaller research teams to tackle complex analysis previously accessible only to well-funded consortia, potentially accelerating discoveries across multiple scientific domains.",
+      "source": "Business20Channel.tv",
+      "url": "https://business20channel.tv/nvidia-gpu-analysis-2026-how-ai-powers-universe-discovery-26-april-2026",
+      "publishedAt": "2026-04-26T10:45:00Z",
+      "category": "Scientific Computing"
+    },
+    {
+      "title": "AI Development Boom Triggers Mac Mini Shortages and Price Surges",
+      "summary": "Surging AI development demand creates unexpected pressure on consumer hardware markets, with Mac Mini shortages driving resale prices significantly above retail levels as developers seek accessible computing power.",
+      "keyPoints": [
+        "AI projects like OpenClaw drive demand for consumer-grade hardware capable of handling ML workloads",
+        "Resale prices exceed retail by $200+ due to supply-demand imbalance",
+        "Mac Mini's balance of power efficiency and processing capability makes it ideal for AI development",
+        "Trend reflects shift toward distributed computing models using consumer devices"
+      ],
+      "whyImportant": "This hardware shortage highlights the democratization of AI development and how mainstream consumer devices are becoming critical infrastructure for AI innovation, potentially reshaping hardware markets and accessibility.",
+      "source": "MEXC News",
+      "url": "https://www.mexc.com/news/1054182",
+      "publishedAt": "2026-04-26T09:27:00Z",
+      "category": "Hardware Market"
+    },
+    {
+      "title": "Apple's Ternus Era: Hardware Innovation Returns to Center Stage",
+      "summary": "John Ternus's appointment as Apple CEO signals a strategic return to hardware innovation, with expected focus on robotics, AR glasses, and AI-powered devices built on Apple's vertical integration model.",
+      "keyPoints": [
+        "Ternus represents a departure from Cook's services-heavy strategy back to device innovation",
+        "Expected to greenlight hardware moonshots including robotics and AR glasses",
+        "Apple's approach focuses on embedding AI intelligence at the silicon level for privacy and performance",
+        "Market responded positively with stock jump on succession news"
+      ],
+      "whyImportant": "This leadership change could reignite Apple's hardware innovation engine, potentially leading to category-defining products in AI, robotics, and AR while maintaining Apple's competitive advantage in integrated hardware-software experiences.",
+      "source": "TechBuzz.ai",
+      "url": "https://www.techbuzz.ai/articles/apple-s-ternus-era-hardware-returns-to-center-stage",
+      "publishedAt": "2026-04-26T08:15:00Z",
+      "category": "Product Strategy"
+    }
+  ],
+  "metadata": {
+    "generatedBy": "Tavily Search API",
+    "searchParameters": {
+      "timeRange": "past_6_hours",
+      "topics": ["technology", "AI", "hardware", "corporate_strategy"],
+      "sources": ["Google Blog", "CIO.inc", "Business20Channel.tv", "MEXC News", "TechBuzz.ai"]
+    },
+    "categories": ["AI Hardware", "Corporate Strategy", "Scientific Computing", "Hardware Market", "Product Strategy"]
+  }
+}

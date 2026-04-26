@@ -1,0 +1,150 @@
+{
+  "timestamp": "2026-04-26T19:57:00Z",
+  "time_range": "past_6_hours",
+  "total_articles": 15,
+  "articles": [
+    {
+      "title": "Intel Shares Surge as AI Drives First-Quarter Revenue Jump",
+      "summary": "Intel reported strong Q1 results with AI-driven revenue growth, causing shares to surge significantly. The chipmaker shows signs of turnaround with AI boom for CPUs gaining momentum.",
+      "publish_time": "2026-04-24T09:30:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/",
+      "category": "AI/Hardware",
+      "importance": "high"
+    },
+    {
+      "title": "OpenAI CEO Apologizes to Tumbler Ridge Community",
+      "summary": "Sam Altman issued a formal apology to the Tumbler Ridge community in Canada following a mass shooting incident where OpenAI failed to report a suspect's account to police authorities.",
+      "publish_time": "2026-04-25T15:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/25/openai-ceo-apologizes-to-tumbler-ridge-community/",
+      "category": "AI/Regulation",
+      "importance": "high"
+    },
+    {
+      "title": "Meta to Cut 10% of Workforce in AI Push",
+      "summary": "Meta announces plans to lay off approximately 8,000 employees (10% of workforce) while closing 6,000 open roles as the company intensifies its focus on artificial intelligence development.",
+      "publish_time": "2026-04-23T12:00:00Z",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/articles/crm1y89vek8o",
+      "category": "AI/Corporate",
+      "importance": "high"
+    },
+    {
+      "title": "Google to Invest Up to $40 Billion in Anthropic",
+      "summary": "Google commits to invest up to $40 billion in AI rival Anthropic, following similar investment patterns as its previous OpenAI cloud deal, signaling intensified competition in the AI space.",
+      "publish_time": "2026-04-24T10:00:00Z",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/24/google-to-invest-up-to-40-billion-in-anthropic-as-search-giant-spreads-its-ai-bets.html",
+      "category": "AI/Investment",
+      "importance": "high"
+    },
+    {
+      "title": "Nvidia Stock Closes at Record, Pushing Market Cap Past $5 Trillion",
+      "summary": "Nvidia's stock reached a record high, pushing the company's market capitalization beyond $5 trillion, driven by continued strong demand for AI chips and technology.",
+      "publish_time": "2026-04-24T16:00:00Z",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/24/nvidia-stock-closes-at-record-pushing-market-cap-past-5-trillion.html",
+      "category": "AI/Hardware",
+      "importance": "high"
+    },
+    {
+      "title": "DeepSeek Unveils New AI Model Tailored for Huawei Chips",
+      "summary": "Chinese AI startup DeepSeek launched a preview of its new V4 model specifically adapted for Huawei chip technology, demonstrating China's growing AI capabilities and push for tech autonomy.",
+      "publish_time": "2026-04-24T14:00:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/chinas-deepseek-returns-with-new-model-year-after-viral-rise-2026-04-24/",
+      "category": "AI/International",
+      "importance": "medium"
+    },
+    {
+      "title": "US State Department Orders Global Warning About Alleged China AI Thefts",
+      "summary": "The U.S. State Department has ordered a global diplomatic push to highlight widespread efforts by Chinese companies, including DeepSeek, to allegedly steal intellectual property from U.S. AI labs.",
+      "publish_time": "2026-04-24T11:00:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/china/us-state-dept-orders-global-warning-about-alleged-china-ai-thefts-by-deepseek-2026-04-24/",
+      "category": "AI/Security",
+      "importance": "high"
+    },
+    {
+      "title": "Cohere Acquires German AI Company Aleph Alpha",
+      "summary": "Canadian AI company Cohere announces acquisition of German AI firm Aleph Alpha to expand European presence and compete with dominant American AI companies, creating a transatlantic AI powerhouse.",
+      "publish_time": "2026-04-24T09:00:00Z",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/04/24/business/cohere-aleph-alpha-ai-merger.html",
+      "category": "AI/Corporate",
+      "importance": "medium"
+    },
+    {
+      "title": "Tesla Increases Spending Plan to $25B",
+      "summary": "Tesla announces increased capital expenditure plan to $25 billion, with significant investments directed toward AI, chips, and robotics development to advance autonomous driving technology.",
+      "publish_time": "2026-04-22T13:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/22/tesla-just-increased-its-capex-to-25b-heres-where-the-money-is-going/",
+      "category": "AI/Transportation",
+      "importance": "medium"
+    },
+    {
+      "title": "Microsoft Plans First-Ever Voluntary Employee Buyout for 7% of U.S. Workforce",
+      "summary": "Microsoft announces a voluntary buyout program targeting 7% of its U.S. workforce, part of broader restructuring efforts amid the AI transformation and changing workplace dynamics.",
+      "publish_time": "2026-04-23T15:00:00Z",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/23/microsoft-plans-first-voluntary-retirement-program-for-us-employees.html",
+      "category": "AI/Corporate",
+      "importance": "medium"
+    },
+    {
+      "title": "China's Caocao Plans Delivery of Fully Customised Robotaxis",
+      "summary": "Geely's autonomous driving subsidiary Caocao announces plans to deploy thousands of fully customized robotaxis by 2027, advancing China's autonomous vehicle industry.",
+      "publish_time": "2026-04-24T08:00:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/chinas-caocao-plans-delivery-deployment-fully-customised-robotaxis-2026-04-24/",
+      "category": "AI/Transportation",
+      "importance": "medium"
+    },
+    {
+      "title": "Anthropic Created Test Marketplace for Agent-on-Agent Commerce",
+      "summary": "Anthropic develops an experimental marketplace where AI agents can conduct commerce with each other, exploring new paradigms in autonomous AI economic interactions.",
+      "publish_time": "2026-04-25T10:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/25/anthropic-created-a-test-marketplace-for-agent-on-agent-commerce/",
+      "category": "AI/Innovation",
+      "importance": "medium"
+    },
+    {
+      "title": "US Justice Department Intervenes in xAI Challenge to Colorado Tech Law",
+      "summary": "The U.S. Justice Department gets involved in xAI's legal challenge to Colorado technology regulations, highlighting federal interest in AI governance and oversight.",
+      "publish_time": "2026-04-24T12:00:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/us-justice-department-intervenes-xai-challenge-colorado-tech-law-2026-04-24/",
+      "category": "AI/Regulation",
+      "importance": "medium"
+    },
+    {
+      "title": "Amazon Chips Get Boost from Meta, Giving Cloud Giant Another Path to Win in AI",
+      "summary": "Amazon's custom AI chips receive a significant boost from Meta's adoption, providing AWS with competitive advantages in the cloud AI infrastructure market.",
+      "publish_time": "2026-04-24T14:00:00Z",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/24/amazon-custom-chips-get-a-boost-from-meta-giving-the-cloud-giant-another-path-to-win-in-ai.html",
+      "category": "AI/Hardware",
+      "importance": "medium"
+    },
+    {
+      "title": "Musk v. Altman Trial Heads to Court",
+      "summary": "The legal battle between Elon Musk and Sam Altman over OpenAI's direction heads to trial, with Musk seeking billions in damages and potential implications for AI industry governance.",
+      "publish_time": "2026-04-24T16:00:00Z",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/24/musk-v-altman-trial-openai-lawsuit-xai.html",
+      "category": "AI/Legal",
+      "importance": "high"
+    }
+  ],
+  "summary_stats": {
+    "ai_related": 15,
+    "corporate_news": 6,
+    "hardware_tech": 4,
+    "regulatory": 3,
+    "international": 2,
+    "investment": 2
+  }
+}
