@@ -1,0 +1,140 @@
+{
+  "timestamp": "2026-04-27T19:57:00Z",
+  "search_period": "past_6_hours",
+  "total_articles": 8,
+  "articles": [
+    {
+      "title": "Sony Announces PS5 Price Increase Starting May 2026",
+      "summary": "Sony Interactive Entertainment announced a significant price increase for PS5 consoles in Taiwan and Hong Kong, with digital edition seeing the highest increase of 23.4% due to rising component costs.",
+      "publish_time": "2026-04-27T08:00:00Z",
+      "source_url": "https://cn.engadget.com/sony-ps5-price-increase-may-2026",
+      "source_name": "Engadget China",
+      "category": "gaming_hardware",
+      "key_points": [
+        "PS5 Digital Edition price increases by 23.4% in Taiwan",
+        "Standard PS5 increases by 13.7% in Taiwan",
+        "PS5 Pro and PlayStation Portal also affected",
+        "Price hike due to memory and key component cost increases"
+      ]
+    },
+    {
+      "title": "OpenAI Partners with MediaTek and Qualcomm on Custom Smartphone Chips",
+      "summary": "Analyst Ming-Chi Kuo reports OpenAI is developing custom smartphone processors with MediaTek and Qualcomm, targeting mass production by 2028 for AI agent phones.",
+      "publish_time": "2026-04-27T10:30:00Z",
+      "source_url": "https://bloomberg.com/openai-mediatek-qualcomm-smartphone-chips",
+      "source_name": "Bloomberg",
+      "category": "ai_hardware",
+      "key_points": [
+        "OpenAI developing 'AI agent phones' with custom chips",
+        "Luxshare serves as exclusive system design partner",
+        "Expected mass production in 2028",
+        "Final specifications to be determined by end of 2026"
+      ]
+    },
+    {
+      "title": "Microsoft and OpenAI Renegotiate Partnership Agreement",
+      "summary": "Microsoft and OpenAI have restructured their partnership, ending exclusive arrangements and removing controversial AGI clauses for greater transparency and flexibility.",
+      "publish_time": "2026-04-27T12:15:00Z",
+      "source_url": "https://theinformation.com/microsoft-openai-partnership-renegotiation",
+      "source_name": "The Information",
+      "category": "ai_business",
+      "key_points": [
+        "End of exclusive Azure cloud partnership",
+        "Removal of controversial AGI ownership条款",
+        "OpenAI can now use other cloud providers",
+        "Microsoft remains primary cloud partner"
+      ]
+    },
+    {
+      "title": "Waymo Expands Autonomous Driving to 20+ Cities",
+      "summary": "Waymo's sixth-generation autonomous driving technology has been validated in over 20 US cities, with costs reduced by half and potential expansion to London and Tokyo.",
+      "publish_time": "2026-04-27T14:20:00Z",
+      "source_url": "https://techcrunch.com/waymo-autonomous-expansion-2026",
+      "source_name": "TechCrunch",
+      "category": "autonomous_vehicles",
+      "key_points": [
+        "Sixth-gen Waymo Driver technology validated",
+        "Cost reduction of 50% compared to previous generation",
+        "Expansion plans for London and Tokyo markets",
+        "Full autonomous operation without safety drivers"
+      ]
+    },
+    {
+      "title": "TSMC Reports Strong AI Chip Demand",
+      "summary": "Taiwan Semiconductor Manufacturing Company reports record revenue driven by AI chip demand, with optimistic outlook for sustained AI boom through 2026.",
+      "publish_time": "2026-04-27T15:45:00Z",
+      "source_url": "https://reuters.com/tsmc-ai-chip-demand-2026",
+      "source_name": "Reuters",
+      "category": "semiconductors",
+      "key_points": [
+        "Record quarterly revenue driven by AI chip orders",
+        "Strong demand from Nvidia and other AI chip makers",
+        "Optimistic forecast for continued AI growth",
+        "Expansion of advanced manufacturing capacity"
+      ]
+    },
+    {
+      "title": "Samsung Profit Triples on AI Memory Demand",
+      "summary": "Samsung Electronics reports profit tripling due to AI-driven memory market growth, with strong demand for high-bandwidth memory chips from AI server manufacturers.",
+      "publish_time": "2026-04-27T16:30:00Z",
+      "source_url": "https://bloomberg.com/samsung-ai-memory-profit-triple",
+      "source_name": "Bloomberg",
+      "category": "semiconductors",
+      "key_points": [
+        "Profit triples year-over-year",
+        "AI server demand drives HBM memory sales",
+        "Strong pricing power in memory market",
+        "Increased investment in memory production capacity"
+      ]
+    },
+    {
+      "title": "Intel Faces Worst Decline in 17 Months",
+      "summary": "Intel shares suffer their worst decline in 17 months following weak earnings forecast, highlighting challenges in competing with AI-focused chipmakers.",
+      "publish_time": "2026-04-27T17:10:00Z",
+      "source_url": "https://reuters.com/intel-weak-forecast-decline",
+      "source_name": "Reuters",
+      "category": "semiconductors",
+      "key_points": [
+        "Weak quarterly earnings forecast",
+        "Struggles to compete in AI chip market",
+        "Server chip sales decline",
+        "Increased competition from AMD and ARM-based chips"
+      ]
+    },
+    {
+      "title": "Real-time AI Simulation Technology for Zero-Energy Building Design",
+      "summary": "New AI-powered simulation technology is helping architects and engineers design zero-energy buildings more efficiently, reducing design time and improving energy performance.",
+      "publish_time": "2026-04-27T18:25:00Z",
+      "source_url": "https://wired.com/ai-simulation-zero-energy-buildings",
+      "source_name": "Wired",
+      "category": "ai_applications",
+      "key_points": [
+        "AI simulation reduces building design time by 60%",
+        "Improved energy efficiency predictions",
+        "Real-time optimization of building systems",
+        "Integration with BIM and CAD workflows"
+      ]
+    }
+  ],
+  "summary": {
+    "total_articles_analyzed": 8,
+    "main_trends": [
+      "AI chip demand continues to drive semiconductor industry growth",
+      "Major partnerships and collaborations in AI hardware development",
+      "Autonomous vehicle technology expansion and cost reduction",
+      "Traditional tech companies adapting to AI transformation"
+    ],
+    "key_companies_mentioned": [
+      "OpenAI",
+      "Microsoft",
+      "Sony",
+      "TSMC",
+      "Samsung",
+      "Intel",
+      "MediaTek",
+      "Qualcomm",
+      "Waymo"
+    ],
+    "market_impact": "Strong positive momentum in AI and semiconductor sectors, with traditional hardware companies facing pressure to adapt to AI-driven market changes."
+  }
+}

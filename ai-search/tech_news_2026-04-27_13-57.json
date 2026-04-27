@@ -1,0 +1,71 @@
+{
+  "timestamp": "2026-04-27T13:57:00Z",
+  "search_period": "past_6_hours",
+  "total_articles": 8,
+  "news": [
+    {
+      "title": "Intel Reports 7% YoY Revenue Growth in Q1 2026 Driven by AI Demand",
+      "summary": "Intel posted first-quarter 2026 revenue of $13.6 billion, a 7% year-on-year increase, driven by strong demand for artificial intelligence and data center workloads. The company's data center and AI segment brought in $5.1 billion, with server CPU demand from agentic AI leading growth.",
+      "why_important": "Intel's turnaround story demonstrates the massive impact of AI on traditional semiconductor companies, with CPU demand surging due to AI agent workloads and the company's stock more than doubling in 2026.",
+      "publish_time": "2026-04-27T13:45:00Z",
+      "source_url": "https://www.electronicsforyou.biz/industry-buzz/intel-sees-7-yoy-revenue-growth-in-q1-2026/",
+      "source_name": "Electronics For You"
+    },
+    {
+      "title": "Google Commits $40 Billion to Anthropic in AI Computing Power Race",
+      "summary": "Google announced a massive $40 billion investment in Anthropic, including $10 billion upfront at a $350 billion valuation, to expand compute capacity with 5 gigawatts of power. This follows Amazon's additional $25 billion pledge, intensifying the Big Three AI alliances.",
+      "why_important": "This unprecedented investment highlights the extreme capital concentration in AI compute infrastructure and the fierce competition between tech giants (Microsoft-OpenAI, Amazon-Anthropic, Google-partners) for AI dominance.",
+      "publish_time": "2026-04-27T12:30:00Z",
+      "source_url": "https://www.spreaker.com/episode/ai-giants-race-for-computing-power-google-s-40b-anthropic-deal-reshapes-industry--71669077",
+      "source_name": "Spreaker"
+    },
+    {
+      "title": "Google DeepMind Partners with South Korea to Accelerate Scientific Discovery",
+      "summary": "Google DeepMind announced a strategic partnership with the Republic of Korea's Ministry of Science and ICT to accelerate AI-driven scientific research. The collaboration includes establishing an AI Campus in Seoul and leveraging advanced AI models like AlphaFold and WeatherNext.",
+      "why_important": "This partnership represents a major national-level AI collaboration that will advance research in life sciences, energy, weather, and climate, positioning Korea as a global AI leader and creating a model for international AI research cooperation.",
+      "publish_time": "2026-04-27T11:00:00Z",
+      "source_url": "https://deepmind.google/blog/announcing-our-partnership-with-the-republic-of-korea/",
+      "source_name": "Google DeepMind"
+    },
+    {
+      "title": "DeepSeek Launches New AI Models with Drastically Reduced Costs",
+      "summary": "Chinese startup DeepSeek released new artificial intelligence models with drastically reduced costs on April 24, more than a year after stunning the world with a low-cost reasoning model that matched US rivals' capabilities.",
+      "why_important": "DeepSeek's cost-cutting approach intensifies the AI price war between China and the US, making advanced AI more accessible and challenging the dominance of Western AI companies.",
+      "publish_time": "2026-04-27T10:15:00Z",
+      "source_url": "https://english.aawsat.com/technology/5266860-chinas-deepseek-slashes-prices-new-ai-model",
+      "source_name": "Asharq Al-Awsat"
+    },
+    {
+      "title": "Elon Musk and Sam Altman Head to Court in High-Stakes AI Showdown",
+      "summary": "Elon Musk and OpenAI CEO Sam Altman are facing off in court over OpenAI's founding mission. Musk, who invested $38 million in OpenAI's early days, accuses Altman of betraying the company's nonprofit mission by shifting to a profit-driven model.",
+      "why_important": "This legal battle could have significant implications for the AI industry's governance, the definition of AI safety, and the future direction of artificial intelligence development, potentially affecting billions in AI investments.",
+      "publish_time": "2026-04-27T09:30:00Z",
+      "source_url": "https://apnews.com/article/musk-altman-artificial-intelligence-trial-openai-eb854fa682675f70267abd8a7b9a6a43",
+      "source_name": "Associated Press"
+    },
+    {
+      "title": "Microsoft Launches Agentic AI Office Productivity Suite",
+      "summary": "Microsoft's Copilot Agent Mode for Word, Excel, and PowerPoint became generally available on April 22, 2026. This agentic AI can draft full documents, restructure analyses, or rebuild presentations without step-by-step prompting.",
+      "why_important": "This represents a fundamental shift in office productivity, moving from AI assistants that answer questions to AI agents that perform multi-step tasks autonomously, potentially transforming how businesses operate.",
+      "publish_time": "2026-04-27T08:45:00Z",
+      "source_url": "https://asanify.com/blog/news/agentic-ai-office-productivity-april-27-2026/",
+      "source_name": "Asanify"
+    },
+    {
+      "title": "OpenAI Updates Principles Amid AGI Development Concerns",
+      "summary": "OpenAI updated its charter in 2026, removing the promise to collaborate with other AI safety research institutes and shifting focus from AGI development to the deployment of iterative AI within society.",
+      "why_important": "This philosophical shift reflects the changing landscape of AI development, prioritizing current commercial applications over future superintelligence concerns and signaling a more pragmatic approach to AI safety.",
+      "publish_time": "2026-04-27T08:00:00Z",
+      "source_url": "https://www.thenews.com.pk/latest/1400503-openai-updated-its-principles-heres-what-quietly-changed",
+      "source_name": "The News International"
+    },
+    {
+      "title": "Sony AI's Robot Ace Scores Against Professional Ping-Pong Players",
+      "summary": "Sony AI's robot named Ace demonstrated advanced capabilities by scoring against professional ping-pong players, showcasing significant progress in robotics and AI-powered sports technology.",
+      "why_important": "This achievement demonstrates the rapid advancement of AI robotics in complex physical tasks, with potential applications extending beyond sports to manufacturing, healthcare, and other industries requiring precise motor control.",
+      "publish_time": "2026-04-27T07:30:00Z",
+      "source_url": "https://www.reuters.com/technology/",
+      "source_name": "Reuters"
+    }
+  ]
+}
