@@ -1,0 +1,82 @@
+{
+  "search_metadata": {
+    "search_query": "科技新闻",
+    "search_time": "2026-04-27T07:57:00Z",
+    "result_count": 10,
+    "time_range": "过去6小时内"
+  },
+  "news_items": [
+    {
+      "title": "人工智慧能寫講章 AI觀念有世代差異 | 科技產業 | 產經 | 聯合新聞網",
+      "summary": "美國生命之路研究指出，年輕教友與城市大型教會的領袖通常對AI持較開放的態度，而福音派人士與年長者則較為保守。教會內部對於牧師是否應利用AI撰寫講道辭意見分歧，年輕族群則普遍希望在講道中探討科技與信仰的結合。",
+      "publish_time": "2026-04-27T07:00:00Z",
+      "source_url": "https://udn.com/news/story/7240/9466728?from=udn-ch1_breaknews-1-0-news",
+      "source_name": "聯合新聞網",
+      "key_points": [
+        "AI在宗教領域的應用引發討論",
+        "年輕族群對AI接受度較高",
+        "教會內部對AI使用存在分歧"
+      ]
+    },
+    {
+      "title": "郭明錤：OpenAI正攜手聯發科、高通與立訊 2028強攻「AI代理手機」",
+      "summary": "天風國際證券分析師郭明錤表示OpenAI將「重新定義智慧手機」，要讓手機提供全面性AI代理（AI agent）服務，目前正與聯發科和高通（Qualcomm）合作開發手機處理器，預計在2028年量產這款手機。",
+      "publish_time": "2026-04-27T06:30:00Z",
+      "source_url": "https://udn.com/news/story/7240/9466943?from=udn-relatednews_ch2",
+      "source_name": "聯合新聞網",
+      "key_points": [
+        "OpenAI與台灣晶片廠商合作",
+        "AI代理手機預計2028年量產",
+        "重新定義智慧手機概念"
+      ]
+    },
+    {
+      "title": "AI推升PCB產值衝千億美元 泰國PCB產業高峰會聚焦四大關鍵議題",
+      "summary": "台灣電路板協會與泰國電路板協會在曼谷共同主辦「2026泰國PCB產業高峰會」，會中發布《AI浪潮與地緣政治交會下的泰國PCB產業機會》產業調查報告，聚焦工作證申辦、人才培育、基礎設施及產業政策等落地關鍵議題。",
+      "publish_time": "2026-04-27T06:00:00Z",
+      "source_url": "https://udn.com/news/story/7240/9467163?from=udn-relatednews_ch2",
+      "source_name": "聯合新聞網",
+      "key_points": [
+        "AI推動PCB產業產值達千億美元",
+        "台廠積極布局泰國市場",
+        "聚焦人才培育和基礎設施建設"
+      ]
+    },
+    {
+      "title": "首屆漏洞獵捕競賽 駭客找出20個漏洞",
+      "summary": "資安院舉辦「漏洞獵捕」活動，邀請駭客尋找廠商漏洞，供廠商未來精進資安所用，27日公布測試結果，找到20個漏洞，展現台灣資安人才的實力。",
+      "publish_time": "2026-04-27T05:30:00Z",
+      "source_url": "https://udn.com/news/story/7240/9466727?from=udn-relatednews_ch2",
+      "source_name": "聯合新聞網",
+      "key_points": [
+        "台灣駭客找到11家廠商20個資安漏洞",
+        "展現本土資安實力",
+        "促進廠商資安意識提升"
+      ]
+    },
+    {
+      "title": "2026年全球手機直連衛星市場估年增49% 供應鏈迎新商機",
+      "summary": "隨著全球行動通訊標準3GPP Release 17與Release 18持續將衛星通訊納入規範，手機直連衛星（Direct-to-Cell）技術加速成熟。預估2026年全球手機直連衛星市場規模將成長至76億美元，年成長率約49%。",
+      "publish_time": "2026-04-27T05:00:00Z",
+      "source_url": "https://udn.com/news/story/7240/9467152?from=udn-relatednews_ch2",
+      "source_name": "聯合新聞網",
+      "key_points": [
+        "手機直連衛星市場快速成長",
+        "2026年市場規模達76億美元",
+        "年成長率49%顯示巨大商機"
+      ]
+    },
+    {
+      "title": "AI投資效益不彰：過度側重個人使用恐阻礙團隊協作",
+      "summary": "儘管各界對人工智慧抱持高度熱情，但許多AI導入專案未能有效提升團隊協作，導致AI投資與實際業務成效間出現巨大落差。僅15%的AI決策者表示其組織營收有所增長，顯示企業在AI應用上遭遇瓶頸。",
+      "publish_time": "2026-04-27T04:00:00Z",
+      "source_url": "https://tw.news.yahoo.com/ai%E6%8A%95%E8%B3%87%E6%95%88%E7%9B%8A%E4%B8%8D%E5%BD%B0-%E9%81%8E%E5%BA%A6%E5%81%B4%E9%87%8D%E5%80%8B%E4%BA%BA%E4%BD%BF%E7%94%A8%E6%81%90%E9%98%BB%E7%A4%99%E5%9C%98%E9%9A%8A%E5%8D%94%E4%BD%9C-124142084.html",
+      "source_name": "Yahoo奇摩新聞",
+      "key_points": [
+        "AI投資回報率不如預期",
+        "團隊協作效果不佳",
+        "企業AI應用面臨挑戰"
+      ]
+    },
+    {
+      "title": 
