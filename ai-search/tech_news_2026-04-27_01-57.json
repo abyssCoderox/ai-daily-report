@@ -1,0 +1,90 @@
+{
+  "metadata": {
+    "search_time": "2026-04-27T01:57:00Z",
+    "search_period": "past_6_hours",
+    "total_results": 10,
+    "source": "tavily_search"
+  },
+  "news": [
+    {
+      "title": "英飛凌下半年傳缺貨 台功率半導體大啖AI外溢效應",
+      "summary": "隨著德儀釋出亮眼財報，加上AI伺服器的電源架構轉變，為類比與功率元件市場注入強心針。業界傳出IDM大廠部分產品交期已達30周，功率元件恐重演疫情期間缺貨盛況。",
+      "publish_time": "2026-04-27T02:10:02.758Z",
+      "source_url": "https://hk.finance.yahoo.com/news/%E8%8B%B1%E9%A3%9B%E5%87%8C%E4%B8%8B%E5%8D%8A%E5%B9%B4%E5%82%B3%E7%BC%BA%E8%B2%A8-%E5%8F%B0%E5%8A%9F%E7%8E%87%E5%8D%8A%E5%B0%8E%E9%AB%94%E5%A4%A7%E5%95%96ai%E5%A4%96%E6%BA%A2%E6%95%88%E6%87%89-021002758.html",
+      "source_name": "Yahoo Finance HK",
+      "category": "semiconductor"
+    },
+    {
+      "title": "高盛：中東產量減少 上調第四季布蘭特期油目標價至每桶90美元",
+      "summary": "高盛因中東產量減少而上調第四季布蘭特期油目標價至每桶90美元，同時報導壁仞科技完成中移動九天35B大模型預適配等科技新聞。",
+      "publish_time": "2026-04-27T01:40:00Z",
+      "source_url": "http://www.aastocks.com/tc/stocks/news/aafn-con/NOW.1520363/latest-news/AAFN",
+      "source_name": "AASTOCKS",
+      "category": "energy_tech"
+    },
+    {
+      "title": "矿工收益在2026年将比比特币高出70%，Terawulf锁定128亿美元AI合约",
+      "summary": "Terawulf公司锁定128亿美元AI合约，预计2026年矿工收益将比比特币高出70%。Bitdeer正在建设挪威最大AI数据中心，Cleanspark已签订超过1.8吉瓦电力合同。",
+      "publish_time": "2026-04-27T01:30:00Z",
+      "source_url": "https://news.bitcoin.com/zh/kuang-gong-shou-yi-zai-2026-nian-jiang-bi-bi-te-bi-gao-chu-70-terawulf-suo-ding-128-yi-mei-yuan-ai-he-yue/",
+      "source_name": "Bitcoin News",
+      "category": "ai_mining"
+    },
+    {
+      "title": "EventureGroup | Vitrox公布最新业绩，AI爆发两年整条半导体产业链受益",
+      "summary": "Vitrox公司2026年Q1业绩突飞猛进，营收按年猛涨89%，显示AI爆发不仅使NVIDIA GPU受益，而是整条半导体产业链都获得增长。",
+      "publish_time": "2026-04-27T01:25:00Z",
+      "source_url": "https://www.instagram.com/p/DXlE9gjDwhe/",
+      "source_name": "Instagram",
+      "category": "semiconductor"
+    },
+    {
+      "title": "再议取消跨境小包关税；美国史上最大规模关税退款正式启动",
+      "summary": "国务院印发服务业扩能提质意见，锚定2030年突破100万亿元大关。同时涵盖阿里、京东AI布局，找钢网AI与国际化战略等科技动态。",
+      "publish_time": "2026-04-27T01:20:00Z",
+      "source_url": "https://m.ebrun.com/660237.html",
+      "source_name": "亿邦动力",
+      "category": "ai_business"
+    },
+    {
+      "title": "SaaS末日到了？代理AI殘酷超車 運用場景大公開",
+      "summary": "Google内部75%的新代码已由AI生成，工程师角色从编写代码转变为验证和编排AI代理生成的代码。代理式AI浪潮来袭，但企业面临数据孤岛、幻觉风险与成本焦虑等痛点。",
+      "publish_time": "2026-04-27T02:05:00.198Z",
+      "source_url": "https://tw.news.yahoo.com/saas%E6%9C%AB%E6%97%A5%E5%88%B0%E4%BA%86-%E4%BB%A3%E7%90%86ai%E6%AE%98%E9%85%B7%E8%B6%85%E8%BB%8A-%E9%81%8B%E7%94%A8%E5%A0%B4%E6%99%AF%E5%A4%A7%E5%85%AC%E9%96%8B-020500198.html",
+      "source_name": "Yahoo Taiwan",
+      "category": "ai_development"
+    },
+    {
+      "title": "不想被兩強夾擊！AI新創紛紛移師新加坡 看中智慧財產權不歸美中管",
+      "summary": "AI新创公司纷纷移师新加坡，看中智慧财产权不归美中管的超强优势。Anthropic AI模型Mythos发现数千个严重资安漏洞，引发全球银行高度警惕。",
+      "publish_time": "2026-04-27T04:00:02.096Z",
+      "source_url": "https://tw.stock.yahoo.com/news/%E4%B8%8D%E6%83%B3%E8%A2%AB%E5%85%A9%E5%BC%B7%E5%A4%BE%E6%93%8A-ai%E6%96%B0%E5%89%B5%E7%B4%9B%E7%B4%9B%E7%A7%BB%E5%B8%AB%E6%96%B0%E5%8A%A0%E5%9D%A1-%E7%9C%8B%E4%B8%AD-%E6%99%BA%E6%85%A7%E8%B2%A1%E7%94%A2%E6%AC%8A%E4%B8%8D%E6%AD%B8%E7%BE%8E%E4%B8%AD%E7%AE%A1-%E7%9A%84%E8%B6%85%E5%BC%B7%E5%84%AA%E5%8B%A2-040002096.html",
+      "source_name": "Yahoo Taiwan Stock",
+      "category": "ai_startup"
+    },
+    {
+      "title": "巨頭不再買公司而是直接買大腦！Meta挖走AI獨角獸Thinking Machines第五位創始成員",
+      "summary": "Meta挖走AI独角兽Thinking Machines第五位创始成员，显示科技巨头从企业收购转向精准挖角。OpenAI发表GPT-5.5模型，具备自主完成多项复杂任务的能力。",
+      "publish_time": "2026-04-27T15:51:05.726Z",
+      "source_url": "https://tw.news.yahoo.com/giants-are-no-longer-buying-companies-theyre-buying-brains-meta-poached-the-fifth-founding-member-of-ai-unicorn-thinking-machines-155105726.html",
+      "source_name": "Yahoo Taiwan",
+      "category": "ai_talent"
+    },
+    {
+      "title": "傳統收視體驗大打折扣！Sony將大幅刪減部分BRAVIA電視的節目表與機上盒介面功能",
+      "summary": "Sony将大幅删减部分BRAVIA电视的节目表与机顶盒界面功能，产品开发重心完全向全球化串流需求与电竞高更新率面板转移。",
+      "publish_time": "2026-04-27T16:00:23.705Z",
+      "source_url": "https://tw.news.yahoo.com/traditional-viewing-experience-to-be-greatly-diminished-sony-will-significantly-reduce-the-program-guide-and-set-top-box-interface-functions-of-some-bravia-tvs-160023705.html",
+      "source_name": "Yahoo Taiwan",
+      "category": "consumer_electronics"
+    },
+    {
+      "title": "Volvo EX60全球首發亮相！超長810公里續航不焦慮、首搭Google Gemini更聰明",
+      "summary": "Volvo EX60全球首发，搭载Google全新AI助理Gemini，拥有810公里超长续航。配备HuginCore核心处理系统，整合Google、NVIDIA与Qualcomm技术。",
+      "publish_time": "2026-04-27T14:15:51.076Z",
+      "source_url": "https://autos.yahoo.com.tw/news/volvo-ex60%E5%85%A8%E7%90%83%E9%A6%96%E7%99%BC%E4%BA%AE%E7%9B%B8-%E8%B6%85%E9%95%B7810%E5%85%AC%E9%87%8C%E7%BA%8C%E8%88%AA%E4%B8%8D%E7%84%A6%E6%85%AE-%E9%A6%96%E6%90%ADgoogle-gemini%E6%9B%B4%E8%81%B0%E6%98%8E-141551076.html",
+      "source_name": "Yahoo Auto",
+      "category": "automotive_ai"
+    }
+  ]
+}
