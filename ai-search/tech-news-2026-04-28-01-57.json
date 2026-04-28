@@ -1,0 +1,162 @@
+{
+  "timestamp": "2026-04-28T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_articles": 10,
+  "articles": [
+    {
+      "title": "Cisco's quantum switches | Google's AI chips | Qualcomm's 6G roadmap",
+      "summary": "Cisco develops new quantum switches to address scaling challenges in quantum computing, Google unveils TPU 8-series AI chips with enhanced training and inference capabilities, and Qualcomm outlines 6G development roadmap focusing on AI-driven networks.",
+      "publish_time": "2026-04-27T00:00:00Z",
+      "source_url": "https://www.linkedin.com/pulse/ciscos-quantum-switches-googles-ai-chips-qualcomms-6g-lj4bc",
+      "source_name": "RCR Daily",
+      "category": "quantum_computing_ai_6g",
+      "importance": "high",
+      "key_points": [
+        "Cisco's quantum switches address future qubit scaling constraints",
+        "Google's TPU 8t for training scales to 1 million chips with Virgo topology",
+        "TPU 8i triples on-chip SRAM to reduce AI agent latency",
+        "Qualcomm's 6G roadmap emphasizes AI-native networks"
+      ]
+    },
+    {
+      "title": "New quantum technology office launched in Taipei",
+      "summary": "Taiwan establishes new quantum technology office to promote industry development and support firms, positioning quantum tech as the next wave of innovation after AI.",
+      "publish_time": "2026-04-28T00:00:00Z",
+      "source_url": "https://www.taipeitimes.com/News/front/archives/2026/04/28/2003856359",
+      "source_name": "Taipei Times",
+      "category": "quantum_computing_policy",
+      "importance": "high",
+      "key_points": [
+        "Quantum technology positioned as Taiwan's next innovation wave after AI",
+        "Office aims to integrate industry, academia, and research resources",
+        "Focus on helping firms enter quantum field and connect with global markets"
+      ]
+    },
+    {
+      "title": "China's third-generation independent superconducting quantum computer development",
+      "summary": "China embeds quantum computing in its 15th Five-Year Plan (2026-2030) alongside embodied AI, 6G, brain-computer interfaces, and nuclear technology.",
+      "publish_time": "2026-04-27T00:00:00Z",
+      "source_url": "https://www.facebook.com/PDChinaHK/posts/chinas-third-generation-independent-superconducting-quantum-computer-origin-wuko/1282474603999398/",
+      "source_name": "People's Daily China",
+      "category": "quantum_computing_policy",
+      "importance": "medium",
+      "key_points": [
+        "Quantum computing officially included in China's 15th Five-Year Plan",
+        "Strategic focus alongside AI, 6G, and brain-computer interfaces",
+        "Third-generation independent superconducting quantum computer development"
+      ]
+    },
+    {
+      "title": "IQM to Deploy Quantum Computer to TOYO in Japan",
+      "summary": "IQM announces deployment of quantum computer to TOYO in Japan, marking significant expansion of quantum computing infrastructure in Asia-Pacific region.",
+      "publish_time": "2026-04-27T00:00:00Z",
+      "source_url": "https://thequantuminsider.com/2026/04/27/iqm-toyo-quantum-deployment/",
+      "source_name": "The Quantum Insider",
+      "category": "quantum_computing_deployment",
+      "importance": "medium",
+      "key_points": [
+        "IQM quantum computer deployment to TOYO in Japan",
+        "Expansion of quantum infrastructure in Asia-Pacific",
+        "Part of growing quantum computing ecosystem in the region"
+      ]
+    },
+    {
+      "title": "Quantum Computing Companies Race to Go Public",
+      "summary": "Multiple quantum computing companies are accelerating their plans to go public, reflecting growing investor interest and maturation of the quantum industry.",
+      "publish_time": "2026-04-28T00:00:00Z",
+      "source_url": "https://www.wsj.com/cio-journal/quantum-computing-companies-are-in-a-race-to-go-public-303f8a87",
+      "source_name": "Wall Street Journal",
+      "category": "quantum_computing_business",
+      "importance": "medium",
+      "key_points": [
+        "Quantum computing companies accelerating IPO plans",
+        "Growing investor interest in quantum technology sector",
+        "Industry maturation driving public market entry"
+      ]
+    },
+    {
+      "title": "D-Wave Quantum to Participate in Upcoming Investor Conferences",
+      "summary": "D-Wave announces participation in multiple investor conferences throughout May and June 2026, showcasing its dual-platform quantum computing capabilities.",
+      "publish_time": "2026-04-27T00:00:00Z",
+      "source_url": "https://www.tmcnet.com/usubmit/-d-wave-quantum-participate-upcoming-investor-conferences-/2026/04/27/10371460.htm",
+      "source_name": "TMCnet",
+      "category": "quantum_computing_business",
+      "importance": "low",
+      "key_points": [
+        "D-Wave participating in multiple investor conferences",
+        "Showcasing dual-platform quantum computing (annealing and gate-model)",
+        "Participation in Needham, J.P. Morgan, and other major conferences"
+      ]
+    },
+    {
+      "title": "Qualcomm CEO: 'Resistance is futile' as 6G mobile revolution approaches",
+      "summary": "At Mobile World Congress, Qualcomm unveils 6G future powered by AI agents and always-on digital economy, signaling major shift in mobile technology.",
+      "publish_time": "2026-04-27T00:00:00Z",
+      "source_url": "https://www.msn.com/en-us/news/technology/qualcomm-ceo-resistance-is-futile-as-6g-mobile-revolution-approaches/ar-AA1XrpBm",
+      "source_name": "MSN Technology",
+      "category": "6g_technology",
+      "importance": "high",
+      "key_points": [
+        "Qualcomm unveils 6G future with AI agents",
+        "Always-on digital economy vision",
+        "Major shift in mobile technology paradigm"
+      ]
+    },
+    {
+      "title": "China's first Pre-6G pilot network officially launched in Nanjing",
+      "summary": "China launches its first Pre-6G pilot network in Nanjing during the 2026 Global 6G Conference, marking significant progress in next-generation network development.",
+      "publish_time": "2026-04-21T00:00:00Z",
+      "source_url": "https://www.instagram.com/p/DXoRrYOASMA/",
+      "source_name": "Instagram Technology News",
+      "category": "6g_technology",
+      "importance": "medium",
+      "key_points": [
+        "First Pre-6G pilot network launched in Nanjing",
+        "Announced during 2026 Global 6G Conference",
+        "Significant milestone in China's 6G development"
+      ]
+    },
+    {
+      "title": "Quantum Across Illinois workforce development initiative",
+      "summary": "Illinois launches 'Quantum Across Illinois' campaign to build quantum technology workforce, with visits to universities to recruit graduates for quantum careers.",
+      "publish_time": "2026-04-27T00:00:00Z",
+      "source_url": "https://www.wglt.org/local-news/2026-04-27/quantum-across-illinois-wants-to-build-the-next-workforce-in-quantum-technology",
+      "source_name": "WGLT News",
+      "category": "quantum_computing_education",
+      "importance": "low",
+      "key_points": [
+        "Illinois quantum workforce development initiative",
+        "University visits to recruit graduates for quantum careers",
+        "Focus on building quantum-ready workforce"
+      ]
+    },
+    {
+      "title": "AI-powered infrastructure sees, understands, and reacts in real time",
+      "summary": "New AI-powered infrastructure capabilities enable real-time perception, understanding, and reaction, representing advancement in autonomous systems.",
+      "publish_time": "2026-04-26T00:00:00Z",
+      "source_url": "https://www.instagram.com/reel/DXn2Yp0jISV/",
+      "source_name": "Instagram AI News",
+      "category": "ai_infrastructure",
+      "importance": "medium",
+      "key_points": [
+        "AI infrastructure with real-time perception capabilities",
+        "Autonomous understanding and reaction systems",
+        "Advancement in AI-powered infrastructure technology"
+      ]
+    }
+  ],
+  "summary": {
+    "total_articles_analyzed": 10,
+    "main_trends": [
+      "Quantum computing infrastructure and deployment expanding globally",
+      "6G technology development accelerating with AI integration",
+      "AI chip development continuing with Google's TPU advancements",
+      "Government and corporate investment in quantum technology increasing"
+    ],
+    "regional_highlights": {
+      "Asia": "China and Taiwan making significant quantum and 6G investments",
+      "North_America": "US companies leading in quantum hardware and AI chips",
+      "Global": "International collaboration and competition in emerging technologies"
+    }
+  }
+}
