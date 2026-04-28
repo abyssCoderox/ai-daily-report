@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-04-28T19:57:00Z",
+  "period": "past_6_hours",
+  "news_count": 10,
+  "news": [
+    {
+      "title": "OpenAI-Microsoft Partnership Officially Ends",
+      "summary": "The landmark partnership that defined AI for five years has formally concluded, with OpenAI gaining freedom to sell on AWS and other platforms while Microsoft extracts value from its $50 billion investment.",
+      "source": "DeepTrendLab",
+      "url": "https://deeptrendlab.com/article/ai-daily-digest-april-28-2026",
+      "published_time": "2026-04-28T17:57:00Z",
+      "impact": "Major shift in AI cloud provider landscape as OpenAI becomes platform-agnostic, benefiting AWS and other cloud providers while ending Microsoft's exclusive distribution advantage."
+    },
+    {
+      "title": "AI Legal Tools Flooding Court Systems",
+      "summary": "Courts are becoming overwhelmed as people use AI to represent themselves, while jury selection in high-profile AI cases reveals deep public bias against tech figures.",
+      "source": "DeepTrendLab",
+      "url": "https://deeptrendlab.com/article/people-using-ai-to-represent-themselves-in-court-are-clogging-the-62c8d4",
+      "published_time": "2026-04-28T16:57:00Z",
+      "impact": "Legal infrastructure unprepared for AI democratization, creating bottlenecks in court systems and challenging traditional justice processes."
+    },
+    {
+      "title": "Content Apocalypse: One-Third of New Websites Are AI-Generated",
+      "summary": "Study reveals 33% of new websites are AI-generated, with university lectures being converted to AI snippets and platforms like Canva censoring content through pattern-matching algorithms.",
+      "source": "DeepTrendLab",
+      "url": "https://deeptrendlab.com/article/study-finds-a-third-of-new-websites-are-ai-generated-ca6767",
+      "published_time": "2026-04-28T15:57:00Z",
+      "impact": "Fundamental shift in internet content ecosystem with cascading effects on training data quality, cultural diversity, and economic models for human creators."
+    },
+    {
+      "title": "China Blocks Meta's $2B AI Startup Acquisition",
+      "summary": "China vetoes Meta's acquisition of AI startup Manus after months-long investigation, while DeepSeek V4 models demonstrate competitive open-source alternatives to US AI dominance.",
+      "source": "DeepTrendLab",
+      "url": "https://deeptrendlab.com/article/china-moves-to-block-metas-2b-acquisition-of-ai-startup-596cd5",
+      "published_time": "2026-04-28T14:57:00Z",
+      "impact": "Global AI landscape bifurcating as China asserts regulatory control over foreign acquisitions while promoting domestic AI capabilities independent of US technology."
+    },
+    {
+      "title": "Musk v. Altman Trial Begins with Jury Selection Challenges",
+      "summary": "Jury selection reveals widespread public dislike for Elon Musk, complicating the high-stakes legal battle over OpenAI's future and AGI development rights.",
+      "source": "The Verge",
+      "url": "https://deeptrendlab.com/article/jury-selection-in-musk-v-altman-people-dont-like-him-687c47",
+      "published_time": "2026-04-28T13:57:00Z",
+      "impact": "Personal biases affecting landmark AI governance case that could reshape the future of artificial intelligence development and corporate control."
+    },
+    {
+      "title": "Google Tests AI Chatbot Search for YouTube",
+      "summary": "Google is implementing AI-powered search layers on YouTube that will provide comprehensive results with video and text, potentially replacing traditional search methods.",
+      "source": "The Verge",
+      "url": "https://deeptrendlab.com/article/google-is-testing-ai-chatbot-search-for-youtube-95ddf2",
+      "published_time": "2026-04-28T09:57:00Z",
+      "impact": "Transformation of video platform search functionality with AI summarization potentially reducing direct engagement with original content."
+    },
+    {
+      "title": "University Lectures Being Converted to AI Content",
+      "summary": "Academic institutions are using AI tools to chop up professor lectures into automated snippets, raising concerns about educational quality and academic integrity.",
+      "source": "404 Media",
+      "url": "https://deeptrendlab.com/article/university-professors-disturbed-to-find-their-lectures-chopped-up-and-8b07ac",
+      "published_time": "2026-04-28T08:57:00Z",
+      "impact": "Erosion of traditional educational models as AI automation replaces human instruction, potentially devaluing academic expertise."
+    },
+    {
+      "title": "DeepMind's David Silver Raises $1.1B for Human-Data-Free AI",
+      "summary": "AI pioneer raises massive funding to develop systems that learn without human data, addressing fundamental limitations in current machine learning approaches.",
+      "source": "DeepTrendLab",
+      "url": "https://deeptrendlab.com/article/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-330777",
+      "published_time": "2026-04-28T07:57:00Z",
+      "impact": "Breakthrough approach to AI training that could overcome data scarcity issues and reduce dependency on human-labeled datasets."
+    },
+    {
+      "title": "Cybercriminals Using Telegram to Sell Bank KYC Bypass Tools",
+      "summary": "Organized cybercrime groups are openly selling tools on Telegram that defeat facial verification systems used by banks and crypto exchanges for identity checks.",
+      "source": "MIT Technology Review via StyleTech",
+      "url": "https://www.styletech.net/post/top-news-in-tech-april-2026",
+      "published_time": "2026-04-28T06:57:00Z",
+      "impact": "Major security vulnerability in financial systems as KYC checks become unreliable, requiring new authentication methods and regulatory responses."
+    },
+    {
+      "title": "Madison Square Garden Facial Recognition Abuse Exposed",
+      "summary": "Investigation reveals MSG used facial recognition surveillance to target personal enemies of owner James Dolan, including critics and litigants, rather than for security purposes.",
+      "source": "Wired via StyleTech",
+      "url": "https://www.styletech.net/post/top-news-in-tech-april-2026",
+      "ublished_time": "2026-04-28T05:57:00Z",
+      "impact": "Erosion of privacy rights in public spaces and demonstration of unchecked biometric surveillance capabilities without proper legal constraints."
+    }
+  ]
+}
