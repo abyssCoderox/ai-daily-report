@@ -1,0 +1,149 @@
+{
+  "timestamp": "2026-04-29T13:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 15,
+  "news_items": [
+    {
+      "title": "Judge to Altman and Musk: Keep a lid on it",
+      "summary": "A federal judge warned Elon Musk and Sam Altman to stop using social media to escalate their legal battle, telling them to maintain a 'clean slate' during the OpenAI lawsuit proceedings.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/29/judge-to-altman-musk-keep-a-lid-on-it/",
+      "published_time": "2026-04-29T12:00:00Z",
+      "importance": "High - Legal battle between two tech billionaires over OpenAI's mission and future"
+    },
+    {
+      "title": "NXP shares jump 13% on auto, industrial chip resurgence",
+      "summary": "NXP Semiconductors shares surged 14% after posting positive revenue forecasts, signaling recovery in automotive and industrial chip markets after years of supply chain challenges.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/29/judge-to-altman-musk-keep-a-lid-on-it/",
+      "published_time": "2026-04-29T12:00:00Z",
+      "importance": "Medium - Indicates broader semiconductor industry recovery trends"
+    },
+    {
+      "title": "Poolside debuts its first open-weight AI model",
+      "summary": "San Francisco startup Poolside launched two new open-weight AI models, Laguna M.1 and Laguna XS.2, targeting government and public sector clients with agentic workflow capabilities.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/29/judge-to-altman-musk-keep-a-lid-on-it/",
+      "published_time": "2026-04-29T12:00:00Z",
+      "importance": "Medium - New AI model competition in the enterprise space"
+    },
+    {
+      "title": "SpaceX acquires Cursor in $60 billion AI coding deal",
+      "summary": "SpaceX announced a $60 billion acquisition of AI coding platform Cursor, along with a $10 billion compute partnership, positioning the company for its upcoming IPO with AI revenue streams.",
+      "source": "Futurum Group",
+      "url": "https://futurumgroup.com/insights/why-spacex-cursor-works-for-both-and-what-it-means-for-google-aws-ibm/",
+      "published_time": "2026-04-29T10:00:00Z",
+      "importance": "High - Major consolidation in AI development tools market"
+    },
+    {
+      "title": "Tech layoffs surge in 2026: March becomes worst month in 2 years with 38000 job cuts",
+      "summary": "Global tech layoffs accelerated in 2026, with over 92,000 jobs cut between January and April, driven by AI automation and cost-cutting measures across major tech companies.",
+      "source": "India TV News",
+      "url": "https://www.indiatvnews.com/technology/news/tech-layoffs-surge-in-2026-march-becomes-worst-month-in-2-years-with-38000-job-cuts-2026-04-29-1039310",
+      "published_time": "2026-04-29T14:24:00Z",
+      "importance": "High - Significant workforce transformation in tech industry"
+    },
+    {
+      "title": "Microsoft cuts OpenAI revenue share in partnership restructuring",
+      "summary": "Microsoft announced it will no longer pay revenue share to OpenAI, marking a significant shift in their AI partnership as OpenAI diversifies its cloud provider relationships.",
+      "source": "WDRB",
+      "url": "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-4-55-a-m-edt/article_daeb0003-0bba-5ff3-8ecf-d37cc4388099.html",
+      "published_time": "2026-04-29T11:30:00Z",
+      "importance": "High - Major shift in AI industry partnerships and revenue models"
+    },
+    {
+      "title": "Amazon announces major expansion with OpenAI as Microsoft ties loosen",
+      "summary": "Amazon revealed expanded partnership with OpenAI to co-develop AI agents platform, coinciding with Microsoft's reduced revenue share arrangement with the AI company.",
+      "source": "WDRB",
+      "url": "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-4-55-a-m-edt/article_daeb0003-0bba-5ff3-8ecf-d37cc4388099.html",
+      "published_time": "2026-04-29T11:30:00Z",
+      "importance": "High - Shifting alliances in cloud AI services market"
+    },
+    {
+      "title": "Why AI companies want you to be afraid of them",
+      "summary": "Analysis of how AI companies use fear-based marketing strategies, highlighting Anthropic's warnings about its Claude Mythos model's cybersecurity capabilities and potential risks.",
+      "source": "BBC",
+      "url": "https://www.bbc.com/future/article/20260428-ai-companies-want-you-to-be-afraid-of-them",
+      "published_time": "2026-04-29T08:00:00Z",
+      "importance": "Medium - Industry analysis of AI safety and marketing practices"
+    },
+    {
+      "title": "DeepSeek V4 Signals a New Phase in the U.S.-China AI Rivalry",
+      "summary": "Chinese AI startup DeepSeek released its V4 model, narrowing the gap with US AI leaders and intensifying the technological competition between the two nations.",
+      "source": "Council on Foreign Relations",
+      "url": "https://www.cfr.org/articles/deepseek-v4-signals-a-new-phase-in-the-u-s-china-ai-rivalry",
+      "published_time": "2026-04-29T07:00:00Z",
+      "importance": "High - Geopolitical implications for global AI development"
+    },
+    {
+      "title": "AI boom triggers massive tech layoffs as 92000 workers lose jobs",
+      "summary": "Detailed analysis of the 92,000 tech job cuts in 2026, with Oracle cutting 30,000 jobs and Meta trimming 200 positions as companies restructure for AI investment.",
+      "source": "India TV News",
+      "url": "https://www.indiatvnews.com/technology/news/tech-layoffs-surge-in-2026-march-becomes-worst-month-in-2-years-with-38000-job-cuts-2026-04-29-1039310",
+      "published_time": "2026-04-29T14:24:00Z",
+      "importance": "Medium - Specific company impacts and industry trends"
+    },
+    {
+      "title": "Elon Musk takes stand in trial vs. Sam Altman that could reshape AI's future",
+      "summary": "Elon Musk testified in federal court against former OpenAI colleagues, in a case that could have significant implications for AI development and corporate governance.",
+      "source": "WDRB",
+      "url": "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-4-55-a-m-edt/article_daeb0003-0bba-5ff3-8ecf-d37cc4388099.html",
+      "published_time": "2026-04-29T11:30:00Z",
+      "importance": "High - Legal precedent for AI company governance"
+    },
+    {
+      "title": "China blocks Meta from acquiring startup Manus as global AI rivalry deepens",
+      "summary": "Chinese authorities banned Meta's planned acquisition of AI startup Manus, citing national security concerns and reflecting escalating tech tensions between US and China.",
+      "source": "WDRB",
+      "url": "https://www.wdrb.com/news/national/ap-technology-summarybrief-at-4-55-a-m-edt/article_daeb0003-0bba-5ff3-8ecf-d37cc4388099.html",
+      "published_time": "2026-04-29T11:30:00Z",
+      "importance": "Medium - International regulatory impact on tech acquisitions"
+    },
+    {
+      "title": "Artificial intelligence is advancing at a pace that raises questions far beyond tech",
+      "summary": "MIT research paper discusses how rapid AI advancement could help cure diseases and improve living standards, while raising complex ethical and societal questions.",
+      "source": "Facebook/MIT News",
+      "url": "https://www.facebook.com/MITnews/posts/artificial-intelligence-is-advancing-at-a-pace-that-raises-questions-far-beyond-/1458899122948886/",
+      "published_time": "2026-04-29T06:00:00Z",
+      "importance": "Medium - Academic perspective on AI's broader societal impact"
+    },
+    {
+      "title": "Tech is in turmoil—but the rest of corporate America isn't. One Silicon Valley CEO knows why",
+      "summary": "Box CEO Aaron Levie explains why AI disruption is concentrated in tech while other industries face slower adoption due to legacy systems and integration challenges.",
+      "source": "Fortune",
+      "url": "https://fortune.com/2026/04/28/tech-layoffs-ai-disruption-corporate-america-doesnt-one-silicon-valley-ceo-knows-why/",
+      "published_time": "2026-04-29T09:00:00Z",
+      "importance": "Medium - Industry analysis of AI adoption patterns"
+    },
+    {
+      "title": "MedLuma Australia: AI tool coming to doctors' offices to fix common GP gripe",
+      "summary": "New clinical AI platform set to roll out across 40,000 GP desktops in Australia, aiming to address common physician complaints and improve healthcare efficiency.",
+      "source": "9News Australia",
+      "url": "https://www.9news.com.au/national/medical-ai-rollout-for-australian-gps-doctors-nurses-medluma/62cae89a-2130-416f-864c-6456d0b11b1f",
+      "published_time": "2026-04-29T05:00:00Z",
+      "importance": "Medium - AI applications in healthcare sector"
+    }
+  ],
+  "summary_statistics": {
+    "high_importance_articles": 6,
+    "medium_importance_articles": 9,
+    "sources_count": 8,
+    "topics_covered": [
+      "AI Development",
+      "Tech Industry Layoffs",
+      "Corporate Legal Battles",
+      "Semiconductor Industry",
+      "Cloud Computing Partnerships",
+      "US-China Tech Rivalry",
+      "Healthcare AI",
+      "Enterprise Software"
+    ]
+  },
+  "key_trends": [
+    "AI-driven workforce restructuring across tech companies",
+    "Increasing legal and regulatory scrutiny of AI companies",
+    "Consolidation in AI development tools market",
+    "Growing US-China competition in AI technology",
+    "Enterprise AI adoption facing integration challenges"
+  ]
+}

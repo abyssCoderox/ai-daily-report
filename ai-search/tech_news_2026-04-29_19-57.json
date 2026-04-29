@@ -1,0 +1,111 @@
+{
+  "timestamp": "2026-04-29 19:57 UTC",
+  "news_count": 15,
+  "news": [
+    {
+      "title": "2026年4月28日突发科技新闻：人工智能创新、安全风险与太空前沿",
+      "summary": "AI工程应用面临生产力瓶颈，Opsera推出基于上下文的软件工厂Forge；Zoox自动驾驶车辆取得重大进展；NASA Artemis III任务延期至2027年；网络安全威胁加剧，开源软件包窃取用户凭证；OpenAI终止与Microsoft独家协议。",
+      "publish_time": "2026-04-28",
+      "source_url": "https://coaio.com/zh/news/2026/04/breaking-tech-news-on-april-28-2026-ai-innovations-security-risks-and-2o4c/",
+      "source_name": "coaio.com"
+    },
+    {
+      "title": "科技圈今日要闻",
+      "summary": "数字中国峰会开幕，超6000项AI成果亮相；微软财报发布，Azure云增速成焦点；北京车展智能化爆发，181款全球首发车；半导体重大突破，富加镓业成功制备12英寸氧化镓单晶；特斯拉AI战略升级。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.sina.cn/news/detail/5292936268614309.html",
+      "source_name": "新浪新闻"
+    },
+    {
+      "title": "华尔街期货开市前微升，科技巨头财报即将发布",
+      "summary": "Seagate Technology业绩超预期，AI对数据储存技术需求持续增长；科技巨头Alphabet、Microsoft、Amazon、Meta将公布业绩；美联储利率决议同日揭晓。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.aastocks.com/sc/usq/news/comment.aspx?source=AAFN&id=NOW.1521492&catg=1",
+      "source_name": "AASTOCKS"
+    },
+    {
+      "title": "美团硬科技投资版图浮出水面",
+      "summary": "美团在AI产业链上游布局芯片与算力企业，包括摩尔线程、沐曦股份、紫光展锐；投资智谱AI和月之暗面等头部大模型企业；在自动驾驶领域投资理想汽车、禾赛科技等。",
+      "publish_time": "2026-04-29",
+      "source_url": "http://k.sina.com.cn/article_5953189932_162d6782c067040a7i.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "电脑平板行业动态",
+      "summary": "三星突破DRAM技术壁垒，成功产出10纳米以下工作晶圆；谷歌推进算力专属化；SK海力士第一季度创历史最佳业绩；台积电一季度净利润5725亿元台币，毛利率突破66%。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://notebook.cnmo.com/news/",
+      "source_name": "CNMO"
+    },
+    {
+      "title": "DeepSeek V4发布引爆需求，中国科技巨头抢购华为昇腾950芯片",
+      "summary": "DeepSeek V4发布后，字节跳动、腾讯、阿里巴巴紧急下单华为昇腾950芯片；昇腾950PR性能超越NVIDIA H20，是国内唯一支持压缩数值格式AI运算技术的国产芯片。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://news.17173.com/content/04292026/170400546.shtml",
+      "source_name": "17173游戏网"
+    },
+    {
+      "title": "第四届"对话科技成果转化"高层论坛在北京举办",
+      "summary": "论坛聚焦具身智能机器人，探讨人形机器人作为未来智能经济新形态的基础单元；北京开源芯片研究院推动RISC-V开放指令集；赛微电子董事长指出半导体产业链价值扩展至全环节。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.tsinghua.edu.cn/info/1182/125815.htm",
+      "source_name": "清华大学"
+    },
+    {
+      "title": "商米科技获超2000倍超购，"物理AI"风口之下港股迎来"全球商业物联网龙头"",
+      "summary": "商米科技成功上市，募资主要用于AI技术研发、全球市场拓展及生态平台建设；公司基于数百万台智能设备及开源平台架构，迈向AI驱动的BIoT进化。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.21jingji.com/article/20260429/herald/1b59681b9eb21c90279ce87c05ab9f98.html",
+      "source_name": "21财经"
+    },
+    {
+      "title": ""超级星期三"：科技七巨头中的四家发布财报，美联储利率决议同日揭晓",
+      "summary": "微软、Alphabet、Amazon、Meta等科技巨头发布财报，美联储利率决议同日举行；市场关注AI对业绩的影响及未来指引。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.moomoo.com/hans/community/feed/us-morning-news-call-a-super-wednesday-with-four-of-116487852916742",
+      "source_name": "moomoo"
+    },
+    {
+      "title": "量智开物的技术方向（AI+量子融合）具备重塑全球科技格局的潜力",
+      "summary": "科大讯飞与清华团队合作的量智开物项目，通过"追风"算法解决万量级原子阵列快速重排难题，利用AI进行量子纠错，正在研发智能体量子计算机。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://caifuhao.eastmoney.com/news/20260429045952647429680?from=guba&name=56eR5aSn6K6v6aOe5ZCn&gubaurl=aHR0cHM6Ly9ndWJhLmVhc3Rtb25leS5jb20vbGlzdCwwMDIyMzAuaHRtbD9qdW1waDU9MQ%3D%3D",
+      "source_name": "东方财富网"
+    },
+    {
+      "title": "中国的新EV电池，6分钟充满电",
+      "summary": "宁德时代新能源科技（CATL）在北京技术发布会上披露新型电动汽车电池，仅需6分钟即可充满电，大幅提升电动车充电效率。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.sanyonews.jp/article/1910028",
+      "source_name": "Sanyo News"
+    },
+    {
+      "title": "德勤中国成功协助商米科技在香港联交所上市",
+      "summary": "商米科技在香港联合交易所成功上市，公开发行42,626,800股，每股发行价24.86港元，融资总额约10.6亿港元。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.deloitte.com/cn/zh/about/press-room/deloitte-china-assists-listing-of-sunmi-tech-on-sehk.html",
+      "source_name": "德勤中国"
+    },
+    {
+      "title": "2026年全球AI十强，字节、智谱、阿里3家中企上榜",
+      "summary": "美国《时代》杂志公布"2026年最具影响力十家人工智能公司"名单，字节跳动、智谱AI、阿里巴巴集团入选，其他入选企业包括Amazon、OpenAI、Alphabet等。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.worldjournal.com/rank/newest/8877/121103",
+      "source_name": "世界新闻网"
+    },
+    {
+      "title": "光算力第一股曦智上市首日涨380%",
+      "summary": "曦智科技正式登陆港交所，成为全球AI"光算力第一股"，首日涨幅超380%，聚焦光电混合算力领域。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.worldjournal.com/rank/newest/8877/121103",
+      "source_name": "世界新闻网"
+    },
+    {
+      "title": "谦寻与遥望科技等共同成立直播电商品质提升联盟",
+      "summary": "谦寻与遥望科技、无忧传媒、交个朋友等企业共同成立直播电商品质提升联盟，签署品质保障倡议书，承诺严守法律法规、规范选品控品。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.stcn.com/article/detail/3871574.html",
+      "source_name": "证券时报"
+    }
+  ]
+}
