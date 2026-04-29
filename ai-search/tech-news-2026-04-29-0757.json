@@ -1,0 +1,176 @@
+{
+  "metadata": {
+    "timestamp": "2026-04-29T07:57:00Z",
+    "period": "past_6_hours",
+    "total_articles": 10,
+    "sources": ["Taipei Times", "MediaPost", "BNN Bloomberg", "Business Insider", "TrendForce", "MIT News", "Federal News Network", "Yahoo Finance", "DIGITIMES"]
+  },
+  "articles": [
+    {
+      "title": "AI boom drowns out war fears to fuel Asia's great market divide",
+      "summary": "Asia's markets are showing a stark divergence with North Asian tech-led economies benefiting from AI enthusiasm while South and Southeast Asian markets struggle with higher oil prices. Taiwan and South Korea reach record highs while India, Indonesia, and Philippines see significant declines.",
+      "publish_time": "2026-04-29T00:00:00Z",
+      "url": "https://www.taipeitimes.com/News/editorials/archives/2026/04/29/2003856419",
+      "source": "Taipei Times",
+      "key_points": [
+        "Taiwan's TAIEX up almost 10% since Iran conflict began, best performance among major markets",
+        "South Korea's KOSPI gained about 4%, China's CSI 300 and Japan's Nikkei 225 edged higher",
+        "India's NIFTY 50 fell about 5%, MSCI ASEAN Index down 7%",
+        "North Asia's resilience tied to dominance in global semiconductor supply chain",
+        "Next test for AI trade comes from hyperscalers' earnings starting next week"
+      ],
+      "impact": "High - Shows how AI investment is reshaping regional economic dynamics and creating market divergence"
+    },
+    {
+      "title": "Snapchat Brings AI Chatbot Ads To DMs",
+      "summary": "Snapchat launches AI Sponsored Snaps, allowing brands to run interactive conversational AI ads within the platform's Chat tab, building on existing Sponsored Snaps success with 22% more conversions.",
+      "publish_time": "2026-04-29T03:56:00Z",
+      "url": "https://www.mediapost.com/publications/article/414670/snapchat-brings-ai-chatbot-ads-to-dms.html",
+      "source": "MediaPost",
+      "key_points": [
+        "Over 950 billion chats sent in Q1 2026, half a billion messages to Snap's My AI since 2023",
+        "AI Sponsored Snaps drive engagement through automated agents for product discovery",
+        "Alpha tests starting with Experian for credit and money management promotions",
+        "Part of broader trend of AI integration into social media advertising"
+      ],
+      "impact": "Medium - Represents evolution of social media advertising with AI chatbots, could influence other platforms"
+    },
+    {
+      "title": "Big Tech investors to gauge payoff as AI spending set to hit $600 billion",
+      "summary": "Major tech companies are on track to invest $600 billion in AI this year, with quarterly earnings from Alphabet, Microsoft, Meta, and Amazon due to show if this spending is driving sufficient growth.",
+      "publish_time": "2026-04-28T11:48:00Z",
+      "url": "https://www.bnnbloomberg.ca/business/economics/2026/04/28/big-tech-investors-to-gauge-payoff-as-ai-spending-set-to-hit-600-billion/",
+      "source": "BNN Bloomberg",
+      "key_points": [
+        "Amazon and Meta announced job cuts affecting thousands while Microsoft offers employee buyouts",
+        "Microsoft faces particular scrutiny with only 3.3% of enterprise customers subscribing to Copilot",
+        "OpenAI partnership loses exclusivity as company can now work with competing cloud providers",
+        "Cloud growth expected: AWS 25%, Azure 40%, Google Cloud 50.1%"
+      ],
+      "impact": "High - Critical assessment of whether massive AI investments are yielding returns, affecting stock valuations"
+    },
+    {
+      "title": "Fabric.AI Launches Breakthrough MicroLED Interconnect Technology",
+      "summary": "Fabric.AI (formerly StableX) unveils MicroLED-based optical interconnect technology to address AI computing bottlenecks, partnering with Kopin Corporation and raising $21.5 million.",
+      "publish_time": "2026-04-28T12:30:00Z",
+      "url": "https://markets.businessinsider.com/news/stocks/fabric-ai-nasdaq-sblx-launches-breakthrough-microled-interconnect-technology-as-first-step-in-building-next-generation-ai-factory-infrastructure-partners-with-leading-microled-developer-kopin-1036071743",
+      "source": "Business Insider",
+      "key_points": [
+        "Neural I/o chip replaces electrical interconnects with MicroLED optical links",
+        "Targets $138B interconnect market dominated by copper solutions",
+        "Company rebranding from StableX to Fabric.AI, ticker changing to FABC",
+        "Kopin Corporation to own 19.9% of Fabric.AI as part of development deal",
+        "Aims to power 'AI factories' - smart data centers for intelligence production"
+      ],
+      "impact": "Medium-High - Innovative approach to AI infrastructure bottleneck, potential to disrupt traditional interconnect market"
+    },
+    {
+      "title": "U.S. Reportedly Moves to Block Chip Tool Shipments to China's Hua Hong",
+      "summary": "U.S. Department of Commerce restricts semiconductor equipment shipments to China's second-largest foundry Hua Hong as it seeks 7nm capabilities, following similar actions against SMIC.",
+      "publish_time": "2026-04-29T00:00:00Z",
+      "url": "https://www.trendforce.com/news/2026/04/29/news-u-s-reportedly-moves-to-block-chip-tool-shipments-to-china-no-2-foundry-hua-hong-as-it-seeks-7nm-after-smic/",
+      "source": "TrendForce",
+      "key_points": [
+        "Targets Hua Hong Fab 6 (28/22nm) and Fab 8a (under construction)",
+        "Major suppliers affected: Lam Research (35% China revenue), Applied Materials (30%)",
+        "Huawei planning to shift AI chip production from SMIC to Hua Hong",
+        "Hua Hong targeting 7nm output of several thousand wafers/month by end of 2026",
+        "Part of broader U.S. strategy including bipartisan MATCH Act"
+      ],
+      "impact": "High - Continues U.S.-China tech decoupling, affects global semiconductor supply chain and AI chip production"
+    },
+    {
+      "title": "OpenAI Breaks Free Of Microsoft, Expands AWS Partnership",
+      "summary": "OpenAI restructures partnership with Microsoft to sell AI models across multiple cloud providers, enabling stronger ties with AWS and Google Cloud while maintaining Azure as primary partner.",
+      "publish_time": "2026-04-29T02:00:00Z",
+      "url": "https://www.mediapost.com/publications/article/414658/openai-breaks-free-of-microsoft-expands-aws-partn.html",
+      " "source": "MediaPost",
+      "key_points": [
+        "Microsoft no longer receives revenue share from OpenAI model sales on Azure",
+        "OpenAI pays Microsoft 20% of its own sales with cap reached by 2030",
+        "Enables direct OpenAI model access through Amazon Bedrock",
+        "Simplifies bridge between creative AI and massive customer datasets in AWS"
+      ],
+      "impact": "High - Changes cloud provider dynamics and could accelerate AI adoption across multiple platforms"
+    },
+    {
+      "title": "Army's Project ARIA seeks to accelerate AI adoption across the force",
+      "summary": "U.S. Army's Project ARIA aims to accelerate AI adoption across military operations, focusing on improving decision-making speed and reducing cognitive loads on warfighters through frontier AI capabilities.",
+      "publish_time": "2026-04-28T16:00:00Z",
+      "url": "https://federalnewsnetwork.com/army/2026/04/armys-project-aria-seeks-to-accelerate-ai-adoption-across-the-force/",
+      "source": "Federal News Network",
+      "key_points": [
+        "Project focuses on solving 'tyranny of distance' in digital space",
+        "Aims to improve speed of decision making and reduce cognitive loads",
+        "Consolidation of legacy systems saving millions in costs",
+        "Self-funding exercise through system modernization",
+        "Part of broader government AI adoption initiative"
+      ],
+      "impact": "Medium - Military AI adoption has broader implications for defense technology and dual-use applications"
+    },
+    {
+      "title": "Enabling privacy-preserving AI training on everyday devices",
+      "summary": "MIT researchers develop new method for privacy-preserving collaborative machine learning that enables AI models to train on everyday devices while safeguarding sensitive training data.",
+      "publish_time": "2026-04-29T00:00:00Z",
+      "url": "https://news.mit.edu/2026/enabling-privacy-preserving-ai-training-everyday-devices-0429",
+      "source": "MIT News",
+      "key_points": [
+        "New approach makes AI feasible for small devices beyond servers and GPUs",
+        "Could enable AI in high-stakes applications with strict security standards",
+        "Particularly relevant for healthcare and finance applications",
+        "Funded in part by Takeda PhD Fellowship",
+        "Addresses privacy concerns in distributed AI training"
+      ],
+      "impact": "Medium-High - Privacy-preserving AI on edge devices could unlock new applications and markets"
+    },
+    {
+      "title": "Exclusive-Big Chinese tech firms scramble to secure Huawei AI chips",
+      "summary": "Major Chinese technology companies are rushing to secure Huawei's Ascend 950 AI chips following the release of DeepSeek's V4 AI model, indicating growing domestic demand for non-Western AI hardware.",
+      "publish_time": "2026-04-29T06:36:00Z",
+      "url": "https://finance.yahoo.com/sectors/technology/articles/exclusive-big-chinese-tech-firms-063617328.html",
+      "source": "Yahoo Finance",
+      "key_points": [
+        "Demand surge for Huawei Ascend 950 AI chips post-DeepSeek V4 release",
+        "Shows China's push for AI chip independence from Western suppliers",
+        "Part of broader strategy to build domestic AI ecosystem",
+        "Could impact global AI chip market dynamics",
+        "Reflects success of Chinese AI model development"
+      ],
+      "impact": "Medium - Indicates China's progress in AI chip independence and potential market shifts"
+    },
+    {
+      "title": "Automotive and networking chips move directly to 2nm as AI demand tightens capacity",
+      "summary": "TSMC's 3nm process faces congestion as automotive and networking chip makers skip 3nm and move directly to 2nm technology due to AI-driven capacity constraints and performance demands.",
+      "publish_time": "2026-04-29T00:00:00Z",
+      "url": "https://www.digitimes.com/news/a20260429PD222/automotive-ic-networking-ic-capacity-manufacturing-production-tsmc.html",
+      "source": "DIGITIMES",
+      "key_points": [
+        "TSMC 3nm process becoming increasingly congested",
+        "Major customers competing for limited capacity",
+        "Automotive and networking sectors accelerating node transitions",
+        "AI boom driving unprecedented demand for advanced chips",
+        "Could lead to faster industry-wide technology transitions"
+      ],
+      "impact": "Medium - Shows how AI demand is reshaping semiconductor manufacturing priorities and technology roadmaps"
+    }
+  ],
+  "summary": {
+    "total_articles_analyzed": 10,
+    "key_themes": [
+      "AI infrastructure investment and returns",
+      "Semiconductor supply chain dynamics",
+      "US-China tech competition",
+      "Cloud provider AI partnerships",
+      "Military AI adoption",
+      "Privacy-preserving AI training",
+      "Social media AI advertising"
+    ],
+    "market_impact": "High - Multiple developments indicate continued AI investment momentum despite geopolitical tensions",
+    "emerging_trends": [
+      "Divergence between tech-led and energy-exposed economies in Asia",
+      "Shift from exclusive AI partnerships to multi-cloud strategies",
+      "Accelerating semiconductor technology transitions driven by AI demand",
+      "Growing emphasis on privacy-preserving and edge AI capabilities"
+    ]
+  }
+}
