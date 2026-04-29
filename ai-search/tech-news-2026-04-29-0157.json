@@ -1,0 +1,97 @@
+{
+  "timestamp": "2026-04-29T01:57:00Z",
+  "timeRange": "past_6_hours",
+  "totalArticles": 10,
+  "articles": [
+    {
+      "title": "Google expands Pentagon's access to its AI after Anthropic's refusal",
+      "summary": "Google has expanded the Department of Defense's access to its AI models through a classified partnership, just one day after hundreds of Google employees warned about potential inhumane uses of AI technology.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/28/google-expands-pentagons-access-to-its-ai-after-anthropics-refusal/",
+      "publishTime": "2026-04-28T18:00:00Z",
+      "category": "AI",
+      "importance": "High - Major government contract with ethical implications"
+    },
+    {
+      "title": "Amazon launches AI-powered audio Q&A experience on product pages",
+      "summary": "Amazon has introduced an AI-powered audio question and answer feature that allows customers to ask questions about products and receive audio responses, enhancing the shopping experience.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/28/amazon-launches-an-ai-powered-audio-qa-experience-on-product-pages/",
+      "publishTime": "2026-04-28T17:00:00Z",
+      "category": "E-commerce",
+      "importance": "Medium - New AI feature for customer interaction"
+    },
+    {
+      "title": "YouTube is testing an AI search mode that 'feels more like a conversation'",
+      "summary": "YouTube is testing a new feature called 'Ask YouTube' that allows users to pose complex questions and receive comprehensive results including both video and text content through AI-powered search.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/apps/youtube-is-testing-an-ai-search-mode-that-feels-more-like-a-conversation-075057461.html",
+      "publishTime": "2026-04-29T00:50:00Z",
+      "category": "AI",
+      "importance": "Medium - Enhanced search functionality for video platform"
+    },
+    {
+      "title": "OpenAI brings its models to Amazon's cloud after ending exclusivity with Microsoft",
+      "summary": "OpenAI has ended its exclusive partnership with Microsoft and is now making its AI models available on Amazon Web Services, expanding its cloud distribution channels.",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/04/28/openai-brings-models-to-aws-after-ending-exclusivity-with-microsoft.html",
+      "publishTime": "2026-04-28T20:00:00Z",
+      "category": "Business",
+      "importance": "High - Major partnership shift in cloud AI market"
+    },
+    {
+      "title": "Citigroup lifts AI market view to over $4 trillion on enterprise adoption",
+      "summary": "Citigroup has significantly raised its global artificial intelligence market forecast to over $4 trillion, citing faster-than-expected enterprise adoption of AI tools for coding and automation.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/finance/citigroup-lifts-ai-market-view-over-4-trillion-enterprise-adoption-2026-04-28/",
+      "publishTime": "2026-04-28T09:35:00Z",
+      "category": "Finance",
+      "importance": "High - Major financial institution's bullish AI market outlook"
+    },
+    {
+      "title": "Australia to charge Big Tech companies 2% levy unless they strike local news deals",
+      "summary": "The Australian government announced that Meta, Google, and TikTok could face multimillion-dollar charges if they don't negotiate deals to pay local media outlets for news content on their platforms.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/australia-charge-big-tech-companies-2-levy-unless-they-strike-local-news-deals-2026-04-28/",
+      "publishTime": "2026-04-28T04:21:00Z",
+      "category": "Policy",
+      "importance": "Medium - Regulatory impact on tech companies"
+    },
+    {
+      "title": "Lovable launches its vibe-coding app on iOS and Android",
+      "summary": "Lovable has released its vibe-coding application on both iOS and Android platforms, offering a new approach to coding that emphasizes emotional and intuitive development processes.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/28/lovable-launches-its-vibe-coding-app-on-ios-and-android/",
+      "publishTime": "2026-04-28T14:00:00Z",
+      "category": "Apps",
+      "importance": "Medium - New coding tool for mobile platforms"
+    },
+    {
+      "title": "Apple introduces a cheaper option for App Store subscriptions",
+      "summary": "Apple has announced a new lower-cost option for App Store subscriptions, potentially making apps more accessible to users and changing the monetization landscape for developers.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/28/apple-introduces-a-cheaper-option-for-app-store-subscriptions/",
+      "publishTime": "2026-04-28T15:00:00Z",
+      "category": "Business",
+      "importance": "Medium - Pricing changes affecting app ecosystem"
+    },
+    {
+      "title": "Match Group invests $100M in Sniffies, a cruising app for gay men",
+      "summary": "Match Group has made a $100 million investment in Sniffies, a location-based dating app for gay men, expanding its portfolio in the LGBTQ+ dating market.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/28/match-group-invests-100-million-in-sniffies-a-cruising-app-for-gay-men/",
+      "publishTime": "2026-04-28T17:00:00Z",
+      "category": "Business",
+      "importance": "Medium - Significant investment in niche dating market"
+    },
+    {
+      "title": "US Supreme Court appears split over controversial use of 'geofence' search warrants",
+      "summary": "The Supreme Court heard arguments about the constitutionality of geofence warrants, with justices showing division over privacy rights versus law enforcement needs in digital investigations.",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/28/scotus-chatrie-geofence-search-warrant-ruling-arguments/",
+      "publishTime": "2026-04-28T15:00:00Z",
+      "category": "Privacy",
+      "importance": "High - Legal precedent for digital privacy rights"
+    }
+  ]
+}
