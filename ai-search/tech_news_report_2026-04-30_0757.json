@@ -1,0 +1,136 @@
+{
+  "report_metadata": {
+    "generation_time": "2026-04-30T07:57:00Z",
+    "time_range": "past_6_hours",
+    "total_news_count": 15,
+    "sources": [
+      "新浪科技",
+      "21财经", 
+      "钛媒体",
+      "格隆汇",
+      "第一财经"
+    ]
+  },
+  "tech_news": [
+    {
+      "title": "科技巨头财报集体超预期，AI投资持续加码",
+      "summary": "谷歌、亚马逊、Meta、微软四大科技巨头2026年Q1财报显示营收和利润均超预期，同时大幅上调AI资本开支。谷歌资本支出指引上调至1800-1900亿美元，Meta上调至1250-1450亿美元，四家公司2026年合计资本支出预计达6000亿美元。",
+      "publish_time": "2026-04-30T10:50:00Z",
+      "source": "21财经",
+      "url": "https://www.21jingji.com/article/20260430/herald/9a9548a3df831243455540c008e15912.html",
+      "importance": "市场高度关注，反映AI投资热潮持续升温，对全球科技产业链有重大影响"
+    },
+    {
+      "title": "英特尔和AMD股价创新高，CPU在AI时代重新获得重视",
+      "summary": "过去两年AI市场过度关注GPU，但近期CPU的重要性重新被认识。英特尔股价暴涨27%创26年新高，AMD也表现强劲，反映市场对算力基础设施的全面重估。",
+      "publish_time": "2026-04-29T15:00:00Z",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/wm/2026-04-30/doc-inhwewsw6600632.shtml",
+      "importance": "标志AI算力市场从GPU单极化向CPU+GPU多元化发展，影响芯片产业格局"
+    },
+    {
+      "title": "DeepSeek内测识图模式，多模态能力正式开放",
+      "summary": "DeepSeek网页版上线识图模式，支持用户上传图片进行内容理解与分析，标志着其从纯文本对话向图文交互扩展，向GPT-4o、Gemini等主流多模态大模型靠拢。",
+      "publish_time": "2026-04-29T18:00:00Z",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/nictation/7971982.html",
+      "importance": "国产大模型多模态能力突破，提升AI应用场景和用户体验"
+    },
+    {
+      "title": "宇树科技熊猫机器人首发争议，旗舰店正式开业",
+      "summary": "宇树科技全国首家直营旗舰店在北京王府井开业，CMO王其鑫回应抄袭争议，称熊猫机器人更早推出。店内展示G1、R1人形机器人及Go系列机械狗产品。",
+      "publish_time": "2026-04-30T09:00:00Z",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/2026-04-30/doc-inhwfyef0378692.shtml",
+      "importance": "国产机器人商业化进程加速，反映具身智能产业化落地趋势"
+    },
+    {
+      "title": "Figure生产效率大幅提升，每小时可生产1台机器人",
+      "summary": "Figure创始人宣布生产效率扩大24倍，从每天1台提升到每小时1台机器人，本周将生产55台人形机器人，为人形AI模型Helix生成更多数据。",
+      "publish_time": "2026-04-30T08:00:00Z",
+      "source": "格隆汇",
+      "url": "https://finance.sina.com.cn/stock/bxjj/2026-04-30/doc-inhwfyek6286186.shtml",
+      "importance": "机器人量产能力提升，加速人形机器人商业化进程和数据积累"
+    },
+    {
+      "title": "美团小黄蜂智能配送机器人落地重庆机场",
+      "summary": "美团室内外智能配送机器人在重庆机场T3航站楼投入运营，旅客可通过App下单并由机器人配送至登机口，最快10分钟收货，提升机场服务效率。",
+      "publish_time": "2026-04-29T16:00:00Z",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-04-30/doc-inhwfyep1365302.shtml",
+      "importance": "具身智能在交通枢纽场景落地，验证商业化应用价值"
+    },
+    {
+      "title": "工信部启动模数共振行动，推动AI赋能制造业",
+      "summary": "工信部和国家数据局联合启动2026年模数共振行动，面向20个重点制造业，探索场景、模型、智能体等关键技术成果产出路径，推动AI高水平赋能新型工业化。",
+      "publish_time": "2026-04-29T14:00:00Z",
+      "source": "新浪科技",
+      "url": "https://news.sina.com.cn/o/2026-04-30/doc-inhwftwn6334300.shtml",
+      "importance": "政策支持AI与制造业深度融合，推动产业升级和新质生产力发展"
+    },
+    {
+      "title": "苹果AI眼镜曝光，内置双摄像头支持手势控制",
+      "summary": "苹果首款智能眼镜正在加速研发，配备2颗摄像头（高分辨率拍摄+低分辨率手势识别），支持Siri交互和手势控制，定位与Meta Ray-Bans竞争。",
+      "publish_time": "2026-04-29T20:00:00Z",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-04-30/doc-inhwfyek6259896.shtml",
+      "importance": "苹果进军AR硬件市场，可能改变可穿戴设备竞争格局"
+    },
+    {
+      "title": "谷歌DeepMind发布研究智能体，知识工作自动化进入新阶段",
+      "summary": "谷歌DeepMind推出两款基于Gemini 3.1 Pro的AI研究智能体，可自动完成研究课题的资料搜集、数据分析和报告生成，Max版质量评分从66.1%提升至93.3%。",
+      "publish_time": "2026-04-30T11:00:00Z",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/stock/t/2026-04-30/doc-inhwfyeh7148503.shtml",
+      "importance": "AI智能体能力突破，可能大幅提升科研和工作效率"
+    },
+    {
+      "title": "达索系统在中国启动7.5亿元创投基金",
+      "summary": "达索系统全球CEO宣布在中国启动首个创投基金，一期规模7.5亿元，重点投资工业AI、物理AI、具身智能、低空经济、智能制造等领域。",
+      "publish_time": "2026-04-29T12:00:00Z",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_5953466437_162dab0450670ai3ka.html",
+      "importance": "国际工业软件巨头加码中国AI投资，促进本土创新生态发展"
+    },
+    {
+      "title": "基流科技港交所递表，冲刺港股AI Infra第一股",
+      "summary": "基流科技向港交所递交招股书，D轮后估值13亿美元。公司完成C轮和D轮融资近20亿元，成为AI基础设施领域的新晋独角兽。",
+      "publish_time": "2026-04-29T22:00:00Z",
+      "source": "新浪科技",
+      "url": "https://finance.sina.com.cn/tech/roll/2026-04-30/doc-inhwftwn6344409.shtml",
+      "importance": "AI基础设施公司上市潮开启，反映资本市场对AI产业链的认可"
+    },
+    {
+      "title": "AWS扩展与OpenAI合作，推出三款集成产品",
+      "summary": "亚马逊云科技与OpenAI深化合作，推出Amazon Bedrock直接调用OpenAI模型、Codex编程助手、Bedrock Managed Agents服务，强调企业级数据安全和合规。",
+      "publish_time": "2026-04-29T17:00:00Z",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/nictation/7971732.html",
+      "importance": "云厂商与AI模型厂商合作深化，推动企业级AI应用落地"
+    },
+    {
+      "title": "中央网信办将发布AI应用伦理安全指引",
+      "summary": "2026年中国网络文明大会将发布《人工智能应用伦理安全指引（1.0版）》，聚焦AI对社会关系、情感依赖、公共秩序等方面的影响，提供实践参考。",
+      "publish_time": "2026-04-29T13:00:00Z",
+      "source": "钛媒体",
+      "url": "https://www.tmtpost.com/nictation/7971753.html",
+      "importance": "AI治理和规范发展受到重视，为行业健康发展提供指导"
+    },
+    {
+      "title": "AI算力需求引爆光纤行业，价格创历史新高",
+      "summary": "CRU光纤价格指数攀升至107.2，创2021年以来新高。全球2026年光缆需求上调至5.83亿芯公里，同比增长6.8%，光纤预制棒供给短缺持续。",
+      "publish_time": "2026-04-29T10:00:00Z",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904vqc4.html",
+      "importance": "AI基础设施建设带动上游产业链需求，光纤行业迎来发展机遇"
+    },
+    {
+      "title": "味之素垄断AI芯片封装材料市场，卡住全球AI脖子",
+      "summary": "日本味之素公司垄断超过95%的AI芯片封装关键材料市场，英伟达、台积电、英特尔都得排队等货，这家百年味精老店成为AI产业关键节点。",
+      "publish_time": "2026-04-29T09:00:00Z",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_5953466437_162dab0450670ai3rk.html",
+      "importance": "揭示AI产业链关键材料依赖风险，凸显供应链安全重要性"
+    }
+  ]
+}
