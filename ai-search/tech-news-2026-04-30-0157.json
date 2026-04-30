@@ -1,0 +1,46 @@
+{
+  "timestamp": "2026-04-30T01:57:00Z",
+  "news_count": 5,
+  "news_items": [
+    {
+      "title": "Fusion power startup Zap Energy pivots to nuclear fission for faster revenue",
+      "summary": "Zap Energy, a well-funded fusion startup with over $300M in funding, is adding nuclear fission to its business model to generate revenue sooner. The company plans to build fission power plants first while continuing fusion development, expecting first revenue within a year through government contracts and milestone payments from energy-intensive companies.",
+      "publish_time": "2026-04-29T10:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/29/fusion-power-startup-zap-energy-pulls-a-partial-pivot-adding-nuclear-fission-to-the-mix/",
+      "why_important": "This represents a significant shift in the clean energy sector, showing how fusion startups are adapting to market demands for immediate solutions while continuing long-term fusion research. The move could accelerate the deployment of nuclear power to meet AI data center energy demands."
+    },
+    {
+      "title": "Firestorm Labs raises $82M for mobile drone factories in shipping containers",
+      "summary": "Defense startup Firestorm Labs secured $82M in Series B funding to deploy mobile drone manufacturing platforms (xCell) that fit inside shipping containers. The technology enables rapid drone production near conflict zones, with units already deployed by the US Air Force and plans for Indo-Pacific expansion within two years.",
+      "publish_time": "2026-04-29T13:10:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/29/firestorm-labs-raises-82m-to-take-drone-factories-into-the-field/",
+      "why_important": "This innovation addresses critical logistics challenges in modern warfare, enabling rapid response to changing battlefield needs. The technology could revolutionize military supply chains and has implications for disaster response and remote manufacturing."
+    },
+    {
+      "title": "Parallel Web Systems hits $2B valuation five months after Series A",
+      "summary": "Former Twitter CEO Parag Agrawal's AI startup Parallel Web Systems raised a $100M Series B at a $2B valuation, just five months after its $100M Series A. The company provides web search and research APIs for AI agents, serving customers like Clay, Harvey, Notion, and OpenDoor with over 100,000 developers using its platform.",
+      "publish_time": "2026-04-29T09:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/29/parallel-web-systems-hits-2b-valuation-five-months-after-its-last-big-raise/",
+      "why_important": "The rapid valuation growth demonstrates strong investor confidence in AI infrastructure companies and validates the demand for specialized AI agent tools. This could signal continued investment momentum in the AI sector."
+    },
+    {
+      "title": "Pursuit raises $22M to help companies sell to government agencies",
+      "summary": "Startup Pursuit secured $22M in Series A funding led by Builders VC, with participation from notable investors Bill Gurley and Jack Altman. The platform uses AI to analyze public data from 110,000 state, local, and education entities to help companies identify and win government contracts more efficiently.",
+      "publish_time": "2026-04-29T08:30:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/29/bill-gurley-jack-altman-back-startup-pursuit-which-helps-companies-sell-to-government/",
+      "why_important": "This addresses a major pain point in the $2 trillion government procurement market, potentially making public sector contracting more transparent and efficient. The involvement of high-profile investors signals confidence in gov-tech solutions."
+    },
+    {
+      "title": "Google Cloud surpasses $20B revenue but faces capacity constraints",
+      "summary": "Google Cloud reported Q1 2026 revenue exceeding $20B, a 63% year-over-year increase, driven by strong demand for AI solutions. However, the company acknowledged being compute-constrained with a $462B backlog, indicating demand significantly outstrips current capacity despite aggressive infrastructure investments.",
+      "publish_time": "2026-04-29T14:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/29/google-cloud-surpasses-20b-but-says-growth-was-capacity-constrained/",
+      "why_important": "Google Cloud's growth demonstrates the massive demand for AI infrastructure and the competitive pressure on cloud providers to scale capacity. The capacity constraints highlight the broader industry challenge of meeting explosive AI compute demands."
+    }
+  ]
+}
