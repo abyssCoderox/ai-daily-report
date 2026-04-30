@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-04-30T13:57:00Z",
+  "search_period": "6 hours",
+  "news_count": 50,
+  "news_items": [
+    {
+      "title": "OpenAI突袭推出GPT-5.5模型，混乱任务都可拆解、「代理型编程」表现最突出",
+      "summary": "OpenAI在香港时间4月24日凌晨突袭公布，推出最新GPT-5.5模型，强调定位是能实际完成工作智能模型，较前一代理解使用者意图更快，也能在更少人手的干预下完成复杂任务，宣称是有史以来最独立的AI。",
+      "publish_time": "2026-04-24 10:29",
+      "source_url": "https://inews.hket.com/sran010/%E7%A7%91%E6%8A%80",
+      "source_name": "香港经济日报",
+      "importance": "GPT-5.5作为OpenAI最新模型，在自主性和任务处理能力上有重大突破，对AI发展具有里程碑意义。"
+    },
+    {
+      "title": "Google官方确认Gemini版新Siri将于今年内亮相",
+      "summary": "Google官方确认将与Apple合作，Gemini版新Siri将于今年内亮相，这标志着Google AI技术将深度整合到Apple生态系统中。",
+      "publish_time": "2026-04-23 09:58",
+      "source_url": "https://inews.hket.com/sran010/%E7%A7%91%E6%8A%80",
+      "source_name": "香港经济日报",
+      "importance": "Google与Apple的合作将重塑语音助手市场格局，对用户体验和AI助手发展有重大影响。"
+    },
+    {
+      "title": "GitHub Copilot方案按量计费、改采AI Credits，新措施6/1起生效",
+      "summary": "从6月1日起，GitHub Copilot方案中的PRUs（premium request units）将被GitHub AI Credits取代，方案价格未变动下，GitHub以token消耗量为基础进一步调整使用限制。",
+      "publish_time": "2026-04-28 16:54",
+      "source_url": "https://technews.tw/category/ai/",
+      "source_name": "TechNews科技新报",
+      "importance": "GitHub Copilot的计费模式变革将影响开发者使用AI编程助手的成本和体验，对AI开发工具市场有重要影响。"
+    },
+    {
+      "title": "OpenAI拟2028年推AI代理手机、亚马逊计划重返市场",
+      "summary": "OpenAI正积极布局手机市场，选择与联发科、高通合作开发手机处理器，立讯为独家系统协力设计与制造商，预计在2028年量产首款AI代理手机。",
+      "publish_time": "2026-04-28 17:09",
+      "source_url": "https://technews.tw/category/ai/",
+      "source_name": "TechNews科技新报",
+      "importance": "OpenAI进军手机市场将改变智能手机格局，AI代理手机可能重新定义移动设备的使用方式。"
+    },
+    {
+      "title": "日本京瓷发表多层陶瓷核心基板，瞄准AI市场xPU与ASIC半导体先进封装需求",
+      "summary": "日本京瓷公司宣布，将针对xPU与ASIC等先进半导体封装，推出全新商业化的「多层陶瓷核心基板」，该项创新产品预计将于2026年5月26日至29日在美国佛罗里达州奥兰多举行的国际半导体封装技术研讨会（ECTC 2026）上正式亮相。",
+      "publish_time": "2026-04-28 16:45",
+      "source_url": "https://technews.tw/category/ai/",
+      "source_name": "TechNews科技新报",
+      "importance": "京瓷的新技术将推动AI芯片封装技术的发展，对提升AI芯片性能和降低成本具有重要意义。"
+    },
+    {
+      "title": "美国公司要让AI数据中心「上天」",
+      "summary": "随着支撑人工智能（AI）热潮的大型数据中心在地球上越来越不受欢迎，各家公司正计划将它们搬入太空。",
+      "publish_time": "2026-04-30",
+      "source_url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+      "source_name": "国际科技创新中心",
+      "importance": "将AI数据中心搬入太空是解决地面数据中心限制的创新方案，对未来AI基础设施发展具有深远影响。"
+    },
+    {
+      "title": "智能体走入日常 算力底座持续夯实",
+      "summary": "腾讯云智能体开发平台支持用户创建具备复杂技能的企业级智能体，推动AI智能体从概念走向实际应用。",
+      "publish_time": "2026-04-30",
+      "source_url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+      "source_name": "国际科技创新中心",
+      "importance": "智能体技术的普及将推动AI在各行各业的深度应用，对数字化转型具有重要意义。"
+    },
+    {
+      "title": "「磐石100」模型体系正式亮相",
+      "summary": "中国科学院发布「磐石100」模型体系，该体系将推动人工智能（AI）赋能科学研究从分散、封闭的单点探索，迈向协同高效的平台化创新，为各领域的前沿研究提供智能支撑。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+      "source_name": "国际科技创新中心",
+      "importance":「磐石100」模型体系的发布标志着中国在AI for Science领域的重要进展，将推动科学研究的智能化转型。"
+    },
+    {
+      "title": "AI时代，我们如何看见真相",
+      "summary": "随着AI图像生成技术的快速发展，「有图无真相」的时代已然到来，这对信息真实性的验证提出了新的挑战。",
+      "publish_time": "2026-04-29",
+      "source_url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+      "source_name": "国际科技创新中心",
+      "importance": "AI生成内容的真实性问题日益突出，对媒体、法律、教育等领域都提出了新的挑战和要求。"
+    },
+    {
+      "title": "AI「下海」如何助人类「知海用海」",
+      "summary": "AI技术在海洋领域的应用正在加速发展，帮助人类更好地了解海洋、利用海洋资源，推动海洋经济的发展。",
+      "publish_time": "2026-04-28",
+      "source_url": "https://www.ncsti.gov.cn/kjdt/kjrd/",
+      "source_name": "国际科技创新中心",
+      "importance": "AI技术在海洋领域的应用将为海洋科学研究、海洋资源开发、海洋环境保护等方面带来革命性变化。"
+    }
+  ]
+}
