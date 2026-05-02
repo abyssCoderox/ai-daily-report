@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "timestamp": "2026-05-02T01:57:00Z",
+    "search_period": "past_6_hours",
+    "total_results": 10,
+    "search_query": "latest technology news"
+  },
+  "news_items": [
+    {
+      "title": "Latest Technology News and Reviews | TechAnnouncer",
+      "summary": "Covers latest technology trends including augmented reality, virtual reality technologies like Google Glass and Google Maps integration, and software development trends. Discusses how AR enhances real-world experiences and the growing app development industry.",
+      "source_url": "https://techannouncer.com/technology/latest-technology/page/2",
+      "source_name": "techannouncer.com",
+      "relevance_score": 0.8215175,
+      "timestamp": "2026-05-02T01:57:00Z"
+    },
+    {
+      "title": "Technology News Today, Latest Tech News - The Hindu",
+      "summary": "Major tech news including Alphabet's Q1 profit surge driven by AI investments, EU's push for Google to open Android to AI rivals, Amazon's cloud computing growth, and ongoing legal battles between Elon Musk and Sam Altman over OpenAI.",
+      "source_url": "https://www.thehindu.com/sci-tech/technology/",
+      "source_name": "www.thehindu.com",
+      "relevance_score": 0.7785319,
+      "timestamp": "2026-05-02T01:57:00Z"
+    },
+    {
+      "title": "Technology | Latest News & Updates | BBC News",
+      "summary": "Latest tech updates including BBC's AI tracking of US warships, Oscars banning AI actors from awards, UK firm pioneering lamppost data centers, Pentagon's AI-first military strategy, Spotify's verified badges for human artists, and Apple's iPhone 17 sales success.",
+      "source_url": "https://www.bbc.co.uk/news/technology",
+      "source_name": "www.bbc.co.uk",
+      "relevance_score": 0.72907686,
+      "timestamp": "2026-05-02T01:57:00Z"
+    },
+    {
+      "title": "The Latest News in Technology | PCMag",
+      "summary": "Technology news covering Google Wallet redesign, potential ads in Gemini AI, Nvidia RTX 3060 12GB return, Microsoft's Windows 11 widget cleanup, Starlink competition with rural ISPs, and Motorola Razr foldable phone reviews.",
+      "source_url": "https://www.pcmag.com/news",
+      "source_name": "www.pcmag.com",
+      "relevance_score": 0.7077487,
+      "timestamp": "2026-05-02T01:57:00Z"
+    },
+    {
+      "title": "Engadget | Technology News & Expert Reviews",
+      "summary": "Gaming and tech updates including Subnautica 2 early access, Age of Empires II Mac release, Amazon's AI shopping experts, Microsoft Flight Simulator PS VR2 support, Senate AI chatbot age verification approval, and innovative toilet manufacturing for RAM production.",
+      "source_url": "https://www.engadget.com/",
+      "source_name": "www.engadget.com",
+      "relevance_score": 0.6698534,
+      "timestamp": "2026-05-02T01:57:00Z"
+    },
+    {
+      "title": "Tech for Tomorrow's World Podcast",
+      "summary": "Tech innovations including Intel's chip packaging advances with Elon Musk's Terafab project, Google's offline AI dictation app, Anthropic's cybersecurity AI Mythos model, NASA's Artemis Moon missions, and medical VR eye exam technology.",
+      "source_url": "https://www.spreaker.com/podcast/tech-for-tomorrow-s-world--6551255",
+      "source_name": "www.spreaker.com",
+      "relevance_score": 0.6396691,
+      "timestamp": "2026-05-02T01:57:00Z"
+    },
+    {
+      "title": "Latest Electronics News, Tech Trends & Industry Updates | Electronics For You",
+      "summary": "Electronics industry updates covering robotic brain implant systems, billion-parameter optical computers, quantum security hardware, EV battery advances, portable RF analyzers, indoor solar panels, and various AI and IoT innovations.",
+      "source_url": "https://www.electronicsforu.com/category/news",
+      "source_name": "www.electronicsforu.com",
+      "relevance_score": 0.6301622,
+      "timestamp": "2026-05-02T01:57:00Z"
+    },
+    {
+      "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "summary": "AI industry developments including Google's warning about malicious web pages poisoning AI agents, Microsoft's open-source AI security toolkit, AI in legal industry summaries, Trustpilot's AI partnerships, and GitHub Copilot's per-token pricing.",
+      "source_url": "https://www.artificialintelligence-news.com/",
+      "source_name": "www.artificialintelligence-news.com",
+      "relevance_score": 0.5931622,
+      "timestamp": "2026-05-02T01:57:00Z"
+    }
+  ]
+}
