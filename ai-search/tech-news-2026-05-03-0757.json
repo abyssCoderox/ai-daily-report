@@ -1,0 +1,67 @@
+{
+  "metadata": {
+    "timestamp": "2026-05-03T07:57:00Z",
+    "timezone": "UTC",
+    "total_articles": 5,
+    "time_range": "past 6 hours",
+    "sources": ["Reuters"]
+  },
+  "articles": [
+    {
+      "title": "Meta faces New Mexico trial that could force changes to Facebook, other platforms",
+      "summary": "A trial beginning in New Mexico could prompt a judge to order sweeping changes to how Facebook, Instagram and WhatsApp operate - a move Meta Platforms has warned could force it to withdraw from the state.",
+      "publish_time": "2026-05-02T17:00:00Z",
+      "url": "https://www.reuters.com/legal/government/meta-faces-new-mexico-trial-that-could-force-changes-facebook-other-platforms-2026-05-02/",
+      "source": "Reuters",
+      "category": "Legal/Technology",
+      "importance": "High - Could fundamentally alter social media platform operations and set precedent for state-level regulation"
+    },
+    {
+      "title": "Pentagon reaches agreements with top AI companies, but not Anthropic",
+      "summary": "The Pentagon has reached agreements with leading AI companies for defense applications, though Anthropic notably declined participation in the program.",
+      "publish_time": "2026-05-01T14:30:00Z",
+      "url": "https://www.reuters.com/business/retail-consumer/pentagon-reaches-agreements-with-leading-ai-companies-2026-05-01/",
+      "source": "Reuters",
+      "category": "Defense/Technology",
+      "importance": "High - Shows growing military adoption of AI and potential competitive implications for AI companies"
+    },
+    {
+      "title": "SpaceX spending on Starship tops $15 billion in rush for airline-like rocketry",
+      "summary": "SpaceX has invested over $15 billion in Starship development as the company pushes toward airline-like space transportation operations.",
+      "publish_time": "2026-05-01T12:00:00Z",
+      "url": "https://www.reuters.com/business/autos-transportation/spacex-spending-starship-tops-15-billion-rush-airline-like-rocketry-2026-05-01/",
+      "source": "Reuters",
+      "category": "Space/Technology",
+      "importance": "Medium - Demonstrates massive private investment in space infrastructure and commercial space ambitions"
+    },
+    {
+      "title": "GameStop preparing offer for eBay, WSJ reports",
+      "summary": "GameStop is reportedly preparing to make an acquisition offer for eBay, potentially marking a significant shift in the company's strategy.",
+      "publish_time": "2026-05-01T10:15:00Z",
+      "url": "https://www.reuters.com/technology/gamestop-preparing-offer-ebay-wsj-reports-2026-05-01/",
+      "source": "Reuters",
+      "category": "E-commerce/Technology",
+      "importance": "Medium - Could reshape online retail landscape and represents strategic pivot for GameStop"
+    },
+    {
+      "title": "Apple shares rise on strong quarterly sales in run-up to CEO change",
+      "summary": "Apple stock gained following better-than-expected quarterly sales figures as the company prepares for a leadership transition.",
+      "publish_time": "2026-05-01T09:30:00Z",
+      "url": "https://www.reuters.com/world/asia-pacific/apple-shares-rise-strong-quarterly-sales-run-up-ceo-change-2026-05-01/",
+      "source": "Reuters",
+      "category": "Technology/Corporate",
+      "importance": "Medium - Indicates continued consumer demand for Apple products despite leadership changes"
+    }
+  ],
+  "summary_analysis": {
+    "key_trends": [
+      "Regulatory pressure on major tech platforms increasing at state level",
+      "Military and defense sector accelerating AI adoption",
+      "Massive private investment in space infrastructure continues",
+      "Traditional retailers exploring strategic acquisitions in e-commerce",
+      "Tech giants maintaining strong financial performance amid transitions"
+    ],
+    "market_implications": "Mixed signals with regulatory headwinds for social media companies, but strong fundamentals for hardware and defense tech sectors.",
+    "technology_focus": "AI integration in defense, space commercialization, and platform regulation dominate recent coverage."
+  }
+}
