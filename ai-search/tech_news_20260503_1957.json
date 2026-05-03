@@ -1,0 +1,87 @@
+{
+  "search_time": "2026-05-03T19:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "台积电加速推进2nm制程生产规模，满足AI及高性能计算需求",
+      "summary": "台积电在硅谷技术研讨会上宣布正加速推进2nm制程生产，以满足人工智能和高性能计算领域不断增长的芯片需求。",
+      "publish_time": "2026-05-03",
+      "source": "CNMO手机中国",
+      "url": "https://notebook.cnmo.com/news/",
+      "why_important": "2nm制程是半导体行业最先进技术，台积电的进展将直接影响全球AI芯片供应和性能提升"
+    },
+    {
+      "title": "马斯克2025年薪酬达1583.59亿美元，创历史新高",
+      "summary": "特斯拉CEO马斯克2025财年薪酬总额达到惊人的1583.59亿美元，全部以股票奖励形式发放，超过全球绝大多数上市公司市值。",
+      "publish_time": "2026-05-03",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019051cks.html",
+      "why_important": "这一数字创下了CEO薪酬的历史记录，反映了特斯拉在AI和电动汽车领域的巨大估值"
+    },
+    {
+      "title": "DeepSeek V4发布引爆国产半导体行情",
+      "summary": "DeepSeek-V4大模型发布，在性能上降本增效，实现了与国产AI芯片的\"原生适配\"，打破\"有硬件、无生态\"的僵局。",
+      "publish_time": "2026-05-03",
+      "source": "新浪AI热点",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019050v5w.html",
+      "why_important": "标志着国产AI大模型与国产芯片生态的深度融合，推动技术平权"
+    },
+    {
+      "title": "特斯拉在加拿大降价50%，售价低于中国市场",
+      "summary": "特斯拉加拿大Model 3起售价从79990加元降至39490加元，降价50%，比中国市场同款车型还低3.7万元。",
+      "publish_time": "2026-05-03",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019051cks.html",
+      "why_important": "反映特斯拉全球定价策略调整，上海超级工厂的成本优势显著"
+    },
+    {
+      "title": "OpenAI推出Codex Pets电子宠物功能",
+      "summary": "OpenAI在编程工具Codex中推出桌面级电子宠物功能，用户可以通过命令孵化Clippy等经典助手角色。",
+      "publish_time": "2026-05-03",
+      "source": "新浪AI热点",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019050v5w.html",
+      "why_important": "展示了AI工具的人性化发展方向，提升开发者体验和互动性"
+    },
+    {
+      "title": "美军采购AI服务探测霍尔木兹海峡水雷",
+      "summary": "美国海军与AI企业签署近1亿美元合同，采购机器学习服务改进水雷探测能力，应用场景包括霍尔木兹海峡。",
+      "publish_time": "2026-05-03",
+      "source": "新浪AI热点",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019050v5w.html",
+      "why_important": "显示AI技术在军事安全领域的应用扩展，具有重要战略意义"
+    },
+    {
+      "title": "全球首个AI芯片设计系统\"启蒙\"正式发布",
+      "summary": "中国科学院发布全球首个基于AI技术的处理器芯片软硬件全自动设计系统\"启蒙\"，实现从芯片硬件到基础软件的全流程无人化设计。",
+      "publish_time": "2026-05-03",
+      "source": "新浪AI热点",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019050v5w.html",
+      "why_important": "突破芯片设计人才短缺困局，大幅提升芯片设计效率，推动半导体产业变革"
+    },
+    {
+      "title": "马斯克诉OpenAI庭审进展：承认xAI蒸馏了OpenAI模型",
+      "summary": "马斯克在法庭上承认自己的AI公司xAI使用OpenAI的模型来训练自己的模型，引发关注。",
+      "publish_time": "2026-05-03",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019051cks.html",
+      "why_important": "涉及AI模型训练的法律边界和知识产权保护问题，对AI行业有重要影响"
+    },
+    {
+      "title": "SpaceX发布擎天柱机器人跳舞视频",
+      "summary": "SpaceX官方发布特斯拉擎天柱机器人跳舞视频，机器人可跟随音乐节跳鬼步、芭蕾等舞蹈，身体灵活。",
+      "publish_time": "2026-05-03",
+      "source": "新浪科技",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019051cks.html",
+      "why_important": "展示人形机器人技术进展，预示今年将进入试生产阶段"
+    },
+    {
+      "title": "科创板PCB板块一季度业绩亮眼，AI算力催生高端产能扩张",
+      "summary": "科创板PCB板块一季度普遍业绩高增长，17家公司营收总额突破128.88亿元，12家企业营收、净利润双增长。",
+      "publish_time": "2026-05-03",
+      "source": "新浪AI热点",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019050v5w.html",
+      "why_important": "反映AI基础设施建设需求旺盛，PCB行业受益于AI浪潮"
+    }
+  ]
+}
