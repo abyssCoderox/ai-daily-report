@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "search_time": "2026-05-03T01:57:00Z",
+    "time_range": "past_6_hours",
+    "total_results": 5,
+    "search_query": "科技新闻"
+  },
+  "news": [
+    {
+      "title": "TechNews 科技新報| 市場和業內人士關心的趨勢、內幕與新聞",
+      "url": "https://technews.tw/",
+      "snippet": "ALMA 望遠鏡新發現，3I/ATLAS 半重水含量比太陽系彗星高 30 倍；反義寡核苷酸 ASO 技術為嚴重癲癇症帶來新契機；Meta 收購新創公司 ARI 深入人形機器人領域；OLED 面板供應、記憶體短缺推升 iPhone 20 價格；聯發科余振華擔任非全職顧問並持續投資台積電先進封裝。",
+      "site_name": "technews.tw",
+      "publish_time": "2026-05-03T00:00:00Z",
+      "relevance_score": 0.72884524
+    },
+    {
+      "title": "科技新闻- 博客园",
+      "url": "https://news.cnblogs.com/",
+      "snippet": "知乎六年發展回顧；京东京喜2026年百亿战略计划；银河通用人形机器人技术突破；NASA成功测试锂燃料电磁推进器；英伟达发布全模态模型Nemotron 3 Nano Omni；宇树科技发布双臂人形机器人R1系列。",
+      "site_name": "news.cnblogs.com",
+      "publish_time": "2026-05-03T01:57:00Z",
+      "relevance_score": 0.7265231
+    },
+    {
+      "title": "新浪科技热点小时报丨2026年05月03日02时_今日实时科技热点速递",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c001904zwve.html",
+      "snippet": "微软Xbox新任CEO承认次世代主机开发受内存短缺影响；诺奖得主担忧AI终局风险；徐工集团全球工程机械排名第三；伯克希尔CEO称不会全力押注AI；DeepMind CEO访谈：物理AI与具身智能是未来；马斯克2025年薪酬达1580亿美元。",
+      "site_name": "k.sina.com.cn",
+      "publish_time": "2026-05-03T02:00:00Z",
+      "relevance_score": 0.67243975
+    },
+    {
+      "title": "科技动态 - 国际科技创新中心",
+      "url": "https://www.ncsti.gov.cn/kjdt/",
+      "snippet": "习近平总书记考察北京科技创新工作，了解信息技术应用创新情况；2026中关村论坛年会筹备；国家信创园展示代表性科技创新成果。",
+      "site_name": "www.ncsti.gov.cn",
+      "publish_time": "2026-05-03T01:57:00Z",
+      "relevance_score": 0.5611433
+    },
+    {
+      "title": "Technology | Latest News & Updates - BBC",
+      "url": "https://www.bbc.co.uk/news/technology",
+      "snippet": "BBC科技新闻主页，涵盖全球最新科技动态与重大技术突破，包括人工智能、太空探索、医疗科技等领域的权威报道。",
+      "site_name": "www.bbc.co.uk",
+      "publish_time": "2026-05-03T01:57:00Z",
+      "relevance_score": 0.5437604
+    }
+  ]
+}
