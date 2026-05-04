@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-05-04T13:57:00Z",
+  "search_period": "last_6_hours",
+  "news_count": 10,
+  "articles": [
+    {
+      "title": "科技新闻 - MBA智库百科",
+      "summary": "科技新闻是指广大受众关心的科学技术最新成就、研究动态，科技界的重大活动，以及科技发展新政策的执行等内容。具有科学性、知识性与规范性的特点，承担着教育功能与引导功能。",
+      "publish_time": "2026-05-04T13:57:00Z",
+      "source_url": "https://wiki.mbalib.com/wiki/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "wiki.mbalib.com",
+      "relevance_score": 0.88564163
+    },
+    {
+      "title": "科技新闻_百度百科",
+      "summary": "科技新闻是对科学技术领域新近发生事实的报道，涵盖消息、通讯、评论等体裁，具有新闻性、科学性和通俗性特征。2024年国内十大科技新闻涵盖嫦娥六号月背采样、鸿蒙操作系统发布、江门中微子实验等事件。",
+      "publish_time": "2026-05-04T13:57:00Z",
+      "source_url": "https://baike.baidu.com/item/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB/9053924",
+      "site_name": "baike.baidu.com",
+      "relevance_score": 0.8834878
+    },
+    {
+      "title": "科技新闻_科技新闻最新动态_IT之家",
+      "summary": "IT之家科技新闻频道报道了多项科技动态，包括AMD定制Magnus APU、Fedora Linux 44延期发布、北脑一号脑机接口手术成功等。涵盖手机、电脑、AI、新能源汽车等多个科技领域。",
+      "publish_time": "2026-05-04T13:57:00Z",
+      "source_url": "https://www.ithome.com/tags/科技新闻",
+      "site_name": "www.ithome.com",
+      "relevance_score": 0.8170061
+    },
+    {
+      "title": "科技新闻_科技新闻最新动态_IT之家",
+      "summary": "移动端IT之家科技新闻，报道了小米Tag追踪器国行版、主流手机厂商出货量调整、中兴考拉智能台灯上市、全球首款5吨级eVTOL亮相等科技产品动态。",
+      "publish_time": "2026-05-04T13:57:00Z",
+      "source_url": "https://m.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "m.ithome.com",
+      "relevance_score": 0.8145405
+    },
+    {
+      "title": "科技新闻 - AI研究社搜索",
+      "summary": "AI研究社聚合了多个科技媒体的最新资讯，包括煎蛋网、IT168、泡泡网、快科技、动点科技、钛媒体、网易科技、太平洋科技、36氪、IT之家等平台的科技新闻报道。",
+      "publish_time": "2026-05-04T13:57:00Z",
+      "source_url": "https://www.aiyanshe.com/tag/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "www.aiyanshe.com",
+      "relevance_score": 0.77589405
+    },
+    {
+      "title": "科技新闻 – 量子位",
+      "summary": "量子位科技新闻频道报道了美股暴跌、吉利收购魅族传闻、马斯克或任推特临时CEO等热点事件，以及阿里千问3.6登顶中国最强编程模型、Claude情绪研究等AI领域重要进展。",
+      "publish_time": "2026-05-04T13:57:00Z",
+      "source_url": "https://www.qbitai.com/tag/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "www.qbitai.com",
+      "relevance_score": 0.7402687
+    },
+    {
+      "title": "科技新闻 | 爱范儿",
+      "summary": "爱范儿科技新闻频道提供科技行业最新动态，包括春节错过的科技事件汇总等内容，以独特的视角解读科技界的重要事件和趋势。",
+      "publish_time": "2026-05-04T13:57:00Z",
+      "source_url": "https://www.ifanr.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "www.ifanr.com",
+      "relevance_score": 0.6811549
+    },
+    {
+      "title": "中国科技新闻网_百度百科",
+      "summary": "中国科技新闻网是由中国科协直属的国家一级学会中国科技新闻学会主办的大型网站，原名'华云网'，2020年4月正式更名为'中国科技新闻网'，定位为中国科技类新闻网站头部平台。",
+      "publish_time": "2026-05-04T13:57:00Z",
+      "source_url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB%E7%BD%91/6062142",
+      "site_name": "baike.baidu.com",
+      "relevance_score": 0.6255073
+    },
+    {
+      "title": "科技新闻素材-科技新闻图片-科技新闻设计模板-昵图网",
+      "summary": "昵图网提供科技新闻相关的图片素材和设计模板，包括共享图、原创交易图、商用图片等多种类型的科技新闻视觉素材资源。",
+      "publish_time": "2026-05-04T13:57:00Z",
+      "source_url": "https://soso.nipic.com/q_%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB_g_0.html",
+      "site_name": "soso.nipic.com",
+      "relevance_score": 0.50446826
+    },
+    {
+      "title": "科技新闻_科技新闻最新动态_IT之家",
+      "summary": "IT之家科技新闻重复页面，提供与主站相同的科技资讯内容，包括硬件、软件、手机、电脑等科技产品的最新动态和行业新闻。",
+      "publish_time": "2026-05-04T13:57:00Z",
+      "source_url": "https://www.ithome.com/tags/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "www.ithome.com",
+      "relevance_score": 0.8138313
+    }
+  ]
+}

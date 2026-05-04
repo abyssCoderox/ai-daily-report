@@ -1,0 +1,83 @@
+{
+  "search_metadata": {
+    "query": "latest technology news",
+    "search_depth": "basic",
+    "topic": "general",
+    "time_range": "day",
+    "results_count": 10,
+    "search_timestamp": "2026-05-04T19:57:00Z"
+  },
+  "news_results": [
+    {
+      "title": "Technology | Latest News & Updates - BBC",
+      "url": "https://www.bbc.co.uk/news/technology",
+      "snippet": "Latest News · GameStop makes $55.5bn takeover offer for eBay · Valve defends price of £85 Steam Controller: 'We provide a lot of value' Video, 00:00:48Valve",
+      "score": 0.7327644,
+      "source": "www.bbc.co.uk"
+    },
+    {
+      "title": "Technology Industry Breaking News and Press Releases",
+      "url": "https://www.businesswire.com/newsroom/industry/technology",
+      "snippet": "See the latest technology industry news including press releases covering artificial intelligence, data management, hardware, software, and more.",
+      "score": 0.72325134,
+      "source": "www.businesswire.com"
+    },
+    {
+      "title": "The Tech Portal - Global technology news, latest gadget news and ...",
+      "url": "https://thetechportal.com/",
+      "snippet": "The Tech Portal is the most trusted source for latest and breaking coverage on technology and startups. Your most definitve source for technology and",
+      "score": 0.63750535,
+      "source": "thetechportal.com"
+    },
+    {
+      "title": "Under the Radar breaks down the latest science and technology ...",
+      "url": "https://www.facebook.com/gbhnews/posts/under-the-radar-breaks-down-the-latest-science-and-technology-headlines-includin/1629256141900216/",
+      "snippet": "Under the Radar breaks down the latest science and technology headlines, including communities fighting back against data centers, overheated sharks and more.",
+      "score": 0.55709904,
+      "source": "www.facebook.com"
+    },
+    {
+      "title": "Techmeme",
+      "url": "https://www.techmeme.com/",
+      "snippet": "The essential tech news of the moment. Technology's news site of record. Not for dummies.",
+      "score": 0.5246632,
+      "source": "www.techmeme.com"
+    },
+    {
+      "title": "Technology | The Guardian",
+      "url": "https://www.theguardian.com/technology/all",
+      "snippet": "Vine video-sharing app is back – and battling AI slop · GameStop makes $55.5bn takeover offer for eBay · London schools trialling VR to relieve pupils' stress.",
+      "score": 0.49670476,
+      "source": "www.theguardian.com"
+    },
+    {
+      "title": "Tech & Engineering - Home - EurekAlert! News by Subject",
+      "url": "https://www.eurekalert.org/specialtopic/tech/home",
+      "snippet": "New research from Aarhus University shows that hydrogen radicals play a key role in breaking down PFAS, challenging previous assumptions about how these "
+      "score": 0.38560653,
+      "source": "www.eurekalert.org"
+    },
+    {
+      "title": "BleepingComputer | Cybersecurity, Technology News and Support",
+      "url": "https://www.bleepingcomputer.com/",
+      "snippet": "BleepingComputer is a premier destination for cybersecurity news for over 20 years, delivering breaking stories on the latest hacks, malware threats,",
+      "score": 0.3814505,
+      "source": "www.bleepingcomputer.com"
+    },
+    {
+      "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "url": "https://www.artificialintelligence-news.com/",
+      "snippet": "AI News delivers the latest updates in artificial intelligence, machine learning, deep learning, enterprise AI, and emerging tech worldwide.",
+      "score": 0.38062134,
+      "source": "www.artificialintelligence-news.com"
+    },
+    {
+      "title": "The latest findings from the 2026 State of Omnichannel Supply ...",
+      "url": "https://ctl.mit.edu/publications/ai-and-technology-latest-findings-2026-state-omnichannel-supply-chain-report",
+      "snippet": "Nearly 80% report ongoing e-commerce growth, and a similar share are implementing or planning omnichannel distribution strategies—a 10% increase from the",
+      "score": 0.28864476,
+      "source": "ctl.mit.edu"
+    }
+  ],
+  "summary": "The latest technology news includes significant developments in artificial intelligence, data management, and hardware advancements. Recent highlights involve GameStop's $55.5bn offer for eBay and Valve's defense of the Steam Controller's price. For more details, visit BBC's technology section."
+}
