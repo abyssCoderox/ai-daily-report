@@ -1,0 +1,90 @@
+{
+  "search_metadata": {
+    "query": "technology news latest",
+    "search_time": "2026-05-05T13:57:00Z",
+    "time_range": "past_6_hours",
+    "total_results": 10
+  },
+  "news_articles": [
+    {
+      "title": "Technology | Latest News & Updates | BBC News",
+      "summary": "AI firms should face 'minimum wage for robots' to limit job cuts, says tech boss. Pornhub to become accessible again for some UK users. AI chatbots giving misleading voting advice in run-up to election. New drone to help track down missing dogs. California to begin ticketing driverless cars that violate traffic laws.",
+      "publish_time": "2026-05-05T13:57:00Z",
+      "source_url": "https://www.bbc.co.uk/news/technology",
+      "source_name": "BBC News",
+      "relevance_score": 0.80735475
+    },
+    {
+      "title": "The Tech Portal - Global technology news, latest gadget news and breaking tech news",
+      "summary": "Apple reportedly hints at revamped Siri interface in WWDC'26 teaser, expected with iOS 27. Anthropic launches 'Claude Opus 4.7' with stronger coding and vision capabilities. NASA's Artemis II crew returns safely after historic lunar flyby mission. Apple could team up with Intel and Samsung for US chip production to diversify beyond TSMC.",
+      "publish_time": "2026-05-05T13:57:00Z",
+      "source_url": "https://thetechportal.com/",
+      "source_name": "The Tech Portal",
+      "relevance_score": 0.796562
+    },
+    {
+      "title": "Cloud Tech News | Cloud Computing News, Analysis & Events",
+      "summary": "Physical AI raises governance questions for autonomous systems. AI coding tools write more code, but developers carry the risk. Google made agentic AI governance a product. Enterprises still have to catch up. Reddit AI ad tools support community-led performance marketing.",
+      "publish_time": "2026-05-05T13:57:00Z",
+      "source_url": "https://www.cloudcomputing-news.net/",
+      "source_name": "Cloud Computing News",
+      "relevance_score": 0.70750624
+    },
+    {
+      "title": "The Latest News in Technology | PCMag",
+      "summary": "Maryland Bans 'Dynamic Pricing' That Adjusts Grocery Costs Based on Your Data. iOS 26.5 Finally Adds End-to-End Encrypted RCS Between iPhone, Android. Steam Machine Incoming? Valve Imports Thousands of 'Game Consoles' Into the US. The Government Doesn't Just Want to Ban Ghost Guns. It Wants to Control Your 3D Printer.",
+      "publish_time": "2026-05-05T13:57:00Z",
+      "source_url": "https://www.pcmag.com/news",
+      "source_name": "PCMag",
+      "relevance_score": 0.6952351
+    },
+    {
+      "title": "Engadget | Technology News & Expert Reviews",
+      "summary": "A study shows that cellphone bans didn't improve US students' test scores, but students reported improvements in overall well-being in later years. GameStop submits $56 billion offer to buy eBay. Instagram is testing optional 'AI creator' labels. Amazon opens up its logistics networks to any business.",
+      "publish_time": "2026-05-05T13:57:00Z",
+      "source_url": "https://www.engadget.com/",
+      "source_name": "Engadget",
+      "relevance_score": 0.6152965
+    },
+    {
+      "title": "AI News | Latest News | Insights Powering AI-Driven Business Growth",
+      "summary": "Physical AI raises governance questions for autonomous systems. AI coding tools write more code, but developers carry the risk. Google made agentic AI governance a product. Enterprises still have to catch up. Reddit AI ad tools support community-led performance marketing.",
+      "publish_time": "2026-05-05T13:57:00Z",
+      "source_url": "https://www.artificialintelligence-news.com/",
+      "source_name": "AI News",
+      "relevance_score": 0.57952
+    },
+    {
+      "title": "BBC Technology | Technology, Health, Environment, AI",
+      "summary": "Pentagon says US military to be an 'AI-first' fighting force. The US military has agreed eight new contracts with big tech firms as it expands its artificial intelligence capabilities. Elon Musk's latest Tesla pay valued at $158bn - but he can't pocket it. Spotify adds 'Verified' badges to distinguish human artists from AI.",
+      "publish_time": "2026-05-05T13:57:00Z",
+      "source_url": "https://www.bbc.com/technology",
+      "source_name": "BBC Technology",
+      "relevance_score": 0.5689194
+    },
+    {
+      "title": "Technology Stock Performance - Yahoo Finance",
+      "summary": "Tech stocks today: Semiconductor company earnings in focus amid AI boom, Musk vs. Altman fight continues. 'Nobody's doing AI better than Palantir': Earnings takeaways. Stock Market Today: Dow Rises Amid U.S.-Iran Tensions; Palantir Slides After Earnings Report.",
+      "publish_time": "2026-05-05T13:57:00Z",
+      "source_url": "https://finance.yahoo.com/sectors/technology/",
+      "source_name": "Yahoo Finance",
+      "relevance_score": 0.4338141
+    },
+    {
+      "title": "Apple considering Intel and Samsung for US chip production, report claims",
+      "summary": "Apple is reportedly talking with Intel and Samsung to produce processors for the company as it's grappling with a shortage of chips for its latest products. The company looks to diversify supply chain amid chip shortages and TSMC capacity constraints.",
+      "publish_time": "2026-05-05T13:57:00Z",
+      "source_url": "https://www.tomshardware.com/tech-industry/semiconductors/apple-considering-intel-and-samsung-for-us-chip-production-report-claims-consumer-electronics-giant-looks-to-diversify-supply-chain-amid-chip-shortages",
+      "source_name": "Tom's Hardware",
+      "relevance_score": 0.3161797
+    },
+    {
+      "title": "Instagram",
+      "summary": "Claude surges to 180 million monthly visitors, dethroning ChatGPT in daily US App Store downloads. 760 million users March 2026.",
+      "publish_time": "2026-05-05T13:57:00Z",
+      "source_url": "https://www.instagram.com/p/DX6hRlMjY6f/",
+      "source_name": "Instagram",
+      "relevance_score": 0.1867916
+    }
+  ]
+}
