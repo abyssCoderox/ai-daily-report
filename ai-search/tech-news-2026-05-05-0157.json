@@ -1,0 +1,90 @@
+{
+  "timestamp": "2026-05-05T01:57:00Z",
+  "search_period": "past_6_hours",
+  "news_items": [
+    {
+      "title": "White House Considers Vetting AI Models Before Public Release",
+      "summary": "The Trump administration is discussing government oversight of new AI models before they are made publicly available, marking a significant policy reversal from their previous noninterventionist approach.",
+      "publish_time": "2026-05-04T18:37:00Z",
+      "source": "The New York Times",
+      "url": "https://www.nytimes.com/2026/05/04/technology/trump-ai-models.html",
+      "key_points": [
+        "Administration discussing executive order to create AI working group with tech executives and government officials",
+        "Plans include formal government review process for new AI models similar to UK's approach",
+        "Policy shift began after Anthropic introduced powerful AI model called Mythos",
+        "White House officials have held talks with Anthropic, Google, and OpenAI executives"
+      ],
+      "impact": "This represents a major shift in US AI policy that could significantly affect how AI companies develop and release new models, potentially slowing innovation while increasing safety oversight."
+    },
+    {
+      "title": "Data Centers Spreading AI Boom Beyond Traditional Tech Hubs",
+      "summary": "AI infrastructure expansion is creating economic opportunities in middle America and working-class communities as data centers move beyond traditional tech hubs to regions with lower land and energy costs.",
+      "publish_time": "2026-05-05T00:00:00Z",
+      "source": "Revelio Labs",
+      "url": "https://www.reveliolabs.com/news/tech/data-centers-are-spreading-the-ai-boom-beyond-tech-hubs/",
+      "key_points": [
+        "Demand for data center construction workers has grown over 430% since ChatGPT launch",
+        "Texas and Virginia losing dominance as AI-focused infrastructure moves to states like Alabama and Wyoming",
+        "Data center skills command 20-40% wage premiums with on-the-job training available",
+        "Over 700 data center projects currently in development nationwide"
+      ],
+      "impact": "This geographic redistribution of AI infrastructure is creating new economic opportunities in regions previously excluded from tech booms, potentially reducing regional economic disparities."
+    },
+    {
+      "title": "Big Tech Layoffs: 80,000 Jobs Cut in Early 2026, But AI May Not Be the Real Cause",
+      "summary": "Industry analysts argue that the recent wave of tech layoffs is more about correcting pandemic-era overhiring than AI-driven automation, despite companies frequently citing AI as the reason.",
+      "publish_time": "2026-05-04T00:00:00Z",
+      "source": "TechTimes",
+      "url": "https://www.techtimes.com/articles/316328/20260504/big-tech-slashed-80000-jobs-early-2026-ai-may-not-real-reason.htm",
+      "key_points": [
+        "86 tech companies laid off over 80,000 employees in Q1 2026",
+        "Meta planned 10% staff reduction, Microsoft offered voluntary buyouts to 7% of employees",
+        "OpenAI CEO Sam Altman calls AI layoff claims 'AI washing' - using AI as convenient excuse",
+        "Analyst Marc Andreessen estimates companies are overstaffed by 25-75% from pandemic hiring"
+      ],
+      "impact": "The layoffs reflect a broader industry correction rather than AI automation, suggesting the tech sector may be entering a more mature, sustainable growth phase."
+    },
+    {
+      "title": "Trump Administration Considers AI Model Review Process Similar to UK Framework",
+      "summary": "The White House is considering establishing a government review process for new AI models that would be similar to Britain's multi-agency approach to AI safety standards.",
+      "publish_time": "2026-05-04T15:44:00Z",
+      "source": "Forbes",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/05/04/white-house-may-review-new-ai-models-before-public-release-report-says/",
+      "key_points": [
+        "Executive order may establish AI working group with tech executives and government officials",
+        "Review process could mirror UK's approach with multiple government agencies involved",
+        "Policy shift follows tensions between Anthropic and Pentagon over AI model access",
+        "White House fears possible repercussions of AI-enabled cyberattacks"
+      ],
+      "impact": "This regulatory approach could create a more structured environment for AI development but may also slow the pace of innovation and increase compliance costs for AI companies."
+    },
+    {
+      "title": "Pentagon Expands AI Contracts with Major Tech Companies",
+      "summary": "The US military has agreed to eight new contracts with major tech firms to expand artificial intelligence capabilities across classified networks for operational use.",
+      "publish_time": "2026-05-01T00:00:00Z",
+      "source": "Multiple Sources",
+      "url": "https://www.forbes.com/sites/tylerroush/2026/05/01/openai-nvidia-alphabet-and-more-sign-ai-deal-with-pentagon-for-classified-military-use/",
+      "key_points": [
+        "Contracts include OpenAI, Alphabet, Nvidia, SpaceX, Microsoft, Amazon and Reflection",
+        "AI tools to be used on classified networks for 'lawful operational use'",
+        "Capabilities will streamline data analysis and enhance warfighter decision-making",
+        "Part of broader Pentagon effort to become an 'AI-first' fighting force"
+      ],
+      "impact": "These contracts signal growing military reliance on commercial AI technology and could accelerate AI development while raising questions about the role of private companies in military applications."
+    }
+  ],
+  "total_articles": 5,
+  "sources": [
+    "The New York Times",
+    "Revelio Labs", 
+    "TechTimes",
+    "Forbes",
+    "Multiple Sources"
+  ],
+  "categories": [
+    "AI Policy & Regulation",
+    "Data Center Infrastructure", 
+    "Tech Industry Employment",
+    "Military AI Applications"
+  ]
+}
