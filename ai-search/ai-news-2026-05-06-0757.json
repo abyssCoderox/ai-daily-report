@@ -1,0 +1,47 @@
+{
+  "timestamp": "2026-05-06T07:57:00Z",
+  "news": [
+    {
+      "title": "美军部署超10万个人工智能体，欲打造"算法铁幕"谋求算法霸权",
+      "summary": "美军通过"GenAI.mil"平台部署超过10万AI智能体，全天候运行在作战数据平台上，引发AI军事化扩散担忧。",
+      "publish_time": "2026-05-06T07:57:00Z",
+      "source_url": "https://www.thepaper.cn/newsDetail_forward_33099232",
+      "why_important": "涉及AI军事化应用，影响全球安全格局，可能引发算法军备竞赛"
+    },
+    {
+      "title": "芯片巨头集体拉升，英特尔、美光等涨超10%",
+      "summary": "美股芯片股走强，标普500和纳指创新高，AMD业绩全面超预期。",
+      "publish_time": "2026-05-06T07:57:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019054x0o.html?from=tech",
+      "why_important": "反映AI芯片市场需求强劲，影响全球半导体产业链"
+    },
+    {
+      "title": "中国机器人将前往日本打工，在羽田机场搬运行李",
+      "summary": "日本航空将在东京羽田机场使用中国优必选和宇树科技的人形机器人进行行李搬运测试。",
+      "publish_time": "2026-05-06T07:57:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019054x0o.html?from=tech",
+      "why_important": "标志中国机器人技术出海，反映劳动力短缺背景下的自动化趋势"
+    },
+    {
+      "title": "42%的代码是AI写的，可96%的开发者不信它",
+      "summary": "2026年最大挑战：AI编码已进入生产环境，但开发者信任度不足。",
+      "publish_time": "2026-05-06T07:57:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019054x0o.html?from=tech",
+      "why_important": "揭示AI编程工具普及与信任鸿沟，影响软件开发行业未来"
+    },
+    {
+      "title": "英特尔华丽转身，掀起"CPU复兴"",
+      "summary": "英特尔Q1财报惊艳市场，CPU重新夺回市场焦点，挑战GPU主导地位。",
+      "publish_time": "2026-05-06T07:57:00Z",
+      "source_url": "https://vip.udn.com/vip/story/121938/9482866?from=vipudn_newest_index",
+      "why_important": "标志计算架构竞争格局变化，影响AI硬件生态发展"
+    },
+    {
+      "title": "广东多所高校探索"艺科融通"复合型人才培养模式",
+      "summary": "星海音乐学院、广外艺、广美等高校推进艺术与科技融合教育。",
+      "publish_time": "2026-05-06T07:57:00Z",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c0019054x0o.html?from=tech",
+      "why_important": "反映教育领域对跨学科人才的培养趋势，适应AI时代需求"
+    }
+  ]
+}
