@@ -1,0 +1,75 @@
+{
+  "timestamp": "2026-05-06T19:57:00Z",
+  "news_items": [
+    {
+      "title": "VS Code 默认在 commit 中插入 Co-Authored-by Copilot",
+      "summary": "微软的编辑器 VS Code 被发现默认在 commit 中插入了 Co-Authored-by Copilot，不管用户有没有使用其 AI 助手 Copilot。微软开发者回应称他们将会在下个版本中解决默认启用的问题。",
+      "publish_time": "2026-05-06",
+      "source": "博客园科技新闻",
+      "url": "https://news.cnblogs.com/"
+    },
+    {
+      "title": "Ask.com 搜索引擎关闭",
+      "summary": "有 30 年历史的搜索引擎 Ask.com 于 2026 年 5 月 1 日关闭。Ask.com 创办于 1996 年 6 月，最初的名字叫 AskJeeves.com，2006 年弃用了名字 Jeeves 变成了 Ask.com。",
+      "publish_time": "2026-05-06",
+      "source": "博客园科技新闻",
+      "url": "https://news.cnblogs.com/"
+    },
+    {
+      "title": "内核曝出 Root 提权漏洞 Copy Fail",
+      "summary": "Xint Code 团队报告了被称为 Copy Fail 的内核 root 提权漏洞。该漏洞非常容易利用，影响 2017 年以来的几乎所有内核版本。",
+      "publish_time": "2026-05-06",
+      "source": "博客园科技新闻",
+      "url": "https://news.cnblogs.com/"
+    },
+    {
+      "title": "Mozilla 反对 Chrome 的 Prompt API",
+      "summary": "Google Chrome 在 2025 年提出了 Prompt API，也就是为浏览器集成的本地模型提供统一的 JavaScript API。Mozilla 对此表示反对。",
+      "publish_time": "2026-05-06",
+      "source": "博客园科技新闻",
+      "url": "https://news.cnblogs.com/"
+    },
+    {
+      "title": "Google AI 搜索结果将转向 Reddit 获取专家建议",
+      "summary": "Google 的 AI 搜索结果现在会转向 Reddit 获取专家建议，同时推荐深度文章和用户已订阅的来源链接。",
+      "publish_time": "2026-05-06",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/"
+    },
+    {
+      "title": "Anthropic 与 SpaceX 达成协议，将 Claude Code 速率限制翻倍",
+      "summary": "Anthropic 在与 SpaceX 达成协议后，将 Claude Code 的速率限制翻倍，并对 SpaceX 计划中的轨道数据中心表示兴趣。",
+      "publish_time": "2026-05-06",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/"
+    },
+    {
+      "title": "Google 收购 Eve Online 开发商股份以训练 AI 模型",
+      "summary": "DeepMind 将研究这款太空 RPG 中的玩家行为，以训练其 AI 模型。",
+      "publish_time": "2026-05-06",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/"
+    },
+    {
+      "title": "Nuro 获准在加州公路上测试无人驾驶 Uber 机器人出租车",
+      "summary": "Uber 和 Nuro 计划在今年晚些时候开始完全自动驾驶测试。",
+      "publish_time": "2026-05-06",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/"
+    },
+    {
+      "title": "Pornhub 为英国用户解除封锁，需通过 Apple 验证年龄",
+      "summary": "其母公司 Aylo 表示，经过年龄验证的英国 iOS 用户现在可以完全访问该成人网站。",
+      "publish_time": "2026-05-06",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/"
+    },
+    {
+      "title": "Anthropic  reportedly 同意向 Google 支付 2000 亿美元用于芯片和云访问",
+      "summary": "这项为期五年的交易是 Anthropic 与 Google 的重要合作。",
+      "publish_time": "2026-05-06",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/"
+    }
+  ]
+}
