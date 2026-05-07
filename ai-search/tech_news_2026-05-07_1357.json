@@ -1,0 +1,78 @@
+{
+  "timestamp": "2026-05-07T13:57:00Z",
+  "period": "past_6_hours",
+  "news_count": 8,
+  "articles": [
+    {
+      "title": "Apple to pay $250 million settlement over AI Siri capabilities",
+      "summary": "Apple has agreed to a $250 million settlement in a class-action lawsuit over false advertising of Siri's AI capabilities. The lawsuit claimed Apple misled consumers by promoting features that didn't exist when iPhone 16 launched in 2024.",
+      "impact": "This settlement affects approximately 37 million devices and could result in payments of $25-95 per eligible device, marking a significant financial impact and reputational challenge for Apple's AI ambitions.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/",
+      "publish_time": "2026-05-07T12:00:00Z"
+    },
+    {
+      "title": "Anthropic agrees to $200 billion deal with Google for cloud and chips",
+      "summary": "Anthropic has committed to spending $200 billion on Google's cloud services and chips over five years, representing one of the largest AI infrastructure deals in history.",
+      "impact": "This massive deal highlights the escalating costs of AI development and the consolidation of cloud infrastructure among major tech players, potentially reshaping the competitive landscape.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/",
+      "publish_time": "2026-05-07T11:30:00Z"
+    },
+    {
+      "title": "Google's AI search results now include Reddit expert advice",
+      "summary": "Google's AI Overviews feature now incorporates direct quotes and expert advice from Reddit and other social media platforms to provide more comprehensive search results.",
+      "impact": "This integration bridges professional expertise with community knowledge, potentially improving search quality but raising concerns about content moderation and misinformation.",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news",
+      "publish_time": "2026-05-07T10:00:00Z"
+    },
+    {
+      "title": "Samsung market cap surpasses $1 trillion amid AI chip rally",
+      "summary": "Samsung Electronics' market capitalization has exceeded $1 trillion following a surge in US AI chip stocks, driven by increased demand for AI semiconductors.",
+      "impact": "This milestone reflects the growing value of semiconductor companies in the AI revolution and positions Samsung as a major beneficiary of the AI hardware boom.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/",
+      "publish_time": "2026-05-07T09:00:00Z"
+    },
+    {
+      "title": "SpaceX plans $55 billion chip facility in Texas",
+      "summary": "SpaceX has filed plans to build a $55 billion Terafab chip manufacturing facility in Texas, marking a significant expansion into semiconductor production.",
+      "impact": "This massive investment signals SpaceX's diversification beyond aerospace and could reshape the semiconductor industry landscape with vertical integration.",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/",
+      "publish_time": "2026-05-07T08:30:00Z"
+    },
+    {
+      "title": "ChatGPT's new 5.5 Instant model reduces errors and emoji usage",
+      "summary": "OpenAI has deployed GPT-5.5 Instant as the new default model, featuring improved factual accuracy, better personalization, and reduced emoji usage.",
+      "impact": "This update enhances user experience with more reliable AI responses and could set new standards for conversational AI quality across the industry.",
+      "source": "PCMag",
+      "url": "https://www.pcmag.com/news",
+      "publish_time": "2026-05-07T07:00:00Z"
+    },
+    {
+      "title": "Xbox ditches Microsoft Copilot AI integration",
+      "summary": "Microsoft's new Xbox CEO has confirmed that Copilot AI features will be removed from Xbox consoles and mobile apps, as they don't align with the gaming brand's direction.",
+      "impact": "This strategic shift indicates Microsoft's recognition that AI assistants may not enhance gaming experiences and could signal a broader reassessment of AI integration in entertainment platforms.",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/",
+      "publish_time": "2026-05-07T06:30:00Z"
+    },
+    {
+      "title": "US to safety test new AI models from Google, Microsoft, and xAI",
+      "summary": "The US Commerce Department will conduct safety tests on new AI models from major tech companies, building on Biden-era agreements for AI regulation.",
+      "impact": "This government oversight represents increased regulatory scrutiny of AI development and could establish new safety standards for the entire industry.",
+      "source": "BBC News",
+      "url": "https://www.bbc.co.uk/news/technology",
+      "publish_time": "2026-05-07T06:00:00Z"
+    }
+  ],
+  "metadata": {
+    "total_sources": 4,
+    "sources": ["Reuters", "Engadget", "PCMag", "BBC News"],
+    "categories": ["AI/ML", "Semiconductors", "Big Tech", "Gaming", "Regulation"],
+    "generated_by": "Tech Intelligence Analyst",
+    "report_type": "6-hour tech news digest"
+  }
+}

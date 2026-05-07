@@ -1,0 +1,105 @@
+{
+  "timestamp": "2026-05-07T19:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "2026年5月6日科技突发新闻：AI爆炸性发展、安全噩梦和大胆商业举措",
+      "summary": "涵盖AI企业合作、Nvidia就业观点、Cerebras IPO、教育领域AI研究撤回、Character.AI诉讼、Linux安全漏洞、cPanel黑客攻击、医疗数据共享问题、大众汽车投资Rivian等多个科技领域重要动态",
+      "publish_time": "2026-05-06",
+      "source": "coaio.com",
+      "url": "https://coaio.com/zh/news/2026/05/breaking-tech-news-on-may-6-2026-ai-explosions-security-nightmares-2p4c/",
+      "importance": "高 - 涵盖多个重要科技领域的突发新闻和行业动态"
+    },
+    {
+      "title": "2026年5月7日 AI科技日报：GPT-5.5全量推送、OpenAI造手机、马斯克1300亿索赔",
+      "summary": "包含全球LLM用户达38亿、Q1 LLM总收入207亿美元、Anthropic市场份额31.4%、OpenAI收入超650亿美元、Claude Code源代码泄露事件、世界模型赛道竞争、苹果AI眼镜布局等重要数据和趋势",
+      "publish_time": "2026-05-07",
+      "source": "juejin.cn",
+      "url": "https://juejin.cn/post/7637024990342692902",
+      "importance": "极高 - 提供详细的行业数据和重要AI发展动态"
+    },
+    {
+      "title": "「2026年5月7日」科技AI资讯日报｜HackerNews精选+ 全球热点速递",
+      "summary": "DeepSeek首轮融资估值450亿美元、OpenAI联合五大芯片巨头推出MRC技术、Anthropic与马斯克合作、SpaceX与特斯拉共建芯片工厂、各大AI模型产品更新等核心资讯",
+      "publish_time": "2026-05-07",
+      "source": "juejin.cn",
+      "url": "https://juejin.cn/post/7636697637253316618",
+      "importance": "高 - 聚焦AI算力军备竞赛和商业化进程"
+    },
+    {
+      "title": "美股重點新聞摘要2026年5月7日",
+      "url": "https://hk.finance.yahoo.com/news/%E7%BE%8E%E8%82%A1%E9%87%8D%E9%BB%9E%E6%96%B0%E8%81%9E%E6%91%98%E8%A6%812026%E5%B9%B45%E6%9C%887%E6%97%A5-000004269.html",
+      "summary": "美股市场重要新闻汇总，包含科技股表现和市场动态",
+      "publish_time": "2026-05-07",
+      "source": "hk.finance.yahoo.com",
+      "importance": "中 - 提供美股市场整体概况"
+    },
+    {
+      "title": "2026 年5 月7 日智能制造行业新闻",
+      "summary": "智能制造指数上涨0.77%、天迈科技并购切入自动化赛道、工信部发布\"模数共振\"实施方案、智能测评技术突破、绿色智造成本优势显现等行业动态",
+      "publish_time": "2026-05-07",
+      "source": "www.163.com",
+      "url": "https://www.163.com/dy/article/KSALEE0Q0556M6NG.html",
+      "importance": "高 - 详细报道智能制造领域政策和技术进展"
+    },
+    {
+      "title": "新浪通信产业热点小时报丨2026年05月07日12时",
+      "summary": "IDC预测2026年全球半导体收入达1.29万亿美元、台积电4nm产能扩容和1.4nm建厂进度超前、SpaceX得州建芯片厂投资550亿美元、奥迪与Momenta合作等产业动态",
+      "publish_time": "2026-05-07 12:00",
+      "source": "cj.sina.cn",
+      "url": "https://cj.sina.cn/articles/view/7857201856/1d45362c00190566iw?froms=ggmp",
+      "importance": "高 - 涵盖半导体和通信产业重要数据和投资动态"
+    },
+    {
+      "title": "恒科狂飙超3%重回5000点！科技股全线爆发，AI算力成最强主线",
+      "summary": "恒生科技指数涨3.06%重夺5000点、华虹半导体涨超8%、腾讯混元Token调用量增长10倍、豆包推出付费版本、国产AI链业绩全面超预期等市场表现",
+      "publish_time": "2026-05-07 18:42",
+      "source": "www.bjnews.com.cn",
+      "url": "https://www.bjnews.com.cn/detail/1778150404129733.html",
+      "importance": "高 - 详细分析科技股表现和AI产业链景气度"
+    },
+    {
+      "title": "【财经新闻】全球只有美国、台湾科技业全面起飞 台湾16家企业市值破兆！",
+      "summary": "美伊谈判进展、贝森特访日讨论汇率和稀土议题、SpaceX向Anthropic提供算力、台湾科技企业崛起、联发科市值突破5兆元台币等重要财经动态",
+      "publish_time": "2026-05-07 20:09",
+      "source": "www.ntdtv.com",
+      "url": "https://www.ntdtv.com/gb/2026/05/07/a104093925.html",
+      "importance": "高 - 报道全球科技产业格局变化和地缘政治影响"
+    },
+    {
+      "title": "新浪人工智能热点小时报丨2026年05月07日05时",
+      "summary": "AMD市值达6800亿美元、代理式AI将重构50万亿美元实体经济、理想汽车App更新、Anthropic与SpaceX签署算力协议、三星电子市值达万亿美元等重要AI动态",
+      "publish_time": "2026-05-07 05:00",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_7857201856_1d45362c0019055zcm.html?from=tech",
+      "importance": "高 - 涵盖AI技术和产业发展重要趋势"
+    },
+    {
+      "title": "聚焦人工智能教育应用等 2026世界数字教育大会将发布八项成果",
+      "summary": "教育部介绍2026世界数字教育大会筹备情况，将发布《中国智慧教育发展报告》《全球数字教育发展指数》《人工智能教育伦理：参考框架》等重要成果",
+      "publish_time": "2026-05-07 10:30",
+      "source": "www.stcn.com",
+      "url": "https://www.stcn.com/article/detail/3897491.html",
+      "importance": "中 - 关注AI教育领域政策和发展规划"
+    }
+  ],
+  "key_trends": [
+    "AI大模型商业化加速，GPT-5.5全量推送",
+    "全球AI算力军备竞赛升级，各大公司加大投资",
+    "半导体产业迎来爆发式增长，存储器和先进制程需求旺盛",
+    "代理式AI（Agentic AI）成为新焦点，预计重构实体经济",
+    "AI安全漏洞和监管问题日益突出",
+    "中美AI竞争持续，差距缩小至2.7%",
+    "AI教育应用和伦理框架建设受到重视"
+  ],
+  "market_data": {
+    "global_llm_users": "38亿",
+    "q1_llm_revenue": "207亿美元",
+    "anthropic_market_share": "31.4%",
+    "openai_market_share": "29%",
+    "nvidia_market_cap": "5.26万亿美元",
+    "amd_market_cap": "6800亿美元",
+    "semiconductor_revenue_2026": "1.29万亿美元"
+  }
+}
