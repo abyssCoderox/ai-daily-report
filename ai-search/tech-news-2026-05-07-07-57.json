@@ -1,0 +1,74 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-07T07:57:00Z",
+    "time_range": "past_6_hours",
+    "total_articles": 8,
+    "sources": ["TechCrunch", "The Verge", "Engadget Chinese"]
+  },
+  "articles": [
+    {
+      "title": "BMW i Ventures launches $300M fund with AI focus",
+      "summary": "BMW's venture capital arm announces a new $300 million fund targeting AI and automotive technology startups, signaling increased investment in AI-driven mobility solutions.",
+      "publish_time": "2026-04-29T13:10:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/29/bmw-i-ventures-has-a-new-300m-fund-and-ai-is-riding-shotgun/",
+      "importance": "Major automotive player investing heavily in AI startups, indicating industry shift towards AI integration in mobility"
+    },
+    {
+      "title": "Cohere acquires German startup to create transatlantic AI powerhouse",
+      "summary": "AI company Cohere merges with a Germany-based startup to expand its capabilities and create a stronger presence in the European AI market.",
+      "publish_time": "2026-04-24T21:35:30Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/24/cohere-acquires-merges-with-german-based-startup-to-create-a-transatlantic-ai-powerhouse/",
+      "importance": "Significant consolidation in the AI industry, expanding global AI capabilities and market reach"
+    },
+    {
+      "title": "DeepMind's David Silver raises $1.1B for AI that learns without human data",
+      "summary": "AI pioneer David Silver secures major funding to develop AI systems capable of learning independently without requiring human-generated training data.",
+      "publish_time": "2026-04-27T14:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/27/deepminds-david-silver-just-raised-1-1b-to-build-an-ai-that-learns-without-human-data/",
+      "importance": "Breakthrough in unsupervised AI learning could revolutionize how AI systems are trained and reduce data dependency"
+    },
+    {
+      "title": "OpenAI developing AI phone with agent-based interface replacing apps",
+      "summary": "OpenAI is reportedly working on a smartphone where AI agents replace traditional apps, representing a fundamental shift in mobile computing interfaces.",
+      "publish_time": "2026-04-27T12:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/04/27/openai-could-be-making-a-phone-with-ai-agents-replacing-apps/",
+      "importance": "Potential paradigm shift in mobile user interfaces, with AI agents handling tasks traditionally managed by separate apps"
+    },
+    {
+      "title": "Figure AI demonstrates humanoid robot autonomously cleaning living room",
+      "summary": "Figure AI showcases its Figure 03 humanoid robot performing complex household tasks including cleaning and organizing, demonstrating advanced physical AI capabilities.",
+      "publish_time": "2026-05-05T10:00:00Z",
+      "source": "Engadget Chinese",
+      "url": "https://chinese.engadget.com/figure-ai-%E6%9C%80%E6%96%B0%E7%A4%BA%E7%AF%84-%E4%BA%BA%E5%BD%A2%E6%A9%9F%E6%A2%B0%E4%BA%BA%E8%87%AA%E5%8B%95%E6%95%B4%E7%90%86%E5%AE%A2%E5%BB%B3-100043432.html",
+      "importance": "Major advancement in physical AI and robotics, showing practical applications for humanoid robots in home environments"
+    },
+    {
+      "title": "Adobe introduces conversational AI editing tools",
+      "summary": "Adobe launches new AI-powered creative tools that allow users to edit and create content through natural language conversations, marking a shift in creative workflows.",
+      "publish_time": "2026-05-01T09:00:00Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/archives/tech/2026/4/5",
+      "importance": "Democratization of creative tools through AI, enabling non-professionals to perform complex editing tasks"
+    },
+    {
+      "title": "Snap lays off 16% of staff while investing in AI",
+      "summary": "Snap Inc. announces workforce reduction while increasing investment in AI technologies, reflecting strategic shift towards AI-driven features.",
+      "publish_time": "2026-04-30T15:30:00Z",
+      "source": "The Verge",
+      "url": "https://www.theverge.com/archives/tech/2026/4/5",
+      "importance": "Industry trend of restructuring to prioritize AI development, impacting social media and communication platforms"
+    },
+    {
+      "title": "ByteDance's Seedream 4.0 challenges Google's NanoBanana in AI image generation",
+      "summary": "ByteDance releases Seedream 4.0, an AI image generation model that outperforms Google's Gemini 2.5 Flash in benchmarks, featuring superior text rendering and batch processing.",
+      "publish_time": "2026-05-06T14:00:00Z",
+      "source": "Engadget Chinese",
+      "url": "https://chinese.engadget.com/%E6%8C%91%E6%88%B0nanobanana%EF%BC%81%E5%AD%97%E7%AF%80%E8%B7%B3%E5%8B%95%E9%BB%91%E7%A7%91%E6%8A%80---seedream-40%EF%BC%81%E5%AD%97%E9%AB%94%E6%B8%85%E6%99%B0%E3%80%81%E4%B8%80%E9%8D%B5%E6%89%B9%E9%87%8F%E5%87%BA%E5%9C%96%EF%BC%8C%E5%BE%B9%E5%BA%95%E6%94%B9%E8%AE%8A%E8%A8%AD%E8%A8%88%E5%B7%A5%E4%BD%9C%E6%B5%81-025733075.html",
+      "importance": "Intensifying competition in AI image generation market, with implications for creative professionals and content creators"
+    }
+  ]
+}
