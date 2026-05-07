@@ -1,0 +1,76 @@
+{
+  "timestamp": "2026-05-07T01:57:00Z",
+  "search_period": "past_6_hours",
+  "news_items": [
+    {
+      "title": "新思科技 Synopsys 推動 Ansys 2026 R1 以 AI 重塑工程模擬",
+      "summary": "Synopsys推动Ansys 2026 R1版本，利用AI技术重塑工程模拟，同时国科会举办主权AI应用发布会，探讨台日全光网络智慧城市应用。",
+      "publish_time": "2026-05-07T01:30:00Z",
+      "source": "CIO Taiwan",
+      "url": "https://www.cio.com.tw/111972/"
+    },
+    {
+      "title": "人工智能的爆炸式增长：从2026年的医疗突破到伦理困境",
+      "summary": "哈佛大学研究显示AI在急诊室诊断准确性超越人类医生，Lovelace公司推出企业级AI引擎，同时AI版权争议引发伦理关注。",
+      "publish_time": "2026-05-06T22:00:00Z",
+      "source": "Coaio",
+      "url": "https://coaio.com/zh/news/2026/05/ais-explosive-growth-from-healthcare-breakthroughs-to-ethical-2p0c/"
+    },
+    {
+      "title": "3C科技/從AI Agent到OpenClaw 2026年AI新名詞科普",
+      "summary": "介绍2026年重要AI新名词：World Model（世界模型）让AI理解世界运行规律，Token经济重构AI产业生态。",
+      "publish_time": "2026-05-07T01:27:00Z",
+      "source": "今日大公",
+      "url": "https://epaper.tkww.hk/a/202605/07/AP69fba4d3e4b04773b06d3fe4.html"
+    },
+    {
+      "title": "2026年GEO服务商怎么选？AI搜索时代的企业增长新引擎",
+      "summary": "深度云海智能科技凭借AI驱动的GEO全链路解决方案获得多项权威认可，成为2026年最值得关注的GEO服务商。",
+      "publish_time": "2026-05-06T16:30:00Z",
+      "source": "界面新闻",
+      "url": "https://www.jiemian.com/article/14388136.html"
+    },
+    {
+      "title": "Google 香港与香港科技园公司携手启动第二届人工智能孵化计划",
+      "summary": "Google香港与科技园公司启动第二届AI孵化计划，16家初创企业入选，涵盖金融科技、医疗健康、可持续发展等多个领域。",
+      "publish_time": "2026-05-06T15:00:00Z",
+      "source": "香港科技园",
+      "url": "https://www.hkstp.org/zh-cn/park-life/news-and-events/news/all-news/google-coincubation"
+    },
+    {
+      "title": "人工智能能力建设国际合作之友小组专题会议在联合国总部举行",
+      "summary": "联合国人工智能之友小组会议在纽约举行，中国科技部副部长陈家昌强调坚持开源开放的人工智能创新之路。",
+      "publish_time": "2026-05-06T21:20:00Z",
+      "source": "中国新闻网",
+      "url": "https://www.chinanews.com.cn/gj/2026/05-06/10616523.shtml"
+    },
+    {
+      "title": "新闻分析丨美政府为何酝酿收紧AI监管",
+      "summary": "美国政府考虑对AI模型实施发布前安全审查，Anthropic新模型因网络安全风险过高而暂缓开放。",
+      "publish_time": "2026-05-06T15:32:00Z",
+      "source": "新华网",
+      "url": "https://app.xinhuanet.com/news/article.html?articleId=20260506d6920a96322949d0af2ab674e6b1a0af"
+    },
+    {
+      "title": "在'国际显示周'看'中国智造'展现显示技术与AI融合发展",
+      "summary": "2026年国际显示周在美国洛杉矶开幕，京东方、TCL华星等中国企业展示AI赋能的显示技术创新。",
+      "publish_time": "2026-05-07T00:00:00Z",
+      "source": "中国科技网",
+      "url": "https://www.stdaily.com/web/gdxw/2026-05/07/content_512471.html"
+    },
+    {
+      "title": "词元重构AI产业新生态",
+      "summary": "词元成为AI产业价值锚点和结算单位，中国大模型市场规模预计2026年突破700亿元。",
+      "publish_time": "2026-05-07T00:00:00Z",
+      "source": "中国社会科学网",
+      "url": "https://www.cssn.cn/skgz/bwyc/202605/t20260507_5987705.shtml"
+    },
+    {
+      "title": "为人工智能创新划清底线（金台随笔）",
+      "summary": "法治为AI创新划定安全边界，防范技术风险，构建可信市场环境。",
+      "publish_time": "2026-05-07T08:09:00Z",
+      "source": "人民网",
+      "url": "http://cpc.people.com.cn/n1/2026/0507/c64387-40714768.html"
+    }
+  ]
+}
