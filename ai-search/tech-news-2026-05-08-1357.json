@@ -1,0 +1,102 @@
+{
+  "metadata": {
+    "timestamp": "2026-05-08T13:57:00Z",
+    "period": "past_6_hours",
+    "total_articles": 5,
+    "source": "Tavily Search API",
+    "categories": ["AI", "Semiconductors", "Enterprise Technology", "Voice Intelligence", "Investment"]
+  },
+  "articles": [
+    {
+      "id": 1,
+      "title": "OpenAI Launches New Voice Intelligence Features in its API",
+      "summary": "OpenAI has introduced three new voice intelligence features: GPT-Realtime-2 for realistic vocal simulation, GPT-Realtime-Translate for real-time translation across 70+ input languages, and GPT-Realtime-Whisper for live speech-to-text capabilities.",
+      "why_important": "This represents a significant advancement in real-time AI voice capabilities, enabling more natural human-computer interactions across customer service, education, and creator platforms while maintaining built-in safety guardrails.",
+      "url": "https://techcrunch.com/2026/05/07/openai-launches-new-voice-intelligence-features-in-its-api/",
+      "source": "TechCrunch",
+      "publish_time": "2026-05-07T22:24:00Z",
+      "category": "AI",
+      "key_features": [
+        "GPT-Realtime-2 with GPT-5-class reasoning",
+        "Real-time translation for 70+ input languages",
+        "Live speech-to-text with Whisper",
+        "Built-in safety guardrails against abuse"
+      ]
+    },
+    {
+      "id": 2,
+      "title": "Voi Founders' New AI Startup Pit Raises $16M Led by a16z",
+      "summary": "Pit, founded by former Voi executives including CEO Fredrik Hjolm, has secured $16 million in seed funding to develop enterprise AI solutions that automate internal business processes.",
+      "why_important": "Pit represents the growing trend of AI companies positioning themselves as 'AI product teams as a service' rather than simple tool providers, targeting enterprise automation with a focus on moving workers to higher-value tasks.",
+      "url": "https://techcrunch.com/2026/05/07/voi-founders-new-ai-startup-pit-has-become-the-latest-rising-star-out-of-stockholm/",
+      "source": "TechCrunch",
+      "publish_time": "2026-05-07T22:24:00Z",
+      "category": "Enterprise Technology",
+      "key_features": [
+        "$16M seed round led by Andreessen Horowitz",
+        "Focus on enterprise AI automation",
+        "Pit Studio for process guidance",
+        "Pit Cloud for enterprise compliance"
+      ]
+    },
+    {
+      "id": 3,
+      "title": "Asia's Tech Giants Drive New Center of Gravity for AI Bull Run",
+      "summary": "Asian chipmakers including Samsung, TSMC, and SK Hynix are experiencing unprecedented growth, with Samsung's market cap surpassing $1 trillion and chip revenues increasing 50-fold, making Asia the epicenter of the AI boom.",
+      "why_important": "This demonstrates the critical role of Asian semiconductor manufacturers in the global AI supply chain and shows how AI demand is driving economic growth across Taiwan and South Korea at unprecedented rates.",
+      "url": "https://www.reuters.com/world/asia-pacific/asias-tech-giants-give-ai-bull-run-new-centre-gravity-2026-05-07/",
+      "source": "Reuters",
+      "publish_time": "2026-05-07T09:02:00Z",
+      "category": "Semiconductors",
+      "key_features": [
+        "Samsung's market cap exceeds $1 trillion",
+        "50x increase in chip revenues",
+        "Record earnings driving stock rallies",
+        "Multi-year agreements with AI customers"
+      ]
+    },
+    {
+      "id": 4,
+      "title": "Machine Discovery Secures $6M for AI-Powered Semiconductor Design Tools",
+      "summary": "Machine Discovery has raised $6 million to develop machine learning tools that dramatically accelerate semiconductor design simulations, aiming to cut analog semiconductor product development cycles in half by 2026.",
+      "why_important": "This funding highlights the growing importance of AI in semiconductor design automation, potentially revolutionizing how chips are developed and reducing time-to-market for new semiconductor products.",
+      "url": "https://aithority.com/machine-learning/machine-discovery-secures-6-million-to-deliver-ai-tools-for-semiconductor-design/",
+      "source": "AiThority",
+      "publish_time": "2026-05-08T13:57:00Z",
+      "category": "Semiconductors",
+      "key_features": [
+        "$6M funding led by BGF",
+        "ML technology for semiconductor simulation",
+        "Goal to halve development cycles by 2026",
+        "Spun out from University of Oxford"
+      ]
+    },
+    {
+      "id": 5,
+      "title": "The New Wild West of AI Kids' Toys Raises Safety Concerns",
+      "summary": "AI-powered toys are becoming increasingly prevalent despite limited regulation, with over 1,500 AI toy companies registered in China and major companies like Huawei and Sharp launching AI companion products for children.",
+      "why_important": "This highlights the urgent need for regulatory frameworks around AI toys as they become mainstream, balancing innovation with child safety and data privacy concerns in an largely unregulated market.",
+      "url": "https://www.wired.com/story/the-new-wild-west-of-ai-kids-toys/",
+      "source": "Wired",
+      "publish_time": "2026-05-08T13:57:00Z",
+      "category": "AI",
+      "key_features": [
+        "1,500+ AI toy companies in China",
+        "Huawei's Smart HanHan sold 10,000 units in first week",
+        "Sharp's PokeTomo launched in Japan",
+        "Limited regulatory oversight"
+      ]
+    }
+  ],
+  "trends_summary": {
+    "primary_trends": [
+      "Voice AI and real-time translation capabilities advancing rapidly",
+      "Enterprise AI automation moving beyond simple tools to full-service solutions",
+      "Asian semiconductor manufacturers becoming central to global AI infrastructure",
+      "AI applications expanding into consumer products like children's toys",
+      "Increased investment in AI-powered design and development tools"
+    ],
+    "market_impact": "Strong bullish sentiment in AI and semiconductor sectors, with significant capital flowing into both established players and startups across the AI value chain.",
+    "emerging_concerns": "Regulatory gaps in consumer AI applications, particularly around child safety and data privacy in AI toys."
+  }
+}

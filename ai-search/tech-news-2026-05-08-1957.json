@@ -1,0 +1,87 @@
+{
+  "timestamp": "2026-05-08T19:57:00Z",
+  "timeRange": "past_6_hours",
+  "news_count": 10,
+  "articles": [
+    {
+      "title": "Chrome Is Quietly Downloading a 4GB AI Model Without Your Permission",
+      "summary": "Google Chrome is automatically downloading a 4GB AI model to users' devices without explicit consent, raising privacy and bandwidth concerns.",
+      "url": "https://www.pcmag.com/news/chrome-is-quietly-downloading-4gb-ai-model-without-your-permission",
+      "source": "PCMag",
+      "publish_time": "2026-05-08T18:57:00Z",
+      "why_important": "This raises significant privacy concerns about silent AI model downloads and potential bandwidth usage without user consent."
+    },
+    {
+      "title": "ChatGPT's New Emergency Contact Feature Looks Out for Unsafe Chats",
+      "summary": "OpenAI introduces a Trusted Contact feature that can alert designated contacts if a user shows signs of self-harm or suicide risk during conversations.",
+      "url": "https://www.pcmag.com/news/chatgpts-new-emergency-contact-feature-looks-out-for-unsafe-chats",
+      "source": "PCMag",
+      "publish_time": "2026-05-08T18:57:00Z",
+      "why_important": "Represents a significant step in AI safety measures and mental health support, though raises privacy considerations."
+    },
+    {
+      "title": "Apple Reportedly Running Out of A18 Pro Chips for MacBook Neo",
+      "summary": "Due to unexpectedly high demand, Apple is facing supply constraints for A18 Pro chips and may need to double Neo production capacity.",
+      "url": "https://www.pcmag.com/news/apple-reportedly-running-out-of-a18-pro-chips-for-macbook-neo",
+      "source": "PCMag",
+      "publish_time": "2026-05-08T16:57:00Z",
+      "why_important": "Indicates strong market demand for Apple's new MacBook Neo and potential supply chain challenges."
+    },
+    {
+      "title": "Hack Shuts Down Canvas, an Online System Used By Thousands of Schools",
+      "summary": "The ShinyHunters hacking group launched a major attack on Canvas LMS, disrupting finals for thousands of educational institutions.",
+      "url": "https://www.pcmag.com/news/hack-shuts-down-canvas-an-online-system-used-by-thousands-of-schools",
+      "source": "PCMag",
+      "publish_time": "2026-05-08T07:57:00Z",
+      "why_important": "Highlights cybersecurity vulnerabilities in critical educational infrastructure during important academic periods."
+    },
+    {
+      "title": "xAI Becomes SpaceXAI As Elon Musk's Company Files for Trademarks",
+      "summary": "Elon Musk's xAI is rebranding to SpaceXAI to emphasize its connection with SpaceX and highlight AI products from the space company.",
+      "url": "https://www.pcmag.com/news/xai-becomes-spacexai-as-elon-musks-company-files-for-trademarks",
+      "source": "PCMag",
+      "publish_time": "2026-05-08T00:57:00Z",
+      "why_important": "Signals SpaceX's increased focus on AI integration and potential new AI-powered space technologies."
+    },
+    {
+      "title": "FCC Chair: Starlink Isn't Enough. We Need at Least 3 Satellite-to-Phone Services",
+      "summary": "FCC Chair Brendan Carr advocates for multiple satellite-to-phone service providers beyond Starlink, supporting competition from Amazon and AST SpaceMobile.",
+      "url": "https://www.pcmag.com/news/fcc-chair-starlink-isnt-enough-we-need-at-least-3-satellite-to-phone-services",
+      "source": "PCMag",
+      "publish_time": "2026-05-07T22:57:00Z",
+      "why_important": "Could reshape the satellite communications industry and increase competition in space-based connectivity."
+    },
+    {
+      "title": "Google Shuts Down 'Project Mariner' Web Browsing AI",
+      "summary": "Google discontinues its Project Mariner web browsing AI tool, folding some features into other products after a short lifespan.",
+      "url": "https://www.pcmag.com/news/google-closes-project-mariner-web-browsing-ai-shut-down-earlier-this-week",
+      "source": "PCMag",
+      "publish_time": "2026-05-07T22:57:00Z",
+      "why_important": "Reflects Google's shifting AI strategy and consolidation of AI features across its product ecosystem."
+    },
+    {
+      "title": "Microsoft VP Backs Removing Copilot From Less Useful Corners of Windows",
+      "summary": "A Microsoft VP suggests removing Copilot AI from areas of Windows where it doesn't provide value, acknowledging feature overreach.",
+      "url": "https://www.pcmag.com/news/microsoft-vp-backs-removing-copilot-from-less-useful-corners-of-windows",
+      "source": "PCMag",
+      "publish_time": "2026-05-07T21:57:00Z",
+      "why_important": "Indicates a more pragmatic approach to AI integration in operating systems, focusing on utility over ubiquity."
+    },
+    {
+      "title": "Canadian Officials Claim OpenAI Violated Federal and Provincial Privacy Laws",
+      "summary": "Canadian regulators allege OpenAI collected excessive personal data without proper consent, raising concerns about AI data practices.",
+      "url": "https://www.engadget.com/2166560/canadian-officials-claim-openai-violated-federal-and-provincial-privacy-laws/",
+      "source": "Engadget",
+      "publish_time": "2026-05-08T19:00:00Z",
+      "why_important": "Represents growing international regulatory scrutiny of AI companies' data collection practices."
+    },
+    {
+      "title": "Anthropic is Doubling Claude Code Rate Limits After Deal with SpaceX",
+      "summary": "Anthropic expands Claude Code capabilities following a partnership with SpaceX, which is also interested in orbital data centers.",
+      "url": "https://www.engadget.com/2166315/anthropic-is-doubling-claude-code-rate-limits-after-deal-with-spacex/",
+      "source": "Engadget",
+      "publish_time": "2026-05-08T18:00:00Z",
+      "why_important": "Shows increasing collaboration between AI companies and space technology firms for advanced computing infrastructure."
+    }
+  ]
+}
