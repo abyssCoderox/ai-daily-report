@@ -1,0 +1,56 @@
+{
+  "metadata": {
+    "generated_at": "2026-05-09T19:57:00Z",
+    "time_range": "past_6_hours",
+    "total_articles": 5,
+    "source": "tavily_search",
+    "topic": "technology_news"
+  },
+  "articles": [
+    {
+      "title": "Grok AI语音模式登陆CarPlay 实现免提AI交互",
+      "summary": "xAI为CarPlay发布Grok语音模式，用户可通过车载仪表板以免提方式与AI聊天机器人交互。Grok原本内置于Tesla车辆，现在几乎所有其他汽车都能访问此服务。",
+      "publish_time": "2026-05-09T18:07:12Z",
+      "source_url": "https://hk.news.yahoo.com/grok-ai-%E8%AA%9E%E9%9F%B3%E6%A8%A1%E5%BC%8F%E7%99%BB%E9%99%B8-carplay-%E5%AF%A6%E7%8F%BE%E5%85%8D%E6%8F%90-180712256.html",
+      "source_name": "Engadget Chinese",
+      "category": "AI",
+      "impact": "扩展了车载AI助手的应用范围，提升了驾驶安全性"
+    },
+    {
+      "title": "OpenAI发布新一代实时语音模型",
+      "summary": "OpenAI发布GPT-Realtime-2、GPT-Realtime-Translate和GPT-Realtime-Whisper等新一代实时语音模型，提升语音交互中的即时推理、翻译与转录能力。",
+      "publish_time": "2026-05-09T17:30:00Z",
+      "source_url": "https://cn.engadget.com/evo-japan-2026-%E5%8C%97%E6%96%97%E7%A5%9E%E6%8B%B3%E5%A4%A7%E8%B3%BD%E5%86%A0%E8%BB%8D-k-024414800.html",
+      "source_name": "Engadget Chinese",
+      "category": "AI",
+      "impact": "推动语音助手技术发展，提升实时交互体验"
+    },
+    {
+      "title": "xAI与SpaceX合并成立SpaceXAI",
+      "summary": "Elon Musk宣布xAI将解散独立实体并入SpaceX，未来所有AI相关业务都归于SpaceXAI旗下运作。此举是在SpaceX与Anthropic达成AI合作伙伴关系后宣布的。",
+      "publish_time": "2026-05-09T16:45:00Z",
+      "source_url": "https://cn.engadget.com/3hk-%E9%9F%93%E5%9C%8B-sim-%E5%8D%A1%E5%AF%A6%E6%B8%AC-%E9%87%9C%E5%B1%B1%E9%8C%84%E5%BE%97-200032658.html",
+      "source_name": "Engadget Chinese",
+      "category": "AI",
+      "impact": "AI生态系统战略性重组，整合太空基础设施与高阶AI技术"
+    },
+    {
+      "title": "Google扩大Gemini AI功能至欧洲和亚太地区",
+      "summary": "Google Home的Gemini升级功能将在本周开始在欧洲与亚太地区更广泛推出，让更多用户体验Gemini AI模型带来的进阶功能与方便性。",
+      "publish_time": "2026-05-09T15:30:00Z",
+      "source_url": "https://cn.engadget.com/alt-%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%84%A1%E9%99%90%E4%B8%8A%E7%B6%B2-esim-1-10%E6%97%A5-200026567.html",
+      "source_name": "Engadget Chinese",
+      "category": "AI",
+      "impact": "扩大AI助手全球覆盖范围，提升智能家居体验"
+    },
+    {
+      "title": "xAI推出Custom Voices功能 一分钟克隆语音",
+      "summary": "xAI推出Custom Voices新功能，用户只需短暂录音即可复制自己的语音，通过xAI控制台录制约一分钟的自然语音，两分钟内即可准备就绪。",
+      "publish_time": "2026-05-09T14:20:00Z",
+      "source_url": "https://cn.engadget.com/alt-%E6%96%B0%E5%8A%A0%E5%9D%A1%E7%84%A1%E9%99%90%E4%B8%8A%E7%B6%B2-esim-1-10%E6%97%A5-200026567.html",
+      "source_name": "Engadget Chinese",
+      "category": "AI",
+      "impact": "提供个性化语音服务，增强AI交互的自然度"
+    }
+  ]
+}

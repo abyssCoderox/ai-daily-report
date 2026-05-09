@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-05-09T13:57:00Z",
+  "search_period": "past_6_hours",
+  "total_news_items": 8,
+  "news_items": [
+    {
+      "title": "我国第四代自主超导量子计算机"本源悟空-180"上线，今日起接收全球任务",
+      "summary": "中国自主研发的第四代超导量子计算机"本源悟空-180"正式投入使用，搭载180个计算比特超导量子芯片，单比特逻辑门保真度99.9%，双比特逻辑门保真度99%，从5月9日起开始接收全球量子计算任务。",
+      "publication_time": "2026-05-09T10:31:14Z",
+      "source_url": "https://www.ithome.com/0/948/080.htm",
+      "source_name": "IT之家",
+      "category": "量子计算",
+      "importance": "high"
+    },
+    {
+      "title": "首款支持搭载激光雷达的A00级车型：2026款比亚迪海鸥官宣定档5月11日上市",
+      "summary": "比亚迪宣布2026款海鸥"智感进阶"车型将于5月11日正式发布，定位为"首款支持搭载激光雷达的A00级车型"，将高阶智能驾驶辅助技术下放到10万元以内车型，推动智能驾驶普及。",
+      "publication_time": "2026-05-09T12:07:45Z",
+      "source_url": "https://www.ithome.com/0/948/140.htm",
+      "source_name": "IT之家",
+      "category": "智能汽车",
+      "importance": "high"
+    },
+    {
+      "title": "消息称千里科技拟与北汽合资，千里智驾CEO陈奇将离职",
+      "summary": "据知情人士透露，千里科技计划与北汽集团成立合资公司，相关计划预计年内落地，具体方案仍在讨论中，该合资计划早在去年就已开始筹划。",
+      "publication_time": "2026-05-09T14:00:00Z",
+      "source_url": "https://www.ithome.com/0/948/238.htm",
+      "source_name": "IT之家",
+      "category": "智能驾驶",
+      "importance": "medium"
+    },
+    {
+      "title": "市场人士回应"DeepSeek和阿里谈崩了"：阿里应该没有进行谈判",
+      "summary": "针对网络传言称阿里巴巴与DeepSeek融资谈判破裂的消息，市场人士回应称阿里应该没有参与相关谈判，此前有消息称DeepSeek正在进行巨额融资计划。",
+      "publication_time": "2026-05-09T14:30:00Z",
+      "source_url": "https://www.ithome.com/0/948/253.htm",
+      "source_name": "IT之家",
+      "category": "AI融资",
+      "importance": "medium"
+    },
+    {
+      "title": "阿维塔07L豪华SUV官图公布，华为乾崑联合设计",
+      "summary": "阿维塔官方发布了全新07L车型外观图，相比07版本进行了加长处理，车长增加，轴距保持2940mm，预计搭载华为最新的896线激光雷达，采用华为乾崑联合设计方案。",
+      "publication_time": "2026-05-09T10:00:25Z",
+      "source_url": "https://www.ithome.com/0/948/055.htm",
+      "source_name": "IT之家",
+      "category": "智能汽车",
+      "importance": "medium"
+    },
+    {
+      "title": "问界汽车否认被约谈：OTA内容均依法完成备案并得到批准",
+      "summary": "AITO问界汽车发布声明，否认因OTA"锁电"问题被监管部门约谈，强调所有OTA更新内容均依法完成备案并获得批准，将追究造谣者的法律责任。",
+      "publication_time": "2026-05-09T15:09:43Z",
+      "source_url": "https://www.ithome.com/0/948/188.htm",
+      "source_name": "IT之家",
+      "category": "智能汽车",
+      "importance": "medium"
+    },
+    {
+      "title": "理想汽车法务部：经核实，并未因"OTA锁电问题"被监管部门约谈",
+      "summary": "理想汽车法务部发文澄清，公司并未因OTA锁电问题被监管部门约谈，呼吁用户理性辨别网络信息，此前已有小鹏、特斯拉、蔚来等多家车企就类似传闻发布澄清声明。",
+      "publication_time": "2026-05-09T16:36:00Z",
+      "source_url": "https://www.ithome.com/0/948/243.htm",
+      "source_name": "IT之家",
+      "category": "智能汽车",
+      "importance": "medium"
+    },
+    {
+      "title": "告别"看天吃饭"：我国室内最大全季冰雪汽车试验基地开建",
+      "summary": "中国室内最大的全季冰雪汽车试验基地在内蒙古呼伦贝尔牙克石市奠基开工，投资12亿元，占地约1000亩，预计2028年竣工，将解决新能源汽车高寒测试"看天吃饭"的难题。",
+      "publication_time": "2026-05-09T07:41:12Z",
+      "source_url": "https://www.ithome.com/0/948/006.htm",
+      "source_name": "IT之家",
+      "category": "汽车测试",
+      "importance": "medium"
+    }
+  ],
+  "summary_stats": {
+    "quantum_computing": 1,
+    "smart_vehicles": 4,
+    "ai_funding": 1,
+    "automotive_testing": 1,
+    "joint_ventures": 1
+  }
+}
