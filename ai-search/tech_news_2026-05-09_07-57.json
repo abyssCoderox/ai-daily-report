@@ -1,0 +1,167 @@
+{
+  "timestamp": "2026-05-09T07:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 20,
+  "news_items": [
+    {
+      "title": "Top 10 Technology Trends in 2026 That Will Shape The Next Decade",
+      "summary": "Gene editing technologies like CRISPR are revolutionizing genetics, allowing precise DNA editing. Bioprinting is advancing toward personalized medicine with 3D-printed tissues and organs. Hyper automation with robots is transforming repetitive tasks across industries.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "cambridgeopenacademy.com",
+      "url": "https://cambridgeopenacademy.com/top-10-technology-trends-in-2026/",
+      "relevance_score": 0.9853843
+    },
+    {
+      "title": "The Latest Emerging Technology Trends for 2026",
+      "summary": "Next-generation nuclear power, particularly SMRs (Small Modular Reactors), offers compact, emissions-free energy. Sodium-ion batteries are emerging as cheaper, safer alternatives to lithium for grid storage and EVs. Multi-agent AI systems are transforming business operations.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "hortoninternational.com",
+      "url": "https://hortoninternational.com/latest-emerging-technology-trends-for-2026/",
+      "relevance_score": 0.9780517
+    },
+    {
+      "title": "20 New Technology Trends for 2026 | Emerging Technologies 2026",
+      "summary": "Agentic AI, enterprise RAG (Retrieval Augmented Generation), hybrid cloud, cyber resilience, and AI-native engineering are key trends. AI copilots are enhancing productivity, while cybersecurity focuses on identity-first security and AI system vulnerabilities.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "simplilearn.com",
+      "url": "https://www.simplilearn.com/top-technology-trends-and-jobs-article",
+      "relevance_score": 0.9500415
+    },
+    {
+      "title": "These are the top 10 emerging technologies of 2025",
+      "summary": "Structural battery composites, osmotic power systems, advanced nuclear technologies, and engineered living therapeutics lead the emerging tech landscape. These innovations are expected to transition from research to practical applications in 2026.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "weforum.org",
+      "url": "https://www.weforum.org/stories/2025/06/top-10-emerging-technologies-of-2025/",
+      "relevance_score": 0.81640637
+    },
+    {
+      "title": "TechCrunch | Startup and Technology News",
+      "summary": "TechCrunch covers the latest in AI, startups, and technology trends. Recent highlights include Oracle CTO Larry Ellison's appearance, startup funding news, and ongoing developments in the AI agent race between major tech companies.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "techcrunch.com",
+      "url": "https://techcrunch.com/",
+      "relevance_score": 0.79310596
+    },
+    {
+      "title": "Technology News - CNBC",
+      "summary": "EU considers restricting U.S. cloud services for sensitive government data. SoftBank shares surge amid Japan tech rally. Meta and Google enter the AI agent race. Sony reports strong profits despite memory price challenges. OpenAI rolls out new cybersecurity model.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "cnbc.com",
+      "url": "https://www.cnbc.com/technology/",
+      "relevance_score": 0.66714764
+    },
+    {
+      "title": "10 Breakthrough Technologies 2026 - MIT Technology Review",
+      "summary": "MIT's annual list highlights breakthrough technologies including sodium-ion batteries as lithium alternatives, generative coding tools, and other innovations poised to make significant impacts across industries and society.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "technologyreview.com",
+      "url": "https://www.technologyreview.com/2026/01/12/1130697/10-breakthrough-technologies-2026/",
+      "relevance_score": 0.59643316
+    },
+    {
+      "title": "Top Tech Trends 2026: AI Backbone, Intelligent Apps, Cloud 3.0 and More",
+      "summary": "Capgemini identifies key 2026 trends including AI backbone infrastructure, intelligent applications, Cloud 3.0 evolution, and the challenge of tech sovereignty balancing global interdependence with strategic control.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "capgemini.com",
+      "url": "https://www.capgemini.com/insights/research-library/top-tech-trends-of-2026/",
+      "relevance_score": 0.575588
+    },
+    {
+      "title": "WIRED - The Latest in Technology, Science, Culture and Business",
+      "summary": "Pentagon releases new UFO files, Tesla faces Cybertruck wheel separation issues, Canvas education platform hit by ransomware affecting thousands of schools, and Russia launches Rassvet satellite system to compete with Starlink.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "wired.com",
+      "url": "https://www.wired.com/",
+      "relevance_score": 0.50195307
+    },
+    {
+      "title": "GeekWire - Breaking News in Technology & Business",
+      "summary": "Seattle's CopilotKit raises $27M for AI agent protocol adoption, Moment Energy lands $40M for EV battery repurposing, Helion makes fusion power bet with Microsoft, and XBOW raises $35M for autonomous hacking platform.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "geekwire.com",
+      "url": "https://www.geekwire.com/",
+      "relevance_score": 0.5
+    },
+    {
+      "title": "The new Essential Eight technology trends - PwC",
+      "summary": "PwC updates its Essential Eight technologies, categorizing them into expand, evaluate, and experiment priorities. Quantum computing advances toward business applications, VR transforms workforce training, and quantum-safe cryptography becomes crucial.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "pwc.com",
+      "url": "https://www.pwc.com/us/en/tech-effect/emerging-tech/essential-eight-technologies.html",
+      "relevance_score": 0.46101677
+    },
+    {
+      "title": "12 technology trends that will shape the agenda in 2026",
+      "summary": "Esade identifies 12 key trends including widespread AI adoption, satellite-connected mobile phones, 10G networks, and AI agents capable of autonomous research and discovery, fundamentally changing innovation capacity across industries.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "dobetter.esade.edu",
+      "url": "https://dobetter.esade.edu/en/technology-trends-2026",
+      "relevance_score": 0.33111975
+    },
+    {
+      "title": "Top 10: Technology Innovations - Technology Magazine",
+      "summary": "Key innovations include XR integration, 5G connectivity enabling IoT expansion, and green technologies like solid-state batteries and nuclear fusion. Helion Energy signs world's first fusion power purchase agreement with Microsoft.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "technologymagazine.com",
+      "url": "https://technologymagazine.com/top10/top-10-technology-innovations",
+      "relevance_score": 0.253861
+    },
+    {
+      "title": "TechNewsWorld - Technology News and Information",
+      "summary": "Amazon brings Alexa+ to web amid AI competition, Google rethinks digital trust with Merkle certificates, Apple explores U.S.-based chip production with Intel and Samsung, and AI glasses shipments grow 322% in 2025.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "technewsworld.com",
+      "url": "https://www.technewsworld.com/",
+      "relevance_score": 0.1766716
+    },
+    {
+      "title": "The 5 Technology Trends For 2026 Everyone Must Prepare For Now",
+      "summary": "Forbes highlights agentic AI, quantum computing moving from labs to real-world applications, solving tech's energy crisis with renewables and new energy solutions, and the growing importance of human skills alongside AI advancement.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "forbes.com",
+      "url": "https://www.forbes.com/sites/bernardmarr/2025/09/29/the-top-5-technology-trends-for-2026/",
+      "relevance_score": 0.14414886
+    },
+    {
+      "title": "Top 10: Predictions for 2026 - Technology Magazine",
+      "summary": "AI-driven vertical platforms transform enterprise workflows, data and cloud sovereignty become critical concerns, and organizations adapt to the changing technology landscape with focus on practical implementation and measurable outcomes.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "technologymagazine.com",
+      "url": "https://technologymagazine.com/news/top-10-predictions-for-2026",
+      "relevance_score": 0.11124121
+    },
+    {
+      "title": "Technology - The New York Times",
+      "summary": "Meta's AI adoption creates employee dissatisfaction amid layoffs, Google's AI search excels at practical tasks like grocery shopping and scam detection, and Elon Musk's SpaceX plans $55B investment in AI chip manufacturing.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "nytimes.com",
+      "url": "https://www.nytimes.com/section/technology",
+      "relevance_score": 0.09138211
+    },
+    {
+      "title": "Engadget | Technology News & Expert Reviews",
+      "summary": "Sony partners with TSMC for image sensor production, Google unveils screenless Fitbit Air wearable, Instructure hackers target 9,000 schools with ransomware, and OpenAI launches Chrome plugin for Codex coding assistant.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "engadget.com",
+      "url": "https://www.engadget.com/",
+      "relevance_score": 0.07211221
+    },
+    {
+      "title": "Tech - CNN Business",
+      "summary": "NASA's Perseverance rover discovers 'leopard spots' on Mars rock, Elon Musk's trial against OpenAI begins in federal court, and ongoing coverage of technology industry developments and innovations.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "cnn.com",
+      "url": "https://www.cnn.com/business/tech",
+      "relevance_score": 0.06608538
+    },
+    {
+      "title": "BBC Technology | Technology, Health, Environment, AI",
+      "summary": "TikTok scales back AI-generated video descriptions after errors, Apple settles AI lawsuit paying up to $95 to iPhone buyers, and BBC covers ongoing technology developments across various sectors including AI and cybersecurity.",
+      "publish_time": "2026-05-09T07:57:00Z",
+      "source": "bbc.com",
+      "url": "https://www.bbc.com/technology",
+      "relevance_score": 0.019870713
+    }
+  ]
+}
