@@ -1,0 +1,72 @@
+{
+  "metadata": {
+    "timestamp": "2026-05-09T01:57:00Z",
+    "search_period": "past_6_hours",
+    "total_results": 9
+  },
+  "news": [
+    {
+      "title": "科技周报 - 创业邦标签聚合",
+      "summary": "创业邦科技周报汇总了过去一周的重要科技新闻，包括NASA对中国技术发展的评论、国产大飞机C919首飞成功、小米一季度净利润下降53%等热点事件。",
+      "publish_time": "2026-05-09T01:57:00Z",
+      "source": "cyzone.cn",
+      "url": "https://cyzone.cn/label/%E7%A7%91%E6%8A%80%E5%91%A8%E6%8A%A5"
+    },
+    {
+      "title": "百度百科科技新闻条目",
+      "summary": "包含多项重要科技突破：美国肯塔基大学通过植入'Par-4'肿瘤抑制基因成功培育抗癌实验鼠；韩国首次克隆出带红色荧光蛋白基因的猫；联合国气候变化会议签订'巴厘岛路线图'；发现新型四夸克复合粒子等。",
+      "publish_time": "2026-05-09T01:57:00Z",
+      "source": "baike.baidu.com",
+      "url": "https://baike.baidu.com/item/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB/9053924"
+    },
+    {
+      "title": "APITube新闻API科技新闻获取指南",
+      "summary": "提供获取过去30天最新科技新闻的API接口文档，支持按时间范围、分类等参数筛选科技新闻内容。",
+      "publish_time": "2026-05-09T01:57:00Z",
+      "source": "apitube.io",
+      "url": "https://apitube.io/zh-hk/cookbook/get-latest-tech-news-from-the-last-30-days"
+    },
+    {
+      "title": "爱思链池科技新闻聚合",
+      "summary": "汇集了多个知名科技媒体的最新资讯，包括新浪科技、36氪、驱动中国、砍柴网等平台的科技新闻报道。",
+      "publish_time": "2026-05-09T01:57:00Z",
+      "source": "www.a4lc.com",
+      "url": "https://www.a4lc.com/sitetag/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB"
+    },
+    {
+      "title": "过去24小时全球热点AI新闻",
+      "summary": "YouTube短视频展示过去24小时全球热点新闻，涵盖加沙人道主义危机、飓风亨伯托、俄罗斯战机动态、美国政坛事件等重大国际新闻。",
+      "publish_time": "2026-05-09T01:57:00Z",
+      "source": "www.youtube.com",
+      "url": "https://www.youtube.com/shorts/llIe0b4-q-M"
+    },
+    {
+      "title": "过去24小时AI与科技重要发展摘要",
+      "summary": "汇总了OpenAI/Google DeepMind在ICPC竞赛中超越人类表现、强化学习产生涌现推理、HuggingFace扩展AI模型仓库、StabilityAI发布图像生成工具等重要AI发展。",
+      "publish_time": "2026-05-09T01:57:00Z",
+      "source": "ai-hot.programnotes.cn",
+      "url": "https://ai-hot.programnotes.cn/p/%E8%BF%87%E5%8E%BB24%E5%B0%8F%E6%97%B6ai%E4%B8%8E%E7%A7%91%E6%8A%80%E9%87%8D%E8%A6%81%E5%8F%91%E5%B1%95%E6%91%98%E8%A6%81"
+    },
+    {
+      "title": "24小时AI新闻速览 - AI工具导航",
+      "summary": "详细报道了Salesforce全球上线Agentforce 360、英美科技协定进展、百度学术升级为AI学术平台、Zoox开放Robotaxi等重要科技动态。",
+      "publish_time": "2026-05-09T01:57:00Z",
+      "source": "www.toolnavs.com",
+      "url": "https://www.toolnavs.com/articles/tag/24%E5%B0%8F%E6%97%B6AI%E6%96%B0%E9%97%BB%E9%80%9F%E8%A7%88"
+    },
+    {
+      "title": "雷军谈中国科技创新价值",
+      "summary": "小米创始人雷军表示全球用户越来越认可中国科技创新的价值，小米连续18个季度位居全球手机市场前三，物联网平台连接设备数超过9亿台。",
+      "publish_time": "2026-05-09T01:57:00Z",
+      "source": "finance.sina.com.cn",
+      "url": "https://finance.sina.com.cn/7x24/2025-03-05/doc-inenqanv4768935.shtml"
+    },
+    {
+      "title": "雷军称过去两年跌宕起伏",
+      "summary": "小米创始人雷军回顾过去两年的创业历程，谈及小米汽车和SU7的用户评价分析。",
+      "publish_time": "2026-05-09T01:57:00Z",
+      "source": "k.sina.com.cn",
+      "url": "https://k.sina.com.cn/article_6421111471_m17eba62af053036fro.html?from=tech"
+    }
+  ]
+}
