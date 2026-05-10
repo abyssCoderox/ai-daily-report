@@ -1,0 +1,115 @@
+{
+  "timestamp": "2026-05-10T13:57:00Z",
+  "search_period": "past_6_hours",
+  "news_count": 10,
+  "news": [
+    {
+      "title": "我国首台双核原子量子计算机研制成功",
+      "summary": "由中国科学院牵头，联合武汉大学、华中科技大学和武汉量子技术研究院等团队联合研发的国内首台双核原子量子计算机\"汉原2号\"正式发布，首次将量子处理器从\"单核\"升级为\"双核\"，一个用于计算，另一个实时纠错，使效率翻倍。",
+      "publish_time": "2026-05-09 10:03",
+      "source": "央视新闻",
+      "url": "https://www.stcn.com/article/detail/3901384.html",
+      "category": "quantum_computing",
+      "impact": "为我国高端算力自主化提供了关键支撑，标志着我国量子计算技术从单核向双核架构的重大突破"
+    },
+    {
+      "title": \"\"本源悟空-180\"量子计算机上线运行\",
+      "summary": \"搭载单核180个计算比特自主超导量子芯片的\"本源悟空-180\"量子计算机已上线运行，开始接收全球量子计算任务。该设备全链条自主可控，具备180个可直接投入实际运算的计算量子比特。\",
+      "publish_time": \"2026-05-09 10:03\",
+      "source": \"央视新闻\",
+      "url": \"https://www.stcn.com/article/detail/3901384.html\",
+      \"category\": \"quantum_computing\",
+      \"impact\": \"标志着我国第四代自主超导量子计算机正式投入使用，实现量子计算服务的全球化开放\"
+    },
+    {
+      "title\": \"全球半导体产业市值暴增3.8兆美元\",
+      \"summary\": \"全球半导体产业正经历强劲的\"融涨\"行情，过去六周内市值合计增加约3.8兆美元。此轮涨势已从专用AI处理器延伸至传统CPU及存储芯片，英特尔股价今年累计飙升239%，创下26年来历史新高。\",
+      \"publish_time\": \"2026-05-09 06:22\",
+      \"source\": \"华尔街日报\",
+      \"url\": \"https://hk.finance.yahoo.com/news/%E5%8D%8A%E5%B0%8E%E9%AB%94%E6%9D%BF%E5%A1%8A%E5%B8%82%E5%80%BC%E9%A3%86%E5%8D%873-8%E5%85%86%E7%BE%8E%E5%85%83-ai%E9%9C%80%E6%B1%82%E6%8C%81%E7%BA%8C%E6%93%B4%E5%BC%B5-062257699.html\",
+      \"category\": \"semiconductor\",
+      \"impact\": \"AI企业对算力\"永无止境的渴求\"推动了整个半导体行业的繁荣，特别是需要24小时运行的新一代自主AI模型\"
+    },
+    {
+      \"title\": \"黄仁勋怒批AI末日论：AI是工业革命而非威胁\",
+      \"summary\": \"英伟达CEO黄仁勋强调AI的影响远不止科技进步，而是一场足以改变制造业、能源体系和就业结构的新工业革命。他认为美国若在AI竞赛中失去领先地位，将失去未来生产力、经济繁荣和全球主导权。\",
+      \"publish_time\": \"2026-05-09 09:00\",
+      \"source\": \"Yahoo财经\",
+      \"url\": \"https://hk.finance.yahoo.com/news/%E9%BB%83%E4%BB%81%E5%8B%B3%E6%80%92%E6%89%B9ai%E6%9C%AB%E6%97%A5%E8%AB%96-%E9%BB%9E%E5%90%8D%E7%9F%BD%E8%B0%B7ceo%E8%A3%BD%E9%80%A0%E6%81%90%E6%85%8C-%E4%BB%96%E5%80%91%E8%A6%BA%E5%BE%97%E8%87%AA%E5%B7%B1%E6%98%AF%E4%B8%8A%E5%B8%9D-090004913.html\",
+      \"category\": \"ai_policy\",
+      \"impact\": \"重新定义了AI的社会价值，强调AI是增强人类能力而非取代人类，对美国再工业化具有重要意义\"
+    },
+    {
+      \"title\": \"OpenAI未达收入及用户目标，Alphabet和亚马逊或成最大赢家\",
+      \"summary\": \"据报道OpenAI在2025年底未能达到内部订定的收入及用户增长目标，这可能为竞争对手Alphabet和亚马逊带来机会。两家公司不仅持有Anthropic股份，还获得了OpenAI产品与Azure独家性解除后的新合作机会。\",
+      \"publish_time\": \"2026-05-09 02:05\",
+      \"source\": \"The Fool\",
+      \"url\": \"https://hk.finance.yahoo.com/news/openai%E6%93%9A%E5%A0%B1%E6%9C%AA%E9%81%94%E6%94%B6%E5%85%A5%E5%8F%8A%E7%94%A8%E6%88%B6%E7%9B%AE%E6%A8%99-%E9%80%99%E5%85%A9%E9%9A%BB%E8%82%A1%E7%A5%A8%E6%88%96%E6%88%90%E6%9C%80%E5%A4%A7%E8%B4%8F%E5%AE%B6-020500297.html\",
+      \"category\": \"ai_competition\",
+      \"impact\": \"AI行业竞争格局可能发生重大变化，为其他AI实验室和云服务商创造了新的市场机会\"
+    },
+    {
+      \"title\": \"玻色量子推动量子计算赋能千行百业\",
+      \"summary\": \"玻色量子确立了\"双轨并行、软硬兼施\"的战略路径，在专用与通用两个方向上同步发力。已在生物医药、脑科学、新材料、EDA、可控核聚变与能源电力等领域实现应用突破。\",
+      \"publish_time\": \"2026-05-10 10:21\",
+      \"source\": \"人民网\",
+      \"url\": \"http://finance.people.com.cn/BIG5/n1/2026/0510/c1004-40716955.html\",
+      \"category\": \"quantum_applications\",
+      \"impact\": \"量子计算正从实验室研究向实际产业应用转变，有望在多个关键领域带来革命性突破\"
+    },
+    {
+      \"title\": \"字节跳动AI基础设施支出增至2000亿元\",
+      \"summary\": \"随着内存芯片成本上涨以及字节跳动加速布局人工智能，该公司已将今年的AI基础设施支出计划增加25%至2000亿元人民币，显示出对AI技术的高度重视和大规模投入。\",
+      \"publish_time\": \"2026-05-09 07:00\",
+      \"source\": \"财联社\",
+      \"url\": \"https://www.cls.cn/detail/2367077\",
+      \"category\": \"ai_investment\",
+      \"impact\": \"表明头部科技公司对AI基础设施的战略重视，将推动整个AI产业链的发展\"
+    },
+    {
+      \"title\": \"全球首艘2.4万标箱甲醇双燃料动力集装箱船建造完工\",
+      \"summary\": \"全球首艘2.4万标箱甲醇双燃料动力集装箱船\"东方智慧\"号在江苏南通顺利完成建造，标志着我国已全面掌握超大型清洁能源船舶的自主研发与集成建造能力。\",
+      \"publish_time\": \"2026-05-08\",
+      \"source\": \"央视新闻\",
+      \"url\": \"https://finance.sina.com.cn/roll/2026-05-10/doc-inhxkpem2938029.shtml\",
+      \"category\": \"clean_energy\",
+      \"impact\": \"代表我国在清洁能源船舶制造领域达到世界领先水平，对全球航运业绿色转型具有重要意义\"
+    },
+    {
+      \"title\": \"AI新方法突破最难数学难题\",
+      \"summary\": \"宾夕法尼亚大学研究团队开发出\"光滑层\"技术，通过将1940年代的数学概念转化为AI模型的\"mollifier layer\"，显著提高了处理复杂系统和含噪声数据时的计算稳定性。\",
+      \"publish_time\": \"2026-05-09\",
+      \"source\": \"TechNews科技新报\",
+      \"url\": \"https://technews.tw/2026/05/09/new-ai-method-tackles-one-of-sciences-hardest-math-problems/\",
+      \"category\": \"ai_research\",
+      \"impact\": \"这项技术有望解锁DNA奥秘，在基因研究、材料科学、流体力学等多个领域带来重大突破\"
+    },
+    {
+      \"title\": \"国内最大大模型服务平台正式上线\",
+      \"summary\": \"中国移动开发的大模型服务平台正式上线，已接入并提供300余款国内主流AI大模型的服务与能力，首创词元集约化运营模式，能够自动分析用户需求并智能匹配最优模型。\",
+      \"publish_time\": \"2026-05-08\",
+      \"source\": \"财联社\",
+      \"url\": \"https://www.cls.cn/detail/2367077\",
+      \"category\": \"ai_platform\",
+      \"impact\": \"为国内AI应用开发提供了统一的基础设施平台，将大幅降低AI技术的使用门槛\"
+    }
+  ],
+  "categories_summary\": {
+    \"quantum_computing\": 3,
+    \"semiconductor\": 1,
+    \"ai_policy\": 1,
+    \"ai_competition\": 1,
+    \"quantum_applications\": 1,
+    \"ai_investment\": 1,
+    \"clean_energy\": 1,
+    \"ai_research\": 1,
+    \"ai_platform\": 1
+  },
+  "key_trends\": [
+    \"量子计算技术实现重大突破，从单核向双核架构演进\",
+    \"AI推动半导体行业全面繁荣，市值大幅增长\",
+    \"大科技公司持续加大AI基础设施投资\",
+    \"AI应用从理论研究向实际产业应用加速转变\",
+    \"清洁能源技术取得重要进展\"
+  ]
+}
