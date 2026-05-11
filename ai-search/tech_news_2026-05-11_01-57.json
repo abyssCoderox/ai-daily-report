@@ -1,0 +1,79 @@
+{
+  "search_metadata": {
+    "search_time": "2026-05-11T01:57:00Z",
+    "query": "科技新闻 2026年5月11日 最新",
+    "results_count": 10
+  },
+  "news_items": [
+    {
+      "title": "华尔街见闻早餐FM-Radio | 2026年5月11日",
+      "summary": "美股财报季表现强劲，科技七巨头利润激增57%；xAI完成100亿美元融资；英特尔与苹果达成芯片制造协议；马斯克旗下Colossus 2超级计算机投入运行，为全球首个GW级AI训练集群。",
+      "publish_time": "2026-05-11",
+      "source_url": "https://wallstreetcn.com/articles/3771882",
+      "source_name": "华尔街见闻"
+    },
+    {
+      "title": "2026年5月11日钛早·语音播报",
+      "summary": "微信电脑版更新支持滚动截长图和发语音；字节跳动AI基础设施支出增至2000亿元；晶科能源出售美国工厂75.1%股权；特斯拉完成Model S/X生产；英伟达股权投资超400亿美元；广州推出AI场景交易平台。",
+      "publish_time": "2026-05-11",
+      "source_url": "https://www.tmtpost.com/fm/7983010.html",
+      "source_name": "钛媒体"
+    },
+    {
+      "title": "全球首个GW级算力集群！马斯克宣布xAI旗下Colossus 2投入运行",
+      "summary": "马斯克宣布xAI的Colossus 2超级计算机正式运行，这是全球首个单体算力达吉瓦级别的AI训练集群，距离开工不到1年，将在4月升级至1.5GW。",
+      "publish_time": "2026-05-11",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001905bslu.html",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "马斯克称xAI将不再作为独立公司存在",
+      "summary": "马斯克宣布xAI解散并整体并入SpaceX，成为SpaceXAI产品，同时向Anthropic出租22万块GPU，标志着其AI生态战略重组完成。",
+      "publish_time": "2026-05-11",
+      "source_url": "https://k.sina.com.cn/article_7857201856_1d45362c001905bsne.html?from=tech",
+      "source_name": "新浪科技"
+    },
+    {
+      "title": "智能机器狗亮相新加坡圣淘沙，中国科技出海新突破",
+      "summary": "宇树科技智能机器狗在新加坡圣淘沙试点服务，提供导览、舞蹈和互动体验，展现中国AI+旅游的创新应用。",
+      "publish_time": "2026-05-11",
+      "source_url": "http://www.news.cn/mrdx/2024-06/14/c_1310778314.htm",
+      "source_name": "新华社"
+    },
+    {
+      "title": "四部门印发《行动方案》促进人工智能与能源双向赋能",
+      "summary": "国家能源局等四部门提出到2030年大幅提升AI算力设施清洁能源供给和应用水平，部署29项重点任务促进能源与AI深度融合。",
+      "publish_time": "2026-05-11",
+      "source_url": "http://www.news.cn/mrdx/2024-06/14/c_1310778314.htm",
+      "source_name": "新华社"
+    },
+    {
+      "title": "中美将举行新一轮经贸磋商，特朗普或访华",
+      "summary": "中美经贸磋商将于5月12-13日在韩国举行，特朗普可能于5月14-15日访华；国家信息中心数据显示AI等领域投资增长175.2%。",
+      "publish_time": "2026-05-11",
+      "source_url": "https://www.21jingji.com/article/20260511/herald/bb4e83fb60cb901c0fafc1adfe5bae2a.html",
+      "source_name": "21财经"
+    },
+    {
+      "title": "存储狂潮催生年内首只“翻倍基”",
+      "summary": "AI算力需求推动存储芯片行情，海外存储巨头股价暴涨映射至A股，多只重仓存储的基金净值跃升，江波龙等标的创历史新高。",
+      "publish_time": "2026-05-11",
+      "source_url": "https://www.stcn.com/article/detail/3901669.html",
+      "source_name": "证券时报"
+    },
+    {
+      "title": "工信部批复首个卫星物联网业务商用试验",
+      "summary": "工信部批准北京国电高科开展卫星物联网商用试验，试验期两年，这是我国首个此类批复，标志着卫星物联网进入商用阶段。",
+      "publish_time": "2026-05-07",
+      "source_url": "https://www.tmtpost.com/7978445.html",
+      "source_name": "钛媒体"
+    },
+    {
+      "title": "康宁与英伟达达成5亿美元股权融资协议",
+      "summary": "康宁向英伟达发行5亿美元认股权证，深化长期合作，英伟达获得购买1800万股康宁股票的权证，加强AI芯片供应链合作。",
+      "publish_time": "2026-05-06",
+      "source_url": "https://www.tmtpost.com/7978445.html",
+      "source_name": "钛媒体"
+    }
+  ]
+}
