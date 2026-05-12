@@ -1,0 +1,66 @@
+{
+  "search_metadata": {
+    "query": "科技新闻",
+    "search_time": "2026-05-12T01:57:00Z",
+    "total_results": 10,
+    "time_range": "过去6小时内"
+  },
+  "news_items": [
+    {
+      "title": "科技新闻_百度百科",
+      "summary": "科技新闻是对科学技术领域新近发生事实的报道，涵盖消息、通讯、评论等体裁，具有新闻性、科学性和通俗性特征。2024年国内十大科技新闻涵盖嫦娥六号月背采样、鸿蒙操作系统发布等重大事件。",
+      "publish_time": "2026-05-12T01:57:00Z",
+      "source_url": "https://baike.baidu.com/item/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB/9053924",
+      "source_name": "百度百科"
+    },
+    {
+      "title": "科技新闻 - 推站目录",
+      "summary": "收录多个权威科技资讯网站，包括科技讯、中国IT网、快科技、驱动中国等20余家专业科技媒体，提供最新科技新闻报道。",
+      "publish_time": "2026-05-12T01:57:00Z",
+      "source_url": "http://www.tuizhan.com.cn/tag/2_%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB.html",
+      "source_name": "推站目录"
+    },
+    {
+      "title": "科技新闻 - MBA智库百科",
+      "summary": "科技新闻具有科学性、知识性与规范性特点，承担着教育功能和引导功能。报道需准确传达科学知识，引导公众正确理解科技发展。",
+      "publish_time": "2026-05-12T01:57:00Z",
+      "source_url": "https://wiki.mbalib.com/wiki/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "source_name": "MBA智库百科"
+    },
+    {
+      "title": "科技新闻素材-科技新闻图片-科技新闻设计模板-昵图网",
+      "summary": "提供科技新闻相关的视觉素材和设计模板，包括虚拟演播室背景、科技感动态背景等100多种设计资源。",
+      "publish_time": "2026-05-12T01:57:00Z",
+      "source_url": "https://soso.nipic.com/q_%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB_g_0.html",
+      "source_name": "昵图网"
+    },
+    {
+      "title": "中国科技新闻网_百度百科",
+      "summary": "中国科技新闻网是由中国科协直属的国家一级学会中国科技新闻学会主办的大型网站，定位为中国科技类新闻网站头部平台。",
+      "publish_time": "2026-05-12T01:57:00Z",
+      "source_url": "https://baike.baidu.com/item/%E4%B8%AD%E5%9B%BD%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB%E7%BD%91/6062142",
+      "source_name": "百度百科"
+    },
+    {
+      "title": "科技新闻所有文章-最新科技新闻相关文章汇总-HelloWorld开发者社区",
+      "summary": "汇总最新科技新闻相关文章，包括Google搜索重大调整等热点科技事件，提供技术分析和行业洞察。",
+      "publish_time": "2026-05-12T01:57:00Z",
+      "source_url": "https://helloworld.net/tag/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB-1.html",
+      "source_name": "HelloWorld开发者社区"
+    },
+    {
+      "title": "科技新闻 - AI研究社搜索",
+      "summary": "收录30余家权威科技媒体资源，包括36氪、钛媒体、TechWeb、新浪科技等，提供全面的科技资讯聚合服务。",
+      "publish_time": "2026-05-12T01:57:00Z",
+      "source_url": "https://www.aiyanshe.com/tag/%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "source_name": "AI研究社"
+    },
+    {
+      "title": "闻泰科技_闻泰科技资讯_闻泰科技最新信息_雷峰网",
+      "summary": "闻泰科技专题报道，涵盖公司业绩、并购动态、半导体行业政策等最新科技产业资讯。",
+      "publish_time": "2026-05-12T01:57:00Z",
+      "source_url": "https://www.leiphone.com/tag/%E9%97%BB%E6%B3%B0%E7%A7%91%E6%8A%80",
+      "source_name": "雷峰网"
+    }
+  ]
+}
