@@ -1,0 +1,98 @@
+{
+  "metadata": {
+    "timestamp": "2026-05-12T07:57:00Z",
+    "source": "Tavily Search API",
+    "time_range": "past_6_hours",
+    "total_articles": 5,
+    "categories": ["AI", "Tech Infrastructure", "Corporate Strategy", "Government Policy", "Space Technology"]
+  },
+  "articles": [
+    {
+      "title": "Why AI Matters More Than Iran War in Markets",
+      "summary": "Global equities have rallied to record levels, fueled by euphoria over artificial intelligence. Investors' risk appetite has held up despite volatility in energy markets caused by the war in Iran.",
+      "publish_time": "2026-05-12T00:00:00Z",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/videos/2026-05-12/why-ai-matters-more-than-iran-war-in-markets-video",
+      "category": "AI",
+      "key_points": [
+        "AI enthusiasm continues to drive market rallies to record levels",
+        "Investors prioritize AI opportunities over geopolitical risks",
+        "Markets show resilience despite Iran war volatility"
+      ]
+    },
+    {
+      "title": "There aren't enough rockets for space data centers — Cowboy Space raised $275M to build them",
+      "summary": "Cowboy Space Corporation raised $275 million in Series B funding to develop rockets specifically for launching space data centers, addressing the shortage of launch capacity for orbital AI infrastructure.",
+      "publish_time": "2026-05-11T00:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/11/there-arent-enough-rockets-for-space-data-centers-cowboy-space-raised-275-million-to-build-them/",
+      "category": "Space Technology",
+      "key_points": [
+        "Cowboy Space raised $275M at $2B valuation led by Index Ventures",
+        "Company plans to build proprietary rockets for space data centers",
+        "First launch expected before end of 2028",
+        "Will compete directly with SpaceX and Blue Origin",
+        "Each satellite will generate 1MW power for 800 GPUs"
+      ]
+    },
+    {
+      "title": "AI labs' consulting push defies corporate history",
+      "summary": "OpenAI and Anthropic are launching consulting ventures with major investors, targeting the $600B AI services market through joint ventures with traditional consulting firms.",
+      "publish_time": "2026-05-11T14:50:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/commentary/breakingviews/ai-labs-consulting-push-defies-corporate-history-2026-05-11/",
+      "category": "Corporate Strategy",
+      "key_points": [
+        "OpenAI secured $4B investment from 19 partners including TPG and Brookfield",
+        "Anthropic partnered with Blackstone, Goldman Sachs for $1.5B venture",
+        "AI services market projected to reach $600B this year",
+        "Historical challenges with joint ventures raise concerns about success"
+      ]
+    },
+    {
+      "title": "Microsoft, Google, xAI security test details deleted from US government website",
+      "summary": "The U.S. Commerce Department removed details about its agreement with major tech companies to test AI models for security vulnerabilities, raising transparency concerns.",
+      "publish_time": "2026-05-11T19:38:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/legal/litigation/microsoft-google-xai-security-test-details-deleted-us-government-website-2026-05-11/",
+      "category": "Government Policy",
+      "key_points": [
+        "Commerce Department deleted AI security testing agreement details",
+        "Microsoft, Google, and xAI had agreed to share AI models for security reviews",
+        "Government aims to identify cyberattack and military misuse threats",
+        "Deletion raises transparency questions about AI regulation"
+      ]
+    },
+    {
+      "title": "Tech companies tap debt markets to fund AI and cloud expansion",
+      "summary": "Major technology companies are increasingly relying on debt markets to fund massive AI infrastructure investments, with combined spending expected to exceed $700B this year.",
+      "publish_time": "2026-05-11T00:00:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/media-telecom/tech-companies-tap-debt-markets-fund-ai-cloud-expansion-2026-05-11/",
+      "category": "Tech Infrastructure",
+      "key_points": [
+        "Alphabet, Amazon, Microsoft, Meta planning $700B+ combined AI spending",
+        "Companies shifting from cash to debt financing for AI investments",
+        "Amazon preparing Swiss franc bond offering and $37-42B bond sale",
+        "Oracle plans $45-50B in debt and stock for cloud infrastructure",
+        "AI boom entering 'more dangerous phase' with rising infrastructure costs"
+      ]
+    }
+  ],
+  "summary_analysis": {
+    "trending_topics": [
+      "AI infrastructure investment",
+      "Space-based data centers",
+      "AI consulting services",
+      "Government AI regulation",
+      "Corporate debt financing"
+    ],
+    "market_sentiment": "Strongly positive on AI, with massive investments continuing despite geopolitical risks",
+    "key_themes": [
+      "AI spending continues to accelerate across major tech companies",
+      "Infrastructure constraints driving innovation (space data centers, proprietary rockets)",
+      "Growing government scrutiny of AI security and regulation",
+      "New business models emerging in AI consulting and services"
+    ]
+  }
+}
