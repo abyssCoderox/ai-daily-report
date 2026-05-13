@@ -1,0 +1,40 @@
+{
+  "search_time": "2026-05-13T07:57:00Z",
+  "news_items": [
+    {
+      "title": "人工智能创新 - Coaio",
+      "summary": "2026年5月3日科技新闻汇总，涵盖人工智能、交通、网络安全等领域的发展。包括Uber将司机转变为自驾技术传感器网络的计划，以及行业巨头间的法律争端。",
+      "publish_time": "2026-05-03",
+      "source_url": "https://coaio.com/zh/articles/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%88%9B%E6%96%B0",
+      "site_name": "coaio.com"
+    },
+    {
+      "title": "【人工智能新闻】当前▷2026",
+      "summary": "Meta推出SeamlessM4T多模态AI翻译模型，支持文本和语音翻译。人工智能在医疗领域实现突破，帮助中风18年的女性重新开口说话。Google Pixel的AI小部件已面向所有安卓设备推出。",
+      "publish_time": "2026-05-13",
+      "source_url": "https://internetpasoapaso.com/zh-CN/%E6%96%B0%E9%97%BB/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD",
+      "site_name": "internetpasoapaso.com"
+    },
+    {
+      "title": "人工智能，大模型，科技新闻 - AI快讯网",
+      "summary": "GPT-6消息曝光，人工智能技术迭代进入深水区。各大厂商相继推出下一代架构，关于通用人工智能(AGI)的讨论已从理论走向实战预备阶段。",
+      "publish_time": "2026-04-05",
+      "source_url": "https://aitalo.com/index.php/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%8C%E5%A4%A7%E6%A8%A1%E5%9E%8B%EF%BC%8C%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "aitalo.com"
+    },
+    {
+      "title": "人工智能，科技新闻 - AI快讯网",
+      "summary": "Meta员工被指空转AI赚补贴，日均浪费2万亿Token。大模型竞赛进入深水区，算力消耗量成为衡量科技公司内部AI渗透率的关键指标。",
+      "publish_time": "2026-04-07",
+      "source_url": "https://aitalo.com/index.php/tag/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%EF%BC%8C%E7%A7%91%E6%8A%80%E6%96%B0%E9%97%BB",
+      "site_name": "aitalo.com"
+    },
+    {
+      "title": "人工智能助力亚洲科技创新",
+      "summary": "亚洲国家在人工智能领域投入巨资，中国科技公司开发先进AI芯片，韩国电子巨头推出下一代AI助手，日本在机器人技术领域处于全球领先地位。",
+      "publish_time": "2025-04-02",
+      "source_url": "https://zhongwenbbc.com/%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E5%8A%A9%E5%8A%9B%E4%BA%9A%E6%B4%B2%E7%A7%91%E6%8A%80%E5%88%9B%E6%96%B0.php",
+      "site_name": "zhongwenbbc.com"
+    }
+  ]
+}
