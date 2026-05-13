@@ -1,0 +1,87 @@
+{
+  "report_metadata": {
+    "generated_at": "2026-05-13T19:57:00Z",
+    "time_range": "past_6_hours",
+    "total_articles": 8,
+    "sources": ["Bloomberg", "Agile Brand Guide", "Datagrom AI News", "Instagram", "TipRanks", "Space.com"]
+  },
+  "articles": [
+    {
+      "title": "Nvidia CEO Huang Joins Trump's China Visit, Thrusting Tech Into Spotlight",
+      "summary": "Nvidia co-founder and CEO Jensen Huang made a last-minute addition to President Trump's China visit delegation, highlighting the growing importance of AI technology in international diplomacy.",
+      "publish_time": "2026-05-13T19:30:00Z",
+      "source": "Bloomberg",
+      "url": "https://www.bloomberg.com/news/newsletters/2026-05-13/nvidia-chief-s-appearance-thrusts-tech-into-spotlight-as-trump-visits-china",
+      "why_important": "Shows how AI companies are becoming central to international trade negotiations and geopolitical discussions, indicating the strategic importance of semiconductor technology."
+    },
+    {
+      "title": "OpenAI Launches ChatGPT Ads Manager Globally",
+      "summary": "OpenAI expanded its advertising platform with a beta self-serve ChatGPT Ads Manager, introducing cost-per-click bidding and conversion measurement tools across multiple countries.",
+      "publish_time": "2026-05-13T18:45:00Z",
+      "source": "Agile Brand Guide",
+      "url": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-may-13-2026/",
+      "why_important": "Represents a fundamental shift in digital advertising away from traditional search/social toward AI-mediated discovery, with OpenAI targeting $100B ad revenue by 2030."
+    },
+    {
+      "title": "AI Market Shift: Intel and AMD Surge as Wall Street Sees Changing of the Guard",
+      "summary": "Intel and AMD stocks are rising as investors recognize a shift in the AI chip market, with AMD gaining significant market share in AI GPUs and Intel making strides with Gaudi accelerators.",
+      "publish_time": "2026-05-13T17:20:00Z",
+      "source": "Instagram Tech News",
+      "url": "https://www.instagram.com/p/DYQsMXslHXI/",
+      "why_important": "Indicates a major market transition where traditional CPU manufacturers are successfully competing in the AI accelerator space, challenging Nvidia's dominance."
+    },
+    {
+      "title": "Rocket Lab Shares Jump 34% on Record-Breaking Performance",
+      "summary": "Rocket Lab stock surged 34% following strong Q1 2025 results with 32% revenue growth and continued development of the Neutron rocket program.",
+      "publish_time": "2026-05-13T16:15:00Z",
+      "source": "Instagram Tech News",
+      "url": "https://www.instagram.com/p/DYQsMXslHXI/",
+      "why_important": "Demonstrates the growing commercial viability of private space launch companies and their increasing role in satellite deployment and space infrastructure."
+    },
+    {
+      "title": "Agentic AI Market Transition: Tools Proliferating Faster Than Organizations Can Absorb",
+      "summary": "AI tools are being deployed faster than organizations can implement proper governance, creating significant challenges for CMOs and technology leaders in managing the transition.",
+      "publish_time": "2026-05-13T15:30:00Z",
+      "source": "Agile Brand Guide",
+      "url": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-may-13-2026/",
+      "why_important": "Highlights the critical gap between AI capability deployment and organizational readiness, indicating need for better governance frameworks and change management."
+    },
+    {
+      "title": "AMD vs Intel vs Nvidia: AI Chip Stock Comparison for 2026",
+      "summary": "Analysis of the three major AI chip manufacturers shows Nvidia leading in market share and margins, AMD offering balanced growth potential, and Intel as a speculative turnaround play.",
+      "publish_time": "2026-05-13T14:45:00Z",
+      "source": "Datagrom AI News",
+      "url": "https://www.datagrom.com/ai-news/nvidia-amd-intel-best-ai-chip-stock-2026-347c3fd1",
+      "why_important": "Provides insight into the competitive dynamics of the AI chip market as global AI infrastructure spending approaches $200 billion annually by 2027."
+    },
+    {
+      "title": "Amazon Bedrock AgentCore Adds Autonomous Payment Capabilities",
+      "summary": "AWS introduced payment functionality within Bedrock AgentCore, enabling AI agents to autonomously access and pay for resources using Coinbase wallet infrastructure and Stripe payment rails.",
+      "publish_time": "2026-05-13T13:20:00Z",
+      "source": "Agile Brand Guide",
+      "url": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-may-13-2026/",
+      "why_important": "Represents a significant step toward fully autonomous AI agents that can operate independently in commercial environments, raising new governance and security considerations."
+    },
+    {
+      "title": "ShengShu Technology Unveils Vidu Claw - AI CMO for Video Ad Production",
+      "summary": "Singapore-based ShengShu Technology launched Vidu Claw, positioning it as the world's first AI CMO that autonomously generates complete video ad production pipelines from single marketing briefs.",
+      "publish_time": "2026-05-13T12:10:00Z",
+      "source": "Agile Brand Guide",
+      "url": "https://agilebrandguide.com/yesterdays-marketing-technology-ai-news-may-13-2026/",
+      "why_important": "Demonstrates the advancement of agentic AI in creative workflows, potentially reducing video production costs to 1% of traditional methods and enabling same-day creative iteration at scale."
+    }
+  ],
+  "key_trends": [
+    "AI chip market diversification beyond Nvidia dominance",
+    "Agentic AI moving from concept to production deployment",
+    "Autonomous payment and transaction capabilities for AI agents",
+    "AI-mediated advertising and discovery platforms",
+    "Space technology commercialization and growth"
+  ],
+  "market_impact": {
+    "ai_chip_stocks": "Intel and AMD gaining market share in AI accelerator space",
+    "advertising_tech": "OpenAI targeting $100B ad revenue by 2030 with ChatGPT Ads Manager",
+    "space_commercial": "Rocket Lab showing strong growth with 32% revenue increase",
+    "enterprise_ai": "Growing gap between AI deployment and organizational governance readiness"
+  }
+}
