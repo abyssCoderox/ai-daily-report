@@ -1,0 +1,129 @@
+{
+  "timestamp": "2026-05-14T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 15,
+  "news_items": [
+    {
+      "title": "Pennsylvania Launches Keystone AI + Quantum Factory",
+      "summary": "Pennsylvania has officially launched the Keystone AI + Quantum Factory, marking a significant investment in quantum computing and AI infrastructure development.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.instagram.com/p/DYRjnsvAISQ/",
+      "source_name": "Instagram - Quantum Insider",
+      "category": "quantum_computing",
+      "importance": "Major state-level investment in quantum computing infrastructure that could position Pennsylvania as a leader in emerging technologies."
+    },
+    {
+      "title": "SEALSQ Expands Post-Quantum Semiconductor Roadmap for Orbital Data Centers",
+      "summary": "SEALSQ announces expansion of post-quantum semiconductor technologies to support secure satellite applications and AI infrastructure in orbital data centers.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.investing.com/news/company-news/sealsq-positions-for-orbital-data-center-cybersecurity-market-93CH-4684847",
+      "source_name": "Investing.com",
+      "category": "semiconductor",
+      "importance": "Critical development in space-based cybersecurity and quantum-resistant semiconductors for future orbital infrastructure."
+    },
+    {
+      "title": "New 64-Qubit Quantum Chip Developed Using Superconducting Technology",
+      "summary": "A new 64-qubit quantum chip based on superconducting technology has been developed, representing a significant advancement in quantum computing hardware.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.instagram.com/reel/DYSAIVZDv7W/",
+      "source_name": "Instagram - Cadence",
+      "category": "quantum_computing",
+      "importance": "Hardware breakthrough that could accelerate practical quantum computing applications and improve computational capabilities."
+    },
+    {
+      "title": "US Researchers Break 40-Year Record in Quantum Defect Generation",
+      "summary": "US research team successfully generates 40,000 quantum defects in semiconductor crystals using electron beam technology, breaking a 40-year-old record.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://interestingengineering.com/news",
+      "source_name": "Interesting Engineering",
+      "category": "semiconductor",
+      "importance": "Scientific breakthrough in materials science that could enable new quantum technologies and semiconductor applications."
+    },
+    {
+      "title": "IonQ Opens 22,000-Square-Foot Quantum Computing Research Lab in Boulder",
+      "summary": "IonQ has opened a new quantum computing research facility in Boulder to advance semiconductor chip testing and trapped-ion quantum computer development.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://coloradobiz.com/ionq-opens-quantum-computing-research-lab-boulder/",
+      "source_name": "ColoradoBiz",
+      "category": "quantum_computing",
+      "importance": "Expansion of quantum computing research infrastructure that will drive innovation in trapped-ion technologies and chip testing."
+    },
+    {
+      "title": "China Develops Programmable Quantum Computing Prototype 'Jiuzhang 4.0'",
+      "summary": "Chinese scientists have developed a programmable quantum computing prototype called 'Jiuzhang 4.0' that sets a new world record for optical quantum computing.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.facebook.com/XinhuaNewsAgency/posts/chinese-scientists-have-developed-a-programmable-quantum-computing-prototype-cal/1414844910678039/",
+      "source_name": "Xinhua News Agency",
+      "category": "quantum_computing",
+      "importance": "International competition advancement in optical quantum computing with potential implications for global quantum leadership."
+    },
+    {
+      "title": "NVision Raises $55 Million to Expand Quantum MRI into Quantum Computing",
+      "summary": "Healthcare startup NVision secures $55 million funding to expand from quantum MRI technology into broader quantum computing applications for drug development.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.calcalistech.com/ctechnews/article/ryahirzkgg",
+      "source_name": "Calcalistech",
+      "category": "quantum_computing",
+      "importance": "Significant funding for quantum healthcare applications that could accelerate drug discovery and medical research."
+    },
+    {
+      "title": "Quantinuum Files for IPO",
+      "summary": "Quantinuum Inc., a Broomfield-based quantum computing company, has filed paperwork with regulators to go public with an initial public offering.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.facebook.com/LongmontTimesCall/posts/quantinuum-inc-a-broomfield-based-quantum-computing-company-filed-paperwork-with/1875258836823794/",
+      "source_name": "Longmont Times Call",
+      "category": "quantum_computing",
+      "importance": "Major milestone for quantum computing commercialization that could bring more investment and attention to the sector."
+    },
+    {
+      "title": "India Emerges as Global Leader in Micro-LED Display Technology",
+      "summary": "India establishes itself as a global leader in Micro-LED display technology through strategic partnerships between India and Korea in AI, semiconductor, and information technology sectors.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.instagram.com/p/DYSWenrDqRQ/",
+      "source_name": "Instagram",
+      "category": "semiconductor",
+      "importance": "India's emergence as a display technology leader could reshape global supply chains and reduce dependency on traditional manufacturing hubs."
+    },
+    {
+      "title": "Agiloft Astra™ Launches Enterprise Contract AI Platform",
+      "summary": "Agiloft introduces Astra™, an enterprise contract AI platform that provides advanced contract analytics at no cost, targeting teams that need AI-powered contract management solutions.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://techcrunch.com/sponsor/agiloft/we-built-agiloft-astra-to-make-enterprise-contract-ai-accessible-to-all-heres-why-thats-a-bigger-deal-than-it-sounds/",
+      "source_name": "TechCrunch",
+      "category": "artificial_intelligence",
+      "importance": "Democratizes enterprise AI contract management tools, potentially transforming how businesses handle legal and procurement processes."
+    },
+    {
+      "title": "AI Token Architecture Enables Real-Time AI Interactions",
+      "summary": "Thinking Machines introduces a new architecture that tokenizes time into continuous 200ms micro-turns, changing the paradigm from turn-based to real-time AI interactions.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.youtube.com/watch?v=DlCoCfTDzMI",
+      "source_name": "YouTube",
+      "category": "artificial_intelligence",
+      "importance": "Breakthrough in AI interaction models that could enable more natural and responsive AI systems for real-time applications."
+    },
+    {
+      "title": "Macquarie University Advances Convergent Research in AI and Quantum Computing",
+      "summary": "Research advances show AI, quantum computing, synthetic biology, RNA science, and chip engineering converging with extraordinary momentum to transform biological research.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.innovationnewsnetwork.com/macquarie-university-consilient-research-for-world-changing-impact/69440/",
+      "source_name": "Innovation News Network",
+      "category": "research",
+      "importance": "Convergence of multiple advanced technologies could accelerate scientific breakthroughs and enable transformative applications across industries."
+    }
+  ],
+  "categories_summary": {
+    "quantum_computing": 6,
+    "semiconductor": 3,
+    "artificial_intelligence": 2,
+    "research": 1
+  },
+  "key_trends": [
+    "Quantum computing infrastructure expansion with state-level investments",
+    "Advancements in quantum chip technology (64-qubit superconducting chips)",
+    "Growth in orbital and space-based quantum security applications",
+    "Convergence of AI and quantum technologies in research",
+    "International competition in quantum computing development",
+    "Commercialization of quantum technologies through IPOs and funding"
+  ]
+}
