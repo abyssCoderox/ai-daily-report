@@ -1,0 +1,42 @@
+[
+  {
+    "title": "Anthropic重新在Claude订阅中引入OpenClaw和第三方代理使用",
+    "summary": "Anthropic发布Claude Agent SDK信用积分，付费用户可分配给OpenClaw等第三方代理程序化使用，6月15日起实施。",
+    "publish_time": "2026-05-14T13:57:00Z",
+    "source_url": "https://venturebeat.com/technology/anthropic-reinstates-openclaw-and-third-party-agent-usage-on-claude-subscriptions-with-a-catch",
+    "site_name": "VentureBeat",
+    "why_important": "这对OpenClaw用户是个好消息，意味着可以再次使用Claude AI订阅来驱动这个热门的开源自主AI代理框架，提升了AI代理的互操作性。"
+  },
+  {
+    "title": "思科宣布裁员4000人同时加大对AI的投资",
+    "summary": "思科在公布强劲的第三季度财报后，宣布裁员近4000名员工，以重新调整业务重心向快速增长的人工智能市场转移。",
+    "publish_time": "2026-05-14T13:57:00Z",
+    "source_url": "https://www.bloomberg.com/news/articles/2026-05-13/cisco-gives-better-than-anticipated-forecast-plans-to-cut-jobs",
+    "site_name": "Bloomberg",
+    "why_important": "这反映了科技行业向AI转型的趋势，思科通过裁员重组来加大对AI基础设施的投资，可能会影响整个网络设备和AI市场的格局。"
+  },
+  {
+    "title": "微软LinkedIn计划裁员5%的员工",
+    "summary": "微软旗下的LinkedIn宣布计划裁员5%的员工，涉及工程、产品和营销团队，这是科技行业持续裁员潮的一部分。",
+    "publish_time": "2026-05-14T13:57:00Z",
+    "source_url": "https://www.businessinsider.com/linkedins-layoffs-come-with-operational-changes-memo-shows-2026-5",
+    "site_name": "Business Insider",
+    "why_important": "这显示了即使是像LinkedIn这样的大型科技公司也在进行组织调整，可能预示着科技行业整体面临的结构性变化。"
+  },
+  {
+    "title": "中国科技网发布多项重要科技进展",
+    "summary": "包括天舟十号货运飞船成功发射、我国首条深水油气装备工艺管线智能生产线完工、'北脑一号'开启高位截瘫患者临床试验等。",
+    "publish_time": "2026-05-14T13:57:00Z",
+    "source_url": "https://www.stdaily.com/web/gdxw/2026-05/11/content_514474.html",
+    "site_name": "中国科技网",
+    "why_important": "这些成就展示了中国在航天、智能制造和脑机接口等前沿科技领域的快速进展，体现了国家科技创新能力的提升。"
+  },
+  {
+    "title": "香港经济日报报道AI在建筑行业的应用",
+    "summary": "金门建筑利用Equinix和Logicalis打造智能工地，AI技术进驻地盘，提升建筑施工效率。",
+    "publish_time": "2026-05-14T13:57:00Z",
+    "source_url": "https://inews.hket.com/sran010/%E7%A7%91%E6%8A%80",
+    "site_name": "香港经济日报",
+    "why_important": "这展示了AI技术在不同行业的实际应用案例，特别是在传统建筑行业中的数字化转型实践。"
+  }
+]

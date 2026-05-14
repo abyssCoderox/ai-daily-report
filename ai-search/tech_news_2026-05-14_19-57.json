@@ -1,0 +1,107 @@
+{
+  "metadata": {
+    "search_time": "2026-05-14T19:57:00Z",
+    "search_period": "past_6_hours",
+    "total_results": 15,
+    "search_query": "科技新闻 最新 过去6小时"
+  },
+  "news_items": [
+    {
+      "title": "Waymo全无人驾驶杀入逾20个城市，第六代自驾技术成本减半",
+      "summary": "Waymo的第六代Waymo Driver全自动驾驶技术已在美国多个城市通过无人驾驶营运验证，未来有机会在伦敦及东京亮相，技术成本降低50%。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "TechRitual",
+      "url": "http://cn.engadget.com/2017/08/02/red-s-1-200-holographic-phone-features-snap-on-camera-accessori",
+      "importance": "Waymo在自动驾驶领域的重大突破，成本降低意味着商业化进程加速"
+    },
+    {
+      "title": "时间晶体或能简化超精确量子时钟的运作方式",
+      "summary": "新的数学研究表明，时间晶体这种特殊物质状态可能提供比传统量子时钟更稳定且简化的计时方法，在测量极短时间间隔方面具有更高精确性。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "Yahoo Tech",
+      "url": "http://cn.engadget.com/2017/08/02/red-s-1-200-holographic-phone-features-snap-on-camera-accessori",
+      "importance": "量子计时技术的重大理论突破，可能影响GPS导航、卫星通信等领域"
+    },
+    {
+      "title": "GitHub Copilot将改采Token计费模式，预计2026年6月生效",
+      "summary": "GitHub Copilot即将改变其计费模式，从现有模式转为按Token使用量计费，预计2026年6月开始实施。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com/3hk-%E9%9F%93%E5%9C%8B-sim-%E5%8D%A1%E5%AF%A6%E6%B8%AC-%E9%87%9C%E5%B1%B1%E9%8C%84%E5%BE%97-200032658.html",
+      "importance": "影响开发者工具使用成本，可能改变AI编程助手的商业模式"
+    },
+    {
+      "title": "Claude直接整合Photoshop、Premiere、Autodesk等创意软件",
+      "summary": "Claude AI开始直接集成到主流创意软件中，包括Photoshop、Premiere、Autodesk等专业工具，提升创作效率。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com/3hk-%E9%9F%93%E5%9C%8B-sim-%E5%8D%A1%E5%AF%A6%E6%B8%AC-%E9%87%9C%E5%B1%B1%E9%8C%84%E5%BE%97-200032658.html",
+      "importance": "AI与创意软件深度整合，标志AI辅助设计进入新阶段"
+    },
+    {
+      "title": "OpenAI首季营收未达目标，面临Google与Anthropic激烈竞争",
+      "summary": "OpenAI第一季度营收未能达到预期目标，面临来自Google和Anthropic等竞争对手的激烈市场竞争。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com/3hk-%E9%9F%93%E5%9C%8B-sim-%E5%8D%A1%E5%AF%A6%E6%B8%AC-%E9%87%9C%E5%B1%B1%E9%8C%84%E5%BE%97-200032658.html",
+      "importance": "反映AI大模型市场竞争加剧，头部企业面临商业化挑战"
+    },
+    {
+      "title": "Google推出\"Ask YouTube\"，影片搜索跃升为对话式体验",
+      "summary": "Google推出\"Ask YouTube\"功能，将传统的视频搜索转变为对话式体验，用户可以通过自然语言提问获取视频内容。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com/3hk-%E9%9F%93%E5%9C%8B-sim-%E5%8D%A1%E5%AF%A6%E6%B8%AC-%E9%87%9C%E5%B1%B1%E9%8C%84%E5%BE%97-200032658.html",
+      "importance": "视频搜索技术的重要革新，提升用户获取视频内容的效率"
+    },
+    {
+      "title": "OnePlus Ace 6至尊版发布，天玑9500 + 8600mAh，GPU光追性能暴增119%",
+      "summary": "OnePlus Ace 6至尊版正式发布，搭载天玑9500处理器，配备8600mAh大电池，GPU光线追踪性能提升119%。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com/3hk-%E9%9F%93%E5%9C%8B-sim-%E5%8D%A1%E5%AF%A6%E6%B8%AC-%E9%87%9C%E5%B1%B1%E9%8C%84%E5%BE%97-200032658.html",
+      "importance": "移动设备硬件性能再次突破，光追技术向移动端普及"
+    },
+    {
+      "title": "当贝智能鱼缸2S Ultra京东上架，AI识别鱼种自动调养护",
+      "summary": "当贝智能鱼缸2S Ultra在京东上架，配备AI识别技术，可自动识别鱼种并提供相应的养护调节。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com/3hk-%E9%9F%93%E5%9C%8B-sim-%E5%8D%A1%E5%AF%A6%E6%B8%AC-%E9%87%9C%E5%B1%B1%E9%8C%84%E5%BE%97-200032658.html",
+      "importance": "AI技术应用于智能家居领域，体现AIoT发展趋势"
+    },
+    {
+      "title": "小米REDMI测试12000mAh超大电池，行业最大容量手机将至",
+      "summary": "小米REDMI正在进行12000mAh超大容量电池测试，有望推出行业内容量最大的手机设备。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com/3hk-%E9%9F%93%E5%9C%8B-sim-%E5%8D%A1%E5%AF%A6%E6%B8%AC-%E9%87%9C%E5%B1%B1%E9%8C%84%E5%BE%97-200032658.html",
+      "importance": "移动设备续航能力的重要突破，解决用户电量焦虑"
+    },
+    {
+      "title": "玄戒O3曝光，小米神秘折叠屏新机代号lhasa，或命名MIX Fold 5",
+      "summary": "小米神秘折叠屏新机玄戒O3曝光，内部代号为lhasa，可能命名为MIX Fold 5，预计将带来新的折叠屏技术。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "cn.engadget.com",
+      "url": "https://cn.engadget.com/3hk-%E9%9F%93%E5%9C%8B-sim-%E5%8D%A1%E5%AF%A6%E6%B8%AC-%E9%87%9C%E5%B1%B1%E9%8C%84%E5%BE%97-200032658.html",
+      "importance": "折叠屏手机技术持续发展，小米在高端市场布局加深"
+    },
+    {
+      "title": "AI做出《咒术回战》宿儺大战五条悟，网赞已达新境界",
+      "summary": "使用TikTok母公司全新AI视频模型\"Seedance 2.0\"制作的《咒术回战》动画达到新高度，但仍有评论指出AI缺乏灵魂。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "Yahoo Tech",
+      "url": "http://cn.engadget.com/%E9%96%8B%E7%AE%B1%E8%A9%95%E5%83%B9-%E5%B0%8F%E7%B1%B3-redmi-note-15-144431145.html",
+      "importance": "AI生成内容质量显著提升，但仍面临艺术创作本质的讨论"
+    },
+    {
+      "title": "Nano Banana自制独一无二宠物挥春，一句Prompt令主子变身招财吉祥物",
+      "summary": "通过Gemini AI和特定Prompt，用户可以自制独特的宠物挥春或贺年图画，让宠物变身招财吉祥物。",
+      "publish_time": "2026-05-14T19:57:00Z",
+      "source": "Yahoo Tech",
+      "url": "http://cn.engadget.com/%E9%96%8B%E7%AE%B1%E8%A9%95%E5%83%B9-%E5%B0%8F%E7%B1%B3-redmi-note-15-144431145.html",
+      "importance": "AI个性化创作工具普及，降低用户创作门槛"
+    },
+    {
+      "title": "分析：没完没了的中美之争从贸易战到科技战，最终落点唯有科技兴国",
+      
