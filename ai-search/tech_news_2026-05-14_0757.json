@@ -1,0 +1,50 @@
+{
+  "metadata": {
+    "search_timestamp": "2026-05-14T07:57:00Z",
+    "time_range": "past_6_hours",
+    "total_results": 5,
+    "query": "latest technology news AI artificial intelligence breakthrough"
+  },
+  "news_items": [
+    {
+      "title": "AI News Digest #4: The Biggest AI Breakthroughs of Spring 2026",
+      "summary": "OpenAI launched GPT-5.5 Instant with 52.5% fewer hallucinations, RoboStrategy began trading on Nasdaq under ticker BOT for robotics exposure, and DeepSeek is raising $3-4B at $45-50B valuation with Chinese state backing.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.quantmcore.com/blog/ai-news-digest-4-the-biggest-ai-breakthroughs-of-spring-2026",
+      "source_name": "QuantmCore",
+      "why_important": "Major AI model improvements and significant funding moves in AI/robotics sector indicate rapid commercialization of AI technologies."
+    },
+    {
+      "title": "World First: Babies Screened for Blindness Using Artificial Intelligence",
+      "summary": "AI is being used for the first time to screen premature infants for retinopathy of prematurity in Mongolia, enabling immediate results instead of days-long waits for specialist review.",
+      "publish_time": "2026-05-14T00:00:00Z",
+      "source_url": "https://www.morningstar.com/news/pr-newswire/20260514dc59492/world-first-babies-screened-for-blindness-using-artificial-intelligence",
+      "source_name": "Morningstar/PRNewswire",
+      "why_important": "Demonstrates practical AI healthcare applications in underserved regions, potentially preventing childhood blindness at scale."
+    },
+    {
+      "title": "Rising AI Demand Lifts Cisco to Another Earnings and Revenue Beat",
+      "summary": "Cisco shares soared 20% after reporting Q3 earnings beat with $15.84B revenue (+12% YoY), driven by AI infrastructure demand, while planning to cut fewer than 4,000 jobs.",
+      "publish_time": "2026-05-13T20:29:00Z",
+      "source_url": "https://siliconangle.com/2026/05/13/rising-ai-demand-helps-cisco-another-earnings-revenue-beat/",
+      "source_name": "SiliconANGLE",
+      "why_important": "Shows strong enterprise demand for AI infrastructure and networking solutions, validating AI investment trends."
+    },
+    {
+      "title": "2026 Robotics Update: The Physical AI Ecosystem",
+      "summary": "Physical AI is scaling rapidly with new robotics foundation models like NVIDIA's GR00T N2 and Generalist AI's GEN-1 platform, moving beyond factory automation to dynamic real-world environments.",
+      "publish_time": "2026-05-13T00:00:00Z",
+      "source_url": "https://www.etftrends.com/artificial-intelligence-content-hub/robotics-update-physical-ai-ecosystem/",
+      "source_name": "ETF Trends",
+      "why_important": "Signals maturation of robotics from prototypes to commercial deployment, with new AI models enabling broader applications."
+    },
+    {
+      "title": "Global AI in Life Sciences Market Gearing Up for Outstanding Expansion",
+      "summary": "AI life sciences market expanding at ~20% CAGR through 2034, with major partnerships like Insilico Medicine-Eli Lilly ($2.75B) and NVIDIA-Lilly's $1B AI co-innovation lab for drug discovery.",
+      "publish_time": "2026-05-13T17:00:00Z",
+      "source_url": "https://finance.yahoo.com/news/global-ai-life-sciences-market-170000161.html",
+      "source_name": "Yahoo Finance/DelveInsight",
+      "why_important": "Highlights massive investment in AI-driven drug discovery and the growing economic impact of AI in healthcare."
+    }
+  ]
+}
