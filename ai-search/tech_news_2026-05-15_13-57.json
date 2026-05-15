@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-05-15T13:57:00Z",
+  "news_count": 5,
+  "selected_news": [
+    {
+      "title": "Waymo第六代自動駕駛技術成本減半，全面進入20多個城市",
+      "summary": "Waymo的第六代Waymo Driver全自動駕駛技術已在美國多個城市通過驗證，成本降低50%，未來將在倫敦和東京推出",
+      "publish_time": "2026-05-15T08:30:00Z",
+      "source_url": "https://hk.news.yahoo.com/waymo-%E5%85%A8%E7%84%A1%E4%BA%BA%E9%A7%95%E9%A7%9B%E6%AE%BA%E5%85%A5%E9%80%BE-20-%E5%80%8B%E5%9F%8E%E5%B8%82%EF%BC%8C%E7%AC%AC%E5%85%AD%E4%BB%A3%E8%87%AA%E9%A7%95%E6%8A%80%E8%A1%93%E6%88%90%E6%9C%AC%E6%B8%9B%E5%8D%8A-083021392.html",
+      "why_important": "標誌著全自動駕駛技術商業化應用的重大突破，成本降低將加速自動駕駛技術的普及"
+    },
+    {
+      "title": "西班牙研究團隊成功讀取Majorana量子比特信息",
+      "summary": "研究人員使用量子電容新技術成功讀取儲存在Majorana量子比特中的信息，這是拓撲量子計算領域的重要進展",
+      "publish_time": "2026-05-15T09:00:00Z",
+      "source_url": "https://hk.news.yahoo.com/%E8%A5%BF%E7%8F%AD%E7%89%99%E7%A0%94%E7%A9%B6%E4%BA%BA%E5%93%A1%E6%88%90%E5%8A%9F%E8%AE%80%E5%8F%96-majorana-%E9%87%8F%E5%AD%90%E6%AF%94%E7%89%B9%E4%B8%AD%E7%9A%84%E4%BF%A1%E6%81%AF-090027682.html",
+      "why_important": "為拓撲量子計算的實際應用奠定基礎，可能推動量子計算技術的突破性發展"
+    },
+    {
+      "title": "碳纖維實現無線控制，微型機械操作新突破",
+      "summary": "波蘭科學院研究團隊成功實現碳纖維的無線彎曲和伸展控制，為微機械和柔性機器人技術提供新方向",
+      "publish_time": "2026-05-15T17:00:00Z",
+      "source_url": "https://hk.news.yahoo.com/%E7%A2%B3%E7%BA%96%E7%B6%AD%E5%AF%A6%E7%8F%BE%E7%84%A1%E7%B7%9A%E6%8E%A7%E5%88%B6-%E5%BE%AE%E5%9E%8B%E6%A9%9F%E6%A2%B0%E6%93%8D%E4%BD%9C%E6%96%B0%E7%AA%81%E7%A0%B4-170047857.html",
+      "why_important": "開創了微型執行器的新方法，對醫療機器人、精密製造等領域具有重大應用價值"
+    },
+    {
+      "title": "時間晶體可能簡化超精確量子時鐘運作",
+      "summary": "新研究表明時間晶體可能提供比傳統量子時鐘更穩定且簡化的計時方法，特別是在測量極短時間間隔方面",
+      "publish_time": "2026-05-15T08:00:00Z",
+      "source_url": "https://hk.news.yahoo.com/%E6%99%82%E9%96%93%E6%99%B6%E9%AB%94%E6%88%96%E8%83%BD%E7%B0%A1%E5%8C%96%E8%B6%85%E7%B2%BE%E7%A2%BA%E9%87%8F%E5%AD%90%E6%99%82%E9%90%98%E7%9A%84%E9%81%8B%E4%BD%9C%E6%96%B9%E5%BC%8F-080038907.html",
+      "why_important": "可能徹底改變精密計時技術，對GPS、衛星通信和基礎物理研究產生深遠影響"
+    },
+    {
+      "title": "實時AI模擬技術助力零能源建築設計改革",
+      "summary": "新型實時AI模擬技術能夠動態顯示建築設計演變過程中的熱量、氣流和室內舒適度變化，幫助建築師做出更好決策",
+      "publish_time": "2026-05-15T18:00:00Z",
+      "source_url": "https://hk.news.yahoo.com/%E5%AF%A6%E6%99%82-ai-%E6%A8%A1%E6%93%AC%E6%8A%80%E8%A1%93%E5%8A%A9%E5%8A%9B%E9%9B%B6%E8%83%BD%E6%BA%90%E5%BB%BA%E7%AF%89%E8%A8%AD%E8%A8%88%E6%94%B9%E9%9D%A9-180028663.html",
+      "why_important": "推動建築行業向可持續發展轉型，有助於實現碳中和目標，具有重要的環保意義"
+    }
+  ]
+}
