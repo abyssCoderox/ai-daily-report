@@ -1,0 +1,84 @@
+{
+  "search_metadata": {
+    "timestamp": "2026-05-16T01:57:00Z",
+    "search_period": "past_6_hours",
+    "status": "partial_results",
+    "note": "搜索结果主要包含科技相关内容，但大部分不是过去6小时内的最新新闻"
+  },
+  "tech_news": [
+    {
+      "title": "2026人工智能投资新动向：算力、芯片与赋能机遇",
+      "summary": "文章分析了2026年AI投资趋势，包括HPC集群智能化升级、云服务商差异化竞争、新型算力架构探索等。专用AI芯片(ASIC)崛起，存内计算技术受关注，光学计算和量子计算处于前沿布局阶段。",
+      "source": "AI快讯网",
+      "url": "https://aitalo.com/index.php/2025/11/13/2026%E4%BA%BA%E5%B7%A5%E6%99%BA%E8%83%BD%E6%8A%95%E8%B5%84%E6%96%B0%E5%8A%A8%E5%90%91%EF%BC%9A%E7%AE%97%E5%8A%9B%E3%80%81%E8%8A%AF%E7%89%87%E4%B8%8E%E8%B5%8B%E8%83%BD%E6%9C%BA%E9%81%87",
+      "publish_time": "2025-11-13T21:16:00Z",
+      "relevance": "high"
+    },
+    {
+      "title": "台积电等台企2500亿美元投资美国芯片业，全球半导体格局迎来历史性重构",
+      "summary": "台湾地区半导体企业承诺向美国半导体产业投资2500亿美元，全球半导体产业链面临重大调整。这一投资将重塑全球半导体产业格局。",
+      "source": "AI工具导航",
+      "url": "https://www.brotu.com/taiwan-semiconductor-250-billion-us-investment-tsmc-global-supply-chain/",
+      "publish_time": "2026-01-01T00:00:00Z",
+      "relevance": "high"
+    },
+    {
+      "title": "AMD发布全新AI PC处理器：性能提升70%，2026年AI PC大战全面升级",
+      "summary": "AMD推出Ryzen AI 400系列处理器，为消费级和游戏市场提供更强AI算力，AI PC竞争进入白热化阶段。",
+      "source": "AI工具导航",
+      "url": "https://www.brotu.com/amd-ai-pc-processors-ryzen-ai-400-series-ces-2026-launch/",
+      "publish_time": "2026-01-01T00:00:00Z",
+      "relevance": "medium"
+    },
+    {
+      "title": "英伟达与AI芯片初创企业Groq达成技术授权协议",
+      "summary": "英伟达获得Groq低延迟芯片技术使用权，交易金额可能高达200亿美元，成为英伟达史上最大规模交易。",
+      "source": "IT之家",
+      "url": "http://www.ithome.com/tag/rengongzhinengxinpian",
+      "publish_time": "2026-01-01T00:00:00Z",
+      "relevance": "high"
+    },
+    {
+      "title": "特斯拉AI5芯片成功流片",
+      "summary": "马斯克宣布特斯拉AI芯片设计团队成功完成AI5芯片流片，该芯片将成为全球产量最大的AI芯片之一。",
+      "source": "Saiita科技博客",
+      "url": "https://www.saiita.com.cn/technology-consulting/%E6%AF%8F%E6%97%A5%E7%A7%91%E6%8A%80%E8%B5%84%E8%AE%AF-2026%E5%B9%B44%E6%9C%8816%E6%97%A5%EF%BC%9Aai%E5%AE%89%E5%85%A8%E6%A8%A1%E5%9E%8B%E3%80%81%E6%9C%BA%E5%99%A8%E4%BA%BA%E4%B8%8E%E8%8A%AF.html",
+      "publish_time": "2026-04-16T00:00:00Z",
+      "relevance": "high"
+    }
+  ],
+  "ai_chip_developments": [
+    {
+      "company": "特斯拉",
+      "development": "AI5芯片成功流片",
+      "impact": "将成为全球产量最大的AI芯片之一",
+      "timeline": "2026年"
+    },
+    {
+      "company": "AMD",
+      "development": "发布Ryzen AI 400系列处理器",
+      "impact": "AI PC性能提升70%",
+      "timeline": "2026年CES"
+    },
+    {
+      "company": "英伟达",
+      "development": "收购Groq技术授权",
+      "impact": "获得低延迟芯片技术，交易额或达200亿美元",
+      "timeline": "近期"
+    }
+  ],
+  "market_trends": [
+    {
+      "trend": "专用AI芯片(ASIC)崛起",
+      "description": "针对特定AI任务设计的ASIC在性能和能效上超越通用GPU"
+    },
+    {
+      "trend": "存内计算技术发展",
+      "description": "减少数据搬运延迟和能耗，对处理海量数据至关重要"
+    },
+    {
+      "trend": "垂直领域AI芯片蓝海",
+      "description": "针对自动驾驶、医疗影像等特定行业的专用AI芯片成为投资热点"
+    }
+  ]
+}
