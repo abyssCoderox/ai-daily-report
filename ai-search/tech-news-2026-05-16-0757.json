@@ -1,0 +1,55 @@
+{
+  "timestamp": "2026-05-16T07:57:00Z",
+  "report_period": "past_6_hours",
+  "total_articles": 5,
+  "articles": [
+    {
+      "title": "OpenAI Launches ChatGPT Personal Finance Integration with Bank Account Access",
+      "summary": "OpenAI has introduced new personal finance capabilities to ChatGPT that allow users to securely connect their bank accounts via Plaid, enabling direct financial data access and analysis through the AI assistant.",
+      "publish_time": "2026-05-15T19:30:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/15/openai-launches-chatgpt-for-personal-finance-will-let-you-connect-bank-accounts/",
+      "importance": "High - Represents significant expansion of AI into personal finance with direct banking integration"
+    },
+    {
+      "title": "OpenAI Executive Reorganization: Greg Brockman Takes Control of Product Strategy",
+      "summary": "OpenAI undergoes major leadership restructuring with Greg Brockman officially taking control of product strategy, consolidating ChatGPT, Codex, and developer API into unified product teams ahead of planned IPO.",
+      "publish_time": "2026-05-15T14:35:00Z",
+      "source": "WIRED",
+      "url": "https://www.wired.com/story/openai-reorg-greg-brockman-product/",
+      "importance": "High - Major organizational changes affecting AI industry leadership and product direction"
+    },
+    {
+      "title": "Google Teases Android-Based Googlebook at I/O",
+      "summary": "Google has officially teased its Android-based Googlebook device, signaling a potential entry into the laptop market with Android integration, though details remain limited ahead of next week's Google I/O.",
+      "publish_time": "2026-05-15T22:15:00Z",
+      "source": "Engadget",
+      "url": "https://www.engadget.com/",
+      "importance": "Medium - New hardware product announcement from major tech company"
+    },
+    {
+      "title": "Samsung Workers Threaten Largest Strike in Company History Over AI Impact",
+      "summary": "More than 45,000 Samsung workers are threatening to stage the largest strike in the conglomerate's history starting May 21, citing concerns over AI-driven job changes and working conditions in memory chip production.",
+      "publish_time": "2026-05-15T16:20:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/business/world-at-work/samsung-global-ai-boom-spurred-looming-strike-deep-divisions-2026-05-15/",
+      "importance": "High - Labor unrest reflecting broader concerns about AI impact on employment"
+    },
+    {
+      "title": "Silicon Valley Energy Crisis: Lake Tahoe Faces Power Shortage as AI Data Centers Strain Grid",
+      "summary": "Lake Tahoe's energy supplier agreement expires in 2027, forcing the region to find new power sources as AI data centers increasingly strain the electrical grid, highlighting the infrastructure challenges of AI expansion.",
+      "publish_time": "2026-05-15T20:45:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/15/silicon-valleys-vacationland-needs-a-new-energy-provider-just-as-ai-is-driving-prices-up/",
+      "importance": "Medium - Infrastructure challenges posed by AI growth affecting regional energy markets"
+    }
+  ],
+  "summary": "The past 6 hours have seen significant developments in AI integration with personal finance, major leadership changes at OpenAI, new hardware announcements from Google, labor tensions at Samsung over AI impacts, and growing infrastructure challenges related to AI energy consumption. These stories reflect the accelerating pace of AI adoption across consumer and enterprise sectors.",
+  "trends": [
+    "AI integration into consumer financial services",
+    "Enterprise AI organizational restructuring",
+    "Tech hardware convergence with AI platforms",
+    "Labor relations and workforce impacts of AI",
+    "Infrastructure challenges of AI scaling"
+  ]
+}
