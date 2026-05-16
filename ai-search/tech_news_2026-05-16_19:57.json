@@ -1,0 +1,41 @@
+{
+  "timestamp": "2026-05-16T19:57:00Z",
+  "news_count": 5,
+  "news": [
+    {
+      "title": "Intel测试为Apple生产芯片 可能打破台积电独占地位",
+      "summary": "Intel已开始为Apple低端iPhone、iPad和Mac芯片进行小批量生产测试，预计2027-2028年全面扩产。Apple将使用Intel 18A工艺，但仍保持台积电作为主要供应商（占比超90%）的多元供应链策略。",
+      "publish_time": "2026-05-16T19:24:24Z",
+      "source_url": "https://cn.engadget.com/intel-%E6%B8%AC%E8%A9%A6%E7%82%BA-apple-%E7%94%9F%E7%94%A2%E6%99%B6%E7%89%87-%E5%8F%AF%E8%83%BD%E6%89%93%E7%A0%B4%E5%8F%B0%E7%A9%8D%E9%9B%BB%E7%8D%A8%E4%BD%94%E5%9C%B0%E4%BD%8D-192424552.html",
+      "why_important": "打破Apple与台积电十年独家合作，可能重塑全球芯片制造格局，增强美国本土半导体制造能力"
+    },
+    {
+      "title": "Microsoft运用逾百AI代理找出Windows漏洞",
+      "summary": "Microsoft开发MDASH系统，整合超过100个专门AI代理来检测软件漏洞。该系统在2026年5月12日发现Windows网络与验证堆栈中16个新漏洞，其中4个为严重级别，包括tcpip.sys核心组件等远程代码执行漏洞。",
+      "publish_time": "2026-05-16T20:53:02Z",
+      "source_url": "https://cn.engadget.com/microsoft-%E9%81%8B%E7%94%A8%E9%80%BE%E7%99%BE-ai-%E4%BB%A3%E7%90%86-%E6%89%BE%E5%87%BA-205302583.html",
+      "why_important": "展示了AI在网络安全领域的重大突破，能够自动发现传统方法难以检测的关键漏洞"
+    },
+    {
+      "title": "微软全新Xbox云游戏控制器设计曝光",
+      "summary": "巴西监管机构Anatel泄露了微软内置Wi-Fi功能的新款Xbox控制器图片。该控制器体积更小，配备2.4GHz/5GHz Wi-Fi、蓝牙5.3、USB-C接口和500mAh内置电池，旨在降低云游戏延迟。",
+      "publish_time": "2026-05-16T20:13:42Z",
+      "source_url": "https://cn.engadget.com/%E5%BE%AE%E8%BB%9F%E5%85%A8%E6%96%B0-xbox-%E9%9B%B2%E7%AB%AF%E9%81%8A%E6%88%B2%E6%8E%A7%E5%88%B6%E5%99%A8-%E5%A4%96%E6%B4%A9%E5%9C%96%E7%89%87%E6%8F%AD%E7%A4%BA%E5%85%B6%E8%A8%AD%E8%A8%88-201342081.html",
+      "why_important": "标志着微软云游戏战略的重要进展，硬件创新将提升云游戏体验"
+    },
+    {
+      "title": "ChatGPT App开放远程遥控Codex编程功能",
+      "summary": "OpenAI发布重磅更新，将Codex AI编程工具与ChatGPT手机应用深度整合。用户可通过手机以自然语言向Codex下达指令，实时接收项目截图和测试结果，实现随时随地的开发管理。",
+      "publish_time": "2026-05-16T20:25:14Z",
+      "source_url": "https://cn.engadget.com/chatgpt-app-%E9%96%8B%E6%94%BE%E9%81%A0%E7%AB%AF%E9%81%99%E6%8E%A7-codex-%E7%B7%A8%E7%A8%8B%E5%8A%9F%E8%83%BD-202514920.html",
+      "why_important": "革命性地改变了编程工作流程，让开发者能够在移动设备上管理复杂的AI编程任务"
+    },
+    {
+      "title": "ASUS ExpertBook Ultra AI香港发布",
+      "summary": "ASUS在香港正式发布旗舰商务笔记本ExpertBook Ultra AI，采用航天级AZ31B镁锂合金，重量仅0.99kg，厚度10.9mm，通过军规耐用认证。搭载Intel Core Ultra处理器，最高64GB内存，PCIe Gen5 SSD读取速度达14090MB/s，配备14英寸3K OLED触控屏，峰值亮度1400尼特。",
+      "publish_time": "2026-05-16T16:50:10Z",
+      "source_url": "https://cn.engadget.com/asus-expertbook-ultra-ai-%E9%A6%99%E6%B8%AF%E7%99%BC%E4%BD%88-165010939.html",
+      "why_important": "代表了轻薄商务笔记本的技术巅峰，在便携性、性能和耐用性方面树立新标准"
+    }
+  ]
+}
