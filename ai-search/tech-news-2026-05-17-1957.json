@@ -1,0 +1,55 @@
+{
+  "timestamp": "2026-05-17T19:57:00Z",
+  "time_range": "past_6_hours",
+  "total_articles": 5,
+  "articles": [
+    {
+      "title": "Microsoft's Multi-Agent AI System Tops Anthropic's Mythos on Cybersecurity Benchmark",
+      "summary": "Microsoft's new vulnerability-scanning system, codenamed MDASH, scored 88.45% on the CyberGym benchmark, surpassing single-model systems from Anthropic and OpenAI by using more than 100 specialized AI agents across multiple models.",
+      "publish_time": "2026-05-17T08:00:00Z",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/microsofts-multi-agent-ai-system-tops-anthropics-mythos-on-cybersecurity-benchmark/",
+      "impact": "Significant advancement in AI-powered cybersecurity, demonstrating the superiority of multi-agent systems over single-model approaches for vulnerability detection."
+    },
+    {
+      "title": "Amazon Leo Aims to Double Pace for Satellite Broadband Network Rollout",
+      "summary": "One year after the start of its launch campaign, Amazon Leo is a 'couple of months' away from kicking off commercial service, with VP Chris Weber announcing plans to double the deployment pace.",
+      "publish_time": "2026-05-17T08:00:00Z",
+      "source": "GeekWire",
+      "url": "https://www.geekwire.com/2026/amazon-leo-double-pace-roll-out-satellite-broadband/",
+      "impact": "Major expansion in satellite internet competition, potentially challenging SpaceX's Starlink and traditional ISPs with faster deployment timelines."
+    },
+    {
+      "title": "Tech Layoffs Surge Past 100,000 in 2026",
+      "summary": "Technology sector layoffs have exceeded 100,000 by early May 2026, with Q1 seeing 81,700 cuts and an additional 20,000 in the first six weeks of Q2, according to Statista data from Layoffs.fyi.",
+      "publish_time": "2026-05-17T19:57:00Z",
+      "source": "AOL/KRON",
+      "url": "https://www.aol.com/news/number-tech-layoffs-2026-already-230237881.html",
+      "impact": "Reflects major industry shift toward AI adoption and post-pandemic restructuring, with companies like Cisco, Meta, Oracle, and Block citing AI-driven efficiency as primary motivation."
+    },
+    {
+      "title": "AI Voice Startup Vapi Hits $500M Valuation After Winning Amazon Ring",
+      "summary": "Vapi achieved a $500 million valuation after Amazon Ring selected its AI voice platform over 40 competing rivals, marking a significant validation of the startup's technology.",
+      "publish_time": "2026-05-17T08:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/12/vapi-hits-500m-valuation-as-amazon-ring-chose-its-ai-platform-over-40-rivals/",
+      "impact": "Demonstrates growing market confidence in specialized AI voice technology and the competitive landscape for enterprise AI solutions."
+    },
+    {
+      "title": "Amazon Launches 30-Minute Delivery Across the US",
+      "summary": "Amazon has expanded its ultra-fast delivery service to cover the entire United States, significantly increasing competition in the rapid delivery market.",
+      "publish_time": "2026-05-17T08:00:00Z",
+      "source": "TechCrunch",
+      "url": "https://techcrunch.com/2026/05/12/amazon-expands-30-minute-delivery-across-the-u-s/",
+      "impact": "Major shift in e-commerce logistics expectations, potentially forcing competitors to accelerate their own delivery capabilities and reshape consumer expectations nationwide."
+    }
+  ],
+  "key_trends": [
+    "AI-driven cybersecurity advances with multi-agent systems",
+    "Satellite internet infrastructure expansion accelerating",
+    "Continued tech industry restructuring driven by AI adoption",
+    "Voice AI technology gaining enterprise validation",
+    "Ultra-fast delivery becoming standard in e-commerce"
+  ],
+  "market_implications": "The technology sector is experiencing significant transformation with AI adoption driving both innovation and workforce changes. Companies are investing heavily in AI capabilities while restructuring operations, leading to increased efficiency but also substantial job cuts. The competitive landscape is intensifying across multiple sectors including cybersecurity, satellite communications, and e-commerce logistics."
+}
