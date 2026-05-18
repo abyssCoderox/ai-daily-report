@@ -1,0 +1,134 @@
+{
+  "timestamp": "2026-05-18T13:57:00Z",
+  "time_range": "past_6_hours",
+  "total_articles": 14,
+  "articles": [
+    {
+      "title": "AI+ Power 2026 Explores How AI Drives Real Business Value",
+      "summary": "Hong Kong's premier AI exhibition returns June 4-5, 2026, featuring major tech companies like Microsoft, Adobe, and BytePlus to showcase enterprise AI applications and bridge the deployment gap.",
+      "publish_time": "2026-05-18T09:45:00Z",
+      "source": "Caledonian Record",
+      "url": "https://www.caledonianrecord.com/beyond-the-hype-ai-power-2026-explores-how-ai-drives-real-business-value/article_6f198762-cc3e-5f54-8da8-27a96f7ed7eb.html",
+      "category": "AI Business"
+    },
+    {
+      "title": "State Privacy and AI Law Updates Across US States",
+      "summary": "Colorado repeals and replaces its AI Act, Georgia enacts new chatbot legislation, while California and New York advance multiple AI-related bills in latest regulatory developments.",
+      "publish_time": "2026-05-18T00:00:00Z",
+      "source": "Troutman Privacy",
+      "url": "https://www.troutmanprivacy.com/2026/05/proposed-state-privacy-and-ai-law-update-may-18-2026/",
+      "category": "AI Regulation"
+    },
+    {
+      "title": "Therapists Increasingly Adopt AI for Session Recording and Notes",
+      "summary": "A growing number of mental health professionals are using AI tools to record therapy sessions and generate clinical notes, raising discussions about privacy and efficiency in healthcare.",
+      "publish_time": "2026-05-18T03:45:00Z",
+      "source": "NPR",
+      "url": "https://www.wwno.org/npr-news/2026-05-18/a-growing-number-of-therapists-are-using-ai-to-record-sessions-and-make-notes",
+      "category": "AI Healthcare"
+    },
+    {
+      "title": "Meta's Layoffs Highlight AI-Driven Corporate Restructuring",
+      "summary": "Meta announces significant layoffs while increasing AI investments by up to $10 billion, reflecting broader tech industry trend of using AI efficiency gains to offset workforce reductions.",
+      "publish_time": "2026-05-18T00:00:00Z",
+      "source": "CNBC",
+      "url": "https://www.cnbc.com/2026/05/18/metas-layoffs-starting-this-week-underscore-zuckerbergs-ai-reality-.html",
+      "category": "AI Business"
+    },
+    {
+      "title": "Pope Leo to Address AI Ethics in First Major Document",
+      "summary": "The Vatican announces Pope Leo's first in-depth document will address artificial intelligence challenges and ethical considerations, marking significant religious engagement with AI issues.",
+      "publish_time": "2026-05-18T00:00:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/world/europe/pope-leo-issue-first-major-work-addressing-ai-may-25-2026-05-18/",
+      "category": "AI Ethics"
+    },
+    {
+      "title": "Salesforce CEO's AI Strategy Sparks Industry Discussion",
+      "summary": "Marc Benioff's vision for a future with reduced engineering hiring due to AI capabilities generates buzz about the transformation of software development roles.",
+      "publish_time": "2026-05-18T00:00:00Z",
+      "source": "Economic Times",
+      "url": "https://m.economictimes.com/news/new-updates/salesforce-planning-a-future-without-new-engineers-ceo-marc-benioffs-ai-strategy-sparks-industry-buzz/articleshow/131170650.cms",
+      "category": "AI Business"
+    },
+    {
+      "title": "AI Reveals Hidden Magnetic Chaos in Electric Motors",
+      "summary": "Researchers develop physics-based AI framework that explains temperature-dependent magnetization reversal, potentially leading to more efficient electric motors and energy savings.",
+      "publish_time": "2026-05-17T21:14:33Z",
+      "source": "ScienceDaily",
+      "url": "http://www.sciencedaily.com/releases/2026/05/260517211433.htm",
+      "category": "AI Research"
+    },
+    {
+      "title": "TSMC Faces First Real Competition as AI Reshapes Chip Industry",
+      "summary": "Taiwan Semiconductor faces unprecedented competition from Intel and Samsung as AI-driven demand transforms the semiconductor manufacturing landscape.",
+      "publish_time": "2026-05-18T00:00:00Z",
+      "source": "DigiTimes",
+      "url": "https://www.digitimes.com/news/a20260518PD213/tsmc-intel-samsung-ic-manufacturing-production.html",
+      "category": "Semiconductors"
+    },
+    {
+      "title": "Apple Loses Chip Supply Dominance to Nvidia and Google",
+      "summary": "The AI boom has disrupted traditional chip supply dynamics, with Apple now competing against other US tech giants for semiconductor resources.",
+      "publish_time": "2026-05-18T00:00:00Z",
+      "source": "Korea JoongAng Daily",
+      "url": "https://koreajoongangdaily.joins.com/news/2026-05-18/business/industry/Oncedominant-over-chip-suppliers-Apple-sidelined-by-Nvidia-Google/2593060",
+      "category": "Semiconductors"
+    },
+    {
+      "title": "AI Reshapes Global Semiconductor Manufacturing Conference Agenda",
+      "summary": "The 2026 Compound Semiconductor Manufacturing Technology Conference shifts focus to AI-driven manufacturing processes and next-generation chip technologies.",
+      "publish_time": "2026-05-18T00:00:00Z",
+      "source": "Heisener",
+      "url": "https://www.heisener.com/IndustryTrend/AI-Reshapes-the-Global-Semiconductor-Landscape",
+      "category": "Semiconductors"
+    },
+    {
+      "title": "US National Labs Seek Newcomers for AI Supercomputing",
+      "summary": "As the chip industry prioritizes AI applications, US national laboratories are turning to new semiconductor companies for advanced supercomputing capabilities.",
+      "publish_time": "2026-05-18T02:01:00Z",
+      "source": "Reuters",
+      "url": "https://www.reuters.com/technology/chip-industry-chases-ai-us-national-labs-look-newcomers-supercomputers-2026-05-18/",
+      "category": "Semiconductors"
+    },
+    {
+      "title": "Data Center Chip Market Projected to Reach $687B by 2032",
+      "summary": "The data center chip market shows robust growth potential, driven by increasing adoption of FPGA and custom accelerators in data center infrastructure.",
+      "publish_time": "2026-05-18T00:00:00Z",
+      "source": "GlobeNewswire",
+      "url": "https://www.globenewswire.com/news-release/2026/05/18/3296379/0/en/Trends-Strategies-Shaping-the-283-Billion-Data-Center-Chips-Market-2026-2032-Increasing-Adoption-of-FPGA-and-Custom-Accelerators-in-Data-Centers-Present-Lucrative-Opportunities.html",
+      "category": "Semiconductors"
+    },
+    {
+      "title": "Tech Giants Headline Hong Kong AI+ Power 2026 Event",
+      "summary": "Major technology companies including Microsoft, Adobe, BytePlus, HP, and iFLYTEK are set to showcase commercial AI applications at the sixth edition of AI+ Power in Hong Kong.",
+      "publish_time": "2026-05-18T00:00:00Z",
+      "source": "Caledonian Record",
+      "url": "https://www.caledonianrecord.com/beyond-the-hype-ai-power-2026-explores-how-ai-drives-real-business-value/article_6f198762-cc3e-5f54-8da8-27a96f7ed7eb.html",
+      "category": "AI Business"
+    },
+    {
+      "title": "Semiconductor Stocks Show Aggressive Expansion Plans",
+      "summary": "Indian semiconductor companies like Kaynes Technology highlight operational pilot lines and expansion strategies amid growing global demand for semiconductor manufacturing capacity.",
+      "publish_time": "2026-05-18T00:00:00Z",
+      "source": "Equitymaster",
+      "url": "https://www.equitymaster.com/detail.asp?date=05/18/2026&story=10&title=4-Semiconductor-Stocks-with-Aggressive-Expansion-Plans&utm_source=homepage&utm_medium=website&utm_campaign=top-articles&utm_content=link",
+      "category": "Semiconductors"
+    }
+  ],
+  "categories_summary": {
+    "AI Business": 4,
+    "Semiconductors": 6,
+    "AI Regulation": 1,
+    "AI Healthcare": 1,
+    "AI Ethics": 1,
+    "AI Research": 1
+  },
+  "key_trends": [
+    "AI-driven corporate restructuring and workforce optimization",
+    "Semiconductor industry transformation due to AI demand",
+    "Increasing AI regulation and policy development",
+    "AI applications expanding into healthcare and therapy",
+    "Growing investment in AI infrastructure and data centers"
+  ]
+}
