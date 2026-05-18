@@ -1,0 +1,86 @@
+{
+  "timestamp": "2026-05-18T07:57:00Z",
+  "news_count": 10,
+  "results": [
+    {
+      "title": "科技 - Yahoo新聞",
+      "url": "http://cn.engadget.com/%E9%96%8B%E7%AE%B1%E8%A9%95%E5%83%B9-%E5%B0%8F%E7%B1%B3-redmi-note-15-144431145.html",
+      "snippet": "Waymo 全无人车驾驶杀入逾 20 个城市，第六代自驾技术成本减半。小米 REDMI Note 15 Pro 5G 手机：2亿像素配 6580mAh 大电池。西班牙研究人员成功读取 Majorana 量子比特中的信息。",
+      "siteName": "cn.engadget.com",
+      "score": 0.6139086,
+      "publish_time": "2026-05-18T07:57:00Z"
+    },
+    {
+      "title": "焦点：日本因战时劳工裁决纠纷将收紧对韩国科技材料出口限制 | Reuters",
+      "url": "https://www.reuters.com/article/world/china/-idUSKCN1TW1K0",
+      "snippet": "日本经济产业省表示，日本将收紧对韩国智能手机显示器和芯片所用高科技材料的出口限制，这与韩国对战时强征劳工的裁决引发两国争端有关。出口限制将自7月4日起生效，影响三星电子、SK海力士等韩国大型科技企业。",
+      "siteName": "www.reuters.com",
+      "score": 0.4703723,
+      "publish_time": "2026-05-18T07:57:00Z"
+    },
+    {
+      "title": "《科技产业分析》无敌光环逐渐黯淡,获利预估料将向下调整 | Reuters",
+      "url": "https://jp.reuters.com/article/idUSST0526485/",
+      "snippet": "分析师说,下周包括微软、IBM和英特尔在内的科技界巨头将开始陆续公布财报,投资人应做好心理准备,也许有些软体或硬体大公司公布的结果将令人失望。过去一周已有同侪公布获利预警,包括超微半导体(AMD)、应用材料及Informatica。",
+      "siteName": "jp.reuters.com",
+      "score": 0.46672463,
+      "publish_time": "2026-05-18T07:57:00Z"
+    },
+    {
+      "title": "欢迎来到科技"解码" - 科技解码",
+      "url": "https://spotlight.bloomberg.com/story/tech-decoded-cn/page/2",
+      "snippet": "自动化、人工智能和机器学习将改变金融服务行业。这些技术正在飞速发展并推动投资活动，同时在数据分析，投资策略，工作流程自动化等领域影响决策。",
+      "siteName": "spotlight.bloomberg.com",
+      "score": 0.3971204,
+      "publish_time": "2026-05-18T07:57:00Z"
+    },
+    {
+      "title": "从社交媒体和新闻数据中挖掘价值 - 科技解码",
+      "url": "https://spotlight.bloomberg.com/story/tech-decoded-cn/page/6",
+      "snippet": "社交媒体反映的社会舆情将开启一个新的机遇，社交媒体上的内容或许能够提供预测未来市场动态的线索。投资者发现情绪指标是一个待开发的新领域。",
+      "siteName": "spotlight.bloomberg.com",
+      "score": 0.37882724,
+      "publish_time": "2026-05-18T07:57:00Z"
+    },
+    {
+      "title": "分析：没完没了的中美之争从贸易战到科技战 最终落点唯有科技兴国 | Reuters",
+      "url": "https://www.reuters.com/article/world/china/--idUSKCN251101",
+      "snippet": "中国发布新时期促进集成电路产业和软件产业高质量发展的若干政策，这是在2000年和2011年分别发布鼓励和进一步鼓励上述产业若干政策后，再次发布政策支持力度更大的举措。",
+      "siteName": "www.reuters.com",
+      "score": 0.37188962,
+      "publish_time": "2026-05-18T07:57:00Z"
+    },
+    {
+      "title": "重发-《路透晚报》--6月2日日间新闻摘要（中港台） | Reuters",
+      "url": "https://www.reuters.com/article/markets/asia/-62-idUSL3S1IY3JN",
+      "snippet": "中国国家开发银行国际金融局局长梁惠江称，将坚持项目的自偿性和可持续发展原则，成熟一个运作一个，拟通过三年左右时间落实2,500亿元人民币一带一路专项贷款。",
+      "siteName": "www.reuters.com",
+      "score": 0.324375,
+      "publish_time": "2026-05-18T07:57:00Z"
+    },
+    {
+      "title": "从风险分析到回报率预测，机器学习正引导投资 - 科技解码",
+      "url": "https://spotlight.bloomberg.com/story/tech-decoded-cn/page/3",
+      "snippet": "机器学习对金融业有重要影响并带动这些行业显著增长。从竞争对手方风险分析到优化执行，从预测破产风险到预测回报率、利润或失业数据。机器学习的影响无处不在。",
+      "siteName": "spotlight.bloomberg.com",
+      "score": 0.28294894,
+      "publish_time": "2026-05-18T07:57:00Z"
+    },
+    {
+      "title": "《焦点》看新闻给钱：趣头条独辟蹊径招揽读者 | Reuters",
+      "url": "https://www.reuters.com/article/world/china/-idUSKBN1O30A6",
+      "snippet": "腾讯支持的趣头条藉着不寻常的付款给点阅客户的策略，每天吸引2,000万的读者上门。排行榜显示，收入最高的用户已拿到超过50,000美元。",
+      "siteName": "www.reuters.com",
+      "score": 0.28011197,
+      "publish_time": "2026-05-18T07:57:00Z"
+    },
+    {
+      "title": "（新闻稿）汤森路透预测2025年十大创新 | Reuters",
+      "url": "https://www.reuters.com/article/world/china/2025-idUSKBN0FD07Q",
+      "snippet": "太阳能将成为地球上的主要能源，量子传输的测试将广泛开展，任何地方的任何事物都将数字化，I型糖尿病将可预防，出生时进行DNA测绘将成为常规检测。",
+      "siteName": "www.reuters.com",
+      "score": 0.27454874,
+      "publish_time": "2026-05-18T07:57:00Z"
+    }
+  ]
+}
