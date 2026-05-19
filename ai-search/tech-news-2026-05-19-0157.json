@@ -1,0 +1,94 @@
+{
+  "timestamp": "2026-05-19T01:57:00Z",
+  "search_period": "past_6_hours",
+  "total_results": 10,
+  "news_items": [
+    {
+      "title": "WWDC 2026 Is Official and Apple's AI Plans Are Massive",
+      "summary": "Apple has officially sent out invites for WWDC 2026, and the artwork may have just teased the biggest Siri redesign ever. In this video, we break down the",
+      "url": "https://www.youtube.com/watch?v=7ONbQ-jpl2E",
+      "source": "www.youtube.com",
+      "relevance_score": 0.9403531,
+      "category": "technology"
+    },
+    {
+      "title": "Video. Latest news bulletin | May 18th, 2026 – Midday | Euronews",
+      "summary": "Latest news bulletin | May 18th, 2026 – Midday. Catch up with the most important stories from around Europe and beyond this May 18th, 2026 - latest news, breaking news, World, Business, Entertainment, Politics, Culture, Travel.",
+      "url": "https://www.euronews.com/video/2026/05/18/latest-news-bulletin-may-18th-2026-midday",
+      "source": "www.euronews.com",
+      "relevance_score": 0.83548355,
+      "category": "general_news"
+    },
+    {
+      "title": "Technology | Latest News & Updates | BBC News",
+      "summary": "Latest technology news including: students learning phone usage, Ukrainian drone warfare, Moscow drone attack, seaweed spreading drones, robot clothing manufacturing, hedgehog tracking with satellites and AI, Musk loses OpenAI court battle, Indian comedian scam, Waymo driverless car glitch.",
+      "url": "https://www.bbc.co.uk/news/technology",
+      "source": "www.bbc.co.uk",
+      "relevance_score": 0.56985265,
+      "category": "technology"
+    },
+    {
+      "title": "TechNewsWorld - Technology News and Information",
+      "summary": "Tech news, reviews and analysis of computing, enterprise IT, cybersecurity, mobile technology, cloud computing, tech industry trends, how-tos,",
+      "url": "https://www.technewsworld.com/",
+      "source": "www.technewsworld.com",
+      "relevance_score": 0.32252598,
+      "category": "technology"
+    },
+    {
+      "title": "Techmeme",
+      "summary": "Techmeme technology news aggregator featuring top stories from major tech publications including CNBC, Wall Street Journal, The Verge, Bloomberg, and others covering AI, startups, and tech industry developments.",
+      "url": "https://www.techmeme.com/",
+      "source": "www.techmeme.com",
+      "relevance_score": 0.3090237,
+      "category": "technology"
+    },
+    {
+      "title": "Engadget | Technology News & Expert Reviews",
+      "summary": "Latest tech news including: X platform post restrictions, Sony PS Plus price increases, Google I/O 2026 keynote preview, Sony class action lawsuit, OpenAI ChatGPT Plus Malta offer, Mars Perseverance rover updates, NASA Psyche spacecraft mission.",
+      "url": "https://www.engadget.com/",
+      "source": "www.engadget.com",
+      "relevance_score": 0.19806418,
+      "category": "technology"
+    },
+    {
+      "title": "Monday, May 18, 2026 - AlbertMohler.com",
+      "summary": "Discussion on technology addiction concerns, children and teenagers connected 24/7, Christian parenting challenges in the digital age, and broader societal implications of constant connectivity.",
+      "url": "https://albertmohler.com/2026/05/18/briefing-5-18-26/",
+      "source": "albertmohler.com",
+      "relevance_score": 0.034880888,
+      "category": "society"
+    },
+    {
+      "title": "'Massive win for OpenAI,' now has road to IPO: Big Technology's Kantrowitz",
+      "summary": "Analysis of OpenAI's legal victory and its implications for the company's potential IPO, featuring commentary on the business and financial aspects of the AI industry.",
+      "url": "https://www.cnbc.com/video/2026/05/18/massive-win-for-openai-now-has-road-to-ipo-big-technologys-kantrowitz.html",
+      "source": "www.cnbc.com",
+      "relevance_score": 0.029760094,
+      "category": "business"
+    },
+    {
+      "title": "Rewind Alex Palou's Run to Indy 500 Pole",
+      "summary": "INDYCAR racing content featuring Alex Palou's performance at the Indianapolis 500, including practice highlights and racing updates.",
+      "url": "http://www.indycar.com/videos/2026/05/05-18-rewind-alex-palou-s-run-to-indy-500-pole",
+      "source": "www.indycar.com",
+      "relevance_score": 0.005099818,
+      "category": "sports"
+    },
+    {
+      "title": "Which rookie will have biggest impact in 2026? | 'GMFB'",
+      "summary": "NFL Network's Good Morning Football segment discussing which rookie players are expected to have the biggest impact in the 2026 NFL season.",
+      "url": "https://www.nfl.com/videos/which-rookie-will-have-biggest-impact-in-2026-gmfb",
+      "source": "www.nfl.com",
+      "relevance_score": 0.0020829707,
+      "category": "sports"
+    }
+  ],
+  "metadata": {
+    "search_query": "latest technology news 2026",
+    "search_depth": "advanced",
+    "topic": "general",
+    "provider": "tavily",
+    "response_time_ms": 5180
+  }
+}
